@@ -7,39 +7,40 @@
   --secondary: #1a4fa0;
   --tertiary: #2d6fd6;
   --highlight: rgba(26, 79, 160, 0.06);
-
-  --bodyFont: "Noto Sans JP", sans-serif;
-  --headerFont: "Noto Serif JP", serif;
-  --codeFont: "JetBrains Mono", monospace;
-
-  /* 画面フル活用 */
+  --bodyFont: "Meiryo", "メイリオ", "Noto Sans JP", sans-serif;
+  --headerFont: "Meiryo", "メイリオ", "Noto Sans JP", sans-serif;
+  --codeFont: "Consolas", monospace;
   --lineWidth: 100%;
   --fullPageWidth: 100%;
-  --contentPadding: 3rem 5vw;
 }
 
-/* ===== リセット ===== */
 * { box-sizing: border-box; }
-
-html { font-size: 18px; }
+html { font-size: 17px; }
 
 body {
   background: #ffffff;
   color: var(--dark);
   font-family: var(--bodyFont);
   line-height: 1.9;
-  letter-spacing: 0.01em;
   -webkit-font-smoothing: antialiased;
 }
 
-/* ===== レイアウト全体 ===== */
+/* 右サイドバー完全非表示 */
+#quartz-body .sidebar.right,
+.right.sidebar {
+  display: none !important;
+  width: 0 !important;
+}
+
+/* レイアウト：左サイドバー＋メインのみ */
 #quartz-body {
   display: grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: 260px 1fr;
+  grid-template-rows: auto;
   min-height: 100vh;
 }
 
-/* サイドバー */
+/* 左サイドバー */
 #quartz-body .sidebar.left {
   background: var(--light);
   border-right: 1px solid var(--lightgray);
@@ -48,92 +49,94 @@ body {
   top: 0;
   height: 100vh;
   overflow-y: auto;
-  font-size: 0.85rem;
+  grid-column: 1;
+  grid-row: 1 / 99;
 }
 
 /* ロゴ */
 .sidebar .quartz-logo,
-a.internal.alias {
-  font-family: var(--headerFont);
-  font-size: 1.3rem;
+.sidebar a[href="/"] {
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--secondary) !important;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.05em;
   display: block;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   text-decoration: none !important;
 }
 
 /* エクスプローラー */
-.explorer button,
-.explorer .folder-title {
-  font-size: 0.83rem;
+.explorer a {
+  color: var(--darkgray);
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+.explorer a:hover { color: var(--secondary); }
+.explorer button, .explorer .folder-title {
+  font-size: 0.84rem;
   font-weight: 500;
   color: var(--darkgray);
 }
-.explorer a {
-  color: var(--darkgray);
-  font-size: 0.83rem;
-  line-height: 1.6;
-}
-.explorer a:hover { color: var(--secondary); }
 
-/* ===== メインコンテンツ ===== */
+/* メインコンテンツ：フル幅 */
 .center {
-  padding: var(--contentPadding);
-  max-width: 1400px;
+  grid-column: 2;
+  padding: 3rem 6vw;
   width: 100%;
+  max-width: 100%;
 }
 
-article {
-  width: 100%;
-}
+article { width: 100%; }
 
-/* ===== タイポグラフィ ===== */
+/* タイトルH1 */
 h1 {
-  font-family: var(--headerFont);
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   font-weight: 700;
   color: var(--dark);
   border-bottom: 3px solid var(--secondary);
-  padding-bottom: 0.6rem;
+  padding-bottom: 0.5rem;
   margin-top: 0;
-  margin-bottom: 2rem;
-  line-height: 1.35;
-  letter-spacing: 0.02em;
-}
-
-h2 {
-  font-family: var(--headerFont);
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: var(--dark);
-  margin-top: 3rem;
-  margin-bottom: 1.2rem;
-  padding-left: 1rem;
-  border-left: 4px solid var(--secondary);
+  margin-bottom: 0.5rem;
   line-height: 1.4;
 }
 
+/* 日付・メタ情報 */
+.meta, .content-meta {
+  font-size: 0.82rem;
+  color: var(--gray);
+  margin-bottom: 2rem;
+}
+
+/* H2 */
+h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--dark);
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-left: 0.9rem;
+  border-left: 4px solid var(--secondary);
+}
+
+/* H3 */
 h3 {
   font-size: 1.05rem;
   font-weight: 700;
   color: var(--darkgray);
-  margin-top: 2rem;
+  margin-top: 1.8rem;
 }
 
 p {
   font-size: 1rem;
   margin-bottom: 1.2rem;
-  max-width: 900px;
 }
 
-/* ===== テーブル ===== */
+/* テーブル */
 table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.92rem;
-  margin: 1.5rem 0 2.5rem;
+  margin: 1.2rem 0 2rem;
 }
 
 th {
@@ -141,76 +144,54 @@ th {
   color: var(--darkgray);
   font-weight: 700;
   text-align: left;
-  padding: 0.8rem 1.2rem;
+  padding: 0.75rem 1.2rem;
   border-bottom: 2px solid var(--lightgray);
   font-size: 0.82rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
   white-space: nowrap;
 }
 
 td {
-  padding: 0.8rem 1.2rem;
+  padding: 0.75rem 1.2rem;
   border-bottom: 1px solid var(--lightgray);
   vertical-align: top;
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 tr:hover td { background: var(--highlight); }
 tr:last-child td { border-bottom: none; }
 
-/* ===== リンク ===== */
-a {
-  color: var(--secondary);
-  text-decoration: none;
-}
-a:hover { opacity: 0.7; text-decoration: underline; }
+/* リンク */
+a { color: var(--secondary); text-decoration: none; }
+a:hover { opacity: 0.75; text-decoration: underline; }
 
-/* ===== パンくず ===== */
+/* パンくず */
 .breadcrumb-container {
   font-size: 0.8rem;
   color: var(--gray);
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
-/* ===== タグ ===== */
+/* タグ */
 .tag a {
   background: var(--light);
   border: 1px solid var(--lightgray);
   color: var(--darkgray);
   border-radius: 3px;
-  padding: 0.2rem 0.6rem;
+  padding: 0.15rem 0.55rem;
   font-size: 0.78rem;
-  white-space: nowrap;
 }
 
-/* ===== 右サイドバー（目次） ===== */
-#quartz-body .sidebar.right {
-  padding: 2rem 1.5rem;
-  font-size: 0.82rem;
-}
-
-.toc a {
-  color: var(--gray);
-  line-height: 1.7;
-  display: block;
-}
-.toc a:hover { color: var(--secondary); }
-
-/* ===== ダークモード完全無効化 ===== */
+/* ダークモード完全無効 */
 @media (prefers-color-scheme: dark) {
   body { background: #ffffff !important; color: var(--dark) !important; }
-  #quartz-body .sidebar.left { background: var(--light) !important; }
+  .sidebar.left { background: var(--light) !important; }
 }
 
-/* ===== レスポンシブ ===== */
-@media (max-width: 900px) {
+/* スマホ */
+@media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
-  .sidebar.left {
-    height: auto;
-    position: static;
-    border-right: none;
-    border-bottom: 1px solid var(--lightgray);
-  }
+  .sidebar.left { display: none; }
   .center { padding: 1.5rem; }
-  h1 { font-size: 1.7rem; }
+  h1 { font-size: 1.6rem; }
 }
