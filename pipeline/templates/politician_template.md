@@ -10,8 +10,6 @@ last_updated: "{{last_updated}}"
 tags: [{{tags}}]
 ---
 
-# {{name_ja}}（{{name_kana}}）
-
 ## 基本情報
 
 | 項目 | 内容 | 出典 | 信頼度 |

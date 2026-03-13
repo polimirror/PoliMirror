@@ -1,3 +1,175 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root {
+  --light: #f7f7f5;
+  --lightgray: #e8e8e4;
+  --gray: #9a9a94;
+  --darkgray: #4a4a44;
+  --dark: #1a1a18;
+  --secondary: #1a4fa0;
+  --tertiary: #2d6fd6;
+  --highlight: rgba(26, 79, 160, 0.06);
+  --textHighlight: rgba(26, 79, 160, 0.15);
+
+  --bodyFont: "Noto Sans JP", sans-serif;
+  --headerFont: "Noto Serif JP", serif;
+  --codeFont: "JetBrains Mono", monospace;
+
+  --lineWidth: 780px;
+  --contentPadding: 2.5rem;
+  --fullPageWidth: 1400px;
+}
+
+/* ベースリセット */
+body {
+  background: #ffffff;
+  color: var(--dark);
+  font-family: var(--bodyFont);
+  font-size: 1rem;
+  line-height: 1.85;
+  letter-spacing: 0.01em;
+}
+
+/* サイドバー */
+#quartz-body .sidebar {
+  background: #f7f7f5;
+  border-right: 1px solid var(--lightgray);
+}
+
+.sidebar .quartz-logo {
+  font-family: var(--headerFont);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--secondary);
+  letter-spacing: 0.05em;
+}
+
+/* エクスプローラー */
+.explorer .folder-title,
+.explorer .folder-button {
+  font-size: 0.82rem;
+  color: var(--darkgray);
+  font-weight: 500;
+}
+
+.explorer a {
+  color: var(--darkgray);
+  font-size: 0.82rem;
+}
+
+.explorer a:hover {
+  color: var(--secondary);
+}
+
+/* メインコンテンツ */
+article {
+  max-width: var(--lineWidth);
+  padding: var(--contentPadding);
+  margin: 0 auto;
+}
+
+/* 見出し */
+h1 {
+  font-family: var(--headerFont);
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: var(--dark);
+  border-bottom: 2px solid var(--secondary);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+h2 {
+  font-family: var(--headerFont);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--dark);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--secondary);
+}
+
+h3 {
+  font-family: var(--bodyFont);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--darkgray);
+  margin-top: 1.5rem;
+}
+
+/* テーブル（中立・シンプル） */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  margin: 1.5rem 0;
+}
+
+th {
+  background: var(--light);
+  color: var(--darkgray);
+  font-weight: 500;
+  text-align: left;
+  padding: 0.6rem 1rem;
+  border-bottom: 2px solid var(--lightgray);
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+}
+
+td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
+  color: var(--dark);
+  vertical-align: top;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* リンク */
+a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+/* パンくず */
+.breadcrumb-container {
+  font-size: 0.8rem;
+  color: var(--gray);
+  margin-bottom: 1.5rem;
+}
+
+/* タグ */
+.tag a {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.78rem;
+}
+
+/* ダークモード完全無効化 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --light: #f7f7f5;
+    --lightgray: #e8e8e4;
+    --gray: #9a9a94;
+    --darkgray: #4a4a44;
+    --dark: #1a1a18;
+  }
+  body {
+    background: #ffffff !important;
+    color: var(--dark) !important;
+  }
+}
