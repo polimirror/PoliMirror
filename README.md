@@ -25,6 +25,6 @@ docs/collection_policy.md 参照
 analysis/README.md 参照
 
 ## 削除要請について
-削除要請は対応の可否にかかわらず
+透明性を維持するため、削除要請は対応の可否にかかわらず
 docs/deletion_requests.md および
 公式Xアカウントにて公開します。
