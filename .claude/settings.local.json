@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(gh repo:*)",
+      "WebFetch(domain:kokkai.ndl.go.jp)",
+      "Bash(git add:*)",
+      "Bash(node --version && npm --version)",
+      "Bash(cd quartz:*)",
+      "Bash(git clone:*)",
+      "Bash(rm -rf quartz/README.md && cp -r quartz-tmp/* quartz-tmp/.* quartz/ 2>/dev/null; rm -rf quartz-tmp && ls quartz/)",
+      "Bash(cp -r /tmp/quartz-fresh/quartz quartz/quartz && rm -rf /tmp/quartz-fresh)",
+      "Bash(curl -s \"http://localhost:8888/politicians/%E3%83%86%E3%82%B9%E3%83%88%E5%A4%AA%E9%83%8E/\" | grep -o '<title>[^<]*</title>' | head -1)",
+      "Bash(curl -s \"http://localhost:8888/politicians/%E3%83%86%E3%82%B9%E3%83%88%E5%A4%AA%E9%83%8E/\" | grep -oP '透明性スコア|グラフ|graph|Graph|検索|search' | sort -u)",
+      "Bash(kill %1 2>/dev/null; echo \"stopped\")",
+      "Bash(rm -rf quartz/quartz && cd quartz && npx quartz build 2>&1)",
+      "Bash(cp -r /tmp/quartz-fresh2/quartz C:/Antigravity/PoliMirror/quartz/quartz && rm -rf /tmp/quartz-fresh2 && cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
+      "Bash(rm -rf C:/Antigravity/PoliMirror/public && cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
+      "Bash(rm -rf C:/Antigravity/PoliMirror/quartz/public C:/Antigravity/PoliMirror/quartz/.quartz-cache && cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
+      "Bash(ls -la C:/Antigravity/PoliMirror/quartz/public/ 2>/dev/null; fuser C:/Antigravity/PoliMirror/quartz/public 2>/dev/null; tasklist | grep -i python | head -5)",
+      "Bash(taskkill //F //PID 24552 //PID 21660 //PID 42564 //PID 37416 //PID 27012 2>&1; sleep 1; rm -rf C:/Antigravity/PoliMirror/quartz/public)",
+      "Bash(sleep 2 && rm -rf C:/Antigravity/PoliMirror/quartz/public && cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
+      "Bash(tasklist | grep -i python)",
+      "Bash(taskkill //F //PID 15396 //PID 34272 //PID 18316 //PID 248 //PID 39792 2>&1; sleep 3; rm -rf C:/Antigravity/PoliMirror/quartz/public && echo \"removed\" || echo \"still locked\")",
+      "Bash(cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)"
+    ]
+  }
+}

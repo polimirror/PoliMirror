@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.Python
+env/
+venv/
+.venv/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+*.db
+*.sqlite3
+data/session_state.json
+
+# Logs
+*.log
+
+# Node (for Next.js/Quartz)
+node_modules/
+.next/
+out/
+
+# Quartz build output
+public/
+.quartz-cache/
+
+# Package lock (managed by Quartz)
+quartz/package-lock.json
+quartz/.github/
