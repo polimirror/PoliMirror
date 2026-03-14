@@ -15,8 +15,8 @@ tags: ["参議院", "立憲", "大分", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 参議院 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 政党 | 立憲 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 選挙区 | 大分 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 政党 | [[立憲]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 選挙区 | [[大分]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 当選回数 | 0回 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["参議院", "立憲", "大分", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[青木 愛]]
+- [[石垣 のりこ[小川 のり子]]]
+- [[石橋 通宏]]
+- [[泉 房穂]]
+- [[打越 さく良[村木 さく良]]]
+- [[小沢 雅仁]]
+- [[鬼木 誠]]
+- [[勝部 賢志]]
+- [[岸 真紀子]]
+- [[木戸口 英司]]

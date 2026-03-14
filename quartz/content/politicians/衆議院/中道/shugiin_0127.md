@@ -15,8 +15,8 @@ tags: ["衆議院", "中道", "北海道", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
-| 政党 | 中道 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
-| 選挙区 | 北海道10 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
+| 政党 | [[中道]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
+| 選挙区 | [[北海道]]10 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 | 当選回数 | 4回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["衆議院", "中道", "北海道", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[赤羽 一嘉]]
+- [[有田 芳生]]
+- [[伊佐 進一]]
+- [[泉 健太]]
+- [[犬飼 明佳]]
+- [[浮島 智子]]
+- [[大島 敦]]
+- [[大森 江里子]]
+- [[岡本 三成]]
+- [[小川 淳也]]

@@ -235,6 +235,15 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 export async function handleBuild(argv) {
   if (argv.serve) {
     argv.watch = true
+
+    // Prevent unhandled errors from killing the server
+    process.on("uncaughtException", (err) => {
+      console.error(styleText("red", `[uncaughtException] ${err.message}`))
+      console.error(err.stack)
+    })
+    process.on("unhandledRejection", (reason) => {
+      console.error(styleText("red", `[unhandledRejection] ${reason}`))
+    })
   }
 
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
@@ -319,8 +328,14 @@ export async function handleBuild(argv) {
     const result = await ctx.rebuild().catch((err) => {
       console.error(`${styleText("red", "Couldn't parse Quartz configuration:")} ${fp}`)
       console.log(`Reason: ${styleText("gray", err)}`)
-      process.exit(1)
+      if (!argv.serve) {
+        process.exit(1)
+      }
+      console.log(styleText("yellow", "Build failed but keeping server alive. Fix the error and save again."))
+      release()
+      return null
     })
+    if (!result) return
     release()
 
     if (argv.bundleInfo) {
@@ -454,7 +469,38 @@ export async function handleBuild(argv) {
     })
 
     server.listen(argv.port)
-    const wss = new WebSocketServer({ port: argv.wsPort })
+
+    // Try WebSocket ports with proper async error handling
+    let wsPort = argv.wsPort
+    const tryWsPort = (port) => new Promise((resolve, reject) => {
+      const server = new WebSocketServer({ port })
+      server.on("listening", () => resolve(server))
+      server.on("error", (err) => {
+        server.close()
+        reject(err)
+      })
+    })
+
+    let wss
+    for (let attempt = 0; attempt < 10; attempt++) {
+      try {
+        wss = await tryWsPort(wsPort)
+        break
+      } catch (err) {
+        if (err.code === "EADDRINUSE") {
+          console.log(styleText("yellow", `WebSocket port ${wsPort} in use, trying ${wsPort + 1}...`))
+          wsPort++
+        } else {
+          throw err
+        }
+      }
+    }
+
+    if (!wss) {
+      wss = await tryWsPort(0)
+      wsPort = wss.address().port
+    }
+
     wss.on("connection", (ws) => connections.push(ws))
     console.log(
       styleText(
@@ -462,6 +508,9 @@ export async function handleBuild(argv) {
         `Started a Quartz server listening at http://localhost:${argv.port}${argv.baseDir}`,
       ),
     )
+    if (wsPort !== argv.wsPort) {
+      console.log(styleText("yellow", `WebSocket hot-reload on port ${wsPort} (default ${argv.wsPort} was busy)`))
+    }
   } else {
     await build(clientRefresh)
     ctx.dispose()

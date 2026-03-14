@@ -15,8 +15,8 @@ tags: ["参議院", "民主", "千葉", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 参議院 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 政党 | 民主 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 選挙区 | 千葉 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 政党 | [[民主]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 選挙区 | [[千葉]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 当選回数 | 0回 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["参議院", "民主", "千葉", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[足立 康史]]
+- [[礒崎 哲史]]
+- [[伊藤 孝恵]]
+- [[伊藤 辰夫]]
+- [[上田 清司]]
+- [[牛田 茉友[高橋 茉友]]]
+- [[江原 くみ子[江原 久美子]]]
+- [[奥村 祥大]]
+- [[かごしま 彰宏[籠島 彰宏]]]
+- [[川合 孝典]]

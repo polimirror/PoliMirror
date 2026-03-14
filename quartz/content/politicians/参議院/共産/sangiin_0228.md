@@ -15,8 +15,8 @@ tags: ["参議院", "共産", "東京", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 参議院 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 政党 | 共産 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 選挙区 | 東京 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 政党 | [[共産]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 選挙区 | [[東京]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 当選回数 | 0回 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["参議院", "共産", "東京", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[塩川 鉄也]]
+- [[辰巳 孝太郎]]
+- [[田村 智子]]
+- [[畑野 君枝]]
+- [[岩渕 友]]
+- [[吉良 よし子[吉良 佳子]]]
+- [[小池 晃]]
+- [[白川 容子]]
+- [[大門 実紀史]]
+- [[仁比 聡平]]

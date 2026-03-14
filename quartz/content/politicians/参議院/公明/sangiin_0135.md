@@ -15,8 +15,8 @@ tags: ["参議院", "公明", "兵庫", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 参議院 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 政党 | 公明 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 選挙区 | 兵庫 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 政党 | [[公明]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 選挙区 | [[兵庫]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 当選回数 | 0回 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["参議院", "公明", "兵庫", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[秋野 公造]]
+- [[石川 博崇]]
+- [[伊藤 孝江]]
+- [[上田 勇]]
+- [[川村 雄大]]
+- [[窪田 哲也]]
+- [[佐々木 雅文]]
+- [[里見 隆治]]
+- [[下野 六太]]
+- [[杉 久武]]

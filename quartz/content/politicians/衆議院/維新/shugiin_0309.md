@@ -15,8 +15,8 @@ tags: ["衆議院", "維新", "大阪", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
-| 政党 | 維新 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
-| 選挙区 | 大阪6 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
+| 政党 | [[維新]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
+| 選挙区 | [[大阪]]6 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 | 当選回数 | 2回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 
@@ -61,3 +61,16 @@ tags: ["衆議院", "維新", "大阪", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[青柳 仁士]]
+- [[東 徹]]
+- [[阿部 圭史]]
+- [[阿部 司]]
+- [[池下 卓]]
+- [[池畑 浩太朗]]
+- [[一谷 勇一郎]]
+- [[市村 浩一郎]]
+- [[伊東 信久]]
+- [[井上 英孝]]

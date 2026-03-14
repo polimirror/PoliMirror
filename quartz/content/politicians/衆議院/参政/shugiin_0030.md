@@ -15,7 +15,7 @@ tags: ["衆議院", "参政", "近畿", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
-| 政党 | 参政 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
+| 政党 | [[参政]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
 | 選挙区 | （比）近畿 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
 | 当選回数 | 1回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm) | ★★★★★ |
@@ -61,3 +61,16 @@ tags: ["衆議院", "参政", "近畿", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[青木 ひとみ]]
+- [[伊藤 恵介]]
+- [[川 裕一郎]]
+- [[木下 敏之]]
+- [[工藤 聖子]]
+- [[島村 かおる]]
+- [[鈴木 美香]]
+- [[谷 浩一郎]]
+- [[豊田 真由子]]
+- [[なかや めぐ]]

@@ -15,7 +15,7 @@ tags: ["参議院", "無所属", "例", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 参議院 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
-| 政党 | 無所属 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
+| 政党 | [[無所属]] | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 選挙区 | 比例 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | 当選回数 | 0回 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm) | ★★★★★ |
@@ -61,3 +61,11 @@ tags: ["参議院", "無所属", "例", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[関口 昌一]]
+- [[ながえ 孝子[永江 孝子]]]
+- [[平山 佐知子]]
+- [[福山 哲郎]]
+- [[望月 良男]]

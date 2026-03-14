@@ -15,8 +15,8 @@ tags: ["衆議院", "無", "愛知", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
-| 政党 | 無 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
-| 選挙区 | 愛知1 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
+| 政党 | [[無]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
+| 選挙区 | [[愛知]]1 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 | 当選回数 | 7回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/2giin.htm) | ★★★★★ |
 
@@ -61,3 +61,12 @@ tags: ["衆議院", "無", "愛知", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[石井 啓一]]
+- [[緒方 林太郎]]
+- [[中村 はやと]]
+- [[森 英介]]
+- [[山本ジョージ]]
+- [[渡辺 真太朗]]

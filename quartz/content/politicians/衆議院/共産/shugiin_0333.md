@@ -15,7 +15,7 @@ tags: ["衆議院", "共産", "南関東", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
-| 政党 | 共産 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
+| 政党 | [[共産]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
 | 選挙区 | （比）南関東 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
 | 当選回数 | 3回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/6giin.htm) | ★★★★★ |
@@ -61,3 +61,16 @@ tags: ["衆議院", "共産", "南関東", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[塩川 鉄也]]
+- [[辰巳 孝太郎]]
+- [[田村 智子]]
+- [[岩渕 友]]
+- [[吉良 よし子[吉良 佳子]]]
+- [[小池 晃]]
+- [[白川 容子]]
+- [[大門 実紀史]]
+- [[仁比 聡平]]
+- [[山添 拓]]

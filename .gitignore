@@ -49,3 +49,8 @@ public/
 # Package lock (managed by Quartz)
 quartz/package-lock.json
 quartz/.github/
+
+# Obsidian workspace（個人設定は共有しない）
+quartz/content/.obsidian/workspace.json
+quartz/content/.obsidian/workspace-mobile.json
+quartz/content/.obsidian/cache

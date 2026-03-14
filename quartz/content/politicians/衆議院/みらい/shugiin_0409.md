@@ -15,7 +15,7 @@ tags: ["衆議院", "みらい", "北関東", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
-| 政党 | みらい | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
+| 政党 | [[みらい]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
 | 選挙区 | （比）北関東 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
 | 当選回数 | 1回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/7giin.htm) | ★★★★★ |
@@ -61,3 +61,16 @@ tags: ["衆議院", "みらい", "北関東", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[宇佐美 登]]
+- [[河合 道雄]]
+- [[小林 修平]]
+- [[須田 英太郎]]
+- [[高山 聡史]]
+- [[土橋 章宏]]
+- [[林 拓海]]
+- [[古川 あおい]]
+- [[峰島 侑也]]
+- [[山田 瑛理]]

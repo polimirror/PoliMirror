@@ -15,7 +15,7 @@ tags: ["衆議院", "国民", "中国", "現職"]
 | 項目 | 内容 | 出典 | 信頼度 |
 |------|------|------|--------|
 | 院 | 衆議院 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
-| 政党 | 国民 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
+| 政党 | [[国民]] | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 | 選挙区 | （比）中国 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 | 当選回数 | 1回 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
 | ステータス | 現職 | [公式](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/5giin.htm) | ★★★★★ |
@@ -61,3 +61,16 @@ tags: ["衆議院", "国民", "中国", "現職"]
 ---
 *PoliMirror - 事実の鏡 | 最終更新: 2026-03-13*
 *このページの情報に誤りがある場合: [GitHub Issues](https://github.com/polimirror/PoliMirror/issues)*
+
+## 同じ政党の議員
+
+- [[浅野 哲]]
+- [[飯泉 嘉門]]
+- [[井戸 まさえ]]
+- [[臼木 秀剛]]
+- [[岡野 純子]]
+- [[小竹 凱]]
+- [[河井 昭成]]
+- [[許斐 亮太郎]]
+- [[近藤 雅彦]]
+- [[佐々木 真琴]]
