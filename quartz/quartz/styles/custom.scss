@@ -188,10 +188,143 @@ a:hover { opacity: 0.75; text-decoration: underline; }
   .sidebar.left { background: var(--light) !important; }
 }
 
+/* ===== フッター ===== */
+footer {
+  border-top: 1px solid var(--lightgray);
+  background: var(--light);
+  margin-top: 5rem;
+  padding: 0;
+}
+
+.footer-inner {
+  padding: 3rem 6vw 2rem;
+  max-width: 1400px;
+}
+
+/* 上段：ロゴ＋統計 */
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--lightgray);
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-logo {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--secondary);
+  letter-spacing: 0.08em;
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.footer-mission {
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  line-height: 1.7;
+  max-width: 380px;
+  margin: 0;
+}
+
+.footer-stats {
+  display: flex;
+  gap: 2.5rem;
+  flex-shrink: 0;
+}
+
+.footer-stat {
+  text-align: center;
+}
+
+.stat-num {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--secondary);
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--gray);
+  margin-top: 0.3rem;
+  white-space: nowrap;
+}
+
+/* 中段：3カラムリンク */
+.footer-mid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.footer-col h4 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--darkgray);
+  letter-spacing: 0.08em;
+  text-transform: none;
+  margin: 0 0 0.8rem;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 0.45rem;
+}
+
+.footer-col ul li a {
+  font-size: 0.82rem;
+  color: var(--gray);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.footer-col ul li a:hover {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+/* 下段：免責・コピーライト */
+.footer-bottom {
+  padding-top: 1.5rem;
+}
+
+.footer-disclaimer {
+  font-size: 0.76rem;
+  color: var(--gray);
+  line-height: 1.8;
+  margin-bottom: 0.8rem;
+}
+
+.footer-disclaimer a {
+  color: var(--secondary);
+}
+
+.footer-copy {
+  font-size: 0.74rem;
+  color: var(--lightgray);
+  margin: 0;
+}
+
 /* スマホ */
 @media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
   .sidebar.left { display: none; }
   .center { padding: 1.5rem; }
   h1 { font-size: 1.6rem; }
+  .footer-top { flex-direction: column; }
+  .footer-mid { grid-template-columns: 1fr 1fr; }
+  .footer-stats { gap: 1.5rem; }
 }

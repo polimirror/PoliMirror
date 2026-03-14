@@ -6,13 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/ama3net/PoliMirror",
-      "データ収集ポリシー": "/docs/collection_policy",
-      "免責事項": "/docs/disclaimer",
-    },
-  }),
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
