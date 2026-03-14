@@ -65,6 +65,11 @@ export default (() => {
               <a href="https://github.com/polimirror/PoliMirror/issues" target="_blank" rel="noopener">GitHub Issues</a>
               よりご報告ください。
             </p>
+            <p class="footer-disclaimer">
+              削除要請は対応の可否にかかわらず、透明性維持のために
+              <a href="/docs/deletion-log">削除要請ログ</a>および
+              <a href="https://x.com/polimirror" target="_blank" rel="noopener">公式Xアカウント</a>にて公開します。
+            </p>
             <p class="footer-copy">
               © 2026 PoliMirror　|　最終更新: {today}　|　是々非々はユーザーが決める。私たちは鏡を置くだけ。
             </p>
