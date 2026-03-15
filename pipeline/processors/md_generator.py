@@ -1,11 +1,12 @@
 """
 PoliMirror - Markdownファイル生成
-v3.0.0
+v3.1.0
 
 政治家データからQuartz用Markdownファイルを生成する。
 - テンプレートベースの議員ページ生成
 - [[内部リンク]]による政党・都道府県・同僚議員の相互リンク
 - 都道府県インデックスページの自動生成
+- ファイル名: {name_ja}.md（同姓同名時は院名・選挙区で区別）
 """
 from __future__ import annotations
 
@@ -14,7 +15,7 @@ import json
 import os
 import re
 import traceback
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import date
 
 
@@ -24,6 +25,9 @@ TEMPLATE_PATH = os.path.join(PROJECT_ROOT, "pipeline", "templates", "politician_
 DATA_DIR = os.path.join(PROJECT_ROOT, "data", "raw")
 OUTPUT_BASE = os.path.join(PROJECT_ROOT, "quartz", "content", "politicians")
 REGION_OUTPUT = os.path.join(PROJECT_ROOT, "quartz", "content", "地域")
+
+# Windows禁止文字の置換パターン
+INVALID_FILENAME_CHARS = re.compile(r'[\\/:*?"<>|]')
 
 # 都道府県リスト（選挙区から抽出するための正規表現用）
 PREFECTURES = [
@@ -36,6 +40,79 @@ PREFECTURES = [
     "徳島", "香川", "愛媛", "高知",
     "福岡", "佐賀", "長崎", "熊本", "大分", "宮崎", "鹿児島", "沖縄",
 ]
+
+
+def clean_name_for_link(name: str) -> str:
+    """name_jaから[]とその中身を除去する（旧姓・別名表記対応）"""
+    return re.sub(r'\[.*?\]', '', name).strip()
+
+
+def sanitize_filename(name: str) -> str:
+    """Windowsで使えない文字をアンダースコアに置換する"""
+    return INVALID_FILENAME_CHARS.sub("_", clean_name_for_link(name))
+
+
+def build_filename_map(all_members: list[dict]) -> dict[str, str]:
+    """全議員のファイル名マップを構築する（id -> filename）
+
+    1. 基本: {name_ja}.md
+    2. 同姓同名: {name_ja}_{house}.md
+    3. 同姓同名＋同じ院: {name_ja}_{house}_{constituency}.md
+    """
+    try:
+        # Step 1: クリーン名の出現回数をカウント
+        name_counter = Counter(clean_name_for_link(m.get("name_ja", "")) for m in all_members)
+        duplicated_names = {name for name, count in name_counter.items() if count > 1 and name}
+
+        # Step 2: クリーン名 + house の出現回数をカウント（同姓同名の中で）
+        name_house_counter = Counter(
+            (clean_name_for_link(m.get("name_ja", "")), m.get("house", ""))
+            for m in all_members
+            if clean_name_for_link(m.get("name_ja", "")) in duplicated_names
+        )
+        duplicated_name_house = {
+            key for key, count in name_house_counter.items() if count > 1
+        }
+
+        # ログ出力
+        if duplicated_names:
+            print(f"[INFO] 同姓同名: {len(duplicated_names)}組")
+            for name in sorted(duplicated_names):
+                houses = [m.get("house", "?") for m in all_members if clean_name_for_link(m.get("name_ja", "")) == name]
+                print(f"  - {name}（{', '.join(houses)}）")
+        else:
+            print("[INFO] 同姓同名: なし")
+
+        if duplicated_name_house:
+            print(f"[INFO] 同姓同名＋同院: {len(duplicated_name_house)}組")
+            for name, house in sorted(duplicated_name_house):
+                print(f"  - {name}（{house}）")
+
+        # Step 3: ファイル名を決定
+        filename_map = {}
+        for m in all_members:
+            mid = m.get("id", "")
+            name = clean_name_for_link(m.get("name_ja", "不明"))
+            house = m.get("house", "不明")
+            constituency = m.get("constituency", "不明")
+
+            if name in duplicated_names:
+                key = (name, house)
+                if key in duplicated_name_house:
+                    # 同姓同名 + 同じ院 → 選挙区も付加
+                    basename = f"{name}_{house}_{constituency}"
+                else:
+                    # 同姓同名だが院が違う → 院名を付加
+                    basename = f"{name}_{house}"
+            else:
+                basename = name
+
+            filename_map[mid] = sanitize_filename(basename)
+
+        return filename_map
+    except Exception:
+        traceback.print_exc()
+        return {}
 
 
 def load_template(path: str) -> str:
@@ -83,10 +160,8 @@ def extract_prefecture(constituency: str) -> str | None:
     try:
         if not constituency:
             return None
-        # （比）で始まるものはスキップ
         if constituency.startswith("（比）") or constituency == "比例":
             return None
-        # 「鳥取・島根」「徳島・高知」のような合区 → 最初の方を返す
         for pref in PREFECTURES:
             if constituency.startswith(pref):
                 return pref
@@ -179,7 +254,7 @@ def build_party_section(member: dict, party_index: dict[str, list[dict]]) -> str
         colleagues = []
         for m in party_index[party]:
             if m.get("name_ja", "") != name:
-                colleagues.append(m.get("name_ja", ""))
+                colleagues.append(clean_name_for_link(m.get("name_ja", "")))
             if len(colleagues) >= 10:
                 break
 
@@ -206,7 +281,7 @@ def render_template(template: str, member: dict, party_index: dict[str, list[dic
         constituency_linked = add_wiki_links_to_constituency(constituency)
 
         replacements = {
-            "{{name_ja}}": member.get("name_ja", "不明"),
+            "{{name_ja}}": clean_name_for_link(member.get("name_ja", "不明")),
             "{{name_kana}}": member.get("name_kana", ""),
             "{{house}}": member.get("house", "不明"),
             "{{party}}": party,
@@ -248,23 +323,23 @@ def count_links(text: str) -> int:
 
 def process_members(
     members: list[dict],
-    house_prefix: str,
     output_base: str,
     template: str,
     party_index: dict[str, list[dict]],
+    filename_map: dict[str, str],
 ) -> dict:
     """議員リストを処理してMarkdownファイルを生成する"""
     stats = {"success": 0, "fail": 0, "skip": 0, "links": 0}
 
-    for i, member in enumerate(members, start=1):
-        seq_id = f"{house_prefix}_{i:04d}"
+    for member in members:
+        mid = member.get("id", "")
         try:
             name = member.get("name_ja", "不明")
             party = member.get("party", "不明")
             house = member.get("house", "不明")
 
             if not name or name == "不明":
-                print(f"[SKIP] {seq_id}: 名前が取得できないためスキップ")
+                print(f"[SKIP] {mid}: 名前が取得できないためスキップ")
                 stats["skip"] += 1
                 continue
 
@@ -275,14 +350,15 @@ def process_members(
             md_content = render_template(template, member, party_index)
             stats["links"] += count_links(md_content)
 
-            out_path = os.path.join(out_dir, f"{seq_id}.md")
+            filename = filename_map.get(mid, sanitize_filename(name))
+            out_path = os.path.join(out_dir, f"{filename}.md")
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(md_content)
 
             stats["success"] += 1
 
         except Exception:
-            print(f"[FAIL] {seq_id} ({member.get('name_ja', '?')})")
+            print(f"[FAIL] {mid} ({member.get('name_ja', '?')})")
             traceback.print_exc()
             stats["fail"] += 1
 
@@ -339,7 +415,7 @@ def generate_prefecture_pages(all_members: list[dict]) -> dict:
                 lines.append(f"## {house_name}")
                 lines.append("")
                 for m in sorted(members, key=lambda x: x.get("name_kana", "")):
-                    name = m.get("name_ja", "不明")
+                    name = clean_name_for_link(m.get("name_ja", "不明"))
                     party = m.get("party", "不明")
                     constituency = m.get("constituency", "不明")
                     lines.append(f"- [[{name}]]（{party}・{constituency}）")
@@ -360,11 +436,28 @@ def generate_prefecture_pages(all_members: list[dict]) -> dict:
         return stats
 
 
+def clean_old_files(output_base: str) -> int:
+    """旧形式のファイル（連番形式・[]入りファイル名）を削除する"""
+    count = 0
+    try:
+        seq_pattern = re.compile(r"^(shugiin|sangiin)_\d{4}\.md$")
+        for root, dirs, files in os.walk(output_base):
+            for f in files:
+                if seq_pattern.match(f) or ("[" in f):
+                    os.remove(os.path.join(root, f))
+                    count += 1
+        if count:
+            print(f"[INFO] 旧形式ファイル削除: {count}件")
+    except Exception:
+        traceback.print_exc()
+    return count
+
+
 def main():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("PoliMirror Markdown Generator v3.0.0")
+        print("PoliMirror Markdown Generator v3.1.0")
         print("=" * 60)
 
         print(f"[INFO] データディレクトリ: {DATA_DIR}")
@@ -393,6 +486,12 @@ def main():
             print("[ERROR] 議員データが見つかりません")
             return
 
+        # 旧形式ファイルを削除
+        clean_old_files(OUTPUT_BASE)
+
+        # ファイル名マップを構築（同姓同名チェック）
+        filename_map = build_filename_map(all_members)
+
         # 政党インデックスを構築（同じ政党の議員セクション用）
         party_index = build_party_index(all_members)
 
@@ -400,7 +499,7 @@ def main():
 
         # 衆議院
         if shugiin_members:
-            stats = process_members(shugiin_members, "shugiin", OUTPUT_BASE, template, party_index)
+            stats = process_members(shugiin_members, OUTPUT_BASE, template, party_index, filename_map)
             for k in total_stats:
                 total_stats[k] += stats[k]
             print(f"[INFO] 衆議院: 成功={stats['success']} 失敗={stats['fail']} スキップ={stats['skip']} リンク={stats['links']}")
@@ -411,7 +510,7 @@ def main():
 
         # 参議院
         if sangiin_members:
-            stats = process_members(sangiin_members, "sangiin", OUTPUT_BASE, template, party_index)
+            stats = process_members(sangiin_members, OUTPUT_BASE, template, party_index, filename_map)
             for k in total_stats:
                 total_stats[k] += stats[k]
             print(f"[INFO] 参議院: 成功={stats['success']} 失敗={stats['fail']} スキップ={stats['skip']} リンク={stats['links']}")
