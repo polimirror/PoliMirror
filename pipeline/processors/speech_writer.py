@@ -1,6 +1,6 @@
 """
 PoliMirror - 発言データMarkdown書き戻し
-v1.0.0
+v1.1.0
 
 data/speeches/{議員名}/{年}/{speechID}.json の発言データを
 該当議員のMarkdownファイル（quartz/content/politicians/）の
@@ -15,6 +15,46 @@ from glob import glob
 PROJECT_ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), "..", ".."))
 SPEECHES_DIR = os.path.join(PROJECT_ROOT, "data", "speeches")
 POLITICIANS_DIR = os.path.join(PROJECT_ROOT, "quartz", "content", "politicians")
+
+# MDファイルインデックス（初回構築後キャッシュ）
+_md_index = None  # {スペースなし名: path, ...}
+_md_title_index = None  # {titleスペースなし: path, ...}
+
+
+def _build_md_index():
+    """全MDファイルのインデックスを構築（ファイル名+title照合用）"""
+    global _md_index, _md_title_index
+    try:
+        _md_index = {}
+        _md_title_index = {}
+        for md_path in glob(os.path.join(POLITICIANS_DIR, "**", "*.md"), recursive=True):
+            basename = os.path.splitext(os.path.basename(md_path))[0]
+            if basename == "index":
+                continue
+
+            # ファイル名ベースのインデックス（スペースあり・なし両方）
+            _md_index[basename] = md_path
+            normalized = basename.replace(" ", "").replace("　", "")
+            _md_index[normalized] = md_path
+
+            # フロントマターのtitleを読み取ってインデックス
+            try:
+                with open(md_path, "r", encoding="utf-8") as f:
+                    content = f.read(500)  # frontmatterだけ読めばよい
+                title_match = re.search(r'^title:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+                if title_match:
+                    title = title_match.group(1).strip()
+                    title_normalized = title.replace(" ", "").replace("　", "")
+                    _md_title_index[title] = md_path
+                    _md_title_index[title_normalized] = md_path
+            except Exception:
+                traceback.print_exc()
+
+        print(f"[INFO] MDインデックス構築: ファイル名={len(set(_md_index.values()))}件, title={len(set(_md_title_index.values()))}件")
+    except Exception:
+        traceback.print_exc()
+        _md_index = {}
+        _md_title_index = {}
 
 
 def _clean_speech_text(speech: str, max_chars: int = 200) -> str:
@@ -36,18 +76,36 @@ def _clean_speech_text(speech: str, max_chars: int = 200) -> str:
 
 
 def _find_md_file(name_no_space: str) -> str | None:
-    """議員名（スペースなし）からMDファイルパスを探す"""
+    """
+    議員名（スペースなし）からMDファイルパスを探す。
+    4段階でマッチングを試みる:
+      1. 完全一致（スペースなし名でそのまま）
+      2. スペース除去マッチ（ファイル名インデックス）
+      3. スペース追加マッチ（1〜4文字目にスペースを挿入して試行）
+      4. フロントマターのtitleで照合
+    """
+    global _md_index, _md_title_index
     try:
-        # MDファイルは「石破 茂.md」のように姓名間にスペースがある
-        # data/speechesは「石破茂」のようにスペースなし
-        # 全MDファイルをスキャンしてスペース除去で一致するものを探す
-        for md_path in glob(os.path.join(POLITICIANS_DIR, "**", "*.md"), recursive=True):
-            basename = os.path.splitext(os.path.basename(md_path))[0]
-            if basename == "index":
-                continue
-            # スペース除去して比較
-            if basename.replace(" ", "").replace("　", "") == name_no_space:
-                return md_path
+        if _md_index is None:
+            _build_md_index()
+
+        # 1. 完全一致（スペースなし名がそのままインデックスにある）
+        if name_no_space in _md_index:
+            return _md_index[name_no_space]
+
+        # 2. スペース除去マッチ（既にインデックス構築時に正規化済み）
+        # → ステップ1でカバー済み
+
+        # 3. スペース追加: 姓名の区切り位置にスペースを入れて試行
+        for i in range(1, len(name_no_space)):
+            spaced = name_no_space[:i] + " " + name_no_space[i:]
+            if spaced in _md_index:
+                return _md_index[spaced]
+
+        # 4. フロントマターのtitleで照合
+        if name_no_space in _md_title_index:
+            return _md_title_index[name_no_space]
+
         return None
     except Exception:
         traceback.print_exc()
@@ -213,8 +271,17 @@ def write_all(limit: int = 10) -> dict:
 
             stats["details"].append(result)
 
+        # マッチング失敗の議員名を集計
+        no_md = [d["name"] for d in stats["details"] if d.get("reason") == "MDファイルなし"]
+        no_speech = [d["name"] for d in stats["details"] if d.get("reason") == "発言0件"]
+
         print("\n" + "=" * 60)
         print(f"[DONE] 完了: 成功={stats['ok']} スキップ={stats['skipped']} エラー={stats['error']} / 全{stats['total']}名")
+        print(f"  MDファイルなし: {len(no_md)}名")
+        print(f"  発言0件: {len(no_speech)}名")
+        if no_md:
+            sample = no_md[:10]
+            print(f"  マッチング失敗サンプル: {sample}")
         print("=" * 60)
 
         return stats
