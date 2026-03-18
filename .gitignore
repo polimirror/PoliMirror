@@ -34,6 +34,11 @@ Thumbs.db
 *.sqlite3
 data/session_state.json
 
+# 発言データ（ローカルのみ・GitHubには上げない）
+data/speeches/
+data/raw/
+data/processed/
+
 # Logs
 *.log
 

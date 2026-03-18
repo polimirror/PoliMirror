@@ -67,7 +67,20 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const release = await mut.acquire()
   perf.addEvent("clean")
-  await rm(output, { recursive: true, force: true })
+  // Windows + non-ASCII filenames can cause ENOTEMPTY with fs.rm
+  // Retry with a small delay to handle OS-level lock race conditions
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      await rm(output, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 })
+      break
+    } catch (err: any) {
+      if (attempt < 2 && (err.code === "ENOTEMPTY" || err.code === "EBUSY")) {
+        await new Promise((r) => setTimeout(r, 500))
+        continue
+      }
+      throw err
+    }
+  }
   console.log(`Cleaned output directory \`${output}\` in ${perf.timeSince("clean")}`)
 
   perf.addEvent("glob")

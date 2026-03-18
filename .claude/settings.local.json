@@ -22,7 +22,32 @@
       "Bash(sleep 2 && rm -rf C:/Antigravity/PoliMirror/quartz/public && cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
       "Bash(tasklist | grep -i python)",
       "Bash(taskkill //F //PID 15396 //PID 34272 //PID 18316 //PID 248 //PID 39792 2>&1; sleep 3; rm -rf C:/Antigravity/PoliMirror/quartz/public && echo \"removed\" || echo \"still locked\")",
-      "Bash(cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)"
+      "Bash(cd C:/Antigravity/PoliMirror/quartz && npx quartz build 2>&1)",
+      "Bash(cd C:/Antigravity/PoliMirror && mkdir -p pipeline/collectors pipeline/processors pipeline/models pipeline/utils data/raw data/processed data/politicians)",
+      "Bash(cd C:/Antigravity/PoliMirror && touch data/raw/.gitkeep data/processed/.gitkeep data/politicians/.gitkeep)",
+      "WebFetch(domain:www.shugiin.go.jp)",
+      "Bash(cd C:/Antigravity/PoliMirror && curl -s -o shugiin_raw.html \"https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/syu/1giin.htm\" && python -c \"\nwith open\\('shugiin_raw.html', 'rb'\\) as f:\n    raw = f.read\\(\\)\nfor enc in ['utf-8', 'shift_jis', 'euc-jp']:\n    try:\n        text = raw.decode\\(enc\\)\n        print\\(f'{enc}: OK \\(len={len\\(text\\)}\\)'\\)\n    except:\n        print\\(f'{enc}: FAIL'\\)\n\")",
+      "Bash(cd C:/Antigravity/PoliMirror && python -c \"\nimport sys\nsys.stdout.reconfigure\\(encoding='utf-8'\\)\nwith open\\('shugiin_raw.html', 'rb'\\) as f:\n    raw = f.read\\(\\)\ntext = raw.decode\\('cp932', errors='replace'\\)\nfrom bs4 import BeautifulSoup\nsoup = BeautifulSoup\\(text, 'lxml'\\)\ntables = soup.find_all\\('table'\\)\nt = tables[1]\nrows = t.find_all\\('tr'\\)\nfor i in range\\(2, 6\\):\n    cells = rows[i].find_all\\('td'\\)\n    texts = [c.get_text\\(strip=True\\) for c in cells]\n    print\\(f'Row {i}: {texts}'\\)\n\" 2>&1)",
+      "Bash(cd C:/Antigravity/PoliMirror && pip install lxml 2>&1 | tail -3)",
+      "Bash(cd C:/Antigravity/PoliMirror && python pipeline/collectors/shugiin.py 2>&1)",
+      "Bash(cd C:/Antigravity/PoliMirror && python -c \"\nimport sys, json\nsys.stdout.reconfigure\\(encoding='utf-8'\\)\nwith open\\('data/raw/shugiin_members_20260313.json', encoding='utf-8'\\) as f:\n    data = json.load\\(f\\)\nprint\\(f'total_count: {data[\\\\\"total_count\\\\\"]}'\\)\nfor m in data['members'][:5]:\n    print\\(f\\\\\"  {m['name_ja']} \\({m['name_kana']}\\) - {m['party']} - {m['constituency']} - {m['terms']}回\\\\\"\\)\nprint\\('...'\\)\nfor m in data['members'][-3:]:\n    print\\(f\\\\\"  {m['name_ja']} \\({m['name_kana']}\\) - {m['party']} - {m['constituency']} - {m['terms']}回\\\\\"\\)\n\")",
+      "Bash(cd C:/Antigravity/PoliMirror && rm shugiin_raw.html)",
+      "Bash(ls C:/Antigravity/PoliMirror/.claude/settings*)",
+      "Bash(python pipeline/*)",
+      "Bash(python3 pipeline/*)",
+      "Bash(cd * && python *)",
+      "Bash(cd * && python3 *)",
+      "Bash(cd * && npm *)",
+      "Bash(cd * && npx *)",
+      "Bash(cd C:/Antigravity/PoliMirror && python -c \"\nwith open\\('sangiin_raw.html', 'r'\\) as f:\n    print\\(f.read\\(\\)\\)\n\")",
+      "WebFetch(domain:www.sangiin.go.jp)",
+      "Bash(cd C:/Antigravity/PoliMirror && curl -s -L -o sangiin_test1.html \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/today/index.htm\" && wc -c sangiin_test1.html && head -5 sangiin_test1.html)",
+      "Bash(cd C:/Antigravity/PoliMirror && curl -s -L -o sangiin_test2.html \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/211/giin.htm\" && wc -c sangiin_test2.html)",
+      "Bash(cd C:/Antigravity/PoliMirror && curl -s -L -w \"%{http_code}\" -o /dev/null \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/today/giinall.htm\" && echo \"\" && curl -s -L -w \"%{http_code}\" -o /dev/null \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/giinall.htm\" && echo \"\" && curl -s -L -w \"%{http_code}\" -o /dev/null \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/present/index.htm\" && echo \"\")",
+      "Bash(cd C:/Antigravity/PoliMirror && curl -s -L -o sangiin_raw.html \"https://www.sangiin.go.jp/japanese/joho1/kousei/giin/216/giin.htm\" && python -c \"\nimport sys, re\nsys.stdout.reconfigure\\(encoding='utf-8'\\)\nwith open\\('sangiin_raw.html', 'rb'\\) as f:\n    raw = f.read\\(\\)\nmeta = re.search\\(rb'charset[=\\\\s]*[\\\\\"]*\\([^\\\\s\\\\\">;]+\\)', raw[:3000]\\)\nprint\\('Meta charset:', meta.group\\(1\\) if meta else 'not found'\\)\nprint\\(f'Size: {len\\(raw\\)} bytes'\\)\nfor enc in ['utf-8', 'shift_jis', 'euc-jp']:\n    try:\n        text = raw.decode\\(enc\\)\n        print\\(f'{enc}: OK'\\)\n    except:\n        print\\(f'{enc}: FAIL'\\)\n\")",
+      "Bash(cd C:/Antigravity/PoliMirror && python pipeline/collectors/sangiin.py 2>&1)",
+      "Bash(cd C:/Antigravity/PoliMirror && python -c \"\nimport sys, json\nsys.stdout.reconfigure\\(encoding='utf-8'\\)\nwith open\\('data/raw/sangiin_members_20260313.json', encoding='utf-8'\\) as f:\n    data = json.load\\(f\\)\nprint\\(f'total_count: {data[\\\\\"total_count\\\\\"]}'\\)\nfor m in data['members'][:5]:\n    print\\(f\\\\\"  {m['name_ja']} \\({m['name_kana']}\\) - {m['party']} - {m['constituency']} - profile={m['official_page']}\\\\\"\\)\nprint\\('...'\\)\nfor m in data['members'][-3:]:\n    print\\(f\\\\\"  {m['name_ja']} \\({m['name_kana']}\\) - {m['party']} - {m['constituency']}\\\\\"\\)\n\")",
+      "Bash(cd C:/Antigravity/PoliMirror && rm -f sangiin_raw.html sangiin_test1.html sangiin_test2.html)"
     ]
   }
 }
