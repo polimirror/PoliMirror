@@ -2,6 +2,8 @@
 title: PoliMirror（政治の鏡）
 ---
 
+> 🚧 現在データ収集中。順次更新予定。情報の誤りは[GitHub Issues](https://github.com/polimirror/PoliMirror/issues)へ。
+
 > 深淵をのぞく時、深淵もまたこちらをのぞいているのだ — ニーチェ
 
 **ミッション**: 政治家の言葉を、すべて記録する。それだけで、政治は変わる。
