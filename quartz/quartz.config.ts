@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ja-JP",
-    baseUrl: "polimirror.pages.dev",
+    baseUrl: "polimirror.jp",
     ignorePatterns: ["private", "templates", ".obsidian", "_template"],
     defaultDateType: "modified",
     theme: {
