@@ -153,7 +153,8 @@ def _format_speech_entry(speech: dict) -> str:
 
         summary = _clean_speech_text(speech_text)
 
-        entry = f"### {date}｜{meeting}｜{house}｜信頼度★★★★★\n"
+        entry = f"### {date}｜{meeting}｜{house}\n"
+        entry += f"<small>出典：国会議事録検索システム（国立国会図書館）★★★★★</small>\n"
         entry += f"**発言要旨:** {summary}\n"
         if speech_url:
             entry += f"**出典:** [{meeting} 第{session}回国会]({speech_url})\n"
