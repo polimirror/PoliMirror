@@ -118,41 +118,50 @@ def generate_widget(name, pol_data, rank, total_pol):
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
-(function() {{
-  var ctx = document.getElementById('radar-{romaji}');
-  if (!ctx) return;
-  new Chart(ctx, {{
-    type: 'radar',
-    data: {{
-      labels: ['言行一致度', '数値的誠実さ', '約束追跡率', '説明の具体性', '立場の安定性'],
-      datasets: [{{
-        label: '{name}',
-        data: [{c}, {n}, {p}, {s}, {st}],
-        backgroundColor: 'rgba(26,79,160,0.15)',
-        borderColor: 'rgba(26,79,160,0.8)',
-        borderWidth: 2,
-        pointBackgroundColor: 'rgba(26,79,160,0.8)',
-        pointRadius: 3
-      }}]
-    }},
-    options: {{
-      scales: {{
-        r: {{
-          beginAtZero: true,
-          max: 100,
-          ticks: {{ stepSize: 20, font: {{ size: 10 }} }},
-          pointLabels: {{ font: {{ size: 11 }} }}
-        }}
+(function init_{romaji}() {{
+  function render() {{
+    var ctx = document.getElementById('radar-{romaji}');
+    if (!ctx) return;
+    if (ctx.dataset.rendered) return;
+    ctx.dataset.rendered = '1';
+    new Chart(ctx, {{
+      type: 'radar',
+      data: {{
+        labels: ['言行一致度', '数値的誠実さ', '約束追跡率', '説明の具体性', '立場の安定性'],
+        datasets: [{{
+          label: '{name}',
+          data: [{c}, {n}, {p}, {s}, {st}],
+          backgroundColor: 'rgba(26,79,160,0.15)',
+          borderColor: 'rgba(26,79,160,0.8)',
+          borderWidth: 2,
+          pointBackgroundColor: 'rgba(26,79,160,0.8)',
+          pointRadius: 3
+        }}]
       }},
-      plugins: {{
-        legend: {{ display: false }}
-      }},
-      responsive: true,
-      maintainAspectRatio: false
-    }}
-  }});
+      options: {{
+        scales: {{
+          r: {{
+            beginAtZero: true,
+            max: 100,
+            ticks: {{ stepSize: 20, font: {{ size: 10 }} }},
+            pointLabels: {{ font: {{ size: 11 }} }}
+          }}
+        }},
+        plugins: {{
+          legend: {{ display: false }}
+        }},
+        responsive: true,
+        maintainAspectRatio: false
+      }}
+    }});
+  }}
+  if (typeof Chart !== 'undefined') {{ render(); }}
+  else {{ document.addEventListener('DOMContentLoaded', function() {{
+    var wait = setInterval(function() {{
+      if (typeof Chart !== 'undefined') {{ clearInterval(wait); render(); }}
+    }}, 200);
+  }}); }}
 }})();
 </script>
 
