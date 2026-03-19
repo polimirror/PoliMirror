@@ -1,8 +1,8 @@
 """
-PoliMirror - スコアウィジェット生成 v2.0.0
+PoliMirror - スコアウィジェット生成 v3.0.0
 
 対象議員MDの「誠実さスコア（暫定）」セクションを
-4指標カード＋プログレスバーのHTMLブロックに置き換える。
+SVGレーダーチャート＋4指標カード＋プログレスバーのHTMLに置き換える。
 """
 import json
 import math
@@ -28,6 +28,17 @@ RENHO_DATA = {
     "ambiguous_rate": 0.04, "top_word": "しっかりと",
 }
 
+# 5軸の角度（度）と名前
+AXES = [
+    (270, "言行一致度"),
+    (342, "数値的誠実さ"),
+    (54,  "約束追跡率"),
+    (126, "説明の具体性"),
+    (198, "立場の安定性"),
+]
+
+CX, CY, R = 100, 100, 80
+
 
 def find_md_file(name):
     """議員名からMDファイルパスを探す"""
@@ -45,11 +56,81 @@ def find_md_file(name):
 
 
 def calc_scores(rate, speech_count):
-    """5軸スコアを算出"""
+    """5軸スコアを算出: (言行一致, 数値的誠実さ, 約束追跡率, 説明の具体性, 立場の安定性)"""
     consistency = max(0, min(100, round(100 - rate * 100)))
     numerical = max(0, min(100, round(math.log10(max(speech_count, 1)) / math.log10(25000) * 100)))
+    promise = 50  # 暫定
     specificity = max(0, min(100, round(100 - rate * 80)))
-    return consistency, numerical, specificity
+    stability = 50  # 暫定
+    return [consistency, numerical, promise, specificity, stability]
+
+
+def polar_to_xy(angle_deg, radius):
+    """極座標→直交座標"""
+    rad = math.radians(angle_deg)
+    return CX + radius * math.cos(rad), CY + radius * math.sin(rad)
+
+
+def pentagon_points(radius):
+    """五角形の頂点座標文字列"""
+    pts = [polar_to_xy(a, radius) for a, _ in AXES]
+    return " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+
+
+def generate_svg(scores):
+    """SVGレーダーチャートを生成"""
+    try:
+        lines = []
+        lines.append('<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">')
+
+        # 背景グリッド（4重五角形）
+        for pct in [25, 50, 75, 100]:
+            r = R * pct / 100
+            lines.append(f'<polygon points="{pentagon_points(r)}" fill="none" stroke="#ddd" stroke-width="0.5"/>')
+
+        # 軸線
+        for angle, _ in AXES:
+            ex, ey = polar_to_xy(angle, R)
+            lines.append(f'<line x1="{CX}" y1="{CY}" x2="{ex:.1f}" y2="{ey:.1f}" stroke="#ddd" stroke-width="0.5"/>')
+
+        # スコアポリゴン
+        pts = []
+        for i, (angle, _) in enumerate(AXES):
+            r = scores[i] / 100 * R
+            x, y = polar_to_xy(angle, r)
+            pts.append(f"{x:.1f},{y:.1f}")
+        pts_str = " ".join(pts)
+        lines.append(f'<polygon points="{pts_str}" fill="rgba(26,79,160,0.18)" stroke="rgba(26,79,160,0.8)" stroke-width="1.5"/>')
+
+        # スコア点
+        for i, (angle, _) in enumerate(AXES):
+            r = scores[i] / 100 * R
+            x, y = polar_to_xy(angle, r)
+            color = "rgba(26,79,160,0.9)" if i not in [2, 4] else "#aaa"
+            lines.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="{color}"/>')
+
+        # 軸ラベル
+        label_r = R + 18
+        for i, (angle, label) in enumerate(AXES):
+            lx, ly = polar_to_xy(angle, label_r)
+            anchor = "middle"
+            if angle > 180 and angle < 360:
+                if angle != 270:
+                    anchor = "end"
+            elif angle > 0 and angle < 180:
+                if angle != 90:
+                    anchor = "start"
+            color = "#555" if i not in [2, 4] else "#aaa"
+            lines.append(f'<text x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}" font-size="9" fill="{color}" dominant-baseline="central">{label}</text>')
+
+        # 暫定表示
+        lines.append('<text x="100" y="194" text-anchor="middle" font-size="8" fill="#aaa">⚠️ 暫定値</text>')
+
+        lines.append('</svg>')
+        return "\n".join(lines)
+    except Exception:
+        traceback.print_exc()
+        return ""
 
 
 def bar_html(label, score, note, is_pending=False):
@@ -76,27 +157,31 @@ def generate_widget(name, pol_data, rank, total_pol):
         total_amb = pol_data["total_ambiguous"]
         top_word = pol_data.get("top_word", "")
 
-        c, n, s = calc_scores(rate, speech_count)
+        scores = calc_scores(rate, speech_count)
         rate_pct = f"{rate * 100:.1f}"
 
-        bars = bar_html("言行一致度", c, "曖昧語使用率から算出")
-        bars += bar_html("数値的誠実さ", n, f"発言数{speech_count:,}件から算出")
+        svg = generate_svg(scores)
+
+        bars = bar_html("言行一致度", scores[0], "曖昧語使用率から算出")
+        bars += bar_html("数値的誠実さ", scores[1], f"発言数{speech_count:,}件から算出")
         bars += bar_html("約束追跡率", 0, "データ収集中", is_pending=True)
-        bars += bar_html("説明の具体性", s, "曖昧語分析から算出")
+        bars += bar_html("説明の具体性", scores[3], "曖昧語分析から算出")
         bars += bar_html("立場の安定性", 0, "データ収集中", is_pending=True)
 
         html = f"""## 誠実さスコア（暫定）
 
 > ⚠️ このスコアは暫定値です。順次データを拡充します。
 
+<div style="display:inline-block;width:220px;vertical-align:top">
+{svg}
+</div>
+<div style="display:inline-block;vertical-align:top;width:calc(100% - 250px);min-width:260px">
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px">
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">曖昧語使用回数</div><div style="font-size:22px;font-weight:500">{total_amb:,}回</div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">全議員順位</div><div style="font-size:22px;font-weight:500">{rank}<span style="font-size:13px;color:#888">/{total_pol:,}</span></div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">使用率</div><div style="font-size:22px;font-weight:500">{rate_pct}%</div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">最多使用語</div><div style="font-size:16px;font-weight:500">「{top_word}」</div></div>
 </div>
-
-<div>
 {bars}
 </div>
 
@@ -111,7 +196,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("スコアウィジェット生成 v2.0.0")
+        print("スコアウィジェット生成 v3.0.0")
         print("=" * 60)
 
         with open(RANKING_JSON, "r", encoding="utf-8") as f:
@@ -161,8 +246,8 @@ def run():
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(content)
 
-            c, n, s = calc_scores(pol_data["ambiguous_rate"], pol_data["speech_count"])
-            print(f"  [OK] → {os.path.basename(md_path)} 一致={c} 誠実={n} 具体={s}")
+            scores = calc_scores(pol_data["ambiguous_rate"], pol_data["speech_count"])
+            print(f"  [OK] → {os.path.basename(md_path)} [{scores[0]},{scores[1]},{scores[2]},{scores[3]},{scores[4]}]")
             success += 1
 
         print(f"\n[DONE] {success}名")
