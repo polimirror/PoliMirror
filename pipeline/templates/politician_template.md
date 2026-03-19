@@ -12,19 +12,19 @@ tags: [{{tags}}]
 
 ## 基本情報
 
-| 項目 | 内容 | 出典 | 信頼度 |
-|------|------|------|--------|
-| 院 | {{house}} | {{house_source}} | ★★★★★ |
-| 政党 | {{party_linked}} | {{party_source}} | ★★★★★ |
-| 選挙区 | {{constituency_linked}} | {{constituency_source}} | ★★★★★ |
-| 当選回数 | {{terms}}回 | {{terms_source}} | ★★★★★ |
-| ステータス | {{status}} | {{status_source}} | ★★★★★ |
+| 項目 | 内容 | 出典 |
+|------|------|------|
+| 院 | {{house}} | {{house_source}} |
+| 政党 | {{party_linked}} | {{party_source}} |
+| 選挙区 | {{constituency_linked}} | {{constituency_source}} |
+| 当選回数 | {{terms}}回 | {{terms_source}} |
+| ステータス | {{status}} | {{status_source}} |
 
 ## 発言・活動記録
 
 <!--
 記録フォーマット:
-### YYYY-MM-DD｜{{場面}}｜信頼度★★★★★
+### YYYY-MM-DD｜{{場面}}
 **発言内容:**（事実のみ・原文ママ）
 **出典:** [{{媒体名}}]({{url}}) / [WebArchive]({{archive_url}})
 **本人の対応:** （あれば）
