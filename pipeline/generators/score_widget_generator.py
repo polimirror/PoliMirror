@@ -1,8 +1,8 @@
 """
-PoliMirror - スコアウィジェット生成 v4.1.0
+PoliMirror - スコアウィジェット生成 v4.2.0
 
 新レイアウト: 五角形レーダーチャート（大・単独行）→ 4指標カード → プログレスバー5軸
-SVG: viewBox 400x400, 中心(200,200), 半径130, ラベル font-size 13
+SVG: viewBox 500x500, 中心(250,250), 半径160, ラベル font-size 16
 """
 import json
 import math
@@ -37,7 +37,7 @@ AXES = [
     (198, "立場の安定性"),
 ]
 
-CX, CY, R = 200, 200, 130
+CX, CY, R = 250, 250, 160
 
 
 def find_md_file(name):
@@ -78,20 +78,20 @@ def pentagon_points(radius):
 
 
 def generate_svg(scores):
-    """SVGレーダーチャートを生成 (viewBox 400x400, 中心200,200, 半径130)"""
+    """SVGレーダーチャートを生成 (viewBox 500x500, 中心250,250, 半径160)"""
     try:
         lines = []
-        lines.append('<svg viewBox="0 0 400 400" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width:400px;display:block;margin:0 auto">')
+        lines.append('<svg viewBox="0 0 500 500" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width:500px;display:block;margin:0 auto">')
 
         # 背景グリッド（4重五角形）
         for pct in [25, 50, 75, 100]:
             r = R * pct / 100
-            lines.append(f'<polygon points="{pentagon_points(r)}" fill="none" stroke="#ddd" stroke-width="1"/>')
+            lines.append(f'<polygon points="{pentagon_points(r)}" fill="none" stroke="#ddd" stroke-width="0.8"/>')
 
         # 軸線
         for angle, _ in AXES:
             ex, ey = polar_to_xy(angle, R)
-            lines.append(f'<line x1="{CX}" y1="{CY}" x2="{ex:.1f}" y2="{ey:.1f}" stroke="#ddd" stroke-width="1"/>')
+            lines.append(f'<line x1="{CX}" y1="{CY}" x2="{ex:.1f}" y2="{ey:.1f}" stroke="#ddd" stroke-width="0.8"/>')
 
         # スコアポリゴン
         pts = []
@@ -100,17 +100,17 @@ def generate_svg(scores):
             x, y = polar_to_xy(angle, r)
             pts.append(f"{x:.1f},{y:.1f}")
         pts_str = " ".join(pts)
-        lines.append(f'<polygon points="{pts_str}" fill="rgba(26,79,160,0.18)" stroke="rgba(26,79,160,0.8)" stroke-width="2"/>')
+        lines.append(f'<polygon points="{pts_str}" fill="rgba(24,95,165,0.15)" stroke="#185FA5" stroke-width="2"/>')
 
         # スコア点
         for i, (angle, _) in enumerate(AXES):
             r = scores[i] / 100 * R
             x, y = polar_to_xy(angle, r)
-            color = "rgba(26,79,160,0.9)" if i not in [2, 4] else "#aaa"
+            color = "#185FA5" if i not in [2, 4] else "#aaa"
             lines.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="{color}"/>')
 
-        # 軸ラベル（五角形の外側に余裕を持って配置）
-        label_r = R + 35
+        # 軸ラベル（五角形の外側に余裕を持って配置: 半径+40px）
+        label_r = R + 40
         for i, (angle, label) in enumerate(AXES):
             lx, ly = polar_to_xy(angle, label_r)
             anchor = "middle"
@@ -121,10 +121,10 @@ def generate_svg(scores):
                 if angle != 90:
                     anchor = "start"
             color = "#555" if i not in [2, 4] else "#aaa"
-            lines.append(f'<text x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}" font-size="13" fill="{color}" dominant-baseline="central">{label}</text>')
+            lines.append(f'<text x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}" font-size="16" fill="{color}" dominant-baseline="central">{label}</text>')
 
         # 暫定表示
-        lines.append(f'<text x="{CX}" y="390" text-anchor="middle" font-size="12" fill="#aaa">⚠️ 暫定値</text>')
+        lines.append(f'<text x="{CX}" y="490" text-anchor="middle" font-size="12" fill="#aaa">⚠️ 暫定値</text>')
 
         lines.append('</svg>')
         return "\n".join(lines)
@@ -196,7 +196,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("スコアウィジェット生成 v4.1.0")
+        print("スコアウィジェット生成 v4.2.0")
         print("=" * 60)
 
         with open(RANKING_JSON, "r", encoding="utf-8") as f:
