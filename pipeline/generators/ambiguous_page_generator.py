@@ -1,5 +1,5 @@
 """
-PoliMirror - 曖昧語ランキングページ生成 v1.1.0
+PoliMirror - 曖昧語ランキングページ生成 v2.0.0
 
 data/processed/ambiguous_ranking.json と ambiguous_word_total.json を読み込み、
 quartz/content/rankings/曖昧語ランキング.md を生成する。
@@ -33,7 +33,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("曖昧語ランキングページ生成 v1.1.0")
+        print("曖昧語ランキングページ生成 v2.0.0")
         print("=" * 60)
 
         # データ読み込み
@@ -57,6 +57,25 @@ def run():
             if key not in link_cache:
                 link_cache[key] = find_politician_link(p["name"], p["party"], p["house"])
 
+        # 使用率ランキング用データ（発言100件以上）
+        rate_ranking = [p for p in politicians if p["speech_count"] >= 100 and p["total_ambiguous"] > 0]
+        rate_ranking.sort(key=lambda x: x["ambiguous_rate"], reverse=True)
+        rate_eligible_count = len(rate_ranking)
+        print(f"  → 発言100件以上: {rate_eligible_count:,}名")
+
+        # リンク解決（使用率TOP20 + 回数TOP20分を追加）
+        for p in rate_ranking[:20]:
+            if p["name"] not in link_cache:
+                link_cache[p["name"]] = find_politician_link(p["name"], p["party"], p["house"])
+
+        # 政党名短縮ヘルパー
+        def short_party(party):
+            return party.replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
+
+        # 院名短縮ヘルパー
+        def short_house(house):
+            return house.replace("衆議院", "衆").replace("参議院", "参").replace("両院", "衆参")
+
         # MD生成
         print("[3/3] Markdown生成中...")
 
@@ -69,15 +88,42 @@ def run():
         lines.append('')
         lines.append('# 国会議員「曖昧語」使用ランキング')
         lines.append('')
-        lines.append(f'> 国会議事録{total_speeches:,}件（2026年3月集計）から「しっかりと」「前向きに」「真摯に」等の曖昧語を集計した。')
+        lines.append(f'> 国会議事録{total_speeches:,}件（2026年3月集計）から集計。')
         lines.append('')
         lines.append('## 曖昧語とは')
-        lines.append('国会答弁でよく使われる、具体的な行動・数値・期限を含まない表現。')
-        lines.append('「検討します」「前向きに」「しっかりと対応」等。')
+        lines.append('「しっかりと」「前向きに」「真摯に」など、具体的な数値・期限・行動を含まない国会答弁表現。')
+        lines.append('')
+        lines.append('> ⚠️ 与党（答弁側）は野党（質問側）より曖昧語が増えやすい構造的差異があります。同じ立場の議員間での比較が公正です。')
+        lines.append('')
+
+        # 使用率ランキング TOP20（メイン）
+        lines.append(f'## 使用率ランキング TOP20（メイン指標）')
+        lines.append('')
+        lines.append(f'> ※ 発言100件以上の議員のみ対象（{rate_eligible_count:,}名中）')
+        lines.append('')
+        lines.append('| 順位 | 議員名 | 政党 | 院 | 使用率 | 使用回数 | 発言数 |')
+        lines.append('|---:|---|---|---|---:|---:|---:|')
+        for i, p in enumerate(rate_ranking[:20], 1):
+            name_link = link_cache.get(p["name"], p["name"])
+            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
+            lines.append(f'| {i} | {name_link} | {short_party(p["party"])} | {short_house(p["house"])} | {rate_pct} | {p["total_ambiguous"]:,} | {p["speech_count"]:,} |')
+        lines.append('')
+
+        # 使用回数ランキング TOP20（参考）
+        lines.append('## 使用回数ランキング TOP20（参考値）')
+        lines.append('')
+        lines.append('> ※ 在任期間が長いほど回数が増えるため参考値')
+        lines.append('')
+        lines.append('| 順位 | 議員名 | 政党 | 院 | 使用回数 | 使用率 | 発言数 |')
+        lines.append('|---:|---|---|---|---:|---:|---:|')
+        for i, p in enumerate(politicians[:20], 1):
+            name_link = link_cache.get(p["name"], p["name"])
+            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
+            lines.append(f'| {i} | {name_link} | {short_party(p["party"])} | {short_house(p["house"])} | {p["total_ambiguous"]:,} | {rate_pct} | {p["speech_count"]:,} |')
         lines.append('')
 
         # 語別ランキング TOP10
-        lines.append('## 曖昧語 種類別ランキング TOP10')
+        lines.append('## 語別ランキング TOP10')
         lines.append('')
         lines.append('| 順位 | 曖昧語 | 国会での総使用回数 |')
         lines.append('|---:|---|---:|')
@@ -85,48 +131,15 @@ def run():
             lines.append(f'| {i} | {word} | {cnt:,}回 |')
         lines.append('')
 
-        # 使用率ランキング TOP20（メイン）
-        lines.append('## 曖昧語 使用率ランキング TOP20')
-        lines.append('')
-        lines.append('> ※ 最低発言数100件以上の議員のみ対象（発言数が少ない議員は率が偏るため除外）')
-        lines.append('')
-        rate_ranking = [p for p in politicians if p["speech_count"] >= 100 and p["total_ambiguous"] > 0]
-        rate_ranking.sort(key=lambda x: x["ambiguous_rate"], reverse=True)
-
-        # リンク解決（TOP20に入る議員分を追加）
-        for p in rate_ranking[:20]:
-            if p["name"] not in link_cache:
-                link_cache[p["name"]] = find_politician_link(p["name"], p["party"], p["house"])
-
-        lines.append('| 順位 | 議員名 | 政党 | 使用率 | 使用回数 | 発言数 |')
-        lines.append('|---:|---|---|---:|---:|---:|')
-        for i, p in enumerate(rate_ranking[:20], 1):
-            name_link = link_cache.get(p["name"], p["name"])
-            party_short = p["party"].replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
-            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
-            lines.append(f'| {i} | {name_link} | {party_short} | {rate_pct} | {p["total_ambiguous"]:,} | {p["speech_count"]:,} |')
-        lines.append('')
-
-        # 使用回数ランキング TOP20（参考）
-        lines.append('## 曖昧語 使用回数ランキング TOP20（参考）')
-        lines.append('')
-        lines.append('> ※ 在任期間が長いほど回数が増えるため参考値')
-        lines.append('')
-        lines.append('| 順位 | 議員名 | 政党 | 使用回数 | 使用率 | 発言数 |')
-        lines.append('|---:|---|---|---:|---:|---:|')
-        for i, p in enumerate(politicians[:20], 1):
-            name_link = link_cache.get(p["name"], p["name"])
-            party_short = p["party"].replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
-            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
-            lines.append(f'| {i} | {name_link} | {party_short} | {p["total_ambiguous"]:,} | {rate_pct} | {p["speech_count"]:,} |')
-        lines.append('')
-
         # データについて
         lines.append('## データについて')
+        lines.append('')
+        lines.append('- **メイン指標を使用率にした理由**: 使用回数は在任期間・発言機会に左右されるため、発言あたりの使用率を主要指標とした')
+        lines.append('- **発言100件以上に絞る理由**: 少数発言の議員は率が極端に振れるため統計的に不安定')
         lines.append('- 出典：国会議事録検索システム（国立国会図書館）★★★★★')
         lines.append('- 集計対象：第1回〜第218回国会')
         lines.append('- 集計日：2026年3月')
-        lines.append(f'- 対象議員数：{detected_count:,}名')
+        lines.append(f'- 曖昧語検出議員数：{detected_count:,}名（うち発言100件以上：{rate_eligible_count:,}名）')
         lines.append(f'- 総発言数：{total_speeches:,}件')
         lines.append('')
 
