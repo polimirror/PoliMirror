@@ -1,5 +1,5 @@
 """
-PoliMirror - スコアウィジェット生成 v4.2.0
+PoliMirror - スコアウィジェット生成 v4.3.0
 
 新レイアウト: 五角形レーダーチャート（大・単独行）→ 4指標カード → プログレスバー5軸
 SVG: viewBox 500x500, 中心(250,250), 半径160, ラベル font-size 16
@@ -155,7 +155,10 @@ def generate_widget(name, pol_data, rank, total_pol):
         rate = pol_data["ambiguous_rate"]
         speech_count = pol_data["speech_count"]
         total_amb = pol_data["total_ambiguous"]
-        top_word = pol_data.get("top_word", "")
+        by_word = pol_data.get("by_word", {})
+
+        # TOP3曖昧語を取得
+        top3 = sorted(by_word.items(), key=lambda x: x[1], reverse=True)[:3]
 
         scores = calc_scores(rate, speech_count)
         rate_pct = f"{rate * 100:.1f}"
@@ -168,19 +171,32 @@ def generate_widget(name, pol_data, rank, total_pol):
         bars += bar_html("説明の具体性", scores[3], "曖昧語分析から算出")
         bars += bar_html("立場の安定性", 0, "データ収集中", is_pending=True)
 
+        # TOP3 HTML
+        top3_spans = ""
+        for i, (word, count) in enumerate(top3, 1):
+            top3_spans += f'<span>{i}位「{word}」<span style="color:#888;font-size:12px"> {count:,}回</span></span>\n'
+
+        top3_html = f"""<div style="margin:12px 0;padding:12px 16px;background:#f5f5f3;border-radius:8px">
+<div style="font-size:13px;color:#888;margin-bottom:8px">よく使う曖昧語 TOP3</div>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+{top3_spans}</div>
+</div>"""
+
         html = f"""## 誠実さスコア（暫定）
 
 > ⚠️ このスコアは暫定値です。順次データを拡充します。
 
+<p style="font-size:14px;color:#555;margin-bottom:12px;padding:10px 14px;background:#f9f9f7;border-left:3px solid #1a4fa0;border-radius:0 4px 4px 0">曖昧語とは「しっかりと」「適切に」「前向きに検討」など、具体的な数値・期限・行動を含まない国会答弁表現。使用率が高いほど、発言が抽象的な傾向がある。</p>
+
 <div>
 {svg}
 </div>
-<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:10px;margin:16px 0">
+<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin:16px 0">
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">曖昧語使用回数</div><div style="font-size:26px;font-weight:500">{total_amb:,}回</div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">全議員順位</div><div style="font-size:26px;font-weight:500">{rank}<span style="font-size:15px;color:#888">/{total_pol:,}</span></div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">使用率</div><div style="font-size:26px;font-weight:500">{rate_pct}%</div></div>
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">最多使用語</div><div style="font-size:20px;font-weight:500">「{top_word}」</div></div>
 </div>
+{top3_html}
 <div style="margin-top:8px">
 {bars}
 </div>
@@ -196,7 +212,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("スコアウィジェット生成 v4.2.0")
+        print("スコアウィジェット生成 v4.3.0")
         print("=" * 60)
 
         with open(RANKING_JSON, "r", encoding="utf-8") as f:
