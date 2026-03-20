@@ -1,5 +1,5 @@
 """
-PoliMirror - 曖昧語ランキングページ生成 v1.0.0
+PoliMirror - 曖昧語ランキングページ生成 v1.1.0
 
 data/processed/ambiguous_ranking.json と ambiguous_word_total.json を読み込み、
 quartz/content/rankings/曖昧語ランキング.md を生成する。
@@ -33,7 +33,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("曖昧語ランキングページ生成 v1.0.0")
+        print("曖昧語ランキングページ生成 v1.1.0")
         print("=" * 60)
 
         # データ読み込み
@@ -85,34 +85,40 @@ def run():
             lines.append(f'| {i} | {word} | {cnt:,}回 |')
         lines.append('')
 
-        # 議員別 TOP20
-        lines.append('## 議員別 曖昧語使用回数 TOP20')
+        # 使用率ランキング TOP20（メイン）
+        lines.append('## 曖昧語 使用率ランキング TOP20')
         lines.append('')
-        lines.append('| 順位 | 議員名 | 政党 | 院 | 使用回数 | 発言数 | 使用率 | 最多使用語 |')
-        lines.append('|---:|---|---|---|---:|---:|---:|---|')
-        for i, p in enumerate(politicians[:20], 1):
-            name_link = link_cache.get(p["name"], p["name"])
-            party_short = p["party"].replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
-            house_short = p["house"].replace("衆議院", "衆").replace("参議院", "参").replace("両院", "衆参")
-            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
-            lines.append(f'| {i} | {name_link} | {party_short} | {house_short} | {p["total_ambiguous"]:,} | {p["speech_count"]:,} | {rate_pct} | {p["top_word"]} |')
-        lines.append('')
-
-        # 使用率ランキング TOP10（発言100件以上）
-        lines.append('## 使用率ランキング TOP10')
-        lines.append('（最低発言数100件以上の議員のみ）')
+        lines.append('> ※ 最低発言数100件以上の議員のみ対象（発言数が少ない議員は率が偏るため除外）')
         lines.append('')
         rate_ranking = [p for p in politicians if p["speech_count"] >= 100 and p["total_ambiguous"] > 0]
         rate_ranking.sort(key=lambda x: x["ambiguous_rate"], reverse=True)
-        lines.append('| 順位 | 議員名 | 政党 | 使用率 | 使用回数/発言数 |')
-        lines.append('|---:|---|---|---:|---|')
-        for i, p in enumerate(rate_ranking[:10], 1):
-            name_link = link_cache.get(p["name"], p["name"])
+
+        # リンク解決（TOP20に入る議員分を追加）
+        for p in rate_ranking[:20]:
             if p["name"] not in link_cache:
-                name_link = find_politician_link(p["name"], p["party"], p["house"])
+                link_cache[p["name"]] = find_politician_link(p["name"], p["party"], p["house"])
+
+        lines.append('| 順位 | 議員名 | 政党 | 使用率 | 使用回数 | 発言数 |')
+        lines.append('|---:|---|---|---:|---:|---:|')
+        for i, p in enumerate(rate_ranking[:20], 1):
+            name_link = link_cache.get(p["name"], p["name"])
             party_short = p["party"].replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
             rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
-            lines.append(f'| {i} | {name_link} | {party_short} | {rate_pct} | {p["total_ambiguous"]:,}/{p["speech_count"]:,} |')
+            lines.append(f'| {i} | {name_link} | {party_short} | {rate_pct} | {p["total_ambiguous"]:,} | {p["speech_count"]:,} |')
+        lines.append('')
+
+        # 使用回数ランキング TOP20（参考）
+        lines.append('## 曖昧語 使用回数ランキング TOP20（参考）')
+        lines.append('')
+        lines.append('> ※ 在任期間が長いほど回数が増えるため参考値')
+        lines.append('')
+        lines.append('| 順位 | 議員名 | 政党 | 使用回数 | 使用率 | 発言数 |')
+        lines.append('|---:|---|---|---:|---:|---:|')
+        for i, p in enumerate(politicians[:20], 1):
+            name_link = link_cache.get(p["name"], p["name"])
+            party_short = p["party"].replace("自由民主党・無所属の会", "自民").replace("立憲民主党・無所属", "立憲").replace("日本維新の会", "維新").replace("公明党", "公明").replace("自由民主党", "自民")
+            rate_pct = f'{p["ambiguous_rate"]*100:.1f}%'
+            lines.append(f'| {i} | {name_link} | {party_short} | {p["total_ambiguous"]:,} | {rate_pct} | {p["speech_count"]:,} |')
         lines.append('')
 
         # データについて

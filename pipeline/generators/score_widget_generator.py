@@ -1,5 +1,5 @@
 """
-PoliMirror - スコアウィジェット生成 v4.3.0
+PoliMirror - スコアウィジェット生成 v4.4.0
 
 新レイアウト: 五角形レーダーチャート（大・単独行）→ 4指標カード → プログレスバー5軸
 SVG: viewBox 500x500, 中心(250,250), 半径160, ラベル font-size 16
@@ -193,7 +193,7 @@ def generate_widget(name, pol_data, rank, total_pol):
 </div>
 <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin:16px 0">
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">曖昧語使用回数</div><div style="font-size:26px;font-weight:500">{total_amb:,}回</div></div>
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">全議員順位</div><div style="font-size:26px;font-weight:500">{rank}<span style="font-size:15px;color:#888">/{total_pol:,}</span></div></div>
+<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">使用率順位</div><div style="font-size:26px;font-weight:500">{rank}<span style="font-size:15px;color:#888">/{total_pol:,}名</span></div></div>
 <div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">使用率</div><div style="font-size:26px;font-weight:500">{rate_pct}%</div></div>
 </div>
 {top3_html}
@@ -212,21 +212,29 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("スコアウィジェット生成 v4.3.0")
+        print("スコアウィジェット生成 v4.4.0")
         print("=" * 60)
 
         with open(RANKING_JSON, "r", encoding="utf-8") as f:
             ranking_data = json.load(f)
 
         politicians = ranking_data["politicians"]
-        total_pol = len([p for p in politicians if p["total_ambiguous"] > 0])
+
+        # 使用率順ランキング（発言100件以上）
+        rate_eligible = [p for p in politicians if p["speech_count"] >= 100 and p["total_ambiguous"] > 0]
+        rate_eligible.sort(key=lambda x: x["ambiguous_rate"], reverse=True)
+        total_pol = len(rate_eligible)
 
         rank_map = {}
-        for i, p in enumerate(politicians, 1):
+        for i, p in enumerate(rate_eligible, 1):
             rank_map[p["name"]] = (i, p)
 
-        renho_rank = sum(1 for p in politicians if p["total_ambiguous"] > RENHO_DATA["total_ambiguous"]) + 1
-        rank_map["蓮舫"] = (renho_rank, RENHO_DATA)
+        # 蓮舫は発言数50なので対象外だがハードコード分を追加
+        if RENHO_DATA["speech_count"] >= 100:
+            renho_rank = sum(1 for p in rate_eligible if p["ambiguous_rate"] > RENHO_DATA["ambiguous_rate"]) + 1
+            rank_map["蓮舫"] = (renho_rank, RENHO_DATA)
+        else:
+            rank_map["蓮舫"] = ("—", RENHO_DATA)
 
         success = 0
         for name in TARGETS:
