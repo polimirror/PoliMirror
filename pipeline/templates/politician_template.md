@@ -17,7 +17,7 @@ tags: [{{tags}}]
 | 院 | {{house}} | {{house_source}} |
 | 政党 | {{party_linked}} | {{party_source}} |
 | 選挙区 | {{constituency_linked}} | {{constituency_source}} |
-| 当選回数 | {{terms}}回 | {{terms_source}} |
+| 当選回数 | {{terms_display}} | {{terms_source}} |
 | ステータス | {{status}} | {{status_source}} |
 
 ## 発言・活動記録

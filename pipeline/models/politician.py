@@ -25,7 +25,7 @@ class Politician:
     status: str = "現職"             # 現職 / 元職 / 落選
 
     # 任期
-    terms: int = 0                   # 当選回数
+    terms: Optional[int] = None       # 当選回数（None=不明）
     first_elected: Optional[int] = None  # 初当選年
 
     # プロフィール

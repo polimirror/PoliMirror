@@ -1,9 +1,9 @@
 """
 PoliMirror - 参議院議員データ収集
-v1.0.0
+v1.1.0
 
 参議院公式サイトから現職議員の一覧を取得する。
-https://www.sangiin.go.jp/japanese/joho1/kousei/giin/216/giin.htm
+https://www.sangiin.go.jp/japanese/joho1/kousei/giin/220/giin.htm
 
 ページ構成: 1ページに全議員（50音順テーブル）
 エンコーディング: UTF-8
@@ -11,6 +11,7 @@ https://www.sangiin.go.jp/japanese/joho1/kousei/giin/216/giin.htm
   ヘッダー(7列): [空, 議員氏名, 読み方, 会派, 選挙区, 任期満了, 空]
   データ(6列):   [議員氏名(リンク付), 読み方, 会派, 選挙区, 任期満了, 空]
   ※ 行頭マーカー（あ/か/さ等）はrowspanで別セル
+  ※ 当選回数は一覧テーブルに存在しないため、各議員のプロフィールページから取得
 """
 import json
 import os
@@ -92,6 +93,53 @@ def build_profile_url(relative_href: str) -> Optional[str]:
             return f"{PROFILE_BASE}/{match.group(1)}"
         return None
     except Exception:
+        traceback.print_exc()
+        return None
+
+
+def parse_terms_from_profile(html: str) -> Optional[int]:
+    """プロフィールHTMLから当選回数を抽出する。
+
+    参議院プロフィールページはdl/dt/dd構造:
+      <dl class="profile-detail">
+        <dt>選挙区・当選年・当選回</dt>
+        <dd>比例代表選出／平成19年、28年、令和4年／当選 3 回</dd>
+      </dl>
+    """
+    try:
+        soup = BeautifulSoup(html, 'lxml')
+
+        # dl.profile-detail 内の dd から「当選 X 回」を探す
+        for dl in soup.find_all('dl', class_='profile-detail'):
+            dd = dl.find('dd')
+            if dd:
+                dd_text = dd.get_text()
+                match = re.search(r'当選\s*(\d+)\s*回', dd_text)
+                if match:
+                    return int(match.group(1))
+
+        # フォールバック: ページ全テキストから探す
+        full_text = soup.get_text()
+        match = re.search(r'当選\s*(\d+)\s*回', full_text)
+        if match:
+            return int(match.group(1))
+
+        return None
+    except Exception:
+        traceback.print_exc()
+        return None
+
+
+def fetch_terms_from_profile(session: requests.Session, profile_url: str) -> Optional[int]:
+    """プロフィールページから当選回数を取得する"""
+    try:
+        time.sleep(REQUEST_INTERVAL)
+        resp = session.get(profile_url, timeout=30)
+        resp.raise_for_status()
+        resp.encoding = 'utf-8'
+        return parse_terms_from_profile(resp.text)
+    except Exception:
+        logger.warning(f"プロフィール取得失敗: {profile_url}")
         traceback.print_exc()
         return None
 
@@ -227,7 +275,28 @@ def collect_all() -> list[Politician]:
             return []
 
         politicians = parse_page(html, url)
-        print(f"取得完了: {len(politicians)}名")
+        print(f"一覧取得完了: {len(politicians)}名")
+
+        # 各議員のプロフィールページから当選回数を取得
+        print("\n当選回数を取得中（プロフィールページ）...")
+        terms_ok = 0
+        terms_fail = 0
+        for i, pol in enumerate(politicians, 1):
+            if pol.official_page:
+                terms = fetch_terms_from_profile(session, pol.official_page)
+                if terms is not None:
+                    pol.terms = terms
+                    terms_ok += 1
+                else:
+                    pol.terms = None
+                    terms_fail += 1
+            else:
+                pol.terms = None
+                terms_fail += 1
+            if i % 50 == 0:
+                print(f"  {i}/{len(politicians)}名処理済 (成功:{terms_ok} 不明:{terms_fail})")
+        print(f"  当選回数取得完了: 成功{terms_ok}名 / 不明{terms_fail}名")
+
         return politicians
 
     except Exception:
@@ -273,7 +342,7 @@ def main():
         sys.stdout.reconfigure(encoding='utf-8')
 
         print("=" * 60)
-        print("PoliMirror - 参議院議員データ収集 v1.0.0")
+        print("PoliMirror - 参議院議員データ収集 v1.1.0")
         print("=" * 60)
         print(f"開始: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print()
