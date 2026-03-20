@@ -158,12 +158,12 @@ def _format_speech_entry(speech: dict) -> str:
         else:
             source_link = f'{meeting} 第{session}回国会'
 
-        entry = f'''<details>
-<summary style="cursor:pointer;padding:8px 0;border-bottom:1px solid #e5e5e3;list-style:none;display:flex;justify-content:space-between;align-items:center">
-<span style="font-size:14px;font-weight:500;color:#1a1a1a">{date}｜{meeting}｜{house}</span>
+        entry = f'''<details style="margin:0">
+<summary style="cursor:pointer;padding:8px 4px;border-bottom:1px solid #e5e5e3;list-style:none;display:flex;justify-content:space-between">
+<span style="font-size:14px">{date}｜{meeting}｜{house}</span>
 <span style="font-size:12px;color:#888">▶ 展開</span>
 </summary>
-<div style="padding:12px 0 16px;border-bottom:1px solid #f0f0ee">
+<div style="padding:12px 8px 16px;background:#fafaf8">
 出典：国会議事録検索システム（国立国会図書館）<br>
 <strong>発言要旨:</strong> {summary}<br>
 <strong>出典:</strong> {source_link}
@@ -213,24 +213,50 @@ def write_speeches(name_ja: str, limit: int = 10) -> dict:
             print(f"  [SKIP] 有効な発言エントリなし: {name_ja}")
             return {"status": "skipped", "count": 0, "reason": "エントリ生成失敗"}
 
-        speech_section = "\n".join(entries)
+        inner_entries = "\n".join(entries)
+        entry_count = len(entries)
+
+        # 二重アコーディオン構造で包む
+        speech_section = f"""<details style="margin:16px 0">
+<summary style="cursor:pointer;font-size:18px;font-weight:500;padding:8px 0;border-bottom:2px solid #1a4fa0;list-style:none;display:flex;justify-content:space-between">
+<span>発言・活動記録</span>
+<span style="font-size:13px;color:#888;font-weight:400">{entry_count}件 ▶ クリックで展開</span>
+</summary>
+<div style="padding-top:8px">
+
+{inner_entries}
+
+</div>
+</details>"""
 
         # 4. MDファイルを読み込んで発言セクションを更新
         with open(md_path, "r", encoding="utf-8") as f:
             content = f.read()
 
         # 「## 発言・活動記録」から「## 投票行動」の間を書き換え
-        pattern = r"(## 発言・活動記録\n)(.*?)(## 投票行動)"
-        match = re.search(pattern, content, re.DOTALL)
-        if not match:
+        # 既に二重アコーディオン化されている場合も対応
+        pattern_accordion = r"(<!--.*?-->\s*)?<details style=\"margin:16px 0\">.*?</details>\s*(?=## 投票行動)"
+        pattern_heading = r"(## 発言・活動記録\n)(.*?)(## 投票行動)"
+
+        match_accordion = re.search(pattern_accordion, content, re.DOTALL)
+        match_heading = re.search(pattern_heading, content, re.DOTALL)
+
+        if match_accordion and "発言・活動記録" in content:
+            # 既に二重アコーディオン化済み → 置換
+            comment_match = re.search(r"(<!--.*?-->)", match_accordion.group(0), re.DOTALL)
+            comment_block = comment_match.group(1) + "\n\n" if comment_match else ""
+            replacement = f"{comment_block}{speech_section}\n\n"
+            new_section = content[:match_accordion.start()] + replacement + content[match_accordion.end():]
+            content = new_section
+        elif match_heading:
+            # 旧形式 → 書き換え
+            comment_match = re.search(r"(<!--.*?-->)", match_heading.group(2), re.DOTALL)
+            comment_block = comment_match.group(1) + "\n\n" if comment_match else ""
+            new_section = f"\n{comment_block}{speech_section}\n\n{match_heading.group(3)}"
+            content = content[:match_heading.start()] + new_section + content[match_heading.end():]
+        else:
             print(f"  [WARN] 発言セクションが見つかりません: {md_path}")
             return {"status": "error", "count": 0, "reason": "セクション不在"}
-
-        # コメントブロックは残す
-        comment_match = re.search(r"(<!--.*?-->)", match.group(2), re.DOTALL)
-        comment_block = comment_match.group(1) + "\n\n" if comment_match else ""
-
-        new_section = f"{match.group(1)}\n{comment_block}{speech_section}\n\n{match.group(3)}"
         content = content[:match.start()] + new_section + content[match.end():]
 
         # 5. 書き戻し
