@@ -468,7 +468,29 @@ export async function handleBuild(argv) {
       return serve()
     })
 
-    server.listen(argv.port)
+    // Try HTTP server ports with retry on EADDRINUSE
+    let httpPort = argv.port
+    const tryHttpPort = (port) => new Promise((resolve, reject) => {
+      server.once("listening", () => resolve(port))
+      server.once("error", (err) => reject(err))
+      server.listen(port)
+    })
+
+    for (let attempt = 0; attempt < 10; attempt++) {
+      try {
+        httpPort = await tryHttpPort(httpPort)
+        break
+      } catch (err) {
+        if (err.code === "EADDRINUSE") {
+          console.log(styleText("yellow", `HTTP port ${httpPort} in use, trying ${httpPort + 1}...`))
+          server.removeAllListeners("error")
+          server.removeAllListeners("listening")
+          httpPort++
+        } else {
+          throw err
+        }
+      }
+    }
 
     // Try WebSocket ports with proper async error handling
     let wsPort = argv.wsPort
@@ -505,9 +527,12 @@ export async function handleBuild(argv) {
     console.log(
       styleText(
         "cyan",
-        `Started a Quartz server listening at http://localhost:${argv.port}${argv.baseDir}`,
+        `Started a Quartz server listening at http://localhost:${httpPort}${argv.baseDir}`,
       ),
     )
+    if (httpPort !== argv.port) {
+      console.log(styleText("yellow", `HTTP port ${argv.port} was busy, using ${httpPort} instead`))
+    }
     if (wsPort !== argv.wsPort) {
       console.log(styleText("yellow", `WebSocket hot-reload on port ${wsPort} (default ${argv.wsPort} was busy)`))
     }
