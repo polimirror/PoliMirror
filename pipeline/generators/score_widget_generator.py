@@ -1,8 +1,8 @@
 """
-PoliMirror - スコアウィジェット生成 v4.0.0
+PoliMirror - スコアウィジェット生成 v4.1.0
 
 新レイアウト: 五角形レーダーチャート（大・単独行）→ 4指標カード → プログレスバー5軸
-SVG: viewBox 500x500, 中心(250,250), 半径180, ラベル font-size 14
+SVG: viewBox 400x400, 中心(200,200), 半径130, ラベル font-size 13
 """
 import json
 import math
@@ -37,7 +37,7 @@ AXES = [
     (198, "立場の安定性"),
 ]
 
-CX, CY, R = 250, 250, 180
+CX, CY, R = 200, 200, 130
 
 
 def find_md_file(name):
@@ -78,10 +78,10 @@ def pentagon_points(radius):
 
 
 def generate_svg(scores):
-    """SVGレーダーチャートを生成 (viewBox 500x500, 中心250,250, 半径180)"""
+    """SVGレーダーチャートを生成 (viewBox 400x400, 中心200,200, 半径130)"""
     try:
         lines = []
-        lines.append('<svg viewBox="0 0 500 500" width="100%" xmlns="http://www.w3.org/2000/svg" style="display:block;margin:0 auto">')
+        lines.append('<svg viewBox="0 0 400 400" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width:400px;display:block;margin:0 auto">')
 
         # 背景グリッド（4重五角形）
         for pct in [25, 50, 75, 100]:
@@ -121,10 +121,10 @@ def generate_svg(scores):
                 if angle != 90:
                     anchor = "start"
             color = "#555" if i not in [2, 4] else "#aaa"
-            lines.append(f'<text x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}" font-size="14" fill="{color}" dominant-baseline="central">{label}</text>')
+            lines.append(f'<text x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}" font-size="13" fill="{color}" dominant-baseline="central">{label}</text>')
 
         # 暫定表示
-        lines.append(f'<text x="{CX}" y="490" text-anchor="middle" font-size="12" fill="#aaa">⚠️ 暫定値</text>')
+        lines.append(f'<text x="{CX}" y="390" text-anchor="middle" font-size="12" fill="#aaa">⚠️ 暫定値</text>')
 
         lines.append('</svg>')
         return "\n".join(lines)
@@ -137,15 +137,15 @@ def bar_html(label, score, note, is_pending=False):
     """プログレスバー1行のHTML"""
     if is_pending:
         return f"""<div style="margin-bottom:10px">
-<div style="font-size:13px"><span>{label}</span> <span style="color:#aaa">--</span></div>
+<div style="font-size:15px"><span>{label}</span> <span style="color:#aaa">--</span></div>
 <div style="background:#e8e8e4;border-radius:4px;height:8px;overflow:hidden"><div style="width:0%;height:100%;background:#ccc;border-radius:4px"></div></div>
-<div style="font-size:11px;color:#aaa">{note}</div>
+<div style="font-size:13px;color:#aaa">{note}</div>
 </div>"""
     color = "#1a4fa0" if score >= 60 else "#d4a017" if score >= 40 else "#c0392b"
     return f"""<div style="margin-bottom:10px">
-<div style="font-size:13px"><span>{label}</span> <span style="font-weight:bold">{score}/100</span></div>
+<div style="font-size:15px"><span>{label}</span> <span style="font-weight:bold">{score}/100</span></div>
 <div style="background:#e8e8e4;border-radius:4px;height:8px;overflow:hidden"><div style="width:{score}%;height:100%;background:{color};border-radius:4px"></div></div>
-<div style="font-size:11px;color:#aaa">{note}</div>
+<div style="font-size:13px;color:#aaa">{note}</div>
 </div>"""
 
 
@@ -176,10 +176,10 @@ def generate_widget(name, pol_data, rank, total_pol):
 {svg}
 </div>
 <div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:10px;margin:16px 0">
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">曖昧語使用回数</div><div style="font-size:22px;font-weight:500">{total_amb:,}回</div></div>
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">全議員順位</div><div style="font-size:22px;font-weight:500">{rank}<span style="font-size:13px;color:#888">/{total_pol:,}</span></div></div>
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">使用率</div><div style="font-size:22px;font-weight:500">{rate_pct}%</div></div>
-<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:11px;color:#888">最多使用語</div><div style="font-size:16px;font-weight:500">「{top_word}」</div></div>
+<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">曖昧語使用回数</div><div style="font-size:26px;font-weight:500">{total_amb:,}回</div></div>
+<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">全議員順位</div><div style="font-size:26px;font-weight:500">{rank}<span style="font-size:15px;color:#888">/{total_pol:,}</span></div></div>
+<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">使用率</div><div style="font-size:26px;font-weight:500">{rate_pct}%</div></div>
+<div style="background:#f5f5f3;border-radius:8px;padding:12px;text-align:center"><div style="font-size:14px;color:#888">最多使用語</div><div style="font-size:20px;font-weight:500">「{top_word}」</div></div>
 </div>
 <div style="margin-top:8px">
 {bars}
@@ -196,7 +196,7 @@ def run():
     """メイン処理"""
     try:
         print("=" * 60)
-        print("スコアウィジェット生成 v4.0.0")
+        print("スコアウィジェット生成 v4.1.0")
         print("=" * 60)
 
         with open(RANKING_JSON, "r", encoding="utf-8") as f:
