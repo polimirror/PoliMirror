@@ -1,6 +1,6 @@
 """
 PoliMirror - 発言データMarkdown書き戻し
-v1.1.0
+v2.0.0 - アコーディオン形式（<details><summary>）対応
 
 data/speeches/{議員名}/{年}/{speechID}.json の発言データを
 該当議員のMarkdownファイル（quartz/content/politicians/）の
@@ -142,7 +142,7 @@ def _load_speeches(name: str, limit: int = 10) -> list[dict]:
 
 
 def _format_speech_entry(speech: dict) -> str:
-    """発言1件をMarkdownエントリに変換"""
+    """発言1件をアコーディオン形式HTMLに変換"""
     try:
         date = speech.get("date", "不明")
         meeting = speech.get("nameOfMeeting", "不明")
@@ -153,13 +153,22 @@ def _format_speech_entry(speech: dict) -> str:
 
         summary = _clean_speech_text(speech_text)
 
-        entry = f"### {date}｜{meeting}｜{house}\n"
-        entry += f"<small>出典：国会議事録検索システム（国立国会図書館）</small>\n"
-        entry += f"**発言要旨:** {summary}\n"
         if speech_url:
-            entry += f"**出典:** [{meeting} 第{session}回国会]({speech_url})\n"
+            source_link = f'<a href="{speech_url}" target="_blank">{meeting} 第{session}回国会</a>'
         else:
-            entry += f"**出典:** {meeting} 第{session}回国会\n"
+            source_link = f'{meeting} 第{session}回国会'
+
+        entry = f'''<details>
+<summary style="cursor:pointer;padding:8px 0;border-bottom:1px solid #e5e5e3;list-style:none;display:flex;justify-content:space-between;align-items:center">
+<span style="font-size:14px;font-weight:500;color:#1a1a1a">{date}｜{meeting}｜{house}</span>
+<span style="font-size:12px;color:#888">▶ 展開</span>
+</summary>
+<div style="padding:12px 0 16px;border-bottom:1px solid #f0f0ee">
+出典：国会議事録検索システム（国立国会図書館）<br>
+<strong>発言要旨:</strong> {summary}<br>
+<strong>出典:</strong> {source_link}
+</div>
+</details>'''
 
         return entry
     except Exception:
