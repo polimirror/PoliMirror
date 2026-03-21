@@ -12,7 +12,7 @@ export default (() => {
           <div class="footer-top">
             <div class="footer-brand">
               <span class="footer-logo">PoliMirror</span>
-              <p class="footer-mission">政治家の言葉を、すべて記録する。それだけで、政治は変わる。</p>
+              <p class="footer-mission">政治家の言葉をすべて記録する。それだけで政治は変わる。</p>
             </div>
             <div class="footer-stats">
               <div class="footer-stat">
@@ -71,7 +71,7 @@ export default (() => {
               <a href="https://x.com/polimirror" target="_blank" rel="noopener">公式Xアカウント</a>にて公開します。
             </p>
             <p class="footer-copy">
-              © 2026 PoliMirror　|　最終更新: {today}　|　是々非々はユーザーが決める。私たちは鏡を置くだけ。
+              © 2026 PoliMirror　|　最終更新: {today}　|　是々非々はあなたが決める。私たちは鏡を置くだけ。
             </p>
           </div>
 
