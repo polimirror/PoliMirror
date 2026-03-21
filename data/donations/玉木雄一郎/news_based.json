@@ -1,0 +1,53 @@
+{
+  "politician": "玉木雄一郎",
+  "source_type": "news_based",
+  "reliability": "★★★★☆",
+  "note": "報道記事ベース（Wikipedia経由）・一次情報（政治資金収支報告書）ではない",
+  "fund_management_org": "国民民主党",
+  "faction": "国民民主党",
+  "party_events": [],
+  "finance_issues": [
+    {
+      "detail": "政治資金規正法]]が「政治とカネ」の問題の再発防止にどの程度の効果があるかについて、「まったくない」と回答",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書 |access-date=2024-11-11 |archive-url=https://web.archive.org/web/20171008041801/http://openpolitics.or.jp/pdf/370301/2012.pdf |",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】雄志会（令和4年分 定期公表） | publisher=総務省 | date=2023-11-24 | accessdate=2024-3-28 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】雄志会（令和5年分 定期公表） | publisher=総務省 | date=2024-11-29 | accessdate=2025-06-13 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】たまき雄一郎後援会（平成28年分 定期公表） |website=政治資金センター |publisher=香川県選挙管理委員会 |date= |accessdate=2022-7-18 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】たまき雄一郎後援会（令和4年分 定期公表） | publisher=香川県選挙管理委員会 | date=2023-11-24 | accessdate=2024-3-28 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】たまき雄一郎後援会（令和5年分 定期公表） | publisher=香川県選挙管理委員会 | date=2024-11-29 | accessdate=2025-06-13 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    },
+    {
+      "detail": "収支報告書】国民民主党（令和4年分 定期公表） | publisher=総務省 | date=2023-11-24 | accessdate=2024-3-28 |ref= {{Sfnref|",
+      "source": "Wikipedia（報道記事引用）",
+      "reliability": "★★★★☆"
+    }
+  ],
+  "donations_reported": [],
+  "collected_at": "2026-03-21T12:16:01.539058"
+}

@@ -1,0 +1,21 @@
+{
+  "politician": "河野太郎",
+  "source_type": "news_based",
+  "reliability": "★★★★☆",
+  "note": "報道記事ベース（Wikipedia経由）・一次情報（政治資金収支報告書）ではない",
+  "fund_management_org": "河野太郎事務所",
+  "faction": "無派閥",
+  "party_events": [
+    {
+      "detail": "政治資金パーティーで「私はよく地元で雨男と言われました",
+      "source": "Wikipedia"
+    },
+    {
+      "detail": "政治資金パーティーで、「私はよく地元で雨男と言われました",
+      "source": "Wikipedia"
+    }
+  ],
+  "finance_issues": [],
+  "donations_reported": [],
+  "collected_at": "2026-03-21T12:15:34.110194"
+}

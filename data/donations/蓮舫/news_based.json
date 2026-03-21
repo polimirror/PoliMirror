@@ -1,0 +1,17 @@
+{
+  "politician": "蓮舫",
+  "source_type": "news_based",
+  "reliability": "★★★★☆",
+  "note": "報道記事ベース（Wikipedia経由）・一次情報（政治資金収支報告書）ではない",
+  "fund_management_org": "蓮舫事務所",
+  "faction": "立憲民主党",
+  "party_events": [],
+  "finance_issues": [],
+  "donations_reported": [
+    {
+      "detail": "政治献金|企業・団体献金]]は、私は一切受け取っておりません",
+      "source": "Wikipedia（報道記事引用）"
+    }
+  ],
+  "collected_at": "2026-03-21T12:15:51.243851"
+}
