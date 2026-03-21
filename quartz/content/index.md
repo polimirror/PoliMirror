@@ -1,10 +1,5 @@
 ---
-title: "PoliMirror｜政治の鏡"
----
-
-<p style="font-size:22px;color:#1a4fa0;font-weight:500;margin:0 0 4px">PoliMirror｜政治の鏡</p>
-<p style="font-size:16px;color:#555;margin:0 0 32px">政治家の言葉をすべて記録する。それだけで政治は変わる。</p>
-
+title: "PoliMirror｜政治の鏡　政治家の言葉をすべて記録する。それだけで政治は変わる。"
 ---
 
 ## 📊 最新データ
@@ -23,7 +18,6 @@ title: "PoliMirror｜政治の鏡"
 - [[politicians/衆議院/|衆議院議員一覧（465名）]]
 - [[politicians/参議院/|参議院議員一覧（247名）]]
 
-**注目の議員（データ充実）**
 [[politicians/衆議院/自民/安倍 晋三|安倍晋三]] / [[politicians/衆議院/自民/岸田 文雄|岸田文雄]] / [[politicians/衆議院/自民/河野 太郎|河野太郎]] / [[politicians/衆議院/自民/高市 早苗|高市早苗]] / [[politicians/衆議院/自民/石破 茂|石破茂]] / [[politicians/衆議院/自民/小泉 進次郎|小泉進次郎]] / [[politicians/参議院/立憲/蓮舫|蓮舫]] / [[politicians/衆議院/立憲/枝野 幸男|枝野幸男]] / [[politicians/参議院/れ新/山本 太郎|山本太郎]]
 
 ---

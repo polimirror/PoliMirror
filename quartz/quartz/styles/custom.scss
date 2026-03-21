@@ -319,6 +319,11 @@ footer {
   padding-bottom: 2.5rem;
 }
 
+/* トップページの日付非表示 */
+.page-header .content-meta {
+  display: none !important;
+}
+
 /* スマホ */
 @media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
