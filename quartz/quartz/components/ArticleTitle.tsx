@@ -25,7 +25,8 @@ ArticleTitle.css = `
 .article-description {
   font-size: 15px;
   color: #888;
-  margin: -12px 0 0 0;
+  margin: 8px 0 16px;
+  line-height: 1.5;
 }
 `
 
