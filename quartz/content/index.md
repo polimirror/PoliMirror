@@ -1,8 +1,7 @@
 ---
 title: "PoliMirror｜政治の鏡"
+description: "政治家の言葉をすべて記録する。それだけで政治は変わる。"
 ---
-
-<p style="font-size:15px;color:#888;margin:-8px 0 32px">政治家の言葉をすべて記録する。それだけで政治は変わる。</p>
 
 ## 📊 最新データ
 
