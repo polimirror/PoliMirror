@@ -1,5 +1,19 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+const folderDisplayNames: Record<string, string> = {
+  "docs": "サイト情報",
+  "rankings": "ランキング",
+  "politicians": "議員データ",
+  "地域": "地域別",
+}
+
+const mapFn = (node: FileTrieNode) => {
+  if (folderDisplayNames[node.displayName]) {
+    node.displayName = folderDisplayNames[node.displayName]
+  }
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -34,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open" }),
+    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open", mapFn }),
   ],
   right: [],
 }
@@ -54,7 +68,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open" }),
+    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open", mapFn }),
   ],
   right: [],
 }
