@@ -44,7 +44,7 @@ export default (() => {
               <h4>PoliMirrorについて</h4>
               <ul>
                 <li><a href="/docs/about">このサイトについて</a></li>
-                <li><a href="/docs/policy">データ収集ポリシー</a></li>
+                <li><a href="/docs/collection_policy">データ収集ポリシー</a></li>
                 <li><a href="/docs/reliability">信頼度スコアの基準</a></li>
                 <li><a href="/docs/disclaimer">免責事項</a></li>
               </ul>
@@ -67,7 +67,7 @@ export default (() => {
             </p>
             <p class="footer-disclaimer">
               削除要請は対応の可否にかかわらず、透明性維持のために
-              <a href="/docs/deletion-log">削除要請ログ</a>および
+              <a href="/docs/deletion_requests">削除要請ログ</a>および
               <a href="https://x.com/polimirror" target="_blank" rel="noopener">公式Xアカウント</a>にて公開します。
             </p>
             <p class="footer-copy">
