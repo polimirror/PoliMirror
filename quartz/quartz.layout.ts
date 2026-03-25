@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ folderClickBehavior: "link", folderDefaultState: "open" }),
+    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open" }),
   ],
   right: [],
 }
@@ -54,7 +54,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ folderClickBehavior: "link", folderDefaultState: "open" }),
+    Component.Explorer({ title: "メニュー", folderClickBehavior: "link", folderDefaultState: "open" }),
   ],
   right: [],
 }
