@@ -324,17 +324,16 @@ footer {
   display: none !important;
 }
 
-/* メニュータイトル行（「メニュー ∨」）非表示 */
-.explorer > button.desktop-explorer > h2,
-.explorer > button.desktop-explorer > .fold {
+/* メニュータイトルを非表示・コンテンツは常時表示 */
+button.desktop-explorer {
   display: none !important;
 }
-.explorer > button.desktop-explorer {
-  height: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  min-height: 0 !important;
-  pointer-events: none;
+.explorer-content {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  overflow: visible !important;
 }
 
 /* スマホ */
