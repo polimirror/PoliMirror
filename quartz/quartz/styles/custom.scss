@@ -324,6 +324,11 @@ footer {
   display: none !important;
 }
 
+/* メニュータイトル非表示 */
+.explorer-title {
+  display: none !important;
+}
+
 /* スマホ */
 @media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
