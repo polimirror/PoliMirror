@@ -324,8 +324,19 @@ footer {
   display: none !important;
 }
 
-/* メニュータイトル非表示 */
-.explorer-title {
+/* メニュータイトル（「メニュー ∨」）非表示 */
+button.desktop-explorer {
+  display: none !important;
+}
+
+/* フォルダを常時展開・折りたたみ不可 */
+.folder-outer {
+  visibility: visible !important;
+  grid-template-rows: 1fr !important;
+}
+
+/* フォルダの折りたたみ矢印アイコン非表示 */
+.folder-icon {
   display: none !important;
 }
 
