@@ -324,9 +324,26 @@ footer {
   display: none !important;
 }
 
-/* メニュータイトル（「メニュー ∨」）非表示 */
+/* メニュータイトル（「メニュー ∨」）非表示・折りたたみ無効化 */
 button.desktop-explorer {
-  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  min-height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  pointer-events: none !important;
+}
+
+/* Explorer折りたたみ状態を無効化 */
+.explorer.collapsed {
+  flex: 0 1 auto !important;
+  overflow: visible !important;
+}
+.explorer.collapsed .explorer-content {
+  display: block !important;
+  visibility: visible !important;
+  transform: none !important;
 }
 
 /* フォルダを常時展開・折りたたみ不可 */
