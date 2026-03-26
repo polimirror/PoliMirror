@@ -324,6 +324,19 @@ footer {
   display: none !important;
 }
 
+/* メニュータイトル行（「メニュー ∨」）非表示 */
+.explorer > button.desktop-explorer > h2,
+.explorer > button.desktop-explorer > .fold {
+  display: none !important;
+}
+.explorer > button.desktop-explorer {
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  pointer-events: none;
+}
+
 /* スマホ */
 @media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
