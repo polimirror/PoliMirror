@@ -278,11 +278,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return
 
-    // Check if we're actually on mobile by verifying the desktop button is visible
-    const desktopExplorer = explorer.querySelector(".desktop-explorer") as HTMLElement | null
-    const isMobile = mobileExplorer.checkVisibility() && (!desktopExplorer || !desktopExplorer.checkVisibility())
-
-    if (isMobile) {
+    if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
 

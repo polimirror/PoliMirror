@@ -324,18 +324,6 @@ footer {
   display: none !important;
 }
 
-/* メニュータイトルを非表示・コンテンツは常時表示 */
-button.desktop-explorer {
-  display: none !important;
-}
-.explorer-content {
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  max-height: none !important;
-  overflow: visible !important;
-}
-
 /* スマホ */
 @media (max-width: 768px) {
   #quartz-body { grid-template-columns: 1fr; }
