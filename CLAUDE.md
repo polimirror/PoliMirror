@@ -44,3 +44,16 @@
 - Next.js（SaaSフロントエンド）
 - Quartz（静的サイト公開）
 - GitHub + Cloudflare Pages（ホスティング）
+
+## 本日の実装済み（2026-03-22）
+- 曖昧語分析完了（ambiguous_ranking.json）
+- 誠実さスコアウィジェット（SVG五角形・score_widget_generator.py）
+- 参議院当選回数修正（sangiin.py v1.1.0）
+- OCRパイプライン準備完了（seiji_shikin_ocr.py）
+- トップページ改善・UI修正複数
+
+## 重要ルール追加
+- 曖昧語率は「使用率（含む発言数÷総発言数）」で計算
+  回数ではなく率がメイン指標（公平性のため）
+- スコア設計は与党（答弁側）と野党（質問側）の
+  構造的差異を常に考慮すること
