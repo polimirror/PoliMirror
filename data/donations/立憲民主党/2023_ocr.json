@@ -1,0 +1,63 @@
+{
+  "name": "立憲民主党",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "立憲民主党（１／４）〔表紙、収支の総括表、収入〕",
+    "立憲民主党（２／４）〔支出(1)〕",
+    "立憲民主党（３／４）〔支出(2)〕",
+    "立憲民主党（４／４）〔支出(3）、資産、宣誓書等〕"
+  ],
+  "pdf_count": 4,
+  "pdf_downloaded": 4,
+  "ocr_processed_at": "2026-03-29T12:52:34.690784",
+  "ocr_text_length": 288597,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "organization_donations": [
+      {
+        "organization": "組合宿泊所 ホ テ ル 謹 根 県 松 江 市 十 鳥 町 20",
+        "amount": 2022
+      },
+      {
+        "organization": "連合会 ー神奈川県横浜市中区相塁町4",
+        "amount": 69
+      },
+      {
+        "organization": "連合会 ー 陳 田 県 釈 田 市 御 野 場",
+        "amount": 1
+      },
+      {
+        "organization": "連合会 ー ド ー山形県山形市松波4",
+        "amount": 8
+      },
+      {
+        "organization": "連合会 和 歌 山 県 和 欲 山 市 九 番 一",
+        "amount": 0
+      },
+      {
+        "organization": "連合会 山 梨 県 甲 府 市 丸 の 内",
+        "amount": 3
+      },
+      {
+        "organization": "連合会 謀 先 口 県 鹿 屈 山 市 下 荒 目 に",
+        "amount": 6
+      },
+      {
+        "organization": "連合会\n\n石 川 県 金 沢 市 鞍 月 4 目",
+        "amount": 133
+      },
+      {
+        "organization": "連合会 ー島取県罠取市賀露町mg",
+        "amount": 2
+      }
+    ],
+    "party_events": []
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "processed_at": "2026-03-29T15:04:39.975819",
+  "target_year": "2023",
+  "version": "v2.1.0",
+  "total_targets": 17,
+  "total_pdfs_processed": 48,
+  "success": 17,
+  "skipped_ocr": 0,
+  "errors": 0,
+  "skipped_prefectural": [
+    "安倍晋三",
+    "岸田文雄",
+    "田村憲久",
+    "加藤勝信",
+    "西村康稔",
+    "上川陽子",
+    "枝野幸男",
+    "河野太郎",
+    "野田佳彦",
+    "梶山弘志",
+    "前原誠司",
+    "小泉純一郎",
+    "赤羽一嘉",
+    "鈴木俊一",
+    "細野豪志",
+    "斉藤鉄夫",
+    "世耕弘成",
+    "金子恵美",
+    "後藤茂之",
+    "橋本龍太郎",
+    "小泉進次郎",
+    "石橋通宏",
+    "柴山昌彦",
+    "石井啓一",
+    "野田聖子",
+    "塩川鉄也",
+    "笠浩史",
+    "岩屋毅",
+    "中谷元",
+    "齋藤健",
+    "小熊慎司",
+    "萩生田光一",
+    "森本真治",
+    "小野寺五典",
+    "舟山康江",
+    "阿部俊子",
+    "浜田靖一",
+    "足立康史",
+    "山下貴司",
+    "永岡桂子",
+    "松野博一"
+  ],
+  "results": [
+    {
+      "name": "林芳正",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 17,
+      "organizations": 17,
+      "events": 6
+    },
+    {
+      "name": "高市早苗",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "麻生太郎",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 2,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "中野洋昌",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "茂木敏充",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 2,
+      "corporations": 1,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "石破茂",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "下村博文",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "浜口誠",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "鈴木馨祐",
+      "type": "politician",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "自由民主党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 11,
+      "corporations": 9,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "立憲民主党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 4,
+      "corporations": 0,
+      "organizations": 9,
+      "events": 0
+    },
+    {
+      "name": "日本維新の会",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "公明党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 4,
+      "corporations": 0,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "国民民主党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 1,
+      "corporations": 1,
+      "organizations": 5,
+      "events": 0
+    },
+    {
+      "name": "日本共産党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 8,
+      "corporations": 1,
+      "organizations": 1,
+      "events": 0
+    },
+    {
+      "name": "れいわ新選組",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 4,
+      "corporations": 3,
+      "organizations": 0,
+      "events": 0
+    },
+    {
+      "name": "参政党",
+      "type": "party",
+      "status": "success",
+      "pdf_count": 4,
+      "corporations": 1,
+      "organizations": 0,
+      "events": 0
+    }
+  ]
+}

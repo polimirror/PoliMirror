@@ -1,0 +1,52 @@
+{
+  "name": "中野洋昌",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:01:04.099570",
+  "ocr_text_length": 3785,
+  "api_text_sent": 3785,
+  "tokens": {
+    "input": 4319,
+    "output": 311
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "大阪建設興業",
+        "amount": 300000,
+        "date": "2022-10-24"
+      },
+      {
+        "name": "アラスワン株式会社",
+        "amount": 99000,
+        "date": "2022-12-01"
+      },
+      {
+        "name": "WITH RUSH 株式会社",
+        "amount": 66000,
+        "date": "2023-12-12"
+      },
+      {
+        "name": "株式会社東弘",
+        "amount": 1276000,
+        "date": "2023-12-23"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "新しいチカラのつどい",
+        "income": 10795000,
+        "date": "2022-11-28"
+      }
+    ],
+    "total_income": 1323203470,
+    "total_expense": 2048029
+  }
+}

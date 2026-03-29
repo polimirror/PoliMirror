@@ -1,0 +1,49 @@
+{
+  "analyzed_at": "2026-03-29T20:46:46.938119",
+  "model": "claude-haiku-4-5-20251001",
+  "total_targets": 4,
+  "success": 4,
+  "fail": 0,
+  "total_tokens": {
+    "input": 35430,
+    "output": 3728
+  },
+  "results": [
+    {
+      "name": "公明党",
+      "type": "party",
+      "total_income": 0,
+      "total_expense": 0,
+      "corporate_count": 0,
+      "group_count": 0,
+      "event_count": 0
+    },
+    {
+      "name": "参政党",
+      "type": "party",
+      "total_income": 0,
+      "total_expense": 0,
+      "corporate_count": 0,
+      "group_count": 0,
+      "event_count": 0
+    },
+    {
+      "name": "立憲民主党",
+      "type": "party",
+      "total_income": 127730000,
+      "total_expense": 0,
+      "corporate_count": 0,
+      "group_count": 58,
+      "event_count": 0
+    },
+    {
+      "name": "自由民主党",
+      "type": "party",
+      "total_income": 0,
+      "total_expense": 0,
+      "corporate_count": 0,
+      "group_count": 0,
+      "event_count": 0
+    }
+  ]
+}

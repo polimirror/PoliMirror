@@ -1,0 +1,46 @@
+{
+  "name": "茂木敏充",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:19:35.261325",
+  "ocr_text_length": 16063,
+  "api_text_sent": 8000,
+  "tokens": {
+    "input": 9050,
+    "output": 278
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 15638000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "東京プリンスホテル凰志の間",
+        "income": 24850000,
+        "date": "2022-11-16"
+      },
+      {
+        "name": "ホテル東日本宇都宮大和の間",
+        "income": 32370000,
+        "date": "2022-05-27"
+      },
+      {
+        "name": "東京プリンスホテル凰凰の間",
+        "income": 25530000,
+        "date": "2022-06-01"
+      },
+      {
+        "name": "政経フォーラム",
+        "income": 10100000,
+        "date": null
+      }
+    ],
+    "total_income": 149580603,
+    "total_expense": 0
+  }
+}

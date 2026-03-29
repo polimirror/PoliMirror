@@ -1,0 +1,24 @@
+{
+  "name": "麻生太郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "麻生太郎先生を囲む会",
+    "大阪麻生太郎後援会"
+  ],
+  "pdf_count": 2,
+  "pdf_downloaded": 2,
+  "ocr_processed_at": "2026-03-29T11:32:34.822126",
+  "ocr_text_length": 4720,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "organization_donations": [],
+    "party_events": []
+  }
+}

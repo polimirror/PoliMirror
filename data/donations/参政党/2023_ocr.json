@@ -1,0 +1,31 @@
+{
+  "name": "参政党",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "参政党（１／４）〔表紙、収支の総括表、収入(1)〕",
+    "参政党（２／４）〔収入(2)〕",
+    "参政党（３／４）〔収入(3)〕",
+    "参政党（４／４）〔支出、資産、宣誓書等〕"
+  ],
+  "pdf_count": 4,
+  "pdf_downloaded": 4,
+  "ocr_processed_at": "2026-03-29T15:04:39.974232",
+  "ocr_text_length": 257262,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "company": "株式会社 鹿 児 島 県 鹿 児 島 市 中 央 町",
+        "amount": 24
+      }
+    ],
+    "organization_donations": [],
+    "party_events": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "公明党",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T19:28:31.152043",
+  "ocr_text_length": 568509,
+  "api_text_sent": 8000,
+  "tokens": {
+    "input": 8716,
+    "output": 426
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

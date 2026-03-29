@@ -1,0 +1,23 @@
+{
+  "name": "日本維新の会",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "日本維新の会"
+  ],
+  "pdf_count": 1,
+  "pdf_downloaded": 1,
+  "ocr_processed_at": "2026-03-29T13:01:04.924326",
+  "ocr_text_length": 144933,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "organization_donations": [],
+    "party_events": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "麻生太郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:20:27.503016",
+  "ocr_text_length": 4718,
+  "api_text_sent": 4718,
+  "tokens": {
+    "input": 5136,
+    "output": 227
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

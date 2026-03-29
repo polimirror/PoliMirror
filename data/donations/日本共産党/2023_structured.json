@@ -1,0 +1,71 @@
+{
+  "name": "日本共産党",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:07:30.131185",
+  "ocr_text_length": 16354,
+  "api_text_sent": 8000,
+  "tokens": {
+    "input": 9285,
+    "output": 476
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 465667109,
+      "count": 236595
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "日本共産党愛知県委員会",
+        "amount": 534,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党愛知県委員会",
+        "amount": 2058,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党愛媛県委員会",
+        "amount": null,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党茨城県委員会",
+        "amount": null,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党岡山県委員会",
+        "amount": null,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党沖縄県委員会",
+        "amount": 1238138138,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党岩手県委員会",
+        "amount": 1281338138,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党岐阜県委員会",
+        "amount": null,
+        "date": "2022"
+      },
+      {
+        "name": "日本共産党宮崎県委員会",
+        "amount": null,
+        "date": "2022"
+      }
+    ],
+    "party_events": [],
+    "total_income": 1662353293001,
+    "total_expense": 0
+  }
+}

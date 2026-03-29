@@ -1,0 +1,73 @@
+{
+  "name": "石破茂",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:15:44.279741",
+  "ocr_text_length": 16093,
+  "api_text_sent": 8000,
+  "tokens": {
+    "input": 8992,
+    "output": 463
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ニトリホールディングス",
+        "amount": 300000,
+        "date": null
+      },
+      {
+        "name": "医療法人社団青十字会",
+        "amount": 440000,
+        "date": null
+      },
+      {
+        "name": "丸の内新聞株式会社",
+        "amount": 180000,
+        "date": "2022-04-20"
+      },
+      {
+        "name": "レノボー・ジャパン合同会社",
+        "amount": 196394,
+        "date": "2022-07-02"
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": 800,
+        "date": null
+      },
+      {
+        "name": "GOLDEN ROSE CLUB",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "製鉄産業政治連盟",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "石破茂セミナー2022",
+        "income": 2250000,
+        "date": "2022-11-15"
+      },
+      {
+        "name": "石破茂君を囲む会",
+        "income": null,
+        "date": "2022-12-19"
+      }
+    ],
+    "total_income": 10956565,
+    "total_expense": 3646922
+  }
+}

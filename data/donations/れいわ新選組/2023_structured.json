@@ -1,0 +1,31 @@
+{
+  "name": "れいわ新選組",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-29T16:00:23.852135",
+  "ocr_text_length": 16936,
+  "api_text_sent": 8000,
+  "tokens": {
+    "input": 9362,
+    "output": 132
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 366636336,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "Zoom開催分",
+        "income": 9038636,
+        "date": "2022-12-23"
+      }
+    ],
+    "total_income": 778722443,
+    "total_expense": 766686886
+  }
+}

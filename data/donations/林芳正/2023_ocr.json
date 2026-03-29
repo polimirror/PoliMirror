@@ -1,0 +1,186 @@
+{
+  "name": "林芳正",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "林芳正を支える会"
+  ],
+  "pdf_count": 1,
+  "pdf_downloaded": 1,
+  "ocr_processed_at": "2026-03-29T11:32:02.546152",
+  "ocr_text_length": 55641,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "company": "株式会社ニトリ",
+        "amount": 1000000
+      },
+      {
+        "company": "一般社団法人日本チェーンドぅッグスト",
+        "amount": 600000
+      },
+      {
+        "company": "一般社団法人日本チェーンドうッゲスト",
+        "amount": 600000
+      },
+      {
+        "company": "一般社団法人日本チェーンドうッグスト",
+        "amount": 600000
+      },
+      {
+        "company": "一般社団法人日本チェーンドぅッゲスト",
+        "amount": 600000
+      },
+      {
+        "company": "株式会社\n千代田区六番町2番地の2\n1 \n2 クイヤホイル預かり",
+        "amount": 12100
+      },
+      {
+        "company": "株式会社\n千代田区六番町2番地の2\n8",
+        "amount": 0
+      },
+      {
+        "company": "株式会社ラボ東京\n新宿区本塩町21う志東京ヒ汀v\n14",
+        "amount": 15
+      },
+      {
+        "company": "株式会社\n港区海岸一丁目7番1号\n72 \nヽ\nの頁の小計",
+        "amount": 604853
+      },
+      {
+        "company": "株式会社\n山口県宇部市沖宇部625\n76 \n4 \n宿泊費\n31",
+        "amount": 0
+      },
+      {
+        "company": "有限会社\n国会花苑\n東京都千代田区永田町1丁目7番1号\n239",
+        "amount": 40
+      },
+      {
+        "company": "株式会社\n茨",
+        "amount": 1
+      },
+      {
+        "company": "株式会社まごころ葬祭\n千葉県富津市西大和田1080\n265",
+        "amount": 44
+      },
+      {
+        "company": "株式会社ゾシエテミクニ\n新宿区若葉l丁目18番地\n330",
+        "amount": 58
+      },
+      {
+        "company": "株式会社\n山口県宇部市大字川上697番地の20\n500 \n2 \n3",
+        "amount": 4
+      },
+      {
+        "company": "株式会社\n山口県宇部市大字川上697番地の20\n510",
+        "amount": 5
+      },
+      {
+        "company": "株式会社阪神ホテルシステムズ\n大阪市北区梅田2丁目5番25号\n528",
+        "amount": 3
+      }
+    ],
+    "organization_donations": [
+      {
+        "organization": "協会\n3 \n4 \n5 \n6 \n7 \n8",
+        "amount": 0
+      },
+      {
+        "organization": "協会\n2 \n3 \n4 \n5 \n6 \n7 \n8",
+        "amount": 0
+      },
+      {
+        "organization": "協会\n2 \n3 \n4 \n5 \n6 \n7 \n8",
+        "amount": 0
+      },
+      {
+        "organization": "政治資金パーティーの対価に係る収入の内訳\n対価の支払をした者の区分",
+        "amount": 2
+      },
+      {
+        "organization": "協会\n2 \n3 \n4 \n5 \n6 \n7 \n8",
+        "amount": 0
+      },
+      {
+        "organization": "協会\n2 \n3 \n4 \n5 \n6 \n7 \n8",
+        "amount": 0
+      },
+      {
+        "organization": "政治資金規正法第8条の2に",
+        "amount": 20000
+      },
+      {
+        "organization": "後援会\n兵庫県神戸市中央区加納町2丁目4番\n356",
+        "amount": 10
+      },
+      {
+        "organization": "後援会\n徳島市問屋町31\n358",
+        "amount": 13
+      },
+      {
+        "organization": "政治資金パーティー",
+        "amount": 30000
+      },
+      {
+        "organization": "政治資金規正法第8条の2\n20 \nに基づく政治資金パー",
+        "amount": 20000
+      },
+      {
+        "organization": "政治資金規正法第8条の2\n31 \nに基づく政治資金パー",
+        "amount": 20000
+      },
+      {
+        "organization": "政治資金規正法第8条の2に\n千代田区永田町2丁目2番1号衆議院",
+        "amount": 34
+      },
+      {
+        "organization": "政治資金規正法第8条の2に",
+        "amount": 20000
+      },
+      {
+        "organization": "政治資金規正法第8条の2に",
+        "amount": 20000
+      },
+      {
+        "organization": "政治資金規正法第8条の2に",
+        "amount": 20000
+      },
+      {
+        "organization": "連盟歳贄引落",
+        "amount": 591100
+      }
+    ],
+    "party_events": [
+      {
+        "event_name": "入\n行番号\n事業の種類\n金\n額\n備\n考\n1 \n第21回林芳正セミナー",
+        "revenue": 1180000
+      },
+      {
+        "event_name": "1\n3 \n第22回林芳正セミナー",
+        "revenue": 20910000
+      },
+      {
+        "event_name": "日\n開\n催\n場\n所\n備\n考\nした者の数\n1 \n第21回林芳正セミナー",
+        "revenue": 1180000
+      },
+      {
+        "event_name": "千代田区紀尾井町\n4 1 \n3 \n第22回林芳正セミナー",
+        "revenue": 20910000
+      },
+      {
+        "event_name": "2衆議院第2議員\n14 \n基づく政治資金パーティー",
+        "revenue": 30000
+      },
+      {
+        "event_name": "政治活動費の内訳\n項\n目\n別\n区\nハ\n刀\n第21回林芳正セミナー",
+        "revenue": 2021
+      }
+    ]
+  }
+}

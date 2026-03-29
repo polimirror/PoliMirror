@@ -1,0 +1,39 @@
+{
+  "name": "れいわ新選組",
+  "type": "party",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/seijishikin/reports/SS20231124/",
+  "matched_organizations": [
+    "れいわ新選組（１／４）〔表紙、収支の総括表、収入(1)〕",
+    "れいわ新選組（２／４）〔収入(2)〕",
+    "れいわ新選組（３／４）〔収入(3)〕",
+    "れいわ新選組（４／４）〔収入(4）、支出、資産、宣誓書等〕"
+  ],
+  "pdf_count": 4,
+  "pdf_downloaded": 4,
+  "ocr_processed_at": "2026-03-29T14:47:45.493220",
+  "ocr_text_length": 325654,
+  "donations": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "company": "株式会社トフヘルレンタカー\n\n市 城 南 町",
+        "amount": 45
+      },
+      {
+        "company": "株式会社プリントパック\n京都府向日市論丞耐野田31",
+        "amount": 13
+      },
+      {
+        "company": "株式会社想いをヵタチに",
+        "amount": 1
+      }
+    ],
+    "organization_donations": [],
+    "party_events": []
+  }
+}
