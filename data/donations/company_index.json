@@ -1,0 +1,770 @@
+{
+  "大阪建設興業": [
+    {
+      "politician": "中野洋昌",
+      "politician_type": "politician",
+      "amount": 300000,
+      "date": "2022-10-24",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "アラスワン株式会社": [
+    {
+      "politician": "中野洋昌",
+      "politician_type": "politician",
+      "amount": 99000,
+      "date": "2022-12-01",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "WITH RUSH 株式会社": [
+    {
+      "politician": "中野洋昌",
+      "politician_type": "politician",
+      "amount": 66000,
+      "date": "2023-12-12",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "株式会社東弘": [
+    {
+      "politician": "中野洋昌",
+      "politician_type": "politician",
+      "amount": 1276000,
+      "date": "2023-12-23",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "大東建託株式会社": [
+    {
+      "politician": "国民民主党",
+      "politician_type": "party",
+      "amount": 1325500,
+      "date": "2022-08-30",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "大東建託": [
+    {
+      "politician": "国民民主党",
+      "politician_type": "party",
+      "amount": 1800000,
+      "date": "2022-02-28",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "日本共産党愛知県委員会": [
+    {
+      "politician": "日本共産党",
+      "politician_type": "party",
+      "amount": 534,
+      "date": "2022",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "日本共産党",
+      "politician_type": "party",
+      "amount": 2058,
+      "date": "2022",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "日本共産党沖縄県委員会": [
+    {
+      "politician": "日本共産党",
+      "politician_type": "party",
+      "amount": 1238138138,
+      "date": "2022",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "日本共産党岩手県委員会": [
+    {
+      "politician": "日本共産党",
+      "politician_type": "party",
+      "amount": 1281338138,
+      "date": "2022",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "株式会社ニトリ": [
+    {
+      "politician": "林芳正",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "date": "2022-02-18",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "一般社団法人日本チェーンドラッグストア協会": [
+    {
+      "politician": "林芳正",
+      "politician_type": "politician",
+      "amount": 600000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "日本医師連盟": [
+    {
+      "politician": "林芳正",
+      "politician_type": "politician",
+      "amount": 500000,
+      "date": "2022-08-16",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "林芳正",
+      "politician_type": "politician",
+      "amount": 500000,
+      "date": "2022-12-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "トヨタ自動車労働組合": [
+    {
+      "politician": "浜口誠",
+      "politician_type": "politician",
+      "amount": 20000000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "株式会社ニトリホールディングス": [
+    {
+      "politician": "石破茂",
+      "politician_type": "politician",
+      "amount": 300000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "医療法人社団青十字会": [
+    {
+      "politician": "石破茂",
+      "politician_type": "politician",
+      "amount": 440000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "丸の内新聞株式会社": [
+    {
+      "politician": "石破茂",
+      "politician_type": "politician",
+      "amount": 180000,
+      "date": "2022-04-20",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "レノボー・ジャパン合同会社": [
+    {
+      "politician": "石破茂",
+      "politician_type": "politician",
+      "amount": 196394,
+      "date": "2022-07-02",
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "日本郵便株式会社": [
+    {
+      "politician": "石破茂",
+      "politician_type": "politician",
+      "amount": 800,
+      "date": null,
+      "year": 2023,
+      "donation_type": "corporate"
+    }
+  ],
+  "民主党山梨県結支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 300000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党新潟県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党石川県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党岐阜県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党愛媛県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党佐賀県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-11",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 300000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党香川県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 350000,
+      "date": "2022-03-14",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第12区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党青森県第2区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党宮城県第3区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 1500000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県第3区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県第7区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 1500000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党兵庫県第10区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党福岡県第1区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-18",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党青森県第1区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 1500000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党山形県第1区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第9区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 900000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第13区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 600000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    },
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 5500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党高知県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 15000000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党島根県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 300000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党岡山県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党秋田県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 500000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党福島県総支部連合会": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 450000,
+      "date": "2022-03-31",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第2区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第3区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第4区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第11区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道第10区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党北海道参議院選挙区第2総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党岩手県参議院選挙区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党宮城県参議院選挙区第1総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党秋田県第2区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 5500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党栃木県第4区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 3500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第5区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 3500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第6区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2565000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第10区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党埼玉県第12区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 5500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県第1区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 5500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県第4区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県第8区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党千葉県参議院選挙区第2総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県第1区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県第8区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県第9区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県第11区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県第16区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2300000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党神奈川県参議院選挙区第1総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都第6区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": null,
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都第9区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都第10区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都第11区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 5500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党東京都第21区総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2360000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ],
+  "民主党参議院比例第1総支部": [
+    {
+      "politician": "立憲民主党",
+      "politician_type": "party",
+      "amount": 2500000,
+      "date": "2022-04-01",
+      "year": 2023,
+      "donation_type": "group"
+    }
+  ]
+}
