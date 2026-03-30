@@ -1,0 +1,40 @@
+{
+  "name": "谷公一",
+  "type": "politician",
+  "year": "2022",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:14:02.230255",
+  "matched_organizations": [
+    "谷公一後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 9270000,
+      "count": 1
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党兵庫県第五選挙区支部",
+        "amount": 100000,
+        "date": "2022/8/19"
+      },
+      {
+        "name": "自由民主党兵庫県第五選挙区支部",
+        "amount": 100000,
+        "date": "2022/10/4"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ブルーリッジホテル",
+        "income": 5540000,
+        "date": "2022/7/23"
+      }
+    ],
+    "total_income": 13465478,
+    "total_expense": 13388238
+  }
+}

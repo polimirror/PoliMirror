@@ -1,0 +1,30 @@
+{
+  "name": "櫻井充",
+  "type": "politician",
+  "year": "2023",
+  "source": "宮城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "宮城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:11:52.586110",
+  "matched_organizations": [
+    "櫻井充を支援する会",
+    "櫻井隆後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "伊藤孝恵",
+  "type": "politician",
+  "year": "2022",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:07:46.281200",
+  "matched_organizations": [
+    "伊藤たかえ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社秋山商会",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "株式会社神戸新聞総合印刷",
+        "amount": 2122000,
+        "date": "R4/5/除"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公明党兵庫県本部",
+        "amount": 5663702,
+        "date": "R4/6/30"
+      }
+    ],
+    "party_events": [],
+    "total_income": 5663702,
+    "total_expense": 6107631
+  }
+}

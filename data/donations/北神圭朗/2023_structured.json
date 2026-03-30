@@ -1,0 +1,52 @@
+{
+  "name": "北神圭朗",
+  "type": "politician",
+  "year": "2023",
+  "source": "京都府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "京都府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:49:07.368473",
+  "matched_organizations": [
+    "北神圭朗会",
+    "北神圭朗後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社広文堂",
+        "amount": 301400,
+        "date": ""
+      },
+      {
+        "name": "株式会社いづつ屋",
+        "amount": 550,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本をあらためる会",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "懇親ゴルフ会",
+        "income": 58000,
+        "date": ""
+      },
+      {
+        "name": "第15回ゴルフ会",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 1023499,
+    "total_expense": 301950
+  }
+}

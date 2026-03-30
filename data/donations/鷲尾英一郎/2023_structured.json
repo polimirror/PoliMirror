@@ -1,0 +1,23 @@
+{
+  "name": "鷲尾英一郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "新潟県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "新潟県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:17:26.439274",
+  "matched_organizations": [
+    "税理士による鷲尾英一郎後援会 [PDFファイル／539KB]"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 54000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 452944,
+    "total_expense": 240956
+  }
+}

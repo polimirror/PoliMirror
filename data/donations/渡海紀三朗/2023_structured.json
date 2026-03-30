@@ -1,0 +1,23 @@
+{
+  "name": "渡海紀三朗",
+  "type": "politician",
+  "year": "2023",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:20:01.763320",
+  "matched_organizations": [
+    "税理士による渡海紀三朗後援会(010762)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 200000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 468797,
+    "total_expense": 0
+  }
+}

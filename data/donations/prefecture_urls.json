@@ -129,5 +129,253 @@
     },
     "format": "js_dynamic",
     "notes": "Liferay CMS。JSレンダリングでPDFリンクが静的HTMLに含まれない。スクレイピング困難。Selenium/Playwright必要。"
+  },
+  "愛知県": {
+    "2023": {
+      "index": "https://www.pref.aichi.jp/soshiki/senkyo/0000051542.html",
+      "pdf_base": "https://www.pref.aichi.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.aichi.jp/soshiki/senkyo/051128.html",
+      "pdf_base": "https://www.pref.aichi.jp"
+    },
+    "format": "sub_pages",
+    "notes": "インデックス→年度別サブページ→PDF"
+  },
+  "千葉県": {
+    "2023": {
+      "index": "https://www.pref.chiba.lg.jp/senkan/20241129.html",
+      "pdf_base": "https://www.pref.chiba.lg.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.chiba.lg.jp/senkan/20231129.html",
+      "pdf_base": "https://www.pref.chiba.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→カテゴリ別サブページ→PDF"
+  },
+  "兵庫県": {
+    "2023": {
+      "index": "https://web.pref.hyogo.lg.jp/si01/senkyo/syushihoukoku.html",
+      "pdf_base": "https://web.pref.hyogo.lg.jp"
+    },
+    "2022": {
+      "index": "https://web.pref.hyogo.lg.jp/si01/r4syuusi.html",
+      "pdf_base": "https://web.pref.hyogo.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別サブページ→PDF"
+  },
+  "福岡県": {
+    "2023": {
+      "index": "https://www.pref.fukuoka.lg.jp/contents/seizishikinkouhyou.html",
+      "pdf_base": "https://www.pref.fukuoka.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "インデックス→年度別サブページ"
+  },
+  "静岡県": {
+    "2023": {
+      "index": "https://www.pref.shizuoka.jp/kensei/senkyo/seijishikinshushi/index.html",
+      "pdf_base": "https://www.pref.shizuoka.jp"
+    },
+    "format": "sub_pages",
+    "notes": "インデックス→年度別サブページ→PDF"
+  },
+  "茨城県": {
+    "2023": {
+      "index": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/r5_syushi.html",
+      "pdf_base": "https://www.pref.ibaraki.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/r4_syushi.html",
+      "pdf_base": "https://www.pref.ibaraki.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→カテゴリ別→PDF"
+  },
+  "京都府": {
+    "2023": {
+      "index": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/r6teikikouhyou.html",
+      "pdf_base": "https://www.pref.kyoto.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/r5teikikouhyou.html",
+      "pdf_base": "https://www.pref.kyoto.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→カテゴリ別(50音)→PDF"
+  },
+  "広島県": {
+    "2023": {
+      "index": "https://www.pref.hiroshima.lg.jp/site/sennkyokannriiinkai/shushihoukokusho-06teiki.html",
+      "pdf_base": "https://www.pref.hiroshima.lg.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.hiroshima.lg.jp/site/sennkyokannriiinkai/shushihoukokusho-05teiki.html",
+      "pdf_base": "https://www.pref.hiroshima.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→カテゴリ別サブページ→PDF"
+  },
+  "宮城県": {
+    "2023": {
+      "index": "https://www.pref.miyagi.jp/soshiki/senkyo/r5youshi/r05syuushihoukoku-kouhyou.html",
+      "pdf_base": "https://www.pref.miyagi.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→カテゴリ別→PDF"
+  },
+  "新潟県": {
+    "2023": {
+      "index": "https://www.pref.niigata.lg.jp/sec/senkyo/r5-syusihoukokusyo-teiki.html",
+      "pdf_base": "https://www.pref.niigata.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "年度別→政党別サブページ→PDF"
+  },
+  "岐阜県": {
+    "2023": {
+      "index": "https://www.pref.gifu.lg.jp/page/10047.html",
+      "pdf_base": "https://www.pref.gifu.lg.jp"
+    },
+    "format": "single_page_pdf_list",
+    "notes": "1ページに386 PDFリスト"
+  },
+  "鳥取県": {
+    "2023": {
+      "index": "https://www.pref.tottori.lg.jp/dd.aspx?menuid=99773",
+      "pdf_base": "https://www.pref.tottori.lg.jp"
+    },
+    "format": "single_page_pdf_list",
+    "notes": "1ページにPDFリスト"
+  },
+  "香川県": {
+    "2023": {
+      "index": "https://www.pref.kagawa.lg.jp/senkyoi/seijishikin/syushi_kouhyou.html",
+      "pdf_base": "https://www.pref.kagawa.lg.jp"
+    },
+    "format": "sub_pages",
+    "notes": "サブページ→PDF"
+  },
+  "佐賀県": {
+    "2023": {
+      "index": "https://www.pref.saga.lg.jp/kiji00325612/index.html",
+      "pdf_base": "https://www.pref.saga.lg.jp"
+    },
+    "format": "single_page_pdf_list",
+    "notes": "1ページにPDFリスト"
+  },
+  "青森県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "岩手県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "秋田県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "山形県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "福島県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "栃木県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "群馬県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "富山県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "石川県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "福井県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "山梨県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "長野県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "三重県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "滋賀県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "奈良県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "和歌山県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "島根県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "岡山県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "山口県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "徳島県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "愛媛県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "高知県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "長崎県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "熊本県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "大分県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "宮崎県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "鹿児島県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
+  },
+  "沖縄県": {
+    "format": "unknown",
+    "notes": "URL未特定。要WebSearch調査。"
   }
 }

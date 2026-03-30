@@ -1,0 +1,24 @@
+{
+  "name": "石垣のりこ",
+  "type": "politician",
+  "year": "2023",
+  "source": "宮城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "宮城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:10:56.478959",
+  "matched_organizations": [
+    "石垣のりこ後援会",
+    "石垣正博後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

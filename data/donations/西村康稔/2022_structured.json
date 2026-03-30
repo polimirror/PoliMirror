@@ -1,0 +1,31 @@
+{
+  "name": "西村康稔",
+  "type": "politician",
+  "year": "2022",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:13:18.481680",
+  "matched_organizations": [
+    "西村康稔を囲む公認会計士の会",
+    "税理士による西村やすとし後援会",
+    "西村やすとし後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "近畿税理士政治連盟",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "宮沢洋一",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:54:52.517008",
+  "matched_organizations": [
+    "宮沢洋一後援会",
+    "税理士による宮沢洋一後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 5600000,
+      "count": 8
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 5600000,
+    "total_expense": 1432244
+  }
+}

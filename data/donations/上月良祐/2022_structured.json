@@ -1,0 +1,51 @@
+{
+  "name": "上月良祐",
+  "type": "politician",
+  "year": "2022",
+  "source": "茨城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "茨城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:27:45.478540",
+  "matched_organizations": [
+    "上月りょうすけ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 2150000,
+      "count": 9
+    },
+    "corporate_donations": [
+      {
+        "name": "JA農政・地域振興対策協議会",
+        "amount": 400000,
+        "date": ""
+      },
+      {
+        "name": "茨城県医師連盟",
+        "amount": 500000,
+        "date": ""
+      },
+      {
+        "name": "茨城県歯科医師連盟",
+        "amount": 300000,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "民主党茨城県連",
+        "amount": 37500002,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "上月良祐躍進の集い",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 45487881,
+    "total_expense": 56101185
+  }
+}

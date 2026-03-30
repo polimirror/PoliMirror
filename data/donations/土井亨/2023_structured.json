@@ -1,0 +1,24 @@
+{
+  "name": "土井亨",
+  "type": "politician",
+  "year": "2023",
+  "source": "宮城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "宮城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:12:39.024805",
+  "matched_organizations": [
+    "税理士による土井亨後援会",
+    "土井みつまさ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

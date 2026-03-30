@@ -1,0 +1,33 @@
+{
+  "name": "平口洋",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:59:19.614550",
+  "matched_organizations": [
+    "平口洋後援会",
+    "平口洋政経研究会",
+    "公認会計士による平口洋後援会",
+    "税理士による平口洋後援会",
+    "Ｔｋｃ平口洋政経研究会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 10000000,
+      "count": 1
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "平口ひろしと明日を語る会",
+        "income": 9683000,
+        "date": "2022-04-18"
+      }
+    ],
+    "total_income": 19683000,
+    "total_expense": 14033606
+  }
+}

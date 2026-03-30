@@ -1,0 +1,39 @@
+{
+  "name": "浅野哲",
+  "type": "politician",
+  "year": "2022",
+  "source": "茨城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "茨城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:28:52.519457",
+  "matched_organizations": [
+    "浅野さとし後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "近藤英弘",
+        "amount": 15000000,
+        "date": ""
+      },
+      {
+        "name": "機連合政治活動委員会",
+        "amount": 16200000,
+        "date": ""
+      },
+      {
+        "name": "立グループ連合政治活動委員会",
+        "amount": 16200000,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 48400000,
+    "total_expense": 27964177
+  }
+}

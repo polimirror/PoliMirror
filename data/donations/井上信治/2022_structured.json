@@ -1,0 +1,44 @@
+{
+  "name": "井上信治",
+  "type": "politician",
+  "year": "2022",
+  "source": "京都府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "京都府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:39:16.921932",
+  "matched_organizations": [
+    "井上一徳後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "一徳会",
+        "amount": 270000,
+        "date": "2022年1月"
+      },
+      {
+        "name": "一徳会",
+        "amount": 1000000,
+        "date": "2022年1月"
+      },
+      {
+        "name": "一徳会",
+        "amount": 1000000,
+        "date": "2022年1月"
+      },
+      {
+        "name": "一徳会",
+        "amount": 1000000,
+        "date": "2022年1月"
+      }
+    ],
+    "party_events": [],
+    "total_income": 3286874,
+    "total_expense": 2548993
+  }
+}

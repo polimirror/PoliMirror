@@ -1,0 +1,35 @@
+{
+  "name": "西村明宏",
+  "type": "politician",
+  "year": "2023",
+  "source": "宮城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "宮城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:15:49.416057",
+  "matched_organizations": [
+    "西村明宏後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 2000000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ヤマダデンキ",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公益社団法人日本警察犬協会",
+        "amount": 49000,
+        "date": ""
+      }
+    ],
+    "party_events": [],
+    "total_income": 2000000,
+    "total_expense": 1009749
+  }
+}

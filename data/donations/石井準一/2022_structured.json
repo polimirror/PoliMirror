@@ -1,0 +1,29 @@
+{
+  "name": "石井準一",
+  "type": "politician",
+  "year": "2022",
+  "source": "千葉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "千葉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:03:23.449172",
+  "matched_organizations": [
+    "石井準一後援会(PDF形式)【訂正あり】"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "石井準一を励ます会",
+        "income": 13500000,
+        "date": "6月"
+      }
+    ],
+    "total_income": 85648792,
+    "total_expense": 54868354
+  }
+}

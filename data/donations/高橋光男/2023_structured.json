@@ -1,0 +1,35 @@
+{
+  "name": "高橋光男",
+  "type": "politician",
+  "year": "2023",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:16:39.179283",
+  "matched_organizations": [
+    "高橋みつお後援会(010815)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "公明党参議院兵庫選挙区第2総",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "高橋みつお未来フォーラム",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 2403841,
+    "total_expense": 2403841
+  }
+}

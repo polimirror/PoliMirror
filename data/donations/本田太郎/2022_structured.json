@@ -1,0 +1,43 @@
+{
+  "name": "本田太郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "京都府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "京都府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:43:09.911122",
+  "matched_organizations": [
+    "税理士による本田太郎後援会",
+    "本田太郎政策研究所",
+    "本田太郎後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 6440000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "近畿税理士政治連",
+        "amount": 330000,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党京都府第五選挙区支",
+        "amount": 1040000,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "本田太郎君を励ます会",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 14530250,
+    "total_expense": 0
+  }
+}

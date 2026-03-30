@@ -1,0 +1,47 @@
+{
+  "name": "宮沢洋一",
+  "type": "politician",
+  "year": "2023",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:03:33.543119",
+  "matched_organizations": [
+    "宮沢洋一後援会",
+    "税理士による宮沢洋一後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "中国電力株式会社",
+        "amount": 10048,
+        "date": "R5/10/26"
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": 50000,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党広島県参議院選挙区第八支部",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "新年互礼会",
+        "income": 972000,
+        "date": "令和5年1月28日"
+      }
+    ],
+    "total_income": 972000,
+    "total_expense": 9950008
+  }
+}

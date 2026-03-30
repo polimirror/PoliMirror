@@ -1,0 +1,50 @@
+{
+  "name": "泉健太",
+  "type": "politician",
+  "year": "2023",
+  "source": "京都府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "京都府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:46:55.802058",
+  "matched_organizations": [
+    "泉健太後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ワークアップ株式会社",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "株式会社ダッドワーク",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "大呂ガスビジネスクリエイト",
+        "amount": 0,
+        "date": "2023-12-17"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "健友会開催事業",
+        "income": 0,
+        "date": ""
+      },
+      {
+        "name": "乙訓春の集い（令和6年開催分）",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

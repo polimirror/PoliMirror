@@ -1,0 +1,29 @@
+{
+  "name": "国定勇人",
+  "type": "politician",
+  "year": "2023",
+  "source": "新潟県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "新潟県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:16:49.002789",
+  "matched_organizations": [
+    "税理士による国定勇人後援会 [PDFファイル／368KB]"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "第2回定期総会懇親会",
+        "income": 78000,
+        "date": ""
+      }
+    ],
+    "total_income": 141000,
+    "total_expense": 120420
+  }
+}

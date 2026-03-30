@@ -1,0 +1,55 @@
+{
+  "name": "平口洋",
+  "type": "politician",
+  "year": "2023",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:07:50.800104",
+  "matched_organizations": [
+    "平口洋後援会",
+    "平口洋政経研究会",
+    "公認会計士による平口洋後援会",
+    "税理士による平口洋後援会",
+    "Ｔｋｃ平口洋政経研究会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ホライズン・ホテルズ広島（株）",
+        "amount": 850000,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "平口ひろしと明日をひらぐ会",
+        "amount": 5000000,
+        "date": ""
+      },
+      {
+        "name": "平口ひろしと明日をひらぐ会",
+        "amount": 3000000,
+        "date": ""
+      },
+      {
+        "name": "平口ひろしと明日をひらぐ会",
+        "amount": 8000000,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "芋田島新年互礼会",
+        "income": 9790000,
+        "date": ""
+      }
+    ],
+    "total_income": 32148607,
+    "total_expense": 14928934
+  }
+}

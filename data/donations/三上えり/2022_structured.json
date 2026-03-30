@@ -1,0 +1,45 @@
+{
+  "name": "三上えり",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:52:43.322815",
+  "matched_organizations": [
+    "三上えり後援会（令和６年11月15日訂正）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "中国電力（株）",
+        "amount": 0,
+        "date": "2022/11/28"
+      },
+      {
+        "name": "中国電力（株）",
+        "amount": 0,
+        "date": "2022/12/26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "立憲民主党広島県総支部連合会",
+        "amount": 0,
+        "date": "2022/5/18"
+      },
+      {
+        "name": "立憲民主党広島県総支部連合会",
+        "amount": 0,
+        "date": "2022/6/27"
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

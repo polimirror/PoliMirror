@@ -1,0 +1,35 @@
+{
+  "name": "森本真治",
+  "type": "politician",
+  "year": "2023",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T01:02:23.917551",
+  "matched_organizations": [
+    "税理士による森本真治後援会",
+    "森本真治後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "ロイヤルクリスタル",
+        "income": 7600000,
+        "date": "2023-10-30"
+      },
+      {
+        "name": "ロイヤルホール",
+        "income": 7670000,
+        "date": "2024-02-03"
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 974980
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "岸田文雄",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:57:32.255196",
+  "matched_organizations": [
+    "岸田文雄後援会",
+    "公認会計士による岸田文雄後援会",
+    "税理士による岸田文雄後援会",
+    "Ｔｋｃ岸田文雄政経研究会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "岸田文雄",
+        "amount": 3000000,
+        "date": ""
+      },
+      {
+        "name": "岸田文雄",
+        "amount": 2500000,
+        "date": ""
+      },
+      {
+        "name": "岸田文雄",
+        "amount": 3500000,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 23000000,
+    "total_expense": 26504611
+  }
+}

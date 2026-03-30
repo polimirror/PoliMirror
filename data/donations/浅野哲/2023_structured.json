@@ -1,0 +1,46 @@
+{
+  "name": "浅野哲",
+  "type": "politician",
+  "year": "2023",
+  "source": "茨城県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "茨城県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:34:01.207879",
+  "matched_organizations": [
+    "浅野さとし後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "電機連合政治活動委員会",
+        "amount": 16200000,
+        "date": ""
+      },
+      {
+        "name": "トヨタファイナンス株式会社",
+        "amount": 186871,
+        "date": "R5/1/4"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "野さとし君を励ます会",
+        "amount": 4616000,
+        "date": "R5/12/23"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "野さとし君を励ます会",
+        "income": 4616000,
+        "date": "R5/12/23"
+      }
+    ],
+    "total_income": 28098124,
+    "total_expense": 2880373
+  }
+}

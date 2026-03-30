@@ -1,0 +1,56 @@
+{
+  "name": "森本真治",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:53:39.742686",
+  "matched_organizations": [
+    "森本真治後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 700000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "中国電力(株)",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "特定非営利活動法人中国フットサルプロモーション",
+        "amount": 720000,
+        "date": ""
+      },
+      {
+        "name": "やなぎだ稔後援会",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ホテルルポール麹町ロビー",
+        "income": 7900000,
+        "date": "2022-05-30"
+      },
+      {
+        "name": "リーガロイヤルホテル広島ロイヤルホール",
+        "income": 9900000,
+        "date": "2022-10-22"
+      },
+      {
+        "name": "ホテルルポール麹町ロイヤルクリスタル",
+        "income": 9900000,
+        "date": "2022-11-28"
+      }
+    ],
+    "total_income": 28620000,
+    "total_expense": 7699922
+  }
+}

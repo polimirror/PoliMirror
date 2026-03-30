@@ -1,0 +1,23 @@
+{
+  "name": "山田賢司",
+  "type": "politician",
+  "year": "2023",
+  "source": "兵庫県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "兵庫県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:19:34.280388",
+  "matched_organizations": [
+    "山田ますと後援会(011568)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

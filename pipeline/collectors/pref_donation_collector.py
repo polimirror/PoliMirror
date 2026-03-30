@@ -146,6 +146,43 @@ def build_pref_index(pref_name, year_config, year):
             all_pdfs.extend(pdfs)
             print(f"    single_page: {len(pdfs)}件")
 
+    elif fmt == "sub_pages":
+        # 汎用サブページ方式: インデックス→サブリンク→PDF
+        url = cfg.get("index", "")
+        if url:
+            # まずインデックスページからPDFを直接取得
+            pdfs = scrape_pdf_links(url)
+            all_pdfs.extend(pdfs)
+            if pdfs:
+                print(f"    index直接: {len(pdfs)}件")
+            # サブリンクを辿る
+            try:
+                time.sleep(REQUEST_INTERVAL)
+                r = requests.get(url, headers=HEADERS, timeout=30)
+                r.raise_for_status()
+                r.encoding = r.apparent_encoding
+                soup = BeautifulSoup(r.text, "html.parser")
+                sub_urls = []
+                for a in soup.find_all("a", href=True):
+                    href = a["href"]
+                    text = a.get_text(strip=True)
+                    # サブページの判定: 政治団体カテゴリへのリンク
+                    if any(kw in text for kw in ["国会議員", "資金管理", "その他", "政党"]):
+                        full = urljoin(url, href)
+                        if full not in sub_urls and full != url:
+                            sub_urls.append(full)
+                    elif any(kw in href for kw in ["kokkai", "shikin", "seiji", "sonota", "seitousibu"]):
+                        full = urljoin(url, href)
+                        if full not in sub_urls and full != url:
+                            sub_urls.append(full)
+                for sub_url in sub_urls[:20]:  # 最大20サブページ
+                    sub_pdfs = scrape_pdf_links(sub_url)
+                    all_pdfs.extend(sub_pdfs)
+                    if sub_pdfs:
+                        print(f"    sub: {len(sub_pdfs)}件")
+            except Exception:
+                traceback.print_exc()
+
     # 保存
     index = {name: url for name, url in all_pdfs}
     os.makedirs(DONATIONS_DIR, exist_ok=True)
@@ -338,8 +375,8 @@ if __name__ == "__main__":
 
     client = anthropic.Anthropic()
 
-    # 対象県（東京都除外）
-    target_prefs = [p for p in pref_config if pref_config[p].get("format") != "js_dynamic"]
+    # 対象県（JS動的・unknown除外）
+    target_prefs = [p for p in pref_config if pref_config[p].get("format") not in ("js_dynamic", "unknown")]
     if "--pref" in sys.argv:
         idx = sys.argv.index("--pref")
         target_prefs = [sys.argv[idx + 1]]

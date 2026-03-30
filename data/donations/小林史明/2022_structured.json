@@ -1,0 +1,61 @@
+{
+  "name": "小林史明",
+  "type": "politician",
+  "year": "2022",
+  "source": "広島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "広島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:55:57.689653",
+  "matched_organizations": [
+    "小林史明後援会",
+    "税理士による小林史明後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 244000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "伊藤博文",
+        "amount": 108000,
+        "date": "令和4年6月28日"
+      },
+      {
+        "name": "伊藤博文",
+        "amount": 106000,
+        "date": "令和4年6月28日"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "ふくやま芸術文化ホール・リーデンローズ大ホール",
+        "income": 5180000,
+        "date": "令和4年6月12日"
+      },
+      {
+        "name": "ふなまちベイホール",
+        "income": 1180000,
+        "date": "令和4年11月26日"
+      },
+      {
+        "name": "小林史明君を励ます会",
+        "income": 550000,
+        "date": "令和2年"
+      },
+      {
+        "name": "第9回定期総会",
+        "income": 200000,
+        "date": "令和4年4月23日"
+      },
+      {
+        "name": "小林史明議員を囲む会",
+        "income": 0,
+        "date": "令和4年12月10日"
+      }
+    ],
+    "total_income": 7310000,
+    "total_expense": 0
+  }
+}

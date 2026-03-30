@@ -1,0 +1,34 @@
+{
+  "name": "小林鷹之",
+  "type": "politician",
+  "year": "2023",
+  "source": "千葉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "千葉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T00:06:32.681128",
+  "matched_organizations": [
+    "小林鷹之後援会(PDF形式)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "花見川区後援会支部総会",
+        "income": 204000,
+        "date": ""
+      },
+      {
+        "name": "花鷹会",
+        "income": 269500,
+        "date": ""
+      }
+    ],
+    "total_income": 5374000,
+    "total_expense": 5374000
+  }
+}
