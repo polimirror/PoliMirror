@@ -1,0 +1,61 @@
+{
+  "name": "山本左近",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:33:15.668832",
+  "matched_organizations": [
+    "山本左近後援会",
+    "山本左近政策研究会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 29692,
+  "tokens": {
+    "input": 8234,
+    "output": 367
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "中部電力ミライズ(株)",
+        "amount": 440000,
+        "date": "R4/8/16"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党愛知県衆議院比例区支部",
+        "amount": 2000000,
+        "date": null
+      },
+      {
+        "name": "自由民主党愛知県衆議院比例区支部",
+        "amount": 300000,
+        "date": null
+      },
+      {
+        "name": "自由民主党愛知県衆議院比例区支部",
+        "amount": 1000000,
+        "date": null
+      },
+      {
+        "name": "自由民主党愛知県衆議院比例区支部",
+        "amount": 1000000,
+        "date": null
+      },
+      {
+        "name": "その他の寄附",
+        "amount": 1500000,
+        "date": "R4/12/16"
+      }
+    ],
+    "party_events": [],
+    "total_income": 18619202,
+    "total_expense": 3082671
+  }
+}

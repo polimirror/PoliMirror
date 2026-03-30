@@ -1,0 +1,39 @@
+{
+  "name": "河西宏一",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:16:07.110804",
+  "matched_organizations": [
+    "河西宏一事務所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 7787,
+  "tokens": {
+    "input": 8153,
+    "output": 164
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "リコーリース株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "株式会社大塞商会",
+        "amount": 0,
+        "date": "2022-11-16"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

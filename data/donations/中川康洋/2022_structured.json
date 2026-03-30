@@ -1,0 +1,44 @@
+{
+  "name": "中川康洋",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:52:20.248001",
+  "matched_organizations": [
+    "中川康洋後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 7895,
+  "tokens": {
+    "input": 8308,
+    "output": 208
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社JTB国会内店",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "東海旅客鉄道株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "公明出版サービス",
+        "amount": 0,
+        "date": "2022/6/24"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 4926186,
+    "total_expense": 4064973
+  }
+}

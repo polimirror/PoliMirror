@@ -1,0 +1,71 @@
+{
+  "name": "石橋林太郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:43:00.484463",
+  "matched_organizations": [
+    "石橋林太郎後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 18393,
+  "tokens": {
+    "input": 8222,
+    "output": 475
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 2044000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ビックカメラ.com",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "石橋林太郎くんを育てる会",
+        "amount": 7220000,
+        "date": "2023-07-01"
+      },
+      {
+        "name": "安芸高田市後援会 新年互礼会",
+        "amount": 68000,
+        "date": "2023-01-22"
+      },
+      {
+        "name": "北広島町商工会",
+        "amount": 94000,
+        "date": "2023-01-28"
+      },
+      {
+        "name": "北広島町後援会 新年互礼会",
+        "amount": 408000,
+        "date": "2023-08-25"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "石橋林太郎くんを育てる会",
+        "income": 7220000,
+        "date": "2023-07-01"
+      },
+      {
+        "name": "安芸高田市後援会 新年互礼会",
+        "income": 68000,
+        "date": "2023-01-22"
+      },
+      {
+        "name": "北広島町後援会 新年互礼会",
+        "income": 408000,
+        "date": "2023-08-25"
+      }
+    ],
+    "total_income": 8303000,
+    "total_expense": 8650741
+  }
+}

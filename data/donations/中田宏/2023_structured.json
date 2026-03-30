@@ -1,0 +1,59 @@
+{
+  "name": "中田宏",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:57:16.494593",
+  "matched_organizations": [
+    "中田宏事務所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24110,
+  "tokens": {
+    "input": 8780,
+    "output": 311
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ニッパ株式会社",
+        "amount": 305649,
+        "date": null
+      },
+      {
+        "name": "師丸鈴商事",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "サントーコー東京支店",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "富士フィルムビジネスイノベーションジャパン",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "大槻デザイン",
+        "amount": 88833,
+        "date": null
+      },
+      {
+        "name": "デルカバジーズ",
+        "amount": 121588,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 89644969,
+    "total_expense": 29486853
+  }
+}

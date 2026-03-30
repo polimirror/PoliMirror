@@ -1,0 +1,75 @@
+{
+  "name": "猪瀬直樹",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:33:02.491567",
+  "matched_organizations": [
+    "猪瀬直樹後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8069,
+  "tokens": {
+    "input": 8384,
+    "output": 432
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "有限会社竹内自動車ボディ",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "株式会社パン・アキモト",
+        "amount": 0,
+        "date": "2023-10-26"
+      },
+      {
+        "name": "紀伊国屋書店国分寺店",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "日本料理なかのしま",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "パークハイアット東京",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "株式会社高高屋新室店",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "国会中央食堂",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "森田公認会計士事務所",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "東京維新の会",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 6878547,
+    "total_expense": 2263784
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "青木一彦",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:16:31.117412",
+  "matched_organizations": [
+    "青木一彦後援会(和田　晶夫)",
+    "青木一彦後援会(青木　一彦)",
+    "税理士による青木一彦後援会"
+  ],
+  "pdf_count": 3,
+  "ocr_text_length": 29126,
+  "tokens": {
+    "input": 8443,
+    "output": 305
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党島根県参議院選挙区第三支部",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

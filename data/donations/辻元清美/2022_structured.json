@@ -1,0 +1,28 @@
+{
+  "name": "辻元清美",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:02:20.494236",
+  "matched_organizations": [
+    "辻元清美とともに！市民ネットワーク（通称「つじともネット」）"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24375,
+  "tokens": {
+    "input": 8676,
+    "output": 88
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 43211626,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 49384629,
+    "total_expense": 56511789
+  }
+}

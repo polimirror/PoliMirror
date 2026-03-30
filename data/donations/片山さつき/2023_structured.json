@@ -1,0 +1,81 @@
+{
+  "name": "片山さつき",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:27:34.494181",
+  "matched_organizations": [
+    "片山さつき後援会",
+    "東日本の税理士による片山さつき後援会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 24017,
+  "tokens": {
+    "input": 8692,
+    "output": 458
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 28810000,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "中部電力ミライズ株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "インターマン株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社全販",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "Sansan株式会社",
+        "amount": 220000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "浜松政経セミナー7月",
+        "income": 10750000,
+        "date": null
+      },
+      {
+        "name": "福岡セミナー9月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "出版記念朝食セミナー12月",
+        "income": 39560000,
+        "date": null
+      },
+      {
+        "name": "荘城後援会準備会時会費",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "松山セミナー時会費",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 99382845,
+    "total_expense": 76600655
+  }
+}

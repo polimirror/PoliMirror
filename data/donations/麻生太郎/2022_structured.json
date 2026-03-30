@@ -1,0 +1,29 @@
+{
+  "name": "麻生太郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:18:13.322224",
+  "matched_organizations": [
+    "麻生太郎先生を囲む会",
+    "大阪麻生太郎後援会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 4720,
+  "tokens": {
+    "input": 5028,
+    "output": 311
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

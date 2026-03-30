@@ -1,0 +1,86 @@
+{
+  "name": "藤川政人",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:57:17.199613",
+  "matched_organizations": [
+    "藤川政人政経懇話会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 23888,
+  "tokens": {
+    "input": 8793,
+    "output": 524
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社精真社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "株式会社ビー・セブン",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "アスクル株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "福井自動車株式会社",
+        "amount": 0,
+        "date": "R5/6/20"
+      },
+      {
+        "name": "三井住友海上火災保険",
+        "amount": 0,
+        "date": "R5/1/26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党兵庫県参議院選挙区第一支部",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "山東昭子の会",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "若林けんた君を励ます会",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "石田真敏君を励ます会",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "日本国家戦略フォーラム",
+        "amount": 0,
+        "date": "R5/4/26"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政治資金パーティー",
+        "income": 0,
+        "date": null
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

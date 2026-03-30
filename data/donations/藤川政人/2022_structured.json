@@ -1,0 +1,86 @@
+{
+  "name": "藤川政人",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:55:30.868764",
+  "matched_organizations": [
+    "藤川政人政経懇話会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 19750,
+  "tokens": {
+    "input": 8748,
+    "output": 579
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 4000000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "損保ジャパン日本興亜火災保険",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "東京海上日動火災保険",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党兵庫県第四選挙区支部",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "中西祐介後援会",
+        "amount": null,
+        "date": "R4/4/18"
+      },
+      {
+        "name": "棚橋泰文君と21世紀を拓く会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "石田真敏君を励ます会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "真政会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "熊田裕通者と歩む会実行委員会",
+        "amount": 20000,
+        "date": "R4/5/25"
+      },
+      {
+        "name": "本田けあき支援の集い会",
+        "amount": 20000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "参議院議員藤川政人君を囲む会in東京（政治資金パーティー①）",
+        "income": 9970000,
+        "date": null
+      },
+      {
+        "name": "参議院議員藤川政人君を囲む会in東京（政治資金パーティー②）",
+        "income": 9970000,
+        "date": null
+      }
+    ],
+    "total_income": 36998930,
+    "total_expense": 23028920
+  }
+}

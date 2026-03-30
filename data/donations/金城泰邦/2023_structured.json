@@ -1,0 +1,45 @@
+{
+  "name": "金城泰邦",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:07:50.054304",
+  "matched_organizations": [
+    "金城泰邦後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8717,
+  "tokens": {
+    "input": 8369,
+    "output": 220
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "公明党衆議院比例区九州第2総支部",
+        "amount": 1000000,
+        "date": null
+      },
+      {
+        "name": "公明党衆議院比例区九州第2総支部",
+        "amount": 3000000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "第3回国政報告会",
+        "income": 420000,
+        "date": null
+      }
+    ],
+    "total_income": 5469495,
+    "total_expense": 5207468
+  }
+}

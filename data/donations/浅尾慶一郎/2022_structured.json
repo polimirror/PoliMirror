@@ -1,0 +1,47 @@
+{
+  "name": "浅尾慶一郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:17:44.011349",
+  "matched_organizations": [
+    "浅尾慶一郎を支える会",
+    "浅尾慶一郎を囲む公認会計士の会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 10115,
+  "tokens": {
+    "input": 8434,
+    "output": 216
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "上野トランステック株式会社",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本のヴィジョンを考える会",
+        "amount": 4000000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "躍進の集い",
+        "income": 350950000,
+        "date": "2022-11-25"
+      }
+    ],
+    "total_income": 34462210,
+    "total_expense": 28686365
+  }
+}

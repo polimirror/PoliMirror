@@ -1,0 +1,34 @@
+{
+  "name": "宮下一郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:24:51.357625",
+  "matched_organizations": [
+    "創和会（宮下一郎後援会）"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 17850,
+  "tokens": {
+    "input": 8218,
+    "output": 133
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1485000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "宮下一郎君の",
+        "income": 6245000,
+        "date": "2023-07-23"
+      }
+    ],
+    "total_income": 7730000,
+    "total_expense": 0
+  }
+}

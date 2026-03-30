@@ -1,0 +1,70 @@
+{
+  "name": "武田良太",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:13:45.428597",
+  "matched_organizations": [
+    "武田良太政経研究会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 25502,
+  "tokens": {
+    "input": 8548,
+    "output": 522
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 640000,
+      "count": 20
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党福岡県第十一選挙区支部",
+        "amount": 500000,
+        "date": "2023-03-24"
+      },
+      {
+        "name": "自由民主党福岡県第十一選挙区支部",
+        "amount": 1500000,
+        "date": "2023-06-23"
+      },
+      {
+        "name": "自由民主党福岡県第十一選挙区支部",
+        "amount": 500000,
+        "date": "2023-09-25"
+      },
+      {
+        "name": "自由民主党福岡県第十一選挙区支部",
+        "amount": 1500000,
+        "date": "2023-12-25"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "第21回武田良太政経セミナー朝食勉強会",
+        "income": 1417320,
+        "date": "2023-03-01"
+      },
+      {
+        "name": "第22回武田良太政経セミナー朝食勉強会",
+        "income": 440000,
+        "date": "2023-06-06"
+      },
+      {
+        "name": "第23回武田良太政経セミナー朝食勉強会",
+        "income": 1414530,
+        "date": "2023-09-13"
+      },
+      {
+        "name": "たけだ良太君を励ます会",
+        "income": 1025000,
+        "date": "2023-12-11"
+      }
+    ],
+    "total_income": 26319000,
+    "total_expense": 15954543
+  }
+}

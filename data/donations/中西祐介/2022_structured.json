@@ -1,0 +1,70 @@
+{
+  "name": "中西祐介",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:59:14.252139",
+  "matched_organizations": [
+    "中西祐介後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24310,
+  "tokens": {
+    "input": 8631,
+    "output": 407
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "徳山商事株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "有限会社南豆無線電機",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": 88920,
+        "date": null
+      },
+      {
+        "name": "東京地下鉄株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "トヨタレンタリース",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "京浜急行電鉄株式会社",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "君を励ます集い2022",
+        "income": 12490000,
+        "date": "2022-04-18"
+      },
+      {
+        "name": "君を励ます集い2022",
+        "income": 10310000,
+        "date": "2022-10-19"
+      }
+    ],
+    "total_income": 60160345,
+    "total_expense": 38610031
+  }
+}

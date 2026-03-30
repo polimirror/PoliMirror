@@ -1,0 +1,60 @@
+{
+  "name": "藤井一博",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:54:03.253366",
+  "matched_organizations": [
+    "藤井一博後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 6557,
+  "tokens": {
+    "input": 7004,
+    "output": 322
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社前田自動車",
+        "amount": 95950,
+        "date": "2024/6/28"
+      },
+      {
+        "name": "株式会社前田自動車",
+        "amount": 95950,
+        "date": null
+      },
+      {
+        "name": "株式会社前田自動車",
+        "amount": 95950,
+        "date": null
+      },
+      {
+        "name": "株式会社前田自動車",
+        "amount": 95950,
+        "date": null
+      },
+      {
+        "name": "株式会社前田自動車",
+        "amount": 95950,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 1000000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 1000000,
+    "total_expense": 1585700
+  }
+}

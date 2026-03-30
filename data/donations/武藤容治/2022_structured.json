@@ -1,0 +1,80 @@
+{
+  "name": "武藤容治",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:14:31.938616",
+  "matched_organizations": [
+    "武藤容治政経フォーラム",
+    "武藤容治を励ます会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 14867,
+  "tokens": {
+    "input": 7843,
+    "output": 546
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 780000,
+      "count": 8
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "志公会",
+        "amount": 300000,
+        "date": "2022-04-18"
+      },
+      {
+        "name": "心士こヽハム",
+        "amount": 180000,
+        "date": "2022-06-10"
+      },
+      {
+        "name": "心士こヽハム",
+        "amount": 1000000,
+        "date": "2022-06-15"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 2000000,
+        "date": "2022-06-20"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 1000000,
+        "date": "2022-06-28"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2022-07-25"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 2000000,
+        "date": "2022-08-30"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 2000000,
+        "date": "2022-10-17"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 7000000,
+        "date": "2022-12-06"
+      },
+      {
+        "name": "心士ュ、ノム",
+        "amount": 1000000,
+        "date": "2022-12-15"
+      }
+    ],
+    "party_events": [],
+    "total_income": 20260019,
+    "total_expense": 16186966
+  }
+}

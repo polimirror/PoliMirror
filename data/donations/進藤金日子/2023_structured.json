@@ -1,0 +1,44 @@
+{
+  "name": "進藤金日子",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:05:59.238498",
+  "matched_organizations": [
+    "進藤金日子後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 4869,
+  "tokens": {
+    "input": 5043,
+    "output": 202
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 2530000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ー世印刷（株）",
+        "amount": 144650,
+        "date": null
+      },
+      {
+        "name": "ー世印刷（株）",
+        "amount": 86970,
+        "date": null
+      },
+      {
+        "name": "（株）フロム・エー",
+        "amount": 528000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 12890225,
+    "total_expense": 5630658
+  }
+}

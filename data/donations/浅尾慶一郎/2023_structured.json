@@ -1,0 +1,40 @@
+{
+  "name": "浅尾慶一郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:18:44.755223",
+  "matched_organizations": [
+    "浅尾慶一郎を支える会",
+    "浅尾慶一郎を囲む公認会計士の会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 10841,
+  "tokens": {
+    "input": 8220,
+    "output": 175
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "浅尾慶一郎君を応援する会",
+        "income": 25200000,
+        "date": "2023-10-24"
+      },
+      {
+        "name": "躍進の集い",
+        "income": 1620000,
+        "date": null
+      }
+    ],
+    "total_income": 40133394,
+    "total_expense": 5775845
+  }
+}

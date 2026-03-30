@@ -1,0 +1,60 @@
+{
+  "name": "小川淳也",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:27:16.587235",
+  "matched_organizations": [
+    "東京小川淳也後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 9410,
+  "tokens": {
+    "input": 8338,
+    "output": 311
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "田中正彦",
+        "amount": 100000,
+        "date": "R4/11/18"
+      },
+      {
+        "name": "田中正彦",
+        "amount": 100000,
+        "date": null
+      },
+      {
+        "name": "田中正彦",
+        "amount": 100000,
+        "date": "R4/11/26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "高橋洋平",
+        "amount": 120000,
+        "date": "R4/11/8"
+      },
+      {
+        "name": "高橋洋平",
+        "amount": 100000,
+        "date": null
+      },
+      {
+        "name": "高橋洋平",
+        "amount": 100000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 788000,
+    "total_expense": 0
+  }
+}

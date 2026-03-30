@@ -1,0 +1,70 @@
+{
+  "name": "角田秀穂",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:58:54.155217",
+  "matched_organizations": [
+    "角田秀穂後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8962,
+  "tokens": {
+    "input": 8321,
+    "output": 389
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "公明党千葉県本部",
+        "amount": 2454520,
+        "date": null
+      },
+      {
+        "name": "株式会社神田科学",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社大塚商会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社小沢印刷",
+        "amount": 224400,
+        "date": null
+      },
+      {
+        "name": "スタジオレリーズ",
+        "amount": 200000,
+        "date": null
+      },
+      {
+        "name": "公明出版サービス",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社JTB国会内店",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公明党衆議院比例区南関東第2支部",
+        "amount": 380000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 2454520,
+    "total_expense": 2270900
+  }
+}

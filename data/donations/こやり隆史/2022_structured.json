@@ -1,0 +1,45 @@
+{
+  "name": "こやり隆史",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:43:56.890801",
+  "matched_organizations": [
+    "こやり隆史淡海経済産業研究所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 12242,
+  "tokens": {
+    "input": 8473,
+    "output": 233
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "大槻デザイニング（株）",
+        "amount": 502800,
+        "date": "2022-04-28"
+      },
+      {
+        "name": "滋賀ビジネスマシン（株）",
+        "amount": 216000,
+        "date": "2022-10-31"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "ホテルニューオータ",
+        "income": 7560000,
+        "date": "2022-11-24"
+      }
+    ],
+    "total_income": 7615000,
+    "total_expense": 11594261
+  }
+}

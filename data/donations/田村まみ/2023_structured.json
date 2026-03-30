@@ -1,0 +1,28 @@
+{
+  "name": "田村まみ",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:36:16.555091",
+  "matched_organizations": [
+    "田村まみを支持する会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8880,
+  "tokens": {
+    "input": 8550,
+    "output": 86
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 51697983,
+    "total_expense": 44381063
+  }
+}

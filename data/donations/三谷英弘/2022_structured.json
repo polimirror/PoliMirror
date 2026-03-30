@@ -1,0 +1,50 @@
+{
+  "name": "三谷英弘",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:48:32.342865",
+  "matched_organizations": [
+    "三谷英弘政経研究会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14537,
+  "tokens": {
+    "input": 8971,
+    "output": 263
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 615000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社木下ダグループ",
+        "amount": 500000,
+        "date": null
+      },
+      {
+        "name": "株式会社オリエントコーポレーション",
+        "amount": 800000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "谷英弘後援会パーティー",
+        "income": 660000,
+        "date": null
+      },
+      {
+        "name": "谷英弘第4回日本みらい政治資金パーティー",
+        "income": 740000,
+        "date": null
+      }
+    ],
+    "total_income": 8400000,
+    "total_expense": 2248070
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "小川克巳",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:25:53.678666",
+  "matched_organizations": [
+    "小川克巳全国後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 9999,
+  "tokens": {
+    "input": 8474,
+    "output": 497
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本理学療法士連盟",
+        "amount": 10000000,
+        "date": null
+      },
+      {
+        "name": "フリヂストンテールジャパン（株）",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "イーデザイン損害保険（株）",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "（一社）熊本県物産振興協",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本航空（株）",
+        "amount": null,
+        "date": "2022-12-29"
+      },
+      {
+        "name": "小倉フェリー（株）",
+        "amount": null,
+        "date": "2022-12-29"
+      },
+      {
+        "name": "（株）アイランド食品",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "井筒まい泉（株）",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党東京都参議院比例区",
+        "amount": 10179570,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "参議院議員小川かつみ君の飛躍を期する会",
+        "income": 10860000,
+        "date": null
+      }
+    ],
+    "total_income": 18622000,
+    "total_expense": null
+  }
+}

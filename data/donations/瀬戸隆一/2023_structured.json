@@ -1,0 +1,61 @@
+{
+  "name": "瀬戸隆一",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:24:04.781454",
+  "matched_organizations": [
+    "瀬戸隆一後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14671,
+  "tokens": {
+    "input": 8583,
+    "output": 402
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "郵政政策研究会",
+        "amount": 250000,
+        "date": null
+      },
+      {
+        "name": "郵政政策研究会",
+        "amount": 600000,
+        "date": "2023-10-34"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "香川県歯科医師連盟",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政治資金パーティー「瀬戸隆一モーニングセミナー」開催事業",
+        "income": 2796000,
+        "date": "2023-04-27"
+      },
+      {
+        "name": "政治資金パーティー「瀬戸隆一君を励ます会」開催事業",
+        "income": null,
+        "date": "2023-09-21"
+      },
+      {
+        "name": "政治資金パーティー「瀬戸隆一モーニングセミナー」開催事業",
+        "income": null,
+        "date": "2023-12-06"
+      }
+    ],
+    "total_income": 22976017,
+    "total_expense": 11076578
+  }
+}

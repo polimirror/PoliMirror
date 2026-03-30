@@ -1,0 +1,81 @@
+{
+  "name": "斎藤洋明",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:54:56.465655",
+  "matched_organizations": [
+    "斎藤洋明政策研究会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 26376,
+  "tokens": {
+    "input": 8961,
+    "output": 509
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本酪農政治連盟",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "菱Cビジネスリース株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "中外石油株式会社",
+        "amount": null,
+        "date": "2023-08-24"
+      },
+      {
+        "name": "日刊建設通信新聞社",
+        "amount": null,
+        "date": "2023-08-24"
+      },
+      {
+        "name": "モリサワ",
+        "amount": null,
+        "date": "2023-08-28"
+      },
+      {
+        "name": "社会保険労務士法人小柳労務コン",
+        "amount": null,
+        "date": "2023-10-26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "茨城電設協同組合",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "阿賀野市建設業協会",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "さいとう洋明ダッシュ!の会2023",
+        "income": null,
+        "date": "2023-06-25"
+      },
+      {
+        "name": "さいとう洋明を応援する会2023",
+        "income": null,
+        "date": "2023-12-05"
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

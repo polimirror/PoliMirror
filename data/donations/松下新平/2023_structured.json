@@ -1,0 +1,46 @@
+{
+  "name": "松下新平",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:06:10.018711",
+  "matched_organizations": [
+    "松下新平国会事務所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 18898,
+  "tokens": {
+    "input": 8251,
+    "output": 211
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "中外石油株式会社",
+        "amount": 8260000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体",
+        "amount": 8567999,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "松下新平君を囲む会",
+        "income": 20250000,
+        "date": "2023-12-05"
+      }
+    ],
+    "total_income": 36036758,
+    "total_expense": 17881870
+  }
+}

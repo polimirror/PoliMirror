@@ -1,0 +1,45 @@
+{
+  "name": "新谷正義",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:57:00.627494",
+  "matched_organizations": [
+    "新谷正義後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 11367,
+  "tokens": {
+    "input": 8281,
+    "output": 211
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "バイオシステム（株）",
+        "amount": 600000,
+        "date": null
+      },
+      {
+        "name": "常ユナイトカンパニー",
+        "amount": 602800,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "広島県料理業生活衛生同業組合",
+        "amount": 178200,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 9461800,
+    "total_expense": 5385900
+  }
+}

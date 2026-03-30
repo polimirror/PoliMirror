@@ -1,0 +1,51 @@
+{
+  "name": "石破茂",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:44:32.772779",
+  "matched_organizations": [
+    "石破茂政経懇話会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 16906,
+  "tokens": {
+    "input": 8597,
+    "output": 268
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ニトリホールディングス",
+        "amount": 1000000,
+        "date": "2022-11-10"
+      },
+      {
+        "name": "株式会社ニトリホールディングス",
+        "amount": 300000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "製鉄産業政治連盟",
+        "amount": 500000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "石破茂セミナー2022",
+        "income": 22500000,
+        "date": "2022-11-15"
+      }
+    ],
+    "total_income": 109597655,
+    "total_expense": 0
+  }
+}

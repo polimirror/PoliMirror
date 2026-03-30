@@ -1,0 +1,56 @@
+{
+  "name": "片山大介",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:29:11.508505",
+  "matched_organizations": [
+    "片山大介事務所",
+    "片山大介を応援する会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 18141,
+  "tokens": {
+    "input": 8719,
+    "output": 363
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "日本維新の会国会議員",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "地域活性化研究会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "兵庫維新の会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "家庭倫理の会神戸市",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "旧衆議院議員井上英孝君を育てる会",
+        "amount": null,
+        "date": "2022-06-20"
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0,
+    "note": "OCRテキストの品質が低く、多くの数値が読み取り不可であるため、正確な集計ができませんでした。政治団体名は『片山大介事務所』で、代表者は『片山大介』(参議院議員)です。"
+  }
+}

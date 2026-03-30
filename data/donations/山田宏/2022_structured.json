@@ -1,0 +1,72 @@
+{
+  "name": "山田宏",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:39:44.749546",
+  "matched_organizations": [
+    "山田宏事務所",
+    "山田宏よい国後援会",
+    "山田宏後援会"
+  ],
+  "pdf_count": 3,
+  "ocr_text_length": 24489,
+  "tokens": {
+    "input": 8460,
+    "output": 399
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "丸の内新聞株式会社",
+        "amount": 14800,
+        "date": "R4/4/26"
+      },
+      {
+        "name": "楽天グループ株式会社",
+        "amount": 14800,
+        "date": "R4/4/26"
+      },
+      {
+        "name": "株式会社メガ",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "キャノンマーケティングジャパン",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "ジョーシン",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社プリントパック",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "東日本電信電話株式会社",
+        "amount": 50000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 16500000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 16918890,
+    "total_expense": 5506860
+  }
+}

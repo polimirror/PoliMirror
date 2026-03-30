@@ -1,0 +1,62 @@
+{
+  "name": "石井苗子",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:40:27.508876",
+  "matched_organizations": [
+    "石井苗子ときぼうの会",
+    "石井苗子を支える会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 16305,
+  "tokens": {
+    "input": 8479,
+    "output": 361
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ブラン",
+        "amount": 258500,
+        "date": "R5/12/26"
+      },
+      {
+        "name": "リーガロイヤルホテル大阪",
+        "amount": 1518471,
+        "date": "R5/12/27"
+      },
+      {
+        "name": "株式会社クレオール",
+        "amount": 90000,
+        "date": "R5/12/2"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 2000000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "石井苗子と語る日本・台湾文化交流会",
+        "income": 2096061,
+        "date": null
+      },
+      {
+        "name": "石井苗子と大阪から日本を元気",
+        "income": 2280368,
+        "date": null
+      }
+    ],
+    "total_income": 10000000,
+    "total_expense": 8669214
+  }
+}

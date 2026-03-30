@@ -1,0 +1,34 @@
+{
+  "name": "平将明",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:44:43.701708",
+  "matched_organizations": [
+    "平将明後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 25196,
+  "tokens": {
+    "input": 8573,
+    "output": 134
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党東京都第四選挙区支部",
+        "amount": 2109264,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 10309264,
+    "total_expense": 10165833
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "大岡敏孝",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:17:53.507145",
+  "matched_organizations": [
+    "大岡敏孝を支える会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24257,
+  "tokens": {
+    "input": 9007,
+    "output": 166
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 858000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "政党",
+        "amount": 10358000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "憲政記念館",
+        "income": 16540000,
+        "date": "2022-10-12"
+      }
+    ],
+    "total_income": 74250000,
+    "total_expense": 47351810
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "和田政宗",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:16:14.529891",
+  "matched_organizations": [
+    "和田政宗後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 19342,
+  "tokens": {
+    "input": 8372,
+    "output": 724
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "キンコーズ・ジャパン",
+        "amount": 16280,
+        "date": "2023-05-10"
+      },
+      {
+        "name": "ビックカメラ赤坂見附駅店",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "富士フイルムビジネスイノベーションジャパン",
+        "amount": 21400,
+        "date": "2023-02-28"
+      },
+      {
+        "name": "丸の内新聞",
+        "amount": 21400,
+        "date": "2023-02-28"
+      },
+      {
+        "name": "NTTファイナンス",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "プリントパック",
+        "amount": null,
+        "date": "2023-10-30"
+      },
+      {
+        "name": "アマゾンジャパン合同会社",
+        "amount": null,
+        "date": "2023-11-11"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本旅行",
+        "amount": 377828,
+        "date": "2023-09-29"
+      },
+      {
+        "name": "日本パラオ友好議員連盟訪",
+        "amount": 14640,
+        "date": "2023-03-11"
+      },
+      {
+        "name": "くに創り政治経済研究所",
+        "amount": 20000,
+        "date": "2023-11-29"
+      },
+      {
+        "name": "原じゅん子さんを励ます会",
+        "amount": 250000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "参議院議員和田政宗朝食勉強会",
+        "income": 400000,
+        "date": "2023-01-16"
+      },
+      {
+        "name": "和田政宗君と議院議員和田政宗仙台勉強会",
+        "income": 18540000,
+        "date": "2023-02-20"
+      },
+      {
+        "name": "和田政宗仙台勉強会",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 33894499,
+    "total_expense": 28499384
+  }
+}

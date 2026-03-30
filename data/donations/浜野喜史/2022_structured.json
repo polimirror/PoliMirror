@@ -1,0 +1,49 @@
+{
+  "name": "浜野喜史",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:20:35.407045",
+  "matched_organizations": [
+    "浜野喜史後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 7047,
+  "tokens": {
+    "input": 7376,
+    "output": 270
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本郵便株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "有限会社徳丸梅寿司",
+        "amount": 48610,
+        "date": "2022-07-28"
+      },
+      {
+        "name": "インディゴブルー株式会社",
+        "amount": 100800,
+        "date": "2022-10-06"
+      },
+      {
+        "name": "浅田屋伊兵衛商店株式会社",
+        "amount": 0,
+        "date": "2022-08-10"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 24178885,
+    "total_expense": 1187987
+  }
+}

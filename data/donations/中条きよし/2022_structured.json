@@ -1,0 +1,90 @@
+{
+  "name": "中条きよし",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:54:08.445855",
+  "matched_organizations": [
+    "中条きよしと共に歩む会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 11134,
+  "tokens": {
+    "input": 8486,
+    "output": 643
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 3768014,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "東海旅客鉄道株式会社",
+        "amount": 50040,
+        "date": "R4/6/10"
+      },
+      {
+        "name": "株式会社Mobility Technologies",
+        "amount": 14150,
+        "date": "R4/6/10"
+      },
+      {
+        "name": "東海旅客鉄道株式会社",
+        "amount": 11300,
+        "date": "R4/6/10"
+      },
+      {
+        "name": "東日本旅客鉄道株式会社",
+        "amount": 15180,
+        "date": "R4/6/11"
+      },
+      {
+        "name": "全日本空輸株式会社",
+        "amount": 43580,
+        "date": "R4/6/18"
+      },
+      {
+        "name": "全日本空輸株式会社",
+        "amount": 87160,
+        "date": "R4/6/18"
+      },
+      {
+        "name": "西日本旅客鉄道株式会社",
+        "amount": 14740,
+        "date": "R4/6/21"
+      },
+      {
+        "name": "東日本旅客鉄道株式会社",
+        "amount": 14720,
+        "date": "R4/6/21"
+      },
+      {
+        "name": "トヨタモビリティ東京(株)",
+        "amount": 20000,
+        "date": "R4/6/30"
+      },
+      {
+        "name": "トヨタモビリティ東京(株)",
+        "amount": 20000,
+        "date": "R4/12/28"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "21世紀政策研究会",
+        "amount": null,
+        "date": "R4/11/18"
+      },
+      {
+        "name": "選山会",
+        "amount": null,
+        "date": "R4/12/16"
+      }
+    ],
+    "party_events": [],
+    "total_income": 9768014,
+    "total_expense": 5394686
+  }
+}

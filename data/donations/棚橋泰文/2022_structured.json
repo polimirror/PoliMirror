@@ -1,0 +1,28 @@
+{
+  "name": "棚橋泰文",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:07:50.654199",
+  "matched_organizations": [
+    "棚橋泰文後援会連合会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 2617,
+  "tokens": {
+    "input": 3023,
+    "output": 336
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 5212490
+  }
+}

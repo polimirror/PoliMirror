@@ -57,3 +57,13 @@
   回数ではなく率がメイン指標（公平性のため）
 - スコア設計は与党（答弁側）と野党（質問側）の
   構造的差異を常に考慮すること
+
+## つながり可視化（2026-03-30実装）
+- company_index.json: 72企業・団体の献金データ
+- quartz/content/donations/: 72ページの献金元別ページ
+- pipeline/processors/donation_reverse_index.py
+- pipeline/processors/donation_page_writer.py
+- pipeline/processors/donation_analyzer.py（Claude API構造化解析）
+- OCRパイプライン: seiji_shikin_ocr.py（総務省SS20231124対応）
+  → 9議員+8政党処理済み
+  → 都道府県選管分は未対応（今後の課題）

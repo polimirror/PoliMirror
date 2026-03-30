@@ -1,0 +1,28 @@
+{
+  "name": "中田宏",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:55:32.218287",
+  "matched_organizations": [
+    "中田宏事務所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 4938,
+  "tokens": {
+    "input": 5300,
+    "output": 84
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 50000000,
+    "total_expense": 0
+  }
+}

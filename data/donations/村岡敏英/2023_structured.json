@@ -1,0 +1,64 @@
+{
+  "name": "村岡敏英",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:03:22.867438",
+  "matched_organizations": [
+    "村岡敏英後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14231,
+  "tokens": {
+    "input": 8737,
+    "output": 417
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 100000,
+        "date": "2023-01-09"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 100000,
+        "date": "2023-05-30"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 100000,
+        "date": "2023-08-30"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 100000,
+        "date": "2023-10-26"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 260000,
+        "date": "2023-12-12"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 226000,
+        "date": "2023-12-21"
+      },
+      {
+        "name": "村岡敏英君を励ます会",
+        "income": 810000,
+        "date": "2023-09-25"
+      }
+    ],
+    "total_income": 1449704,
+    "total_expense": 360570
+  }
+}

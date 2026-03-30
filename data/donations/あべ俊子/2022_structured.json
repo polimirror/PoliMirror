@@ -1,0 +1,50 @@
+{
+  "name": "あべ俊子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:40:33.561932",
+  "matched_organizations": [
+    "あべ俊子後援会",
+    "あべ俊子政策研究会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 22991,
+  "tokens": {
+    "input": 8234,
+    "output": 247
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "あべ俊子政策研究会",
+        "amount": 500000,
+        "date": null
+      },
+      {
+        "name": "あべ俊子政策研究会",
+        "amount": 500000,
+        "date": null
+      },
+      {
+        "name": "あべ俊子政策研究会",
+        "amount": 1000000,
+        "date": null
+      },
+      {
+        "name": "あべ俊子政策研究会",
+        "amount": 1000000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 13845136,
+    "total_expense": 9892942
+  }
+}

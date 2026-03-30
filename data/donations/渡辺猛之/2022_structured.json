@@ -1,0 +1,45 @@
+{
+  "name": "渡辺猛之",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:21:21.858786",
+  "matched_organizations": [
+    "渡辺猛之後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8731,
+  "tokens": {
+    "input": 8200,
+    "output": 206
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "岐阜県漁業協同組合連合会",
+        "amount": 3000000,
+        "date": null
+      },
+      {
+        "name": "見行木材",
+        "amount": 1080000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公益財団法人オイスカ",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 20838919,
+    "total_expense": 12783150
+  }
+}

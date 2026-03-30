@@ -1,0 +1,61 @@
+{
+  "name": "あべ俊子",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:42:53.999552",
+  "matched_organizations": [
+    "あべ俊子後援会",
+    "あべ俊子政策研究会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 26356,
+  "tokens": {
+    "input": 8332,
+    "output": 312
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "自由民主党岡山県相談速監支部",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本看護連盟後援会",
+        "amount": null,
+        "date": "R5/2/28"
+      },
+      {
+        "name": "岡山県看護連盟",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本看護連盟",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "あべ俊子政策研究会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "あべ倹子政策研究会",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "中野洋昌",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:01:41.826040",
+  "matched_organizations": [
+    "中野洋昌後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 3786,
+  "tokens": {
+    "input": 4037,
+    "output": 354
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "大阪建設興業",
+        "amount": 300000,
+        "date": "2022-10-24"
+      },
+      {
+        "name": "アラスワン株式会社",
+        "amount": 99000,
+        "date": "2022-12-10"
+      },
+      {
+        "name": "都ホテル尼崎",
+        "amount": 1597210,
+        "date": "2022-12-19"
+      },
+      {
+        "name": "WITH RUSH株式会社",
+        "amount": 66000,
+        "date": "2022-12-12"
+      },
+      {
+        "name": "株式会社東弘",
+        "amount": 1276000,
+        "date": "2022-12-23"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "新しいチカラのつどい",
+        "income": 10795000,
+        "date": "2022-11-28"
+      }
+    ],
+    "total_income": 13203470,
+    "total_expense": 10795084
+  }
+}

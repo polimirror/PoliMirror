@@ -1,0 +1,90 @@
+{
+  "name": "中西祐介",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:01:11.790840",
+  "matched_organizations": [
+    "中西祐介後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 22423,
+  "tokens": {
+    "input": 8558,
+    "output": 581
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "徳山商事株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "京浜急行電鉄株式会社",
+        "amount": null,
+        "date": "2023-03-26"
+      },
+      {
+        "name": "東京地下鉄株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "住友不動産",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社ジシーレコミュニケーション",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "全日本空輸株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社JRホテルズ",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "アパホテル株式会社",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "参議院議員中西祐介日本の国益を考える会",
+        "income": 6060000,
+        "date": "2023-08-04"
+      },
+      {
+        "name": "参議院議員中西祐介君を励ます会",
+        "income": 6099990,
+        "date": "2023-08-27"
+      },
+      {
+        "name": "参議院議員中西祐介日本の国益を考える会",
+        "income": 6030000,
+        "date": null
+      }
+    ],
+    "total_income": 6000340,
+    "total_expense": 3930499
+  }
+}

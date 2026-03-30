@@ -1,0 +1,55 @@
+{
+  "name": "古屋圭司",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:11:34.142536",
+  "matched_organizations": [
+    "古屋圭司を育てる会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 4162,
+  "tokens": {
+    "input": 4408,
+    "output": 296
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "青山観光（株）",
+        "amount": 330000,
+        "date": null
+      },
+      {
+        "name": "（有）快山襦陶所",
+        "amount": 216000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本会議岐阜県本部",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "中津川市古屋けいじ後援会",
+        "amount": null,
+        "date": "2023-02-28"
+      },
+      {
+        "name": "中津川市古屋けい じ後援会",
+        "amount": null,
+        "date": "2023-04-28"
+      }
+    ],
+    "party_events": [],
+    "total_income": 8242280,
+    "total_expense": 1212090
+  }
+}

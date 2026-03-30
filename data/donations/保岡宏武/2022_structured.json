@@ -1,0 +1,34 @@
+{
+  "name": "保岡宏武",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:08:44.506320",
+  "matched_organizations": [
+    "保岡宏武後援会連合会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 19580,
+  "tokens": {
+    "input": 8423,
+    "output": 135
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 7700000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党鹿児島県第一支部",
+        "amount": 16756872,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 24456872,
+    "total_expense": 29449789
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "茂木敏充",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:52:36.508710",
+  "matched_organizations": [
+    "茂木敏充政策研究会",
+    "茂木敏充後援会総連合会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 24116,
+  "tokens": {
+    "input": 7999,
+    "output": 288
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "東京プリンスホテル鳳凰の間",
+        "income": 24850000,
+        "date": null
+      },
+      {
+        "name": "ホテル東日本宇都宮大和の間",
+        "income": 32370000,
+        "date": "2022-05-27"
+      },
+      {
+        "name": "東京プリンスホテル鳳凰の間",
+        "income": 25530000,
+        "date": "2022-06-01"
+      },
+      {
+        "name": "東京プリンスホテル鳳凰の間",
+        "income": 10100000,
+        "date": "2022-11-30"
+      }
+    ],
+    "total_income": 92850000,
+    "total_expense": 0
+  }
+}

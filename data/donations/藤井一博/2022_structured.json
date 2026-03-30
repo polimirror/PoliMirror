@@ -1,0 +1,90 @@
+{
+  "name": "藤井一博",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:53:25.211862",
+  "matched_organizations": [
+    "藤井一博後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 7938,
+  "tokens": {
+    "input": 8218,
+    "output": 602
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ジェミニ物産",
+        "amount": 18663,
+        "date": null
+      },
+      {
+        "name": "株式会社ジェミニ物産",
+        "amount": 14565,
+        "date": "R4/5/30"
+      },
+      {
+        "name": "株式会社ジェミニ物産",
+        "amount": 13791,
+        "date": "R4/9/28"
+      },
+      {
+        "name": "有限会社鳥取県農協印刷",
+        "amount": 49500,
+        "date": "R4/5/30"
+      },
+      {
+        "name": "有限会社公益社小山",
+        "amount": 71000,
+        "date": "R4/4/22"
+      },
+      {
+        "name": "前田自動車",
+        "amount": 15950,
+        "date": "R4/1/27"
+      },
+      {
+        "name": "前田自動車",
+        "amount": 15950,
+        "date": "R4/2/25"
+      },
+      {
+        "name": "前田自動車",
+        "amount": 15950,
+        "date": "R4/7/4"
+      },
+      {
+        "name": "前田自動車",
+        "amount": 15950,
+        "date": "R4/7/25"
+      },
+      {
+        "name": "前田自動車",
+        "amount": 15950,
+        "date": "R4/10/28"
+      },
+      {
+        "name": "株式会社オガモエネルギー",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党鳥取県仁厚会支部",
+        "amount": 1500000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 1844023,
+    "total_expense": 728500
+  }
+}

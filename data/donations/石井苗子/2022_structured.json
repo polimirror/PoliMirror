@@ -1,0 +1,57 @@
+{
+  "name": "石井苗子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:39:08.190623",
+  "matched_organizations": [
+    "石井苗子ときぼうの会",
+    "石井苗子を支える会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 17252,
+  "tokens": {
+    "input": 8406,
+    "output": 295
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本維新の会国会議員団",
+        "amount": 1000000,
+        "date": "R4/12/9"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 9000000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "来たれ女の政治出版記念パーティー",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "石井苗子を支える会IN大阪",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "国政報告会IN東京",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 10000000,
+    "total_expense": 19941122
+  }
+}

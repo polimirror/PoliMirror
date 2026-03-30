@@ -1,0 +1,40 @@
+{
+  "name": "石橋林太郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:41:27.698384",
+  "matched_organizations": [
+    "石橋林太郎後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 12859,
+  "tokens": {
+    "input": 8442,
+    "output": 171
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "宏池政策研究会",
+        "amount": 2000000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "自由民主党会費",
+        "income": 60000,
+        "date": "R4/6/18"
+      }
+    ],
+    "total_income": 5218414,
+    "total_expense": 2909200
+  }
+}

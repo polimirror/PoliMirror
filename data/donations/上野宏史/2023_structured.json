@@ -1,0 +1,34 @@
+{
+  "name": "上野宏史",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:51:17.602440",
+  "matched_organizations": [
+    "上野宏史後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 5873,
+  "tokens": {
+    "input": 6107,
+    "output": 125
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "淵和政策研究会",
+        "amount": 1000000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 5803364,
+    "total_expense": 288827
+  }
+}

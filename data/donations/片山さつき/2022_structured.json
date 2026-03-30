@@ -1,0 +1,56 @@
+{
+  "name": "片山さつき",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:25:55.623199",
+  "matched_organizations": [
+    "片山さつき後援会",
+    "東日本の税理士による片山さつき後援会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 24179,
+  "tokens": {
+    "input": 8729,
+    "output": 301
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 2294000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "名古屋マリオットアソシアホテル",
+        "amount": 11580000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "名古屋政経セミナー",
+        "income": 9925000,
+        "date": "4月"
+      },
+      {
+        "name": "東京政経セミナー",
+        "income": 26860000,
+        "date": "4月"
+      },
+      {
+        "name": "東京政経セミナー",
+        "income": 73585000,
+        "date": "12月"
+      },
+      {
+        "name": "大阪政経セミナー",
+        "income": 63660000,
+        "date": "11月"
+      }
+    ],
+    "total_income": 95469438,
+    "total_expense": 72242845
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "伊藤忠彦",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:05:53.894126",
+  "matched_organizations": [
+    "伊藤忠彦後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 10331,
+  "tokens": {
+    "input": 8230,
+    "output": 417
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 4050000,
+      "count": 8
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社黒牛の里",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社ヤマタネ",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "株式会社第一印刷",
+        "amount": 7374000,
+        "date": null
+      },
+      {
+        "name": "名古屋マリオットアソシアホテル",
+        "amount": 2389920,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党愛知県支部連合会",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "伊藤忠彦後援会「騎虎の会」",
+        "income": 12509571,
+        "date": null
+      },
+      {
+        "name": "伊藤忠彦後援会バス旅行",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 19763249,
+    "total_expense": 19763249
+  }
+}

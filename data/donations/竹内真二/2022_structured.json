@@ -1,0 +1,39 @@
+{
+  "name": "竹内真二",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:48:22.597108",
+  "matched_organizations": [
+    "竹内真二後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 7062,
+  "tokens": {
+    "input": 7456,
+    "output": 165
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "公明党参議院比例区第7総支部",
+        "amount": 900000,
+        "date": null
+      },
+      {
+        "name": "公明党千葉県本部",
+        "amount": 60000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 960000,
+    "total_expense": 0
+  }
+}

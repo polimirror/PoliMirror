@@ -1,0 +1,41 @@
+{
+  "name": "山田宏",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:41:29.066620",
+  "matched_organizations": [
+    "山田宏事務所",
+    "山田宏よい国後援会",
+    "山田宏後援会"
+  ],
+  "pdf_count": 3,
+  "ocr_text_length": 24367,
+  "tokens": {
+    "input": 8565,
+    "output": 171
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "丸の内新聞株式会社",
+        "amount": 1000000,
+        "date": null
+      },
+      {
+        "name": "キャノンマーケティングジャパン",
+        "amount": 1000000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 16374831,
+    "total_expense": 16374831
+  }
+}

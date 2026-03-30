@@ -1,0 +1,70 @@
+{
+  "name": "角田秀穂",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:58:04.958471",
+  "matched_organizations": [
+    "角田秀穂後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8252,
+  "tokens": {
+    "input": 8438,
+    "output": 437
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "大塔デザイニング株式会社",
+        "amount": 126368,
+        "date": "2022-02-24"
+      },
+      {
+        "name": "リコーリース株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "大塔商会",
+        "amount": 28449,
+        "date": "2022-02-18"
+      },
+      {
+        "name": "スカイマータクタ株式会社",
+        "amount": 0,
+        "date": "2022-06-18"
+      },
+      {
+        "name": "公明田版サービス",
+        "amount": 0,
+        "date": "2022-06-28"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自民党千葉県第一選挙区支部",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "鷹之政経フォーラム",
+        "amount": 180000,
+        "date": "2022-06-20"
+      },
+      {
+        "name": "なたが誇れる日本を語る会",
+        "amount": 0,
+        "date": "2022-06-20"
+      }
+    ],
+    "party_events": [],
+    "total_income": 2446420,
+    "total_expense": 1448370
+  }
+}

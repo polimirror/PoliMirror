@@ -1,0 +1,40 @@
+{
+  "name": "竹内真二",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:48:57.190770",
+  "matched_organizations": [
+    "竹内真二後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 6102,
+  "tokens": {
+    "input": 6401,
+    "output": 184
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社日本ビー・エム・サプライ",
+        "amount": 108440,
+        "date": "2023-10-26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公明党参議院比例区第7総支部",
+        "amount": 100000,
+        "date": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 181000,
+    "total_expense": 181000
+  }
+}

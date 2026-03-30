@@ -1,0 +1,50 @@
+{
+  "name": "中条きよし",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:55:05.788370",
+  "matched_organizations": [
+    "中条きよしと共に歩む会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 10606,
+  "tokens": {
+    "input": 8484,
+    "output": 407
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "東京維新の会",
+        "amount": 30000,
+        "date": "2023-01-24"
+      },
+      {
+        "name": "東京維新の会",
+        "amount": 30000,
+        "date": "2023-06-20"
+      },
+      {
+        "name": "東京維新の会",
+        "amount": 30000,
+        "date": "2023-09-26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "森京維新の会",
+        "amount": null,
+        "date": "2023-03-17"
+      }
+    ],
+    "party_events": [],
+    "total_income": 2026559,
+    "total_expense": 1966376
+  }
+}

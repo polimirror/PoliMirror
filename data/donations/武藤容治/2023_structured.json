@@ -1,0 +1,75 @@
+{
+  "name": "武藤容治",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:15:25.902168",
+  "matched_organizations": [
+    "武藤容治政経フォーラム",
+    "武藤容治をはげます会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 17592,
+  "tokens": {
+    "input": 8319,
+    "output": 522
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1240000,
+      "count": 11
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "麻生太郎関係政治団体",
+        "amount": 1000000,
+        "date": "2023-06-16"
+      },
+      {
+        "name": "麻生太郎関係政治団体",
+        "amount": 160000,
+        "date": "2023-07-05"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2023-07-10"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2023-08-28"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 2000000,
+        "date": "2023-09-20"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2023-11-30"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2023-12-12"
+      },
+      {
+        "name": "麻生太郎関係政治団体",
+        "amount": 1000000,
+        "date": "2023-12-13"
+      },
+      {
+        "name": "武藤容治政経フォーラム",
+        "amount": 3000000,
+        "date": "2023-12-20"
+      }
+    ],
+    "party_events": [],
+    "total_income": 30157634,
+    "total_expense": 18204705
+  }
+}

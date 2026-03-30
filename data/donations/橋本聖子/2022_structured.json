@@ -1,0 +1,51 @@
+{
+  "name": "橋本聖子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:10:20.549783",
+  "matched_organizations": [
+    "橋本聖子後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 11526,
+  "tokens": {
+    "input": 8412,
+    "output": 304
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "相田化学工業株式会社",
+        "amount": 400000,
+        "date": "2022-11-16"
+      },
+      {
+        "name": "株式会社手塚組",
+        "amount": 400000,
+        "date": "2022-11-20"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "全国ビルメンテナンス政治連盟",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "IOC女性スポーツ賞世界賞受賞記念橋本聖子さんを励ます会「夢と情熱と」",
+        "income": 33930000,
+        "date": "2022-11-30"
+      }
+    ],
+    "total_income": 34413209,
+    "total_expense": 19519392
+  }
+}

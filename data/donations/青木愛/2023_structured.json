@@ -1,0 +1,28 @@
+{
+  "name": "青木愛",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T11:17:18.685164",
+  "matched_organizations": [
+    "青木愛と羽ばたく会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 4570,
+  "tokens": {
+    "input": 4792,
+    "output": 82
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

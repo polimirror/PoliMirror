@@ -1,0 +1,85 @@
+{
+  "name": "村岡敏英",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:02:01.721899",
+  "matched_organizations": [
+    "村岡敏英後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14077,
+  "tokens": {
+    "input": 8394,
+    "output": 640
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1500000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "村岡建設工業",
+        "amount": 500000,
+        "date": "2022-08-29"
+      },
+      {
+        "name": "村岡建設工業",
+        "amount": 500000,
+        "date": "2022-08-29"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "1月26日村岡敏英君を励ます会",
+        "income": 340000,
+        "date": "2022-01-26"
+      },
+      {
+        "name": "4月24日村岡敏英君を励ます会",
+        "income": 230000,
+        "date": "2022-04-24"
+      },
+      {
+        "name": "7月31日村岡敏英君を励ます会",
+        "income": 1100000,
+        "date": "2022-07-31"
+      },
+      {
+        "name": "8月29日村岡敏英君を励ます会",
+        "income": 1100000,
+        "date": "2022-08-29"
+      },
+      {
+        "name": "9月18日村岡敏英君を励ます会",
+        "income": 2840000,
+        "date": "2022-09-18"
+      },
+      {
+        "name": "9月28日村岡敏英君を励ます会",
+        "income": 340000,
+        "date": "2022-09-28"
+      },
+      {
+        "name": "10月17日村岡敏英君を励ます会",
+        "income": 356000,
+        "date": "2022-10-17"
+      },
+      {
+        "name": "10月9日村岡敏英君を励ます会",
+        "income": 290000,
+        "date": "2022-10-09"
+      },
+      {
+        "name": "12月7日村岡敏英君を励ます会",
+        "income": 330000,
+        "date": "2022-12-07"
+      }
+    ],
+    "total_income": 12368801,
+    "total_expense": 9943087
+  }
+}

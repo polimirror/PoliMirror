@@ -1,0 +1,28 @@
+{
+  "name": "福山守",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:45:01.990577",
+  "matched_organizations": [
+    "麻布大学同窓有志による福山守後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 4681,
+  "tokens": {
+    "input": 4956,
+    "output": 82
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

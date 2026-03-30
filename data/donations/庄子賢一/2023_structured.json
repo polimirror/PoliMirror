@@ -1,0 +1,71 @@
+{
+  "name": "庄子賢一",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:51:26.937869",
+  "matched_organizations": [
+    "庄子賢一東北後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8296,
+  "tokens": {
+    "input": 8408,
+    "output": 424
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本郵便(株)",
+        "amount": 256,
+        "date": "R5/3/81"
+      },
+      {
+        "name": "(株)江陽会館",
+        "amount": 1422036,
+        "date": null
+      },
+      {
+        "name": "仙台国際ホテル(株)",
+        "amount": null,
+        "date": "2023-06-26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "榴岡の会",
+        "amount": null,
+        "date": "2023-05-08"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "庄子賢一国政報告会",
+        "income": 480000,
+        "date": "2023-09-25"
+      },
+      {
+        "name": "庄子賢一国政報告会",
+        "income": 280000,
+        "date": "2023-12-04"
+      },
+      {
+        "name": "様岡の会",
+        "income": 880000,
+        "date": "2023-09-07"
+      },
+      {
+        "name": "賢人会",
+        "income": null,
+        "date": "2023-11-20"
+      }
+    ],
+    "total_income": 1640000,
+    "total_expense": 10932924
+  }
+}

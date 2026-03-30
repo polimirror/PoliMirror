@@ -1,0 +1,35 @@
+{
+  "name": "片山大介",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:30:39.695585",
+  "matched_organizations": [
+    "片山大介事務所",
+    "片山大介を応援する会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 16555,
+  "tokens": {
+    "input": 8629,
+    "output": 129
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本維新の会国会議員団",
+        "amount": 5000000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 13533065,
+    "total_expense": 5254810
+  }
+}

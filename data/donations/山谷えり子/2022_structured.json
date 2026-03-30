@@ -1,0 +1,28 @@
+{
+  "name": "山谷えり子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:41:47.911222",
+  "matched_organizations": [
+    "山谷えり子を支える会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 1785,
+  "tokens": {
+    "input": 2098,
+    "output": 398
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

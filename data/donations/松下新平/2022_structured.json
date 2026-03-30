@@ -1,0 +1,56 @@
+{
+  "name": "松下新平",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:04:41.694094",
+  "matched_organizations": [
+    "松下新平国会事務所"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 17826,
+  "tokens": {
+    "input": 8499,
+    "output": 297
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 8800000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "中外石油株式会社",
+        "amount": null,
+        "date": "2022-02-21"
+      },
+      {
+        "name": "リコージャパン株式会社",
+        "amount": null,
+        "date": "2022-01-20"
+      },
+      {
+        "name": "日本郵便株式会社",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自民党広報本部",
+        "amount": 19800,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ホテルニューオータニ",
+        "income": 1244000,
+        "date": "2022-12-06"
+      }
+    ],
+    "total_income": 45338276,
+    "total_expense": 40363556
+  }
+}

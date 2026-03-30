@@ -1,0 +1,64 @@
+{
+  "name": "和田政宗",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:14:28.465274",
+  "matched_organizations": [
+    "和田政宗後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 15045,
+  "tokens": {
+    "input": 8367,
+    "output": 404
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "参議院議員和田政宗朝食勉強会1月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会2月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会3月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会4月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会5月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会8月",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "参議院議員和田政宗朝食勉強会9月",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 26250930,
+    "total_expense": 24251492
+  }
+}

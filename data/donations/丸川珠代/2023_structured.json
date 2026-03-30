@@ -1,0 +1,51 @@
+{
+  "name": "丸川珠代",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T09:04:42.634610",
+  "matched_organizations": [
+    "丸川珠代の会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 15917,
+  "tokens": {
+    "input": 8387,
+    "output": 270
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 592000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "医療法人社団アヴェニュー",
+        "amount": 800000,
+        "date": null
+      },
+      {
+        "name": "丸の内新聞株式会社",
+        "amount": 238598,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "宍戸さがぶぶろう応援する会",
+        "amount": 1000000,
+        "date": "2023-01-26"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "丸川珠代昼食勉強会",
+        "income": 15560010,
+        "date": null
+      }
+    ],
+    "total_income": 8403897,
+    "total_expense": 8403897
+  }
+}

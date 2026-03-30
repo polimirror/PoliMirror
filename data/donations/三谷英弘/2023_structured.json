@@ -1,0 +1,60 @@
+{
+  "name": "三谷英弘",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:50:19.171230",
+  "matched_organizations": [
+    "三谷英弘政経研究会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 18021,
+  "tokens": {
+    "input": 8432,
+    "output": 313
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "明日の日本を創る会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "新都市経済研究会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "日本未来開発研究会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "みらい研究会",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "国会議員三谷英弘パーティー",
+        "income": 400000,
+        "date": "2022-09-29"
+      },
+      {
+        "name": "モーニングセミナー",
+        "income": 300000,
+        "date": null
+      }
+    ],
+    "total_income": 31845037,
+    "total_expense": 3230889
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "三原じゅん子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T08:46:21.878442",
+  "matched_organizations": [
+    "三原じゅん子後援会",
+    "公認会計士による三原じゅん子後援会"
+  ],
+  "pdf_count": 2,
+  "ocr_text_length": 11654,
+  "tokens": {
+    "input": 8296,
+    "output": 388
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1600000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ヤマト運輸（株）",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "三原じゅん子さんを励ます会",
+        "amount": 1500000,
+        "date": null
+      },
+      {
+        "name": "自由民主党神奈川県参議院選挙区第4支部",
+        "amount": 15000000,
+        "date": "2022-12-10"
+      },
+      {
+        "name": "自由民主党神奈川県参議院選挙区第4支部",
+        "amount": 1000000,
+        "date": "2022-12-20"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ロイヤルホールヨコハマ",
+        "income": 5970000,
+        "date": "2022-05-20"
+      },
+      {
+        "name": "ホテルニューオータニ",
+        "income": 15600000,
+        "date": "2022-04-12"
+      }
+    ],
+    "total_income": 46207944,
+    "total_expense": 46207944
+  }
+}

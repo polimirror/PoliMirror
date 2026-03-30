@@ -1,0 +1,55 @@
+{
+  "name": "柴田巧",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T10:07:21.323205",
+  "matched_organizations": [
+    "柴田巧連合後援会"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 3787,
+  "tokens": {
+    "input": 4049,
+    "output": 270
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "豆栄本店",
+        "amount": 124982,
+        "date": null
+      },
+      {
+        "name": "マイハート",
+        "amount": 80650,
+        "date": null
+      },
+      {
+        "name": "有限会社マイハート",
+        "amount": 80850,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "関東地区後援会役員会懇親会",
+        "income": null,
+        "date": null
+      },
+      {
+        "name": "南砺市後援報告会懇親会",
+        "income": null,
+        "date": null
+      }
+    ],
+    "total_income": 1015950,
+    "total_expense": null
+  }
+}
