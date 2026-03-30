@@ -1,0 +1,23 @@
+{
+  "name": "谷川とむ",
+  "type": "politician",
+  "year": "2023",
+  "source": "大阪府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "大阪府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T17:52:32.535933",
+  "matched_organizations": [
+    "谷川とむ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 100000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 100000,
+    "total_expense": 0
+  }
+}

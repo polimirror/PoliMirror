@@ -1,0 +1,76 @@
+{
+  "name": "松川るい",
+  "type": "politician",
+  "year": "2023",
+  "source": "大阪府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "大阪府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T17:44:33.842894",
+  "matched_organizations": [
+    "松川るい後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社一鶴",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "株式会社ポデール",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "大阪中央共同住宅経営協会",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "自由民主党住吉支部",
+        "amount": 20000,
+        "date": "R5/1/29"
+      },
+      {
+        "name": "自由民主党鶴見支部",
+        "amount": 20000,
+        "date": "R5/1/29"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政治資金パーティー開催事業",
+        "income": 5780000,
+        "date": "2023/2/13"
+      },
+      {
+        "name": "RuiLAB朝食セミナー",
+        "income": 2660000,
+        "date": "2023/5/15"
+      },
+      {
+        "name": "松川るいと明本新時代を拓く",
+        "income": 3696000,
+        "date": "2023/7/31"
+      },
+      {
+        "name": "松川るいと遍すビアパー",
+        "income": 2580000,
+        "date": "2023/8/2"
+      },
+      {
+        "name": "政治資金パーティー開催事業",
+        "income": 2750000,
+        "date": "2023/11/6"
+      }
+    ],
+    "total_income": 36408320,
+    "total_expense": 21573510
+  }
+}

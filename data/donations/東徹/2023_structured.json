@@ -1,0 +1,50 @@
+{
+  "name": "東徹",
+  "type": "politician",
+  "year": "2023",
+  "source": "大阪府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "大阪府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T17:47:52.638348",
+  "matched_organizations": [
+    "東徹事務所"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 1420000,
+      "count": 14
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "吉村洋文",
+        "amount": 250000,
+        "date": "R5"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "スイスホテル南海大阪",
+        "income": 40000,
+        "date": "R4/12/20"
+      },
+      {
+        "name": "スイスホテル南海大阪",
+        "income": 5970000,
+        "date": "R5/1/27"
+      },
+      {
+        "name": "スイスホテル南海大阪",
+        "income": 2320000,
+        "date": "R5/8/29"
+      },
+      {
+        "name": "スイスホテル南海大阪",
+        "income": 3962000,
+        "date": "R5/2/4"
+      }
+    ],
+    "total_income": 13639200,
+    "total_expense": 24465060
+  }
+}

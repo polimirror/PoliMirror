@@ -1,0 +1,80 @@
+{
+  "埼玉県": {
+    "2023": {
+      "index": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05.html",
+      "kokkai_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-kokkai_{kana}.html",
+      "shikin_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-shikin_{kana}.html",
+      "pdf_base": "https://www.pref.saitama.lg.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-top.html",
+      "kokkai_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-kokkai_{kana}.html",
+      "shikin_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-shikin_{kana}.html",
+      "pdf_base": "https://www.pref.saitama.lg.jp"
+    },
+    "format": "kana_subpages",
+    "kana_list": [
+      "a",
+      "ka",
+      "sa",
+      "ta",
+      "na",
+      "ha",
+      "ma",
+      "ya",
+      "ra",
+      "wa"
+    ],
+    "notes": "50音別サブページ→PDFリンク。国会議員関係・資金管理団体のサブページあり。"
+  },
+  "神奈川県": {
+    "2023": {
+      "index": "https://www.pref.kanagawa.jp/docs/em7/cnt/f5/20251020syuusi.html",
+      "pdf_base": "https://www.pref.kanagawa.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.kanagawa.jp/osirase/9400/r41125/index.html",
+      "pdf_base": "https://www.pref.kanagawa.jp"
+    },
+    "format": "single_page_pdf_list",
+    "notes": "1ページにPDF全件リスト。/documents/XXXXX/NN_NNNN.pdf形式。"
+  },
+  "大阪府": {
+    "2023": {
+      "index": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r5teiki_r6.html",
+      "kokkai": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r5kokkai.html",
+      "shikin": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r5shikin.html",
+      "pdf_base": "https://www.pref.osaka.lg.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r4teiki_r5.html",
+      "kokkai": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r4kokkai.html",
+      "shikin": "https://www.pref.osaka.lg.jp/o190010/senkan/syuushikouhyou/r4shikin.html",
+      "pdf_base": "https://www.pref.osaka.lg.jp"
+    },
+    "format": "category_subpages",
+    "notes": "国会議員関係・資金管理団体サブページ→PDFリンク。84件(R5)。"
+  },
+  "北海道": {
+    "2023": {
+      "index": "https://www.pref.hokkaido.lg.jp/hs/seijishikinkouhyou/203282.html",
+      "pdf_base": "https://www.pref.hokkaido.lg.jp"
+    },
+    "2022": {
+      "index": "https://www.pref.hokkaido.lg.jp/hs/seijishikinkouhyou/165500.html",
+      "pdf_base": "https://www.pref.hokkaido.lg.jp"
+    },
+    "format": "single_page_pdf_list",
+    "notes": "1ページにPDF全件リスト。264件(R5)。団体名をURL encodedしたファイル名。"
+  },
+  "東京都": {
+    "2023": {
+      "index": "https://www.senkyo.metro.tokyo.lg.jp/organization/shuushihoukoku-syokan_this_is_branch/shikin20241121"
+    },
+    "2022": {
+      "index": "https://www.senkyo.metro.tokyo.lg.jp/organization/shuushihoukoku-syokan_this_is_branch/shikin20231115"
+    },
+    "format": "js_dynamic",
+    "notes": "Liferay CMS。JSレンダリングでPDFリンクが静的HTMLに含まれない。スクレイピング困難。Selenium/Playwright必要。"
+  }
+}

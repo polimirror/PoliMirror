@@ -1,0 +1,46 @@
+{
+  "name": "長谷川岳",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T17:54:49.257232",
+  "matched_organizations": [
+    "4140_長谷川岳市民後援会 (PDF 176KB)",
+    "4141_長谷川岳連合後援会(R061205訂正) (PDF 268KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党北海道参議院選挙区第三支部",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "札幌プリンスホテル国際館パミール政治資金パーティー",
+        "income": 0,
+        "date": "2023年5月13日"
+      },
+      {
+        "name": "長谷川岳女性の集い",
+        "income": 0,
+        "date": ""
+      },
+      {
+        "name": "長谷川岳政経セミナー",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

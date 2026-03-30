@@ -1,0 +1,29 @@
+{
+  "name": "高橋はるみ",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T17:55:18.174579",
+  "matched_organizations": [
+    "4091_税理士による高橋はるみ後援会 (PDF 222KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "北海道税理士政治連盟",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

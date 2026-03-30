@@ -781,6 +781,59 @@
       "donation_type": "corporate"
     }
   ],
+  "日本維新の会国会議員団": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "片山大介",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "石井苗子",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "藤田文武",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "大阪維新の会": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 101000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "青柳仁士",
+      "politician_type": "politician",
+      "amount": 2150000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "自由民主党東京都第四選挙区支部": [
     {
       "politician": "平将明",
@@ -1005,6 +1058,15 @@
       "donation_type": "corporate"
     }
   ],
+  "吉村洋文": [
+    {
+      "politician": "東徹",
+      "politician_type": "politician",
+      "amount": 250000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "自民党広報本部": [
     {
       "politician": "松下新平",
@@ -1021,6 +1083,24 @@
       "amount": 8260000,
       "year": "2023",
       "donation_type": "corporate"
+    }
+  ],
+  "自由民主党住吉支部": [
+    {
+      "politician": "松川るい",
+      "politician_type": "politician",
+      "amount": 20000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "自由民主党鶴見支部": [
+    {
+      "politician": "松川るい",
+      "politician_type": "politician",
+      "amount": 20000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "株式会社ニトリ": [
@@ -1435,27 +1515,34 @@
       "donation_type": "corporate"
     }
   ],
-  "日本維新の会国会議員団": [
-    {
-      "politician": "片山大介",
-      "politician_type": "politician",
-      "amount": 5000000,
-      "year": "2023",
-      "donation_type": "corporate"
-    },
-    {
-      "politician": "石井苗子",
-      "politician_type": "politician",
-      "amount": 1000000,
-      "year": "2022",
-      "donation_type": "corporate"
-    }
-  ],
   "日本維新の会": [
     {
       "politician": "猪瀬直樹",
       "politician_type": "politician",
       "amount": 6000000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
+      "politician": "藤田文武",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "自由民主党埼玉県第十五選挙区支部": [
+    {
+      "politician": "田中良生",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
+      "politician": "田中良生",
+      "politician_type": "politician",
+      "amount": 300000,
       "year": "2022",
       "donation_type": "group"
     }
@@ -2201,6 +2288,24 @@
       "politician": "竹内真二",
       "politician_type": "politician",
       "amount": 108440,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "道路工業株式会社": [
+    {
+      "politician": "船橋利実",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "葛原建設工業株式会社": [
+    {
+      "politician": "船橋利実",
+      "politician_type": "politician",
+      "amount": 100000,
       "year": "2023",
       "donation_type": "corporate"
     }
