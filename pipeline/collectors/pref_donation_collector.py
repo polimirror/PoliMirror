@@ -59,7 +59,14 @@ OCRテキスト:
 {text}
 """
 
-KANA_LIST = ["a", "ka", "sa", "ta", "na", "ha", "ma", "ya", "ra", "wa"]
+KANA_BASIC = ["a", "ka", "sa", "ta", "na", "ha", "ma", "ya", "ra", "wa"]
+KANA_FULL = [
+    "a","i","u","e","o","ka","ki","ku","ke","ko",
+    "sa","si","su","se","so","ta","ti","tu","te","to",
+    "na","ni","nu","ne","no","ha","hi","hu","he","ho",
+    "ma","mi","mu","me","mo","ya","yu","yo",
+    "ra","ri","ru","re","ro","wa","wo",
+]
 
 
 def scrape_pdf_links(url):
@@ -103,17 +110,24 @@ def build_pref_index(pref_name, year_config, year):
     all_pdfs = []
 
     if fmt == "kana_subpages":
-        # 埼玉県方式: 50音別サブページ
-        for category in ["kokkai", "shikin"]:
+        # 埼玉県方式: 50音別サブページ（kokkai/shikin/seiji）
+        kana_list = year_config.get("kana_list", KANA_FULL)
+        for category in ["kokkai", "shikin", "seiji"]:
             pattern = cfg.get(f"{category}_pattern", "")
             if not pattern:
                 continue
-            for kana in KANA_LIST:
+            for kana in kana_list:
                 url = pattern.replace("{kana}", kana)
                 pdfs = scrape_pdf_links(url)
                 all_pdfs.extend(pdfs)
                 if pdfs:
                     print(f"    {category}/{kana}: {len(pdfs)}件")
+        # 政党支部ページ
+        for party_url in cfg.get("party_pages", []):
+            pdfs = scrape_pdf_links(party_url)
+            all_pdfs.extend(pdfs)
+            if pdfs:
+                print(f"    party: {len(pdfs)}件")
 
     elif fmt == "category_subpages":
         # 大阪府方式: カテゴリ別サブページ
@@ -142,13 +156,49 @@ def build_pref_index(pref_name, year_config, year):
 
 
 def find_politician_pdfs(politician_name, index):
-    """議員名で部分一致検索"""
+    """議員名で改良マッチング検索。
+    1. フルネーム完全一致
+    2. 姓+名の部分一致
+    3. 後援会名からの逆引き（「○○太郎後援会」→「○○太郎」）
+    4. ひらがな名前での一致（「高木まり」←「高木真理」）
+    """
     search = politician_name.replace(" ", "").replace("　", "")
+    parts = politician_name.split(" ") if " " in politician_name else politician_name.split("　")
+    surname = parts[0] if len(parts) >= 2 else search[:2]
+    given = parts[1] if len(parts) >= 2 else ""
+
     matched = []
+    seen_urls = set()
+
     for org_name, pdf_url in index.items():
+        if pdf_url in seen_urls:
+            continue
+
+        # 1. フルネーム完全一致
         if search in org_name:
-            matched.append((org_name, pdf_url))
-    return matched
+            matched.append((org_name, pdf_url, 1.0))
+            seen_urls.add(pdf_url)
+            continue
+
+        # 2. 姓一致 + 名の検証（誤マッチ防止）
+        if surname in org_name and len(surname) >= 2:
+            has_keyword = any(kw in org_name for kw in ["後援会", "事務所", "政経", "を支える", "を応援", "を囲む", "を育てる", "研究会", "の会"])
+            if has_keyword:
+                remainder = org_name.replace(surname, "", 1)
+                if given and len(given) >= 1:
+                    # フルネーム or 名の1文字目が団体名に含まれるか
+                    if given[0] in remainder:
+                        matched.append((org_name, pdf_url, 0.8))
+                        seen_urls.add(pdf_url)
+                    # 他に同姓の団体がない場合は姓だけで採用
+                    elif sum(1 for k in index if surname in k) <= 3:
+                        matched.append((org_name, pdf_url, 0.5))
+                        seen_urls.add(pdf_url)
+                else:
+                    matched.append((org_name, pdf_url, 0.6))
+                    seen_urls.add(pdf_url)
+
+    return [(name, url) for name, url, _ in sorted(matched, key=lambda x: -x[2])]
 
 
 def download_and_ocr(url, label, year):

@@ -1,0 +1,66 @@
+{
+  "name": "西田実仁",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T20:02:48.962715",
+  "matched_organizations": [
+    "西田まこと経済政策研究会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 970000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "キャノンマーケティングジャパン",
+        "amount": 43989,
+        "date": "R4.01.21"
+      },
+      {
+        "name": "楽天グループ",
+        "amount": 189252,
+        "date": "R4.06.16"
+      },
+      {
+        "name": "ジェイコムさいたま",
+        "amount": 3696,
+        "date": "R4.01.26"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "公明党埼玉県本部",
+        "amount": 2643970,
+        "date": ""
+      },
+      {
+        "name": "埼玉県歯科医師連盟",
+        "amount": 300000,
+        "date": ""
+      },
+      {
+        "name": "日本税理士政治連盟",
+        "amount": 830000,
+        "date": ""
+      },
+      {
+        "name": "川越市医師連盟",
+        "amount": 100000,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ロイヤルパインズホテル浦和パーティー",
+        "income": 610000,
+        "date": "R4.03.29"
+      }
+    ],
+    "total_income": 9790141,
+    "total_expense": 8254275
+  }
+}

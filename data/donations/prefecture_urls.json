@@ -4,28 +4,81 @@
       "index": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05.html",
       "kokkai_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-kokkai_{kana}.html",
       "shikin_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-shikin_{kana}.html",
-      "pdf_base": "https://www.pref.saitama.lg.jp"
+      "pdf_base": "https://www.pref.saitama.lg.jp",
+      "seiji_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-seiji_{kana}.html",
+      "party_pages": [
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-jimin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-rikken.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-koumei.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-kokumin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-nihonishin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r5/shuusi05-kyosan.html"
+      ]
     },
     "2022": {
       "index": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-top.html",
       "kokkai_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-kokkai_{kana}.html",
       "shikin_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-shikin_{kana}.html",
-      "pdf_base": "https://www.pref.saitama.lg.jp"
+      "pdf_base": "https://www.pref.saitama.lg.jp",
+      "seiji_pattern": "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-seiji_{kana}.html",
+      "party_pages": [
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-jimin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-rikken.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-koumei.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-kokumin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-nihonishin.html",
+        "https://www.pref.saitama.lg.jp/e1701/seijishikin/shushi/r4/shuusi04-kyosan.html"
+      ]
     },
     "format": "kana_subpages",
     "kana_list": [
       "a",
+      "i",
+      "u",
+      "e",
+      "o",
       "ka",
+      "ki",
+      "ku",
+      "ke",
+      "ko",
       "sa",
+      "si",
+      "su",
+      "se",
+      "so",
       "ta",
+      "ti",
+      "tu",
+      "te",
+      "to",
       "na",
+      "ni",
+      "nu",
+      "ne",
+      "no",
       "ha",
+      "hi",
+      "hu",
+      "he",
+      "ho",
       "ma",
+      "mi",
+      "mu",
+      "me",
+      "mo",
       "ya",
+      "yu",
+      "yo",
       "ra",
-      "wa"
+      "ri",
+      "ru",
+      "re",
+      "ro",
+      "wa",
+      "wo"
     ],
-    "notes": "50音別サブページ→PDFリンク。国会議員関係・資金管理団体のサブページあり。"
+    "notes": "50音1文字刻み。kokkai/shikin/seijiの3カテゴリ+政党支部。"
   },
   "神奈川県": {
     "2023": {

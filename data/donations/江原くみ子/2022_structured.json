@@ -1,0 +1,24 @@
+{
+  "name": "江原くみ子",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T20:04:06.622216",
+  "matched_organizations": [
+    "江原くみ子と新しい政治をつくる会",
+    "江原ひろゆきを育てる会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 1851619,
+    "total_expense": 1171348
+  }
+}
