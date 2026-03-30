@@ -5,9 +5,13 @@
   "source": "埼玉県選挙管理委員会 政治資金収支報告書",
   "prefecture": "埼玉県",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:39:32.349715",
+  "analyzed_at": "2026-03-30T23:01:36.239755",
   "matched_organizations": [
-    "松伏町土屋品子後援会"
+    "税理士による土屋品子後援会",
+    "松伏町土屋品子後援会",
+    "土屋品子春日部後援会",
+    "土屋品子久喜後援会",
+    "土屋品子蓮田後援会"
   ],
   "data": {
     "individual_donations": {
@@ -15,9 +19,21 @@
       "count": 0
     },
     "corporate_donations": [],
-    "group_donations": [],
-    "party_events": [],
-    "total_income": 0,
+    "group_donations": [
+      {
+        "name": "関東信越税理士政治連盟",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政経パーティー",
+        "income": 55010,
+        "date": ""
+      }
+    ],
+    "total_income": 55010,
     "total_expense": 0
   }
 }

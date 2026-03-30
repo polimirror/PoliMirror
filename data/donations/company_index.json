@@ -133,6 +133,38 @@
       "donation_type": "group"
     }
   ],
+  "札幌市医師連盟": [
+    {
+      "politician": "中川こういち",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "自由民主党北海道札幌市中央区支部": [
+    {
+      "politician": "中川こういち",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "中川こういち",
+      "politician_type": "politician",
+      "amount": 200000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "中川こういち",
+      "politician_type": "politician",
+      "amount": 200000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "川崎ひでと政経セ": [
     {
       "politician": "中川康洋",
@@ -678,6 +710,33 @@
       "donation_type": "group"
     }
   ],
+  "龍の会": [
+    {
+      "politician": "小泉龍司",
+      "politician_type": "politician",
+      "amount": 7500000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
+  "株式会社エスケー交通": [
+    {
+      "politician": "尾花瑛仁",
+      "politician_type": "politician",
+      "amount": 358600,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "川島町山口泰明後援会": [
+    {
+      "politician": "山口晋",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "中部電力ミライズ(株)": [
     {
       "politician": "山本左近",
@@ -797,6 +856,77 @@
       "donation_type": "corporate"
     }
   ],
+  "土佐料理神保希": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 24530,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "陳肉レストラン松井": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 16600,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "日本維新の会国会議員団": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "片山大介",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "石井苗子",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "藤田文武",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "大阪維新の会": [
+    {
+      "politician": "岩谷良平",
+      "politician_type": "politician",
+      "amount": 101000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "青柳仁士",
+      "politician_type": "politician",
+      "amount": 2150000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "自由民主党東京都第四選挙区支部": [
     {
       "politician": "平将明",
@@ -871,6 +1001,22 @@
       "politician_type": "politician",
       "amount": 1422036,
       "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "株式会社三越伊勢丹": [
+    {
+      "politician": "新藤義孝",
+      "politician_type": "politician",
+      "amount": 470170,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "新藤義孝",
+      "politician_type": "politician",
+      "amount": 192280,
+      "year": "2022",
       "donation_type": "corporate"
     }
   ],
@@ -1005,6 +1151,15 @@
       "donation_type": "group"
     }
   ],
+  "関東信越税理士政治連盟": [
+    {
+      "politician": "村井英樹",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
   "村岡建設工業": [
     {
       "politician": "村岡敏英",
@@ -1019,6 +1174,15 @@
       "amount": 500000,
       "year": "2022",
       "donation_type": "corporate"
+    }
+  ],
+  "吉村洋文": [
+    {
+      "politician": "東徹",
+      "politician_type": "politician",
+      "amount": 250000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "自民党広報本部": [
@@ -1451,27 +1615,34 @@
       "donation_type": "corporate"
     }
   ],
-  "日本維新の会国会議員団": [
-    {
-      "politician": "片山大介",
-      "politician_type": "politician",
-      "amount": 5000000,
-      "year": "2023",
-      "donation_type": "corporate"
-    },
-    {
-      "politician": "石井苗子",
-      "politician_type": "politician",
-      "amount": 1000000,
-      "year": "2022",
-      "donation_type": "corporate"
-    }
-  ],
   "日本維新の会": [
     {
       "politician": "猪瀬直樹",
       "politician_type": "politician",
       "amount": 6000000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
+      "politician": "藤田文武",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "自由民主党埼玉県第十五選挙区支部": [
+    {
+      "politician": "田中良生",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
+      "politician": "田中良生",
+      "politician_type": "politician",
+      "amount": 300000,
       "year": "2022",
       "donation_type": "group"
     }
@@ -2221,6 +2392,24 @@
       "donation_type": "corporate"
     }
   ],
+  "道路工業株式会社": [
+    {
+      "politician": "船橋利実",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "葛原建設工業株式会社": [
+    {
+      "politician": "船橋利実",
+      "politician_type": "politician",
+      "amount": 700000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "株式会社ジェミニ物産": [
     {
       "politician": "藤井一博",
@@ -2494,6 +2683,31 @@
       "amount": 528000,
       "year": "2023",
       "donation_type": "corporate"
+    }
+  ],
+  "サイレキ建設工業（株）": [
+    {
+      "politician": "野中厚",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "野中厚",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "自由民主党埼玉県本部": [
+    {
+      "politician": "野中厚",
+      "politician_type": "politician",
+      "amount": 150000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "公明党衆議院比例区九州第2総支部": [

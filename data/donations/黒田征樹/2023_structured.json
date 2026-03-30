@@ -1,0 +1,52 @@
+{
+  "name": "黒田征樹",
+  "type": "politician",
+  "year": "2023",
+  "source": "大阪府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "大阪府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:30:02.985695",
+  "matched_organizations": [
+    "黒田市政研究会",
+    "黒田まさき後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "日本維新の会大阪府総支部",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "大阪維新の会",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "日本維新の会衆議院大阪府第17選挙区支部",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "黒田まさきを応援する会",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 301600,
+    "expenses_detail": {
+      "printing_production": {
+        "poster_creation": 218900,
+        "leaflet_creation": 82700
+      }
+    }
+  }
+}

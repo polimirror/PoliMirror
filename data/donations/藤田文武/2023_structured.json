@@ -5,7 +5,7 @@
   "source": "大阪府選挙管理委員会 政治資金収支報告書",
   "prefecture": "大阪府",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:51:12.280882",
+  "analyzed_at": "2026-03-30T23:25:15.980665",
   "matched_organizations": [
     "藤田文武後援会"
   ],
@@ -19,16 +19,16 @@
       {
         "name": "日本維新の会",
         "amount": 1000000,
-        "date": ""
+        "date": "不明"
       },
       {
         "name": "日本維新の会国会議員団",
         "amount": 1000000,
-        "date": ""
+        "date": "不明"
       }
     ],
     "party_events": [],
-    "total_income": 1000000,
+    "total_income": 0,
     "total_expense": 1231000
   }
 }

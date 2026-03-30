@@ -1,0 +1,32 @@
+{
+  "name": "小泉龍司",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T22:46:57.727776",
+  "matched_organizations": [
+    "小泉龍司後援会",
+    "小泉龍司女性の会",
+    "小泉龍司本庄地区後援会",
+    "税理士による小泉龍司後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 7500000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "龍の会",
+        "amount": 7500000,
+        "date": "不明"
+      }
+    ],
+    "party_events": [],
+    "total_income": 7464000,
+    "total_expense": 0
+  }
+}

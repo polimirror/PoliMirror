@@ -1,0 +1,44 @@
+{
+  "name": "中川こういち",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:34:04.920503",
+  "matched_organizations": [
+    "4121_中川賢一後援会 (PDF 244KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "札幌市医師連盟",
+        "amount": 300000,
+        "date": "不明"
+      },
+      {
+        "name": "自由民主党北海道札幌市中央区支部",
+        "amount": 100000,
+        "date": "不明"
+      },
+      {
+        "name": "自由民主党北海道札幌市中央区支部",
+        "amount": 200000,
+        "date": "不明"
+      },
+      {
+        "name": "自由民主党北海道札幌市中央区支部",
+        "amount": 200000,
+        "date": "不明"
+      }
+    ],
+    "party_events": [],
+    "total_income": 4718047,
+    "total_expense": 5187940
+  }
+}

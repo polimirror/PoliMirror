@@ -1,0 +1,23 @@
+{
+  "name": "加藤貴弘",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:34:22.139369",
+  "matched_organizations": [
+    "4030_加藤のぼる後援会 (PDF 112KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

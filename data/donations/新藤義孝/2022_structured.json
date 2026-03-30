@@ -1,0 +1,36 @@
+{
+  "name": "新藤義孝",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T22:49:17.276798",
+  "matched_organizations": [
+    "新藤義孝後援会",
+    "税理士による新藤義孝後援会",
+    "新藤信夫後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 26403505,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社三越伊勢丹",
+        "amount": 470170,
+        "date": "2022-04-29"
+      },
+      {
+        "name": "株式会社三越伊勢丹",
+        "amount": 192280,
+        "date": "2022-08-26"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 26961506,
+    "total_expense": 23458049
+  }
+}

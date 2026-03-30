@@ -1,0 +1,29 @@
+{
+  "name": "尾花瑛仁",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:05:08.368114",
+  "matched_organizations": [
+    "尾花あきひと後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 1350000,
+      "count": 3
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社エスケー交通",
+        "amount": 358600,
+        "date": "R5/6/30"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 1919036,
+    "total_expense": 1020086
+  }
+}

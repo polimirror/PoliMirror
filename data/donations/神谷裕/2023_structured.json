@@ -1,0 +1,23 @@
+{
+  "name": "神谷裕",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:33:35.567060",
+  "matched_organizations": [
+    "4162_北海道神谷まさゆき後援会 (PDF 156KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

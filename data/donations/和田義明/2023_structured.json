@@ -1,0 +1,24 @@
+{
+  "name": "和田義明",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:35:57.570333",
+  "matched_organizations": [
+    "4263_和田勝也後援会 (PDF 382KB)",
+    "4264_和田敬太後援会 (PDF 376KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

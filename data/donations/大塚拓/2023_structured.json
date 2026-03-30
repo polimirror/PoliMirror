@@ -1,0 +1,42 @@
+{
+  "name": "大塚拓",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:02:40.229535",
+  "matched_organizations": [
+    "大塚拓後援会",
+    "大塚拓入間市後援会",
+    "大塚拓日高市後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 1695000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ホテルヘリテージ",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "株式会社広沢",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "大塚拓『新緑の集い』",
+        "income": 1695000,
+        "date": ""
+      }
+    ],
+    "total_income": 2060436,
+    "total_expense": 1167077
+  }
+}

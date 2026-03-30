@@ -1,0 +1,25 @@
+{
+  "name": "新藤義孝",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:07:24.607626",
+  "matched_organizations": [
+    "新藤義孝後援会",
+    "税理士による新藤義孝後援会",
+    "新藤信夫後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 464784,
+    "total_expense": 109800
+  }
+}

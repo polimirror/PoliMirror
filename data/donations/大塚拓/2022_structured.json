@@ -1,0 +1,26 @@
+{
+  "name": "大塚拓",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T22:45:24.850662",
+  "matched_organizations": [
+    "大塚拓後援会",
+    "大塚拓入間市後援会",
+    "大塚拓市町議会議員協議会",
+    "大塚拓日高市後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 1942420,
+    "total_expense": 1476990
+  }
+}

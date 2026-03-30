@@ -1,0 +1,30 @@
+{
+  "name": "高見亮",
+  "type": "politician",
+  "year": "2023",
+  "source": "大阪府選挙管理委員会 政治資金収支報告書",
+  "prefecture": "大阪府",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:28:57.808145",
+  "matched_organizations": [
+    "高見後援会",
+    "高見雄介後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "大阪維新の会",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

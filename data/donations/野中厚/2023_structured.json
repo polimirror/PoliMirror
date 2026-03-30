@@ -1,0 +1,43 @@
+{
+  "name": "野中厚",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:11:42.594999",
+  "matched_organizations": [
+    "野中あつし君を育てる会",
+    "野中一城後援会",
+    "野中よしこ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "サイレキ建設工業（株）",
+        "amount": 1000000,
+        "date": "不明"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党埼玉県本部",
+        "amount": 150000,
+        "date": "2024-01-20"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "野中あつし君を育てる会パーティー",
+        "income": 1000000,
+        "date": "不明"
+      }
+    ],
+    "total_income": 15420017,
+    "total_expense": 15400017
+  }
+}

@@ -5,19 +5,19 @@
   "source": "大阪府選挙管理委員会 政治資金収支報告書",
   "prefecture": "大阪府",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:42:48.092822",
+  "analyzed_at": "2026-03-30T23:17:34.705857",
   "matched_organizations": [
     "浅田均後援会"
   ],
   "data": {
     "individual_donations": {
-      "total_amount": 1090000,
-      "count": 0
+      "total_amount": 640000,
+      "count": 64
     },
     "corporate_donations": [],
     "group_donations": [],
     "party_events": [],
-    "total_income": 24466369,
-    "total_expense": 20276149
+    "total_income": 20276149,
+    "total_expense": 17106224
   }
 }

@@ -5,7 +5,7 @@
   "source": "大阪府選挙管理委員会 政治資金収支報告書",
   "prefecture": "大阪府",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:46:30.753970",
+  "analyzed_at": "2026-03-30T23:21:36.513453",
   "matched_organizations": [
     "岩谷良平後援会"
   ],
@@ -14,32 +14,43 @@
       "total_amount": 240000,
       "count": 0
     },
-    "corporate_donations": [],
+    "corporate_donations": [
+      {
+        "name": "土佐料理神保希",
+        "amount": 24530,
+        "date": "R5/12/8"
+      },
+      {
+        "name": "陳肉レストラン松井",
+        "amount": 16600,
+        "date": "R5/12/10"
+      }
+    ],
     "group_donations": [
       {
         "name": "日本維新の会国会議員団",
         "amount": 1000000,
-        "date": "2023-06-30"
+        "date": "R5/6/30"
       },
       {
         "name": "日本維新の会国会議員団",
         "amount": 1000000,
-        "date": "2023-12-08"
+        "date": "R5/12/8"
       },
       {
         "name": "大阪維新の会",
         "amount": 101000,
-        "date": "2023-11-10"
+        "date": "R5/11/10"
       }
     ],
     "party_events": [
       {
         "name": "政治資金パーティー",
         "income": 500000,
-        "date": "2023-05-30"
+        "date": "R5/1/30"
       }
     ],
     "total_income": 4915904,
-    "total_expense": 2184184
+    "total_expense": 2174184
   }
 }

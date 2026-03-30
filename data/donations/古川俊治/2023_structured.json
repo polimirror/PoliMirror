@@ -1,0 +1,37 @@
+{
+  "name": "古川俊治",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T22:58:58.864342",
+  "matched_organizations": [
+    "公認会計士による古川俊治後援会",
+    "古川としはる岩槻区後援会「岩槻創俊会」",
+    "古川としはる後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "三槙観光（株）",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "古川俊治国政報告会～爽秋のつどい",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

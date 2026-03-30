@@ -1,0 +1,36 @@
+{
+  "name": "村井英樹",
+  "type": "politician",
+  "year": "2022",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T22:50:06.528618",
+  "matched_organizations": [
+    "税理士による村井ひでき後援会",
+    "村井ひでき三室地区後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 100000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "関東信越税理士政治連盟",
+        "amount": 100000,
+        "date": "不明"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "村井ひできモーニングセッション会費",
+        "income": 0,
+        "date": "不明"
+      }
+    ],
+    "total_income": 100000,
+    "total_expense": 203790
+  }
+}

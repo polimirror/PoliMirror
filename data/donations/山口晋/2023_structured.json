@@ -1,0 +1,33 @@
+{
+  "name": "山口晋",
+  "type": "politician",
+  "year": "2023",
+  "source": "埼玉県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "埼玉県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:06:04.560272",
+  "matched_organizations": [
+    "川島町山口晋後援会",
+    "鶴ヶ島市山口晋後援会",
+    "滑川町山口晋後援会",
+    "吉見町山口晋後援会",
+    "嵐山町山口晋後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "川島町山口泰明後援会",
+        "amount": 100000,
+        "date": "2012年11月"
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

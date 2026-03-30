@@ -5,19 +5,20 @@
   "source": "埼玉県選挙管理委員会 政治資金収支報告書",
   "prefecture": "埼玉県",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:39:59.513232",
+  "analyzed_at": "2026-03-30T23:09:37.974003",
   "matched_organizations": [
-    "田中良生事務所"
+    "田中良生事務所",
+    "田中良夫後援会"
   ],
   "data": {
     "individual_donations": {
-      "total_amount": 0,
+      "total_amount": 33000,
       "count": 0
     },
     "corporate_donations": [],
     "group_donations": [],
     "party_events": [],
-    "total_income": 0,
+    "total_income": 33000,
     "total_expense": 33000
   }
 }

@@ -5,9 +5,10 @@
   "source": "大阪府選挙管理委員会 政治資金収支報告書",
   "prefecture": "大阪府",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:41:23.146891",
+  "analyzed_at": "2026-03-30T23:15:59.252438",
   "matched_organizations": [
-    "佐々木りえ後援会"
+    "佐々木りえ後援会",
+    "佐々木哲夫後援会"
   ],
   "data": {
     "individual_donations": {

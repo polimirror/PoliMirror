@@ -201,30 +201,53 @@ def find_politician_pdfs(politician_name, index):
     return [(name, url) for name, url, _ in sorted(matched, key=lambda x: -x[2])]
 
 
-def download_and_ocr(url, label, year):
-    """PDF DL→テキスト抽出"""
+MAX_PDFS_PER_POLITICIAN = 3
+OCR_TIMEOUT_SEC = 120
+MAX_OCR_PAGES = 20
+
+
+def download_pdf_file(url, label, year):
+    """PDFダウンロードのみ。パスを返す。"""
     safe = re.sub(r'[\\/:*?"<>|]', "_", label)
     os.makedirs(TEMP_PDF_DIR, exist_ok=True)
     local_path = os.path.join(TEMP_PDF_DIR, f"{safe}_{year}.pdf")
 
-    if not os.path.exists(local_path):
-        try:
-            time.sleep(REQUEST_INTERVAL)
-            r = requests.get(url, headers=HEADERS, timeout=60, stream=True)
-            r.raise_for_status()
-            with open(local_path, "wb") as f:
-                for chunk in r.iter_content(8192):
-                    f.write(chunk)
-        except Exception:
-            traceback.print_exc()
-            return ""
+    if os.path.exists(local_path):
+        return local_path
+    try:
+        time.sleep(REQUEST_INTERVAL)
+        r = requests.get(url, headers=HEADERS, timeout=60, stream=True)
+        r.raise_for_status()
+        with open(local_path, "wb") as f:
+            for chunk in r.iter_content(8192):
+                f.write(chunk)
+        return local_path
+    except Exception:
+        traceback.print_exc()
+        return None
 
-    # OCR
+
+def ocr_pdf_with_timeout(local_path):
+    """1 PDFのOCR。MAX_OCR_PAGES制限 + OCR_TIMEOUT_SEC制限。"""
+    import signal
+
+    circle = {"⓪":"0","①":"1","②":"2","③":"3","④":"4",
+              "⑤":"5","⑥":"6","⑦":"7","⑧":"8","⑨":"9"}
+    text = ""
+    start_time = time.time()
     try:
         doc = fitz.open(local_path)
-        text = ""
-        circle = {"⓪":"0","①":"1","②":"2","③":"3","④":"4","⑤":"5","⑥":"6","⑦":"7","⑧":"8","⑨":"9"}
-        for page in doc:
+        page_count = len(doc)
+        pages_to_process = min(page_count, MAX_OCR_PAGES)
+
+        for i, page in enumerate(doc):
+            if i >= pages_to_process:
+                break
+            elapsed = time.time() - start_time
+            if elapsed > OCR_TIMEOUT_SEC:
+                print(f"      OCRタイムアウト ({OCR_TIMEOUT_SEC}秒超過, {i}p完了)")
+                break
+
             t = page.get_text().strip()
             if len(t) > 20:
                 text += t + "\n"
@@ -233,15 +256,16 @@ def download_and_ocr(url, label, year):
                 img = Image.open(iolib.BytesIO(pix.tobytes("png")))
                 t = pytesseract.image_to_string(img, lang=OCR_LANG)
                 text += t + "\n"
+
             if len(text) > MAX_TEXT_LEN * 3:
                 break
         doc.close()
-        for c, n in circle.items():
-            text = text.replace(c, n)
-        return text
     except Exception:
         traceback.print_exc()
-        return ""
+
+    for c, n in circle.items():
+        text = text.replace(c, n)
+    return text
 
 
 def find_section(text):
@@ -288,17 +312,8 @@ def get_unprocessed_politicians(pref_name):
                 continue
             md_path = os.path.join(root, f)
             name = f.replace(".md", "")
-            safe = name.replace(" ", "")
 
-            # 処理済みチェック
-            has_struct = False
-            d = os.path.join(DONATIONS_DIR, safe)
-            if os.path.isdir(d):
-                has_struct = any(fn.endswith("_structured.json") for fn in os.listdir(d))
-            if has_struct:
-                continue
-
-            # 都道府県チェック
+            # 都道府県チェック（年度別スキップはメインループで行う）
             try:
                 with open(md_path, "r", encoding="utf-8") as fh:
                     head = fh.read(500)
@@ -364,11 +379,17 @@ if __name__ == "__main__":
                     stats["no_match"] += 1
                     continue
 
-                # PDF DL + OCR
+                # PDF DL + OCR（上限3件、タイムアウト付き）
                 all_text = ""
-                for org_name, pdf_url in matched:
-                    text = download_and_ocr(pdf_url, f"{safe}_{org_name[:20]}", year)
-                    all_text += text + "\n"
+                pdfs_processed = 0
+                for org_name, pdf_url in matched[:MAX_PDFS_PER_POLITICIAN]:
+                    pdf_path = download_pdf_file(pdf_url, f"{safe}_{org_name[:20]}", year)
+                    if not pdf_path:
+                        continue
+                    text = ocr_pdf_with_timeout(pdf_path)
+                    if text:
+                        all_text += text + "\n"
+                        pdfs_processed += 1
                     if len(all_text) > MAX_TEXT_LEN * 3:
                         break
 

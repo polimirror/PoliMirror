@@ -5,7 +5,7 @@
   "source": "北海道選挙管理委員会 政治資金収支報告書",
   "prefecture": "北海道",
   "analysis_model": "claude-haiku-4-5-20251001",
-  "analyzed_at": "2026-03-30T17:53:37.635278",
+  "analyzed_at": "2026-03-30T23:31:27.999967",
   "matched_organizations": [
     "4153_船橋利実連合後援会(R7.4.2訂正) (PDF 402KB)"
   ],
@@ -18,20 +18,20 @@
       {
         "name": "道路工業株式会社",
         "amount": 100000,
-        "date": "令和5年7月10日"
+        "date": "2023年7月10日"
       },
       {
         "name": "葛原建設工業株式会社",
-        "amount": 100000,
-        "date": "令和5年7月11日"
+        "amount": 700000,
+        "date": "不明"
       }
     ],
     "group_donations": [],
     "party_events": [
       {
         "name": "第2回参議院議員船橋利実政経",
-        "income": 20130000,
-        "date": "令和5年度"
+        "income": 2000000,
+        "date": "2023年7月"
       }
     ],
     "total_income": 34027298,

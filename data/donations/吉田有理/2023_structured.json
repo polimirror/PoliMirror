@@ -1,0 +1,34 @@
+{
+  "name": "吉田有理",
+  "type": "politician",
+  "year": "2023",
+  "source": "北海道選挙管理委員会 政治資金収支報告書",
+  "prefecture": "北海道",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-30T23:34:53.126085",
+  "matched_organizations": [
+    "4256_吉田ゆうき連合後援会 (PDF 249KB)"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 5000000,
+      "count": 3
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "吉田ゆうき連合後援会パークゴルフ",
+        "income": 148000,
+        "date": "2023-09-04"
+      },
+      {
+        "name": "吉田ゆうき連合後援会忘年会",
+        "income": 628000,
+        "date": ""
+      }
+    ],
+    "total_income": 4002399,
+    "total_expense": 2267893
+  }
+}
