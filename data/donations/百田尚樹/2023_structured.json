@@ -1,0 +1,65 @@
+{
+  "name": "百田尚樹",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:23:54.611053",
+  "matched_organizations": [
+    "日本保守党(百田　尚樹)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 9067,
+  "tokens": {
+    "input": 7949,
+    "output": 389
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 50980752,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社バンテック",
+        "amount": 462660,
+        "date": "2023-09-18"
+      },
+      {
+        "name": "株式会社バンテック",
+        "amount": 667882,
+        "date": "2023-10-11"
+      },
+      {
+        "name": "有限会社トライアロー",
+        "amount": 658460,
+        "date": "2023-10-04"
+      },
+      {
+        "name": "テイケイ株式会社",
+        "amount": 262800,
+        "date": "2023-11-06"
+      },
+      {
+        "name": "S・A・R株式会社",
+        "amount": 264000,
+        "date": "2023-10-12"
+      },
+      {
+        "name": "有限会社ウォイスレコーダー",
+        "amount": 451000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "暁党の集い",
+        "income": 10000000,
+        "date": null
+      }
+    ],
+    "total_income": 479315868,
+    "total_expense": 35674590
+  }
+}

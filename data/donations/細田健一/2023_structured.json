@@ -1,0 +1,40 @@
+{
+  "name": "細田健一",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:32:10.259251",
+  "matched_organizations": [
+    "２１世紀政策研究会(細田　健一)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8559,
+  "tokens": {
+    "input": 8292,
+    "output": 173
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 900000,
+      "count": 1
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "淵和政策研究会",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "細田健一君を育てる会",
+        "income": 9140000,
+        "date": "R5.3.14"
+      }
+    ],
+    "total_income": 10211880,
+    "total_expense": 9280090
+  }
+}

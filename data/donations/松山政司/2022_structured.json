@@ -1,0 +1,55 @@
+{
+  "name": "松山政司",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:16:48.835675",
+  "matched_organizations": [
+    "清流会(松山　政司)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24685,
+  "tokens": {
+    "input": 8631,
+    "output": 294
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "丸の内新聞（株）",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "（株）全販",
+        "amount": 0,
+        "date": "2022-12-20"
+      },
+      {
+        "name": "リコージャパン（株）",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "大槻デザイン（株）",
+        "amount": 0,
+        "date": "2022-06-14"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "参議院議員松山政司政治資金パーティー",
+        "income": 46190000,
+        "date": null
+      }
+    ],
+    "total_income": 91876277,
+    "total_expense": 82746911
+  }
+}

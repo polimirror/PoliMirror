@@ -1,0 +1,51 @@
+{
+  "name": "佐藤啓",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:09:21.393503",
+  "matched_organizations": [
+    "啓友会(佐藤　啓)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 10941,
+  "tokens": {
+    "input": 8292,
+    "output": 243
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 770000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "清和政策研究会",
+        "amount": 500000,
+        "date": null
+      },
+      {
+        "name": "清和政策研究会",
+        "amount": 550000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "清和政策研究会",
+        "amount": 1050000,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "佐藤啓君を育てる会",
+        "income": 5560000,
+        "date": null
+      }
+    ],
+    "total_income": 20659800,
+    "total_expense": 6504985
+  }
+}

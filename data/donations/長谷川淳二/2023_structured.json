@@ -1,0 +1,50 @@
+{
+  "name": "長谷川淳二",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:41:29.863537",
+  "matched_organizations": [
+    "地域政策研究会(長谷川　淳二)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 17438,
+  "tokens": {
+    "input": 8405,
+    "output": 281
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "（株）インターキューブ",
+        "amount": 500000,
+        "date": "R5/10/2"
+      },
+      {
+        "name": "愛ファーマシ（株）",
+        "amount": 1500000,
+        "date": "R5/10/19"
+      },
+      {
+        "name": "一般社団法人愛媛県建設業協会宇和島地方支部",
+        "amount": 3900000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "長谷川じゅんじ政経セミナー",
+        "income": 22680000,
+        "date": null
+      }
+    ],
+    "total_income": 22080000,
+    "total_expense": 11578825
+  }
+}

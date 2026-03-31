@@ -1,0 +1,91 @@
+{
+  "name": "岩田和親",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:13:48.737121",
+  "matched_organizations": [
+    "政和会(岩田　和親)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 8344,
+  "tokens": {
+    "input": 8340,
+    "output": 592
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1663721,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "ヤマト運輸",
+        "amount": 208420,
+        "date": null
+      },
+      {
+        "name": "税理士法人佐賀総合会計",
+        "amount": null,
+        "date": "2022-06-10"
+      },
+      {
+        "name": "大槻デザイン株式会社",
+        "amount": null,
+        "date": "2022-06-10"
+      },
+      {
+        "name": "ジェットスター・ジャパン株式会社",
+        "amount": 29270,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "宏池政策研究会",
+        "amount": 2000000,
+        "date": null
+      },
+      {
+        "name": "細田健一君を育てる会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "東京佐賀県人会",
+        "amount": null,
+        "date": "2022-06-14"
+      },
+      {
+        "name": "21世紀の政治経済を考える会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "古川康君と明日を語る会",
+        "amount": null,
+        "date": null
+      },
+      {
+        "name": "たかまろ君を励ます会",
+        "amount": null,
+        "date": "2022-11-18"
+      },
+      {
+        "name": "尾山政経懐話会",
+        "amount": null,
+        "date": "2022-12-08"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "岩田かずちかムーンショットセンター",
+        "income": null,
+        "date": "2022-06-08"
+      }
+    ],
+    "total_income": 5253721,
+    "total_expense": 4539855
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "鈴木宗男",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:39:00.928247",
+  "matched_organizations": [
+    "２１世紀政策研究会(鈴木　宗男)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24568,
+  "tokens": {
+    "input": 8624,
+    "output": 144
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 20600000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "鈴木宗男を叱咥激励する会",
+        "income": 4391498,
+        "date": "2022年11月18日"
+      }
+    ],
+    "total_income": 320069474,
+    "total_expense": 52937670
+  }
+}

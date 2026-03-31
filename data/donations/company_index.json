@@ -106,6 +106,33 @@
       "donation_type": "corporate"
     }
   ],
+  "全日本空輸": [
+    {
+      "politician": "三原朝利",
+      "politician_type": "politician",
+      "amount": 150000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "盛山正仁後援会": [
+    {
+      "politician": "三原朝利",
+      "politician_type": "politician",
+      "amount": 101000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "一般社団法人東京福岡県人会": [
+    {
+      "politician": "三原朝利",
+      "politician_type": "politician",
+      "amount": 385000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "株式会社木下ダグループ": [
     {
       "politician": "三谷英弘",
@@ -620,6 +647,50 @@
       "donation_type": "corporate"
     }
   ],
+  "清和政策研究会": [
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 1200000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 1400000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 550000,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "佐藤啓",
+      "politician_type": "politician",
+      "amount": 1050000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "自由民主党鹿児島県第一支部": [
     {
       "politician": "保岡宏武",
@@ -724,6 +795,15 @@
       "donation_type": "corporate"
     }
   ],
+  "東京政経研究会": [
+    {
+      "politician": "吉田真次",
+      "politician_type": "politician",
+      "amount": 50000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "キンコーズ・ジャパン": [
     {
       "politician": "和田政宗",
@@ -747,6 +827,13 @@
       "politician": "和田政宗",
       "politician_type": "politician",
       "amount": 21400,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 18000,
       "year": "2023",
       "donation_type": "corporate"
     }
@@ -1089,6 +1176,13 @@
       "donation_type": "group"
     },
     {
+      "politician": "田村憲久",
+      "politician_type": "politician",
+      "amount": 22510000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
       "politician": "石井苗子",
       "politician_type": "politician",
       "amount": 9000000,
@@ -1104,6 +1198,13 @@
     },
     {
       "politician": "藤井一博",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "鈴木宗男",
       "politician_type": "politician",
       "amount": 1000000,
       "year": "2023",
@@ -1124,6 +1225,47 @@
       "amount": 43989,
       "year": "2022",
       "donation_type": "corporate"
+    }
+  ],
+  "ヤマト運輸": [
+    {
+      "politician": "岩田和親",
+      "politician_type": "politician",
+      "amount": 208420,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 19668,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "ジェットスター・ジャパン株式会社": [
+    {
+      "politician": "岩田和親",
+      "politician_type": "politician",
+      "amount": 29270,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "宏池政策研究会": [
+    {
+      "politician": "岩田和親",
+      "politician_type": "politician",
+      "amount": 2000000,
+      "year": "2022",
+      "donation_type": "group"
+    },
+    {
+      "politician": "石橋林太郎",
+      "politician_type": "politician",
+      "amount": 2000000,
+      "year": "2022",
+      "donation_type": "group"
     }
   ],
   "土佐料理神保希": [
@@ -1571,6 +1713,15 @@
       "donation_type": "corporate"
     }
   ],
+  "自由民主党福岡県郵政政治連盟": [
+    {
+      "politician": "松山政司",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "株式会社ニトリ": [
     {
       "politician": "林芳正",
@@ -1973,6 +2124,15 @@
       "donation_type": "corporate"
     }
   ],
+  "清水真人後援会": [
+    {
+      "politician": "清水真人",
+      "politician_type": "politician",
+      "amount": 600000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
   "岐阜県漁業協同組合連合会": [
     {
       "politician": "渡辺猛之",
@@ -2087,6 +2247,76 @@
       "donation_type": "group"
     }
   ],
+  "団体名不明": [
+    {
+      "politician": "田村憲久",
+      "politician_type": "politician",
+      "amount": 14500000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "土屋品子君と語る会": [
+    {
+      "politician": "田村憲久",
+      "politician_type": "politician",
+      "amount": 20000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "株式会社バンテック": [
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 462660,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 667882,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "有限会社トライアロー": [
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 658460,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "テイケイ株式会社": [
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 262800,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "S・A・R株式会社": [
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 264000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "有限会社ウォイスレコーダー": [
+    {
+      "politician": "百田尚樹",
+      "politician_type": "politician",
+      "amount": 451000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "信濃印刷株式会社": [
     {
       "politician": "盛山正仁",
@@ -2128,6 +2358,40 @@
       "donation_type": "group"
     }
   ],
+  "サーバス つくば研究学園": [
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 260000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "東京海上日動火災保険": [
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 118860,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 127980,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "西田実": [
+    {
+      "politician": "石井啓一",
+      "politician_type": "politician",
+      "amount": 701810,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "株式会社ブラン": [
     {
       "politician": "石井苗子",
@@ -2153,15 +2417,6 @@
       "amount": 90000,
       "year": "2023",
       "donation_type": "corporate"
-    }
-  ],
-  "宏池政策研究会": [
-    {
-      "politician": "石橋林太郎",
-      "politician_type": "politician",
-      "amount": 2000000,
-      "year": "2022",
-      "donation_type": "group"
     }
   ],
   "石橋林太郎くんを育てる会": [
@@ -2246,6 +2501,45 @@
       "politician": "石破茂",
       "politician_type": "politician",
       "amount": 196394,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "日本薬剤師連盟": [
+    {
+      "politician": "神谷政幸",
+      "politician_type": "politician",
+      "amount": 10000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "神谷政幸",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2022",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "神谷政幸",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "神谷政幸",
+      "politician_type": "politician",
+      "amount": 5000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "株式会社オフィス・サプリ": [
+    {
+      "politician": "神谷政幸",
+      "politician_type": "politician",
+      "amount": 99000,
       "year": "2023",
       "donation_type": "corporate"
     }
@@ -3300,6 +3594,69 @@
       "amount": 3000000,
       "year": "2023",
       "donation_type": "group"
+    }
+  ],
+  "株式会社ウイン": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 400000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "キョード（東京）": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "ジョー会椎尾笠団選学区": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
+  "そ の 他 の 団 体": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 700000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
+  "（株）インターキューブ": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "愛ファーマシ（株）": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 1500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "一般社団法人愛媛県建設業協会宇和島地方支部": [
+    {
+      "politician": "長谷川淳二",
+      "politician_type": "politician",
+      "amount": 3900000,
+      "year": "2023",
+      "donation_type": "corporate"
     }
   ]
 }

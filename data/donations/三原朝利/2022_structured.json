@@ -1,0 +1,44 @@
+{
+  "name": "三原朝利",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:03:42.708896",
+  "matched_organizations": [
+    "国際政経研究会(三原　朝彦)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14426,
+  "tokens": {
+    "input": 8211,
+    "output": 220
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 1150000,
+      "count": 5
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "鵜東京會舘",
+        "income": 64680,
+        "date": "R4/2/18"
+      },
+      {
+        "name": "鵜東京會舘",
+        "income": 44836,
+        "date": "R4/3/16"
+      },
+      {
+        "name": "鵜東京會舘",
+        "income": 85767,
+        "date": "R4/4/20"
+      }
+    ],
+    "total_income": 8625048,
+    "total_expense": 6895889
+  }
+}

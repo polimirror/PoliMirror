@@ -1,0 +1,60 @@
+{
+  "name": "石田真敏",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:28:32.729698",
+  "matched_organizations": [
+    "真政会(石田　真敏)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24267,
+  "tokens": {
+    "input": 8575,
+    "output": 432
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "トヨタコネクティッド株式会社",
+        "amount": 0,
+        "date": "2023-08-28"
+      },
+      {
+        "name": "豊陽興産株式会社",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "トヨタファイナンス株式会社",
+        "amount": 0,
+        "date": "2023-09-19"
+      },
+      {
+        "name": "西日本旅客鉄道株式会社",
+        "amount": 0,
+        "date": "2023-06-28"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "石田真敏君を励ます会",
+        "income": 0,
+        "date": "2023-04-24"
+      },
+      {
+        "name": "第37回石田真敏政経懇話会",
+        "income": 0,
+        "date": null
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

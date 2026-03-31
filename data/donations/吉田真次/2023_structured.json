@@ -1,0 +1,34 @@
+{
+  "name": "吉田真次",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:10:57.074934",
+  "matched_organizations": [
+    "真政会(吉田　真次)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 13595,
+  "tokens": {
+    "input": 8492,
+    "output": 125
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "東京政経研究会",
+        "amount": 50000000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 50720000,
+    "total_expense": 13025468
+  }
+}

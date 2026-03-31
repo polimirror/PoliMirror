@@ -1,0 +1,44 @@
+{
+  "name": "若林健太",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:33:58.204185",
+  "matched_organizations": [
+    "健政会(若林　健太)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24067,
+  "tokens": {
+    "input": 3802,
+    "output": 222
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "健政会朝食会セミナー",
+        "income": null,
+        "date": "2022-03-02"
+      },
+      {
+        "name": "菱林けんた君を励ます会",
+        "income": null,
+        "date": "2022-05-19"
+      },
+      {
+        "name": "健政会朝食会セミナー",
+        "income": null,
+        "date": "2022-10-20"
+      }
+    ],
+    "total_income": 24752681,
+    "total_expense": 16256747
+  }
+}

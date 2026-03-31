@@ -173,16 +173,54 @@ def build_pdf_index_for_year(year):
 
 
 def find_pdfs_for_politician(name, index):
-    """議員名で部分一致検索"""
+    """議員名で改良マッチング検索（姓+キーワード拡張）"""
     search = name.replace(" ", "").replace("　", "")
+    parts = name.split(" ") if " " in name else name.split("　")
+    surname = parts[0] if len(parts) >= 2 else search[:2]
+    given = parts[1] if len(parts) >= 2 else ""
+
     matched_urls = []
     matched_names = []
+    seen = set()
+
     for org_name, urls in index.items():
+        # 1. フルネーム完全一致
         if search in org_name:
             matched_names.append(org_name)
             for u in urls:
-                if u not in matched_urls:
+                if u not in seen:
                     matched_urls.append(u)
+                    seen.add(u)
+            continue
+
+        # 2. 括弧内に議員名が含まれるパターン: "〇〇研究会(姓　名)"
+        import re as _re
+        paren = _re.findall(r"[（(]([^)）]+)[)）]", org_name)
+        for p in paren:
+            p_clean = p.replace("　", "").replace(" ", "")
+            if search in p_clean or (surname in p_clean and given and given[0] in p_clean):
+                matched_names.append(org_name)
+                for u in urls:
+                    if u not in seen:
+                        matched_urls.append(u)
+                        seen.add(u)
+                break
+
+        # 3. 姓+キーワード + 名の1文字目検証
+        if surname in org_name and len(surname) >= 2 and org_name not in matched_names:
+            has_kw = any(kw in org_name for kw in [
+                "後援会", "事務所", "政経", "を支える", "を応援",
+                "を囲む", "を育てる", "研究会", "の会",
+            ])
+            if has_kw:
+                remainder = org_name.replace(surname, "", 1)
+                if given and len(given) >= 1 and given[0] in remainder:
+                    matched_names.append(org_name)
+                    for u in urls:
+                        if u not in seen:
+                            matched_urls.append(u)
+                            seen.add(u)
+
     return matched_urls, matched_names
 
 

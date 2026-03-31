@@ -1,0 +1,28 @@
+{
+  "name": "高村正大",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:42:06.142854",
+  "matched_organizations": [
+    "正流会(高村　正彦)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 6425,
+  "tokens": {
+    "input": 6894,
+    "output": 86
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 135593069,
+    "total_expense": 135593069
+  }
+}

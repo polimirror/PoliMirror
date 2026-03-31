@@ -1,0 +1,45 @@
+{
+  "name": "松山政司",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:18:41.192508",
+  "matched_organizations": [
+    "清流会(松山　政司)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 24200,
+  "tokens": {
+    "input": 8489,
+    "output": 217
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "自由民主党福岡県郵政政治連盟",
+        "amount": 300000,
+        "date": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "政治資金パーティー",
+        "income": 56558500,
+        "date": "2023-11-17"
+      },
+      {
+        "name": "政治資金パーティー",
+        "income": 300000,
+        "date": null
+      }
+    ],
+    "total_income": 56858500,
+    "total_expense": 36266892
+  }
+}

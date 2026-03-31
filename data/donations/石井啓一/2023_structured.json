@@ -1,0 +1,86 @@
+{
+  "name": "石井啓一",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:26:33.203756",
+  "matched_organizations": [
+    "啓友会(石井　啓一)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 14492,
+  "tokens": {
+    "input": 8711,
+    "output": 522
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "関彰商事",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "丸の内新聞",
+        "amount": 18000,
+        "date": null
+      },
+      {
+        "name": "ヤマト運輸",
+        "amount": 19668,
+        "date": "R5/1/13"
+      },
+      {
+        "name": "下山公認会計士事務所",
+        "amount": 0,
+        "date": "R5/3/1"
+      },
+      {
+        "name": "東京海上日動火災保険",
+        "amount": 127980,
+        "date": null
+      },
+      {
+        "name": "三菱HCビジネスリース",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "トヨタファイナンス",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "日産フィナンシャルサービス",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "西田実",
+        "amount": 701810,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "第10回政経セミナー",
+        "income": 10000000,
+        "date": "R5/9/8"
+      },
+      {
+        "name": "第39回政経フォーラム",
+        "income": 10000000,
+        "date": "R5/6/29"
+      }
+    ],
+    "total_income": 24261402,
+    "total_expense": 18599360
+  }
+}

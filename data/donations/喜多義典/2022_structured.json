@@ -1,0 +1,28 @@
+{
+  "name": "喜多義典",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:11:15.977167",
+  "matched_organizations": [
+    "関西維新の会(喜多　義典)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 2160,
+  "tokens": {
+    "input": 2527,
+    "output": 293
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

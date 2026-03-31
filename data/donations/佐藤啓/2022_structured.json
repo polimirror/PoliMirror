@@ -1,0 +1,61 @@
+{
+  "name": "佐藤啓",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:08:02.427846",
+  "matched_organizations": [
+    "啓友会(佐藤　啓)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 15816,
+  "tokens": {
+    "input": 8423,
+    "output": 356
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 3925000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "清和政策研究会",
+        "amount": 5000000,
+        "date": null
+      },
+      {
+        "name": "清和政策研究会",
+        "amount": 1200000,
+        "date": "2022-10-21"
+      },
+      {
+        "name": "清和政策研究会",
+        "amount": 1400000,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党埼玉県第一選挙区支部",
+        "amount": null,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ホテルルポール麹町パーティー",
+        "income": 5090000,
+        "date": "2021-12-07"
+      },
+      {
+        "name": "ホテルルポール麹町パーティー",
+        "income": 5410000,
+        "date": "2021-12-07"
+      }
+    ],
+    "total_income": 19224674,
+    "total_expense": 11065000
+  }
+}

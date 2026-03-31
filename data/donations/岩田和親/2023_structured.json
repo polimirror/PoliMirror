@@ -1,0 +1,67 @@
+{
+  "name": "岩田和親",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T20:15:00.489819",
+  "matched_organizations": [
+    "政和会(岩田　和親)"
+  ],
+  "pdf_count": 1,
+  "ocr_text_length": 11842,
+  "tokens": {
+    "input": 9015,
+    "output": 410
+  },
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "大槻デザイン",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "株式会社メガドイニング",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "池政策研究会",
+        "amount": 0,
+        "date": null
+      },
+      {
+        "name": "全国町村会館",
+        "amount": 0,
+        "date": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "第2回岩田かずちかムーンショット",
+        "income": 0,
+        "date": null
+      },
+      {
+        "name": "第3回岩田かずちかムーンショット",
+        "income": 0,
+        "date": null
+      },
+      {
+        "name": "政治資金パーティー開催事業",
+        "income": 0,
+        "date": null
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0,
+    "note": "OCRテキストの品質が極めて低く、正確な金額データの抽出が困難です。数値情報がほぼ読み取り不可能な状態です。"
+  }
+}
