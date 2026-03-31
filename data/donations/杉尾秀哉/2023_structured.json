@@ -1,0 +1,23 @@
+{
+  "name": "杉尾秀哉",
+  "type": "politician",
+  "year": "2023",
+  "source": "長野県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "長野県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:06:12.795142",
+  "matched_organizations": [
+    "杉尾ひでや後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 2639429,
+    "total_expense": 240000
+  }
+}

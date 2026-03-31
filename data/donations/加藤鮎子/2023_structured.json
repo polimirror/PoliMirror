@@ -1,0 +1,49 @@
+{
+  "name": "加藤鮎子",
+  "type": "politician",
+  "year": "2023",
+  "source": "山形県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "山形県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T13:47:39.524576",
+  "matched_organizations": [
+    "加藤鮎子地域政策研究会",
+    "加藤鮎子後援会",
+    "加藤鮎子酒田飽海地区後援会",
+    "加藤鮎子新庄最上地区後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 3440000,
+      "count": 26
+    },
+    "corporate_donations": [
+      {
+        "name": "松田組",
+        "amount": 500000,
+        "date": "R6/7/31"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "鮎友会",
+        "amount": 2500000,
+        "date": "R6/12/16"
+      },
+      {
+        "name": "自由民主党山形県第三選挙区支部",
+        "amount": 5000000,
+        "date": "R6/12/26"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "だだちゃ豆の会2024",
+        "income": 16000000,
+        "date": "R6/10/8"
+      }
+    ],
+    "total_income": 39243055,
+    "total_expense": 34846102
+  }
+}

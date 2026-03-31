@@ -1,0 +1,37 @@
+{
+  "name": "後藤茂之",
+  "type": "politician",
+  "year": "2023",
+  "source": "長野県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "長野県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:09:23.213376",
+  "matched_organizations": [
+    "後藤茂之木曽後援会",
+    "後藤茂之後援会",
+    "後藤茂之塩尻後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "藤信会",
+        "amount": 2000000,
+        "date": ""
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "藤信会",
+        "amount": 2000000,
+        "date": ""
+      }
+    ],
+    "party_events": [],
+    "total_income": 2881368,
+    "total_expense": 843613
+  }
+}

@@ -515,6 +515,29 @@
       "donation_type": "group"
     }
   ],
+  "協同組合晃望台ショッピングセンター": [
+    {
+      "politician": "五十嵐清",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "五十嵐清",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "五十嵐清",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "一徳会": [
     {
       "politician": "井上信治",
@@ -543,6 +566,15 @@
       "amount": 1000000,
       "year": "2022",
       "donation_type": "group"
+    }
+  ],
+  "（有）中込自動車センター": [
+    {
+      "politician": "井出庸生",
+      "politician_type": "politician",
+      "amount": 196680,
+      "year": "2023",
+      "donation_type": "corporate"
     }
   ],
   "株式会社神戸新聞総合印刷": [
@@ -625,6 +657,33 @@
       "politician": "松下新平",
       "politician_type": "politician",
       "amount": 8567999,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "松田組": [
+    {
+      "politician": "加藤鮎子",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "鮎友会": [
+    {
+      "politician": "加藤鮎子",
+      "politician_type": "politician",
+      "amount": 2500000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "自由民主党山形県第三選挙区支部": [
+    {
+      "politician": "加藤鮎子",
+      "politician_type": "politician",
+      "amount": 5000000,
       "year": "2023",
       "donation_type": "group"
     }
@@ -753,6 +812,15 @@
       "amount": 10358000,
       "year": "2022",
       "donation_type": "group"
+    }
+  ],
+  "全国商工政治": [
+    {
+      "politician": "宮本周司",
+      "politician_type": "politician",
+      "amount": 18500000,
+      "year": "2023",
+      "donation_type": "corporate"
     }
   ],
   "中国電力株式会社": [
@@ -1232,6 +1300,22 @@
       "amount": 1422036,
       "year": "2023",
       "donation_type": "corporate"
+    }
+  ],
+  "藤信会": [
+    {
+      "politician": "後藤茂之",
+      "politician_type": "politician",
+      "amount": 2000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "後藤茂之",
+      "politician_type": "politician",
+      "amount": 2000000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "株式会社三越伊勢丹": [
@@ -2721,6 +2805,22 @@
       "donation_type": "corporate"
     }
   ],
+  "山形県税理士政治連盟": [
+    {
+      "politician": "舟山康江",
+      "politician_type": "politician",
+      "amount": 150000,
+      "year": "2023",
+      "donation_type": "group"
+    },
+    {
+      "politician": "舟山康江",
+      "politician_type": "politician",
+      "amount": 40000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "道路工業株式会社": [
     {
       "politician": "船橋利実",
@@ -2737,6 +2837,15 @@
       "amount": 700000,
       "year": "2023",
       "donation_type": "corporate"
+    }
+  ],
+  "自由民主党栃木県第一選挙区支部": [
+    {
+      "politician": "船田元",
+      "politician_type": "politician",
+      "amount": 3000000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "株式会社ジェミニ物産": [

@@ -1,0 +1,30 @@
+{
+  "name": "船田元",
+  "type": "politician",
+  "year": "2023",
+  "source": "栃木県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "栃木県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T13:52:59.460363",
+  "matched_organizations": [
+    "船田元後援会総連合会",
+    "船田元を支援する青年の会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党栃木県第一選挙区支部",
+        "amount": 3000000,
+        "date": "R5/10/19"
+      }
+    ],
+    "party_events": [],
+    "total_income": 2888973,
+    "total_expense": 1907205
+  }
+}

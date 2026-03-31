@@ -1,0 +1,25 @@
+{
+  "name": "佐々木紀",
+  "type": "politician",
+  "year": "2023",
+  "source": "石川県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "石川県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:02:33.007891",
+  "matched_organizations": [
+    "税理士による佐々木紀後援会",
+    "佐々木はじめ後援会連合会",
+    "十八会佐々木はじめ後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

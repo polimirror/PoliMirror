@@ -1,0 +1,39 @@
+{
+  "name": "五十嵐清",
+  "type": "politician",
+  "year": "2023",
+  "source": "栃木県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "栃木県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T13:51:39.964785",
+  "matched_organizations": [
+    "五十嵐清後援会総連合会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "協同組合晃望台ショッピングセンター",
+        "amount": 1000000,
+        "date": ""
+      },
+      {
+        "name": "協同組合晃望台ショッピングセンター",
+        "amount": 100000,
+        "date": ""
+      },
+      {
+        "name": "協同組合晃望台ショッピングセンター",
+        "amount": 100000,
+        "date": ""
+      }
+    ],
+    "party_events": [],
+    "total_income": 2996000,
+    "total_expense": 3141368
+  }
+}

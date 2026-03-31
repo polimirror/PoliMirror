@@ -1,0 +1,65 @@
+{
+  "name": "井出庸生",
+  "type": "politician",
+  "year": "2023",
+  "source": "長野県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "長野県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:07:29.967609",
+  "matched_organizations": [
+    "井出ようせい後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "（有）中込自動車センター",
+        "amount": 196680,
+        "date": "不明"
+      },
+      {
+        "name": "イエローハット上田原店",
+        "amount": 0,
+        "date": "不明"
+      },
+      {
+        "name": "株式会社崔島賜伝事勤所",
+        "amount": 0,
+        "date": "不明"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "社会製祇法人楳の木製祇会",
+        "amount": 0,
+        "date": "不明"
+      },
+      {
+        "name": "信州うえだ農業協同組合",
+        "amount": 0,
+        "date": "不明"
+      },
+      {
+        "name": "川上村教育委員会",
+        "amount": 0,
+        "date": "不明"
+      },
+      {
+        "name": "佐久博倫理法人会",
+        "amount": 0,
+        "date": "不明"
+      },
+      {
+        "name": "佐久南倫理法人会",
+        "amount": 0,
+        "date": "不明"
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 196680
+  }
+}

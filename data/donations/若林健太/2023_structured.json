@@ -1,0 +1,45 @@
+{
+  "name": "若林健太",
+  "type": "politician",
+  "year": "2023",
+  "source": "長野県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "長野県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:10:16.478933",
+  "matched_organizations": [
+    "若林けんた後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "オリオン機械株式会社",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "株式会社本久",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "高橋法律事務所",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "若林けんた君を励ます会",
+        "income": 0,
+        "date": ""
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

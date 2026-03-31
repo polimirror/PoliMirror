@@ -1,0 +1,35 @@
+{
+  "name": "舟山康江",
+  "type": "politician",
+  "year": "2023",
+  "source": "山形県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "山形県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T13:47:02.906031",
+  "matched_organizations": [
+    "税理士による舟山やすえ後援会",
+    "舟山まさお後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "山形県税理士政治連盟",
+        "amount": 150000,
+        "date": "2024-10-25"
+      },
+      {
+        "name": "山形県税理士政治連盟",
+        "amount": 40000,
+        "date": "2024-10-25"
+      }
+    ],
+    "party_events": [],
+    "total_income": 190000,
+    "total_expense": 222570
+  }
+}

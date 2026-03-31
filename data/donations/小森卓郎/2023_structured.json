@@ -1,0 +1,24 @@
+{
+  "name": "小森卓郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "石川県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "石川県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T14:03:03.673184",
+  "matched_organizations": [
+    "税理士による小森卓郎後援会",
+    "小森たくお金沢市町会連合会有志の会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

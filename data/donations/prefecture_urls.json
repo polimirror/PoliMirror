@@ -267,115 +267,154 @@
     "notes": "1ページにPDFリスト"
   },
   "青森県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.aomori.lg.jp/soshiki/senkan/sesikin_syusihokoku_kokai.html",
+      "pdf_base": "https://www.pref.aomori.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "岩手県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.iwate.jp/iinkai/senkyo/houkoku/1061581/index.html",
+      "pdf_base": "https://www.pref.iwate.jp"
+    },
+    "format": "sub_pages"
   },
   "秋田県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.akita.lg.jp/pages/genre/83296",
+      "pdf_base": "https://www.pref.akita.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "山形県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.yamagata.jp/910001/kensei/senkyo/dantai/seijidantai/shushihokoku/shyuushihoukoku-top.html",
+      "pdf_base": "https://www.pref.yamagata.jp"
+    },
+    "format": "sub_pages"
   },
   "福島県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.fukushima.lg.jp/sec/62010a/syuushihoukokusyo.html",
+      "pdf_base": "https://www.pref.fukushima.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "栃木県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.tochigi.lg.jp/k05/pref/senkyo/jyouhou/houkokusho01/r06teikikouhyou.html",
+      "pdf_base": "https://www.pref.tochigi.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "群馬県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.gunma.jp/page/654286.html",
+      "pdf_base": "https://www.pref.gunma.jp"
+    },
+    "format": "sub_pages"
   },
   "富山県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.toyama.jp/500/kensei/kenseiunei/senkyo/iinkai/seijidantai-syushi/index.html",
+      "pdf_base": "https://www.pref.toyama.jp"
+    },
+    "format": "sub_pages"
   },
   "石川県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/r05_syuushihoukoku.html",
+      "pdf_base": "https://www.pref.ishikawa.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "福井県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "山梨県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "長野県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/061128.html",
+      "pdf_base": "https://www.pref.nagano.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "三重県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.mie.lg.jp/SENKAN/HP/000232684_000040001.htm",
+      "pdf_base": "https://www.pref.mie.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "滋賀県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "奈良県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.nara.jp/item/55753.htm",
+      "pdf_base": "https://www.pref.nara.jp"
+    },
+    "format": "sub_pages"
   },
   "和歌山県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "島根県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "岡山県": {
-    "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "2023": {
+      "index": "https://www.pref.okayama.jp/page/350095.html",
+      "pdf_base": "https://www.pref.okayama.jp"
+    },
+    "format": "sub_pages"
   },
   "山口県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "徳島県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "愛媛県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "高知県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "長崎県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "熊本県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "大分県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "宮崎県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "鹿児島県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   },
   "沖縄県": {
     "format": "unknown",
-    "notes": "URL未特定。要WebSearch調査。"
+    "notes": "URL推定失敗。CMSリニューアルの可能性。"
   }
 }

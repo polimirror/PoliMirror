@@ -1,0 +1,23 @@
+{
+  "name": "福士珠美",
+  "type": "politician",
+  "year": "2023",
+  "source": "青森県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "青森県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T13:44:19.992313",
+  "matched_organizations": [
+    "福士恵美子後援会[107KB]"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}
