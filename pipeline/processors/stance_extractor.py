@@ -59,6 +59,14 @@ INDUSTRY_CONFIG = {
     },
 }
 
+# 全献金議員向け汎用カテゴリ（業界マッチしない議員用）
+GENERAL_POLICY = {
+    "policy_theme": "政治資金の透明性",
+    "speech_keywords": ["政治資金", "献金", "政治資金規正法", "企業献金",
+                        "パーティー券", "政治資金パーティー", "収支報告",
+                        "政治と金", "裏金", "使途不明金", "透明性"],
+}
+
 
 def load_company_index():
     with open(COMPANY_INDEX, "r", encoding="utf-8") as f:
@@ -66,8 +74,10 @@ def load_company_index():
 
 
 def categorize_donors(company_index):
-    """献金元を業界カテゴリに分類"""
+    """献金元を業界カテゴリに分類 + 業界外議員を汎用カテゴリに追加"""
     result = {}
+    industry_pols = set()
+
     for cat_name, cfg in INDUSTRY_CONFIG.items():
         donors = []
         all_pols = set()
@@ -84,6 +94,25 @@ def categorize_donors(company_index):
                 "donors": sorted(donors, key=lambda x: -x["amount"]),
                 "all_politicians": sorted(all_pols),
             }
+            industry_pols.update(all_pols)
+
+    # 業界外の全献金議員を「政治資金の透明性」カテゴリに追加
+    non_industry_pols = set()
+    non_industry_donors = []
+    for donor, entries in company_index.items():
+        for e in entries:
+            if e.get("politician_type") == "politician" and e["politician"] not in industry_pols:
+                non_industry_pols.add(e["politician"])
+                non_industry_donors.append({"name": donor, "amount": e["amount"], "politicians": [e["politician"]]})
+
+    if non_industry_pols:
+        result["政治資金全般"] = {
+            "policy_theme": GENERAL_POLICY["policy_theme"],
+            "speech_keywords": GENERAL_POLICY["speech_keywords"],
+            "donors": sorted(non_industry_donors, key=lambda x: -x["amount"])[:20],
+            "all_politicians": sorted(non_industry_pols),
+        }
+
     return result
 
 
