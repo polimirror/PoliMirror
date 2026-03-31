@@ -1,0 +1,73 @@
+{
+  "name": "野村哲郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "鹿児島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "鹿児島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:32:34.485292",
+  "matched_organizations": [
+    "野村哲郎後援会「彩燿会」",
+    "野村和人後援会",
+    "野村広志後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 1834000,
+      "count": 3
+    },
+    "corporate_donations": [
+      {
+        "name": "丸の内新聞（株）",
+        "amount": 16933,
+        "date": "R5/8/27"
+      },
+      {
+        "name": "南日本新聞販売（株）",
+        "amount": 0,
+        "date": "R5/10/30"
+      },
+      {
+        "name": "丸の内新聞（株）",
+        "amount": 16933,
+        "date": "R5/9/28"
+      },
+      {
+        "name": "豊陽興産（株）",
+        "amount": 61886,
+        "date": "R5/4/24"
+      },
+      {
+        "name": "NTT ファイナンス（株）",
+        "amount": 17626,
+        "date": "R5/8/27"
+      },
+      {
+        "name": "日本郵便（株）",
+        "amount": 22980,
+        "date": "R5/1/28"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体（鹿児島地方協会）",
+        "amount": 100000,
+        "date": "R5/12/25"
+      },
+      {
+        "name": "野村哲郎事務所",
+        "amount": 744307,
+        "date": "R5/12/19"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "農業創生研究会",
+        "income": 800000,
+        "date": "R5/12/2"
+      }
+    ],
+    "total_income": 9254760,
+    "total_expense": 8536858
+  }
+}

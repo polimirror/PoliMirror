@@ -1,0 +1,24 @@
+{
+  "name": "山崎正昭",
+  "type": "politician",
+  "year": "2023",
+  "source": "福井県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "福井県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:11:43.547104",
+  "matched_organizations": [
+    "山崎正昭後援会（ＰＤＦ形式 351キロバイト）",
+    "永平寺町山崎正昭後援会（ＰＤＦ形式 318キロバイト）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 2000000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 2000003,
+    "total_expense": 1882135
+  }
+}

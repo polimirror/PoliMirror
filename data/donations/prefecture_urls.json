@@ -330,12 +330,18 @@
     "format": "sub_pages"
   },
   "福井県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.fukui.lg.jp/doc/senkan/r5shuushi/mokuji.html",
+      "pdf_base": "https://www.pref.fukui.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "山梨県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.yamanashi.jp/senkyo/shushihoukoku/index.html",
+      "pdf_base": "https://www.pref.yamanashi.jp"
+    },
+    "format": "sub_pages"
   },
   "長野県": {
     "2023": {
@@ -352,8 +358,11 @@
     "format": "sub_pages"
   },
   "滋賀県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.shiga.lg.jp/senkyo/seiji_shikin/",
+      "pdf_base": "https://www.pref.shiga.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "奈良県": {
     "2023": {
@@ -363,12 +372,18 @@
     "format": "sub_pages"
   },
   "和歌山県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.wakayama.lg.jp/prefg/010600/wsenkan/kouhyou/kouhyou.html",
+      "pdf_base": "https://www.pref.wakayama.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "島根県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.shimane.lg.jp/admin/commission/senkyo/shimane_senkyo/sikin/seijishikinshuushihoukokushonokouhyou.html",
+      "pdf_base": "https://www.pref.shimane.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "岡山県": {
     "2023": {
@@ -378,43 +393,70 @@
     "format": "sub_pages"
   },
   "山口県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.yamaguchi.lg.jp/soshiki/176/25890.html",
+      "pdf_base": "https://www.pref.yamaguchi.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "徳島県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.tokushima.lg.jp/kenseijoho/senkyo/2014102400048/",
+      "pdf_base": "https://www.pref.tokushima.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "愛媛県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.ehime.jp/page/12120.html",
+      "pdf_base": "https://www.pref.ehime.jp"
+    },
+    "format": "sub_pages"
   },
   "高知県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "format": "not_found",
+    "notes": "概要PDFのみ公開。個別団体の収支報告書PDFはインターネット非公開。"
   },
   "長崎県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.nagasaki.jp/bunrui/kenseijoho/senkyojoho/senkyosyuusihoukoku/seizisikinnsyusshijoukoku/",
+      "pdf_base": "https://www.pref.nagasaki.jp"
+    },
+    "format": "sub_pages"
   },
   "熊本県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.kumamoto.jp/soshiki/147/216711.html",
+      "pdf_base": "https://www.pref.kumamoto.jp"
+    },
+    "format": "single_page_pdf_list"
   },
   "大分県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.oita.jp/site/senkyo/shuusihoukoku-gaiyouyousi.html",
+      "pdf_base": "https://www.pref.oita.jp"
+    },
+    "format": "sub_pages"
   },
   "宮崎県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.miyazaki.lg.jp/senkyo/kense/senkyo/seijishikin/public.html",
+      "pdf_base": "https://www.pref.miyazaki.lg.jp"
+    },
+    "format": "sub_pages"
   },
   "鹿児島県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/seijishikin-r5.html",
+      "pdf_base": "https://www.pref.kagoshima.jp"
+    },
+    "format": "single_page_pdf_list"
   },
   "沖縄県": {
-    "format": "unknown",
-    "notes": "URL推定失敗。CMSリニューアルの可能性。"
+    "2023": {
+      "index": "https://www.pref.okinawa.jp/kensei/senkyo/1004929/1004936.html",
+      "pdf_base": "https://www.pref.okinawa.jp"
+    },
+    "format": "sub_pages"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "name": "山内佳菜子",
+  "type": "politician",
+  "year": "2023",
+  "source": "宮崎県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "宮崎県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:30:20.679862",
+  "matched_organizations": [
+    "山内かなこ後援会",
+    "山内和憲後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

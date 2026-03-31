@@ -1,0 +1,44 @@
+{
+  "name": "野間健",
+  "type": "politician",
+  "year": "2023",
+  "source": "鹿児島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "鹿児島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:33:47.264999",
+  "matched_organizations": [
+    "野間たけし後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "南国殖産",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "小牟田石油店",
+        "amount": 0,
+        "date": "R5/5/18"
+      },
+      {
+        "name": "昭和大商会",
+        "amount": 0,
+        "date": "R5/6/14"
+      },
+      {
+        "name": "松元宗雑",
+        "amount": 60000,
+        "date": "R5/8/24"
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 2589019,
+    "total_expense": 3986090
+  }
+}

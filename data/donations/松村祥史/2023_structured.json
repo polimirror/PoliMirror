@@ -1,0 +1,37 @@
+{
+  "name": "松村祥史",
+  "type": "politician",
+  "year": "2023",
+  "source": "熊本県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "熊本県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:22:01.273655",
+  "matched_organizations": [
+    "税理士による松村祥史後援会 （PDFファイル：478KB）",
+    "松村秀逸後援会 （PDFファイル：870KB）",
+    "松村太後援会 （PDFファイル：182KB）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "熊本県税理士政治連盟",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "party_events": [
+      {
+        "name": "ゴルフ大会",
+        "income": 0,
+        "date": "R5年12月2日"
+      }
+    ],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

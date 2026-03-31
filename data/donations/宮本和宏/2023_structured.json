@@ -1,0 +1,47 @@
+{
+  "name": "宮本和宏",
+  "type": "politician",
+  "year": "2023",
+  "source": "滋賀県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "滋賀県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:18:32.044912",
+  "matched_organizations": [
+    "宮本和宏後援会",
+    "宮本てつや後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 2905000,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "しがとせかい（株）",
+        "amount": 120330,
+        "date": "2024-10-30"
+      },
+      {
+        "name": "博善社印刷（株）",
+        "amount": 143274,
+        "date": "2024年"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本の未来を考える会",
+        "amount": 1000000,
+        "date": "2024-12-10"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "宮本和宏君と共催パーティー",
+        "income": 5420000,
+        "date": "2024-12-17"
+      }
+    ],
+    "total_income": 8675072,
+    "total_expense": 1588361
+  }
+}

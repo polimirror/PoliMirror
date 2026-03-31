@@ -1,0 +1,24 @@
+{
+  "name": "森山裕",
+  "type": "politician",
+  "year": "2023",
+  "source": "鹿児島県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "鹿児島県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:34:07.718385",
+  "matched_organizations": [
+    "森山裕後援会"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0,
+    "note": "OCRテキストが過度に劣化しており、具体的な金額や日付の抽出が不可能です。文書は『森山裕後援会』の政治資金収支報告書と識別されますが、数値データが読み取れません。"
+  }
+}

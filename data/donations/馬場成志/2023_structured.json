@@ -1,0 +1,25 @@
+{
+  "name": "馬場成志",
+  "type": "politician",
+  "year": "2023",
+  "source": "熊本県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "熊本県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:23:50.293273",
+  "matched_organizations": [
+    "馬場しょうじ後援会 （PDFファイル：237KB）",
+    "馬場せいし後援会 （PDFファイル：474KB）",
+    "馬場こうせい後援会 （PDFファイル：609KB）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

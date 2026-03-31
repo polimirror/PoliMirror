@@ -1,0 +1,46 @@
+{
+  "name": "金子恭之",
+  "type": "politician",
+  "year": "2023",
+  "source": "熊本県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "熊本県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:27:21.483035",
+  "matched_organizations": [
+    "金子恭之八代後援会 （PDFファイル：886KB）",
+    "税理士による金子恭之後援会 （PDFファイル：224KB）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党熊本県第四選挙区支部",
+        "amount": 0,
+        "date": "R5/4/28"
+      },
+      {
+        "name": "自由民主党熊本県第四選挙区支部",
+        "amount": 0,
+        "date": "R5/8/30"
+      },
+      {
+        "name": "自由民主党熊本県第四選挙区支部",
+        "amount": 0,
+        "date": "R5/9/28"
+      },
+      {
+        "name": "自由民主党熊本県第四選挙区支部",
+        "amount": 0,
+        "date": "R5/10/30"
+      }
+    ],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0,
+    "note": "OCRテキストの読取率が低く、具体的な金額情報が抽出できませんでした。数値部分が多数のノイズで判読不可能です。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "斉木武志",
+  "type": "politician",
+  "year": "2023",
+  "source": "福井県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "福井県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:12:15.021727",
+  "matched_organizations": [
+    "斉木武志後援会（ＰＤＦ形式 277キロバイト）"
+  ],
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "西日本旅客鉄道株式会社",
+        "amount": 0,
+        "date": ""
+      },
+      {
+        "name": "東日本旅客鉄道株式会社",
+        "amount": 0,
+        "date": ""
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 0,
+    "total_expense": 0
+  }
+}

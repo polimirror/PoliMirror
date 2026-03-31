@@ -1,0 +1,66 @@
+{
+  "name": "芳賀道也",
+  "type": "politician",
+  "year": "2023",
+  "source": "山形県選挙管理委員会 政治資金収支報告書",
+  "prefecture": "山形県",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T18:08:48.037596",
+  "matched_organizations": [
+    "芳賀道也高畠町後援会",
+    "芳賀修一後援会（令和5年6月1日解散）",
+    "芳賀清後援会"
+  ],
+  "data": {
+    "documents": [
+      {
+        "political_organization_name": "高梨忠博",
+        "individual_donations": {
+          "total_amount": 0,
+          "count": 0
+        },
+        "corporate_donations": [],
+        "group_donations": [],
+        "party_events": [],
+        "total_income": 0,
+        "total_expense": 0
+      },
+      {
+        "political_organization_name": "芳賀道也高梨町後援会",
+        "individual_donations": {
+          "total_amount": 0,
+          "count": 0
+        },
+        "corporate_donations": [],
+        "group_donations": [],
+        "party_events": [],
+        "total_income": 0,
+        "total_expense": 0
+      },
+      {
+        "political_organization_name": "芳賀修一後援会",
+        "individual_donations": {
+          "total_amount": 1841,
+          "count": 0
+        },
+        "corporate_donations": [],
+        "group_donations": [],
+        "party_events": [],
+        "total_income": 1841,
+        "total_expense": 0
+      },
+      {
+        "political_organization_name": "芳賀清後援会",
+        "individual_donations": {
+          "total_amount": 0,
+          "count": 0
+        },
+        "corporate_donations": [],
+        "group_donations": [],
+        "party_events": [],
+        "total_income": 0,
+        "total_expense": 0
+      }
+    ]
+  }
+}

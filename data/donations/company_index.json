@@ -823,6 +823,33 @@
       "donation_type": "corporate"
     }
   ],
+  "しがとせかい（株）": [
+    {
+      "politician": "宮本和宏",
+      "politician_type": "politician",
+      "amount": 120330,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "博善社印刷（株）": [
+    {
+      "politician": "宮本和宏",
+      "politician_type": "politician",
+      "amount": 143274,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "日本の未来を考える会": [
+    {
+      "politician": "宮本和宏",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
   "中国電力株式会社": [
     {
       "politician": "宮沢洋一",
@@ -3187,6 +3214,76 @@
       "amount": 150000,
       "year": "2023",
       "donation_type": "group"
+    }
+  ],
+  "丸の内新聞（株）": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 16933,
+      "year": "2023",
+      "donation_type": "corporate"
+    },
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 16933,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "豊陽興産（株）": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 61886,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "NTT ファイナンス（株）": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 17626,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "日本郵便（株）": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 22980,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "政治団体（鹿児島地方協会）": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "野村哲郎事務所": [
+    {
+      "politician": "野村哲郎",
+      "politician_type": "politician",
+      "amount": 744307,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "松元宗雑": [
+    {
+      "politician": "野間健",
+      "politician_type": "politician",
+      "amount": 60000,
+      "year": "2023",
+      "donation_type": "corporate"
     }
   ],
   "公明党衆議院比例区九州第2総支部": [
