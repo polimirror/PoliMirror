@@ -1,0 +1,29 @@
+{
+  "name": "三反園訓",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:10:54.736958",
+  "matched_organizations": [
+    "みたぞのさとし後援会三訓会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": 200000,
+      "count": 1
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "みたぞのさとし政経セミナー",
+        "income": 920000
+      }
+    ],
+    "total_income": 25335314,
+    "total_expense": 21983306
+  }
+}

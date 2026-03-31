@@ -1,0 +1,32 @@
+{
+  "name": "三ツ矢憲生",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:24:05.158076",
+  "matched_organizations": [
+    "憲政会(三ツ矢　憲生)"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.95,
+  "data": {
+    "political_organization": "憲政会",
+    "representative": "矢憲生",
+    "accounting_officer": "昆",
+    "headquarters_address": "東京都港区元赤坂15-20 706号室",
+    "activity_scope": "全国（2都道府県以上）",
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 75478633,
+    "carryover_from_previous_year": 59989836,
+    "total_expense": null,
+    "organizational_activity_expenses": 6550615,
+    "notes": "OCRテキストの品質が低く、詳細な寄附内容、支出項目の詳細、イベント情報は抽出できませんでした。抽出可能なのは総収入額（75,478,633円）、前年繰越額（59,989,836円）、組織活動費（6,550,615円）です。"
+  }
+}

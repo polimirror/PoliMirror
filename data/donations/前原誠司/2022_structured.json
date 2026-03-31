@@ -1,0 +1,38 @@
+{
+  "name": "前原誠司",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:08:04.756108",
+  "matched_organizations": [
+    "まえはら誠司後援会連合会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.95,
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "日本葬業政治連盟",
+        "amount": 0
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "パーティ開催事業費「誠友会」",
+        "income": 2800000
+      },
+      {
+        "name": "パーティ開催事業費「前原誠司後援会連合会」",
+        "income": 16060000
+      }
+    ],
+    "total_income": 50161093,
+    "total_expense": 40957500
+  }
+}

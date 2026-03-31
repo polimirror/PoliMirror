@@ -133,6 +133,33 @@
       "donation_type": "group"
     }
   ],
+  "株式会社竹之内工務店": [
+    {
+      "politician": "三反園訓",
+      "politician_type": "politician",
+      "amount": 900000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "株式会社錦江": [
+    {
+      "politician": "三反園訓",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "みたぞのさとし後援会": [
+    {
+      "politician": "三反園訓",
+      "politician_type": "politician",
+      "amount": 3580000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
   "株式会社木下ダグループ": [
     {
       "politician": "三谷英弘",
@@ -149,6 +176,24 @@
       "amount": 800000,
       "year": "2022",
       "donation_type": "corporate"
+    }
+  ],
+  "鈴 与 商 事 ( 株 )": [
+    {
+      "politician": "上川陽子",
+      "politician_type": "politician",
+      "amount": 49658,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "か み か わ 陽 子 後 援 会": [
+    {
+      "politician": "上川陽子",
+      "politician_type": "politician",
+      "amount": 11500000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "JA農政・地域振興対策協議会": [
@@ -732,6 +777,15 @@
       "donation_type": "group"
     }
   ],
+  "株式会社H&Nホールディングス": [
+    {
+      "politician": "前原誠司",
+      "politician_type": "politician",
+      "amount": 3100000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "松田組": [
     {
       "politician": "加藤鮎子",
@@ -802,6 +856,13 @@
       "amount": 50000000,
       "year": "2023",
       "donation_type": "corporate"
+    },
+    {
+      "politician": "安倍晋三",
+      "politician_type": "politician",
+      "amount": 2703508,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "キンコーズ・ジャパン": [
@@ -892,11 +953,83 @@
       "donation_type": "corporate"
     }
   ],
+  "複数の個人寄附者": [
+    {
+      "politician": "大家敏志",
+      "politician_type": "politician",
+      "amount": 60000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "日本楽器師連盟": [
+    {
+      "politician": "大家敏志",
+      "politician_type": "politician",
+      "amount": 3550000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "政党": [
     {
       "politician": "大岡敏孝",
       "politician_type": "politician",
       "amount": 10358000,
+      "year": "2022",
+      "donation_type": "group"
+    }
+  ],
+  "クレジットカード決済（複数企業）": [
+    {
+      "politician": "天畠大輔",
+      "politician_type": "politician",
+      "amount": 598974,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "さいいち税理士事務所": [
+    {
+      "politician": "天畠大輔",
+      "politician_type": "politician",
+      "amount": 380000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "れいわ新選組参議院第六総支部": [
+    {
+      "politician": "天畠大輔",
+      "politician_type": "politician",
+      "amount": 2700001,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "ANAT カーオネッタ": [
+    {
+      "politician": "安倍晋三",
+      "politician_type": "politician",
+      "amount": 28060000,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "ニューオータ": [
+    {
+      "politician": "安倍晋三",
+      "politician_type": "politician",
+      "amount": 69059560,
+      "year": "2022",
+      "donation_type": "corporate"
+    }
+  ],
+  "自由民主党山口県第四選挙区文": [
+    {
+      "politician": "安倍晋三",
+      "politician_type": "politician",
+      "amount": 12220,
       "year": "2022",
       "donation_type": "group"
     }
@@ -2419,6 +2552,15 @@
       "donation_type": "corporate"
     }
   ],
+  "未記載": [
+    {
+      "politician": "石川大我",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
   "石橋林太郎くんを育てる会": [
     {
       "politician": "石橋林太郎",
@@ -3483,6 +3625,231 @@
       "amount": 528000,
       "year": "2023",
       "donation_type": "corporate"
+    }
+  ],
+  "柿崎工務所": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 800000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "新庄・鈴木・柴田組": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 650000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "西庄建設株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 800000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "遠藤商事株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 240000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "渋谷建設株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "カキザキ": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 550000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "新庄砕石工業所": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 550000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "松井鉄工株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "東北企業株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 1400000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "リンベル隊": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "大場組": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 800000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "エコス米沢": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 600000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "ニトリ": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "新和産業隊": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "後藤組": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 600000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "経栄会": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "小国開発隊": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 1000000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "丸吉奥山組": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "太田建設株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "高橋工務店": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "堀川土建株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "那須建設株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 500000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "エヌ・デーソフトウェア株": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 300000,
+      "year": "2023",
+      "donation_type": "corporate"
+    }
+  ],
+  "有隣会": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 7700000,
+      "year": "2023",
+      "donation_type": "group"
+    }
+  ],
+  "全電機商連政治連盟": [
+    {
+      "politician": "遠藤利明",
+      "politician_type": "politician",
+      "amount": 100000,
+      "year": "2023",
+      "donation_type": "group"
     }
   ],
   "サイレキ建設工業（株）": [

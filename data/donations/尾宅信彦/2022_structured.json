@@ -1,0 +1,25 @@
+{
+  "name": "尾宅信彦",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:19:07.256747",
+  "matched_organizations": [
+    "大日本憂青同(尾宅　信彦)"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.85,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "note": "OCRテキストの品質が低く、具体的な金額データを抽出できません。文書は政治資金収支報告書の様式ですが、実際の数値データが判読不可能です。"
+  }
+}

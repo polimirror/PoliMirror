@@ -1,0 +1,25 @@
+{
+  "name": "中西健治",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:13:26.921928",
+  "matched_organizations": [
+    "中西けんじを囲む公認会計士の会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "error": "OCRテキストの認識精度が不十分です。元文書の再スキャンまたは別のOCR処理をお試しください。"
+  }
+}

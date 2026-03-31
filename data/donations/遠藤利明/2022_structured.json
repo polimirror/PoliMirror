@@ -1,0 +1,41 @@
+{
+  "name": "遠藤利明",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:25:14.072049",
+  "matched_organizations": [
+    "新風会(遠藤　利明)"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": 3120000,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "新風会勉強会（令和4年1月26日開催）",
+        "income": 12000000
+      },
+      {
+        "name": "新風会勉強会（令和4年4月27日開催）",
+        "income": 5540000
+      },
+      {
+        "name": "新風会勉強会（令和4年8月24日開催）",
+        "income": 880000
+      },
+      {
+        "name": "新風会勉強会（令和4年12月7日開催）",
+        "income": 9330000
+      }
+    ],
+    "total_income": 30189670,
+    "total_expense": 29349670
+  }
+}

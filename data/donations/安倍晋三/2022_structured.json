@@ -1,0 +1,48 @@
+{
+  "name": "安倍晋三",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:26:31.886030",
+  "matched_organizations": [
+    "晋和会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": 188672489,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "ANAT カーオネッタ",
+        "amount": 28060000
+      },
+      {
+        "name": "ニューオータ",
+        "amount": 69059560
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党山口県第四選挙区文",
+        "amount": 12220
+      }
+    ],
+    "party_events": [
+      {
+        "name": "後援会朝食会",
+        "income": null
+      },
+      {
+        "name": "後援会報告会",
+        "income": null
+      }
+    ],
+    "total_income": null,
+    "total_expense": null,
+    "notes": "OCRテキストの品質が低く、多くの数値が判読不可能なため、抽出できた項目のみを記載しました。完全な情報抽出には原本資料の確認が必要です。"
+  }
+}

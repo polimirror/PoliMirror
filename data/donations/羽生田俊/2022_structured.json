@@ -1,0 +1,31 @@
+{
+  "name": "羽生田俊",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:29:06.180690",
+  "matched_organizations": [
+    "羽生田俊後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.95,
+  "data": {
+    "organization_name": "羽生田俊後援会",
+    "report_year": "令和5年",
+    "representative": "松本吉郎",
+    "accounting_officer": "釜漸敏",
+    "office_location": "東京都文京区本駒込5-19-2 小林ビルデンス603",
+    "contact_person": "河津晃代",
+    "individual_donations": {
+      "total_amount": "データ不明確",
+      "count": "データ不明確"
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": "データ不明確",
+    "total_expense": "データ不明確",
+    "note": "OCRテキストの品質が低く、具体的な金額データの抽出が困難です。収支の総括表の詳細数値が読み取れません。"
+  }
+}

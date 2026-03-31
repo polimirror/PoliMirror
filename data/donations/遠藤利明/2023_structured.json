@@ -1,0 +1,147 @@
+{
+  "name": "遠藤利明",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:25:29.116056",
+  "matched_organizations": [
+    "新風会(遠藤　利明)"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": 60000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "柿崎工務所",
+        "amount": 800000
+      },
+      {
+        "name": "新庄・鈴木・柴田組",
+        "amount": 650000
+      },
+      {
+        "name": "西庄建設株",
+        "amount": 800000
+      },
+      {
+        "name": "遠藤商事株",
+        "amount": 240000
+      },
+      {
+        "name": "渋谷建設株",
+        "amount": 1000000
+      },
+      {
+        "name": "カキザキ",
+        "amount": 550000
+      },
+      {
+        "name": "新庄砕石工業所",
+        "amount": 550000
+      },
+      {
+        "name": "松井鉄工株",
+        "amount": 300000
+      },
+      {
+        "name": "東北企業株",
+        "amount": 1400000
+      },
+      {
+        "name": "リンベル隊",
+        "amount": 1000000
+      },
+      {
+        "name": "大場組",
+        "amount": 800000
+      },
+      {
+        "name": "エコス米沢",
+        "amount": 600000
+      },
+      {
+        "name": "ニトリ",
+        "amount": 1000000
+      },
+      {
+        "name": "新和産業隊",
+        "amount": 500000
+      },
+      {
+        "name": "後藤組",
+        "amount": 600000
+      },
+      {
+        "name": "経栄会",
+        "amount": 500000
+      },
+      {
+        "name": "小国開発隊",
+        "amount": 1000000
+      },
+      {
+        "name": "丸吉奥山組",
+        "amount": 300000
+      },
+      {
+        "name": "太田建設株",
+        "amount": 300000
+      },
+      {
+        "name": "高橋工務店",
+        "amount": 300000
+      },
+      {
+        "name": "堀川土建株",
+        "amount": 500000
+      },
+      {
+        "name": "那須建設株",
+        "amount": 500000
+      },
+      {
+        "name": "エヌ・デーソフトウェア株",
+        "amount": 300000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "有隣会",
+        "amount": 7700000
+      },
+      {
+        "name": "全電機商連政治連盟",
+        "amount": 100000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "新風会勉強会（令和4年12月21日開催）",
+        "income": 580000
+      },
+      {
+        "name": "遠藤利明政経セミナー（令和5年5月24日開催）",
+        "income": 41059510
+      },
+      {
+        "name": "新風会勉強会（令和5年9月29日開催）",
+        "income": 14180000
+      },
+      {
+        "name": "遠藤利明政経セミナー（令和5年11月29日開催）",
+        "income": 23610000
+      },
+      {
+        "name": "新風会勉強会（令和5年12月18日開催）",
+        "income": 11400000
+      }
+    ],
+    "total_income": 100893510,
+    "total_expense": 87899089
+  }
+}

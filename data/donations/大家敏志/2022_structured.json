@@ -1,0 +1,38 @@
+{
+  "name": "大家敏志",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:17:26.393990",
+  "matched_organizations": [
+    "大家さとしを育てる会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.78,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "複数の個人寄附者",
+        "amount": 60000
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "パーティー関連",
+        "income": 21440000
+      }
+    ],
+    "total_income": 92936405,
+    "total_expense": 92901290,
+    "organization_name": "大家さとしを育てる会",
+    "representative": "大家敏志",
+    "accounting_officer": "伊原隆敏",
+    "note": "OCRテキストの品質が低いため、詳細な項目の抽出が困難です。抽出可能な範囲での情報を提供しています。"
+  }
+}

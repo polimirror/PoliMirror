@@ -1,0 +1,42 @@
+{
+  "name": "大家敏志",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:18:34.725902",
+  "matched_organizations": [
+    "大家さとしを育てる会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.78,
+  "data": {
+    "individual_donations": {
+      "total_amount": 5160000,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "日本楽器師連盟",
+        "amount": 3550000
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "参議院議員大家敏志政経フォーラム2023in福岡",
+        "income": 2020000
+      },
+      {
+        "name": "参議院議員大家敏志政経フォーラム2023in東京",
+        "income": 2280000
+      },
+      {
+        "name": "参議院議員大家敏志政経フォーラム2023in北九州",
+        "income": 2820000
+      }
+    ],
+    "total_income": 78000000,
+    "total_expense": 69493978
+  }
+}

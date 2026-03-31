@@ -1,0 +1,98 @@
+{
+  "name": "吉井章",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:12:01.952400",
+  "matched_organizations": [
+    "フレッシュ石井の会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "political_organization": {
+      "name": "フレッシュ石井の会",
+      "main_office": "岡山市北区内山下1-1-9-15 エディフィシオ横内101",
+      "representative": "石井正弘",
+      "accounting_manager": "石田直原"
+    },
+    "individual_donations": {
+      "total_amount": null,
+      "count": null,
+      "donors": [
+        {
+          "name": "小鳳光信",
+          "address": "岡山市中区淑水1-1-13",
+          "amount": 100000
+        },
+        {
+          "name": "箔靖喜",
+          "address": "総社市駅前2-11-30",
+          "amount": 100000
+        },
+        {
+          "name": "濱辺道夫",
+          "address": "岡山市北区今8-12-14",
+          "amount": 100000
+        },
+        {
+          "name": "國米一朗",
+          "address": "岡山市南区浦安本町15-12",
+          "amount": 100000
+        },
+        {
+          "name": "福嶋啓祐",
+          "address": "岡山市東区西大寺中3-15-15",
+          "amount": 100000
+        },
+        {
+          "name": "西山剛史",
+          "address": "岡山市北区津倉町1-2-1",
+          "amount": 100000
+        },
+        {
+          "name": "柴田浩",
+          "address": "岡山市中区円山347-1",
+          "amount": 100000
+        },
+        {
+          "name": "大月隆行",
+          "address": "備前市伊部2012",
+          "amount": 100000
+        },
+        {
+          "name": "大岩道典",
+          "address": "岡山市南区福浜町1-10",
+          "amount": 100000
+        },
+        {
+          "name": "大久保憲作",
+          "address": "玉野市胸上2721",
+          "amount": 50000
+        },
+        {
+          "name": "小見山豊",
+          "address": "倉敷市羽島65-7",
+          "amount": 100000
+        },
+        {
+          "name": "川端正俊",
+          "address": "津山市八出244-1",
+          "amount": 100000
+        },
+        {
+          "name": "蓄田茂",
+          "address": "倉敷市笹沖410-5",
+          "amount": 100000
+        }
+      ]
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "notes": "OCRテキストの品質が低いため、完全な情報抽出が困難です。表示されているのは識別可能な個人寄附者の情報のみです。"
+  }
+}

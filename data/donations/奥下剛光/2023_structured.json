@@ -1,0 +1,63 @@
+{
+  "name": "奥下剛光",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:23:09.106186",
+  "matched_organizations": [
+    "奥下たけみつ後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "organization_name": "奥下たけみつ後援会",
+    "representative": "池内沙織",
+    "public_office": "衆議院議員（現職）",
+    "report_year": "令和5年",
+    "office_address": "大阪府吹田市内本町2-6-13 アイワステーション ビル貝号館103",
+    "individual_donations": {
+      "total_amount": "データ不明",
+      "count": "データ不明"
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社ライジンダ",
+        "amount": "データ不明"
+      },
+      {
+        "name": "株式会社関根工務店",
+        "amount": "データ不明"
+      },
+      {
+        "name": "株式会社シェル石油大阪販売所",
+        "amount": "データ不明"
+      },
+      {
+        "name": "株式会社メインカラー",
+        "amount": "データ不明"
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本維新の会",
+        "amount": "データ不明"
+      },
+      {
+        "name": "大阪維新の会",
+        "amount": "データ不明"
+      }
+    ],
+    "party_events": [
+      {
+        "name": "奥下剛光政経セミナー",
+        "date": "令和5年3月6日",
+        "venue": "千里阪急ホテル（豊中市）",
+        "income": "データ不明"
+      }
+    ],
+    "total_income": "データ不明",
+    "total_expense": "データ不明",
+    "note": "OCRテキストの品質が低いため、金額データの抽出が不可能です。原本資料の確認が必要です。"
+  }
+}

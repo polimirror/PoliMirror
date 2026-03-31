@@ -1,0 +1,32 @@
+{
+  "name": "上田勇",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:02:41.763039",
+  "matched_organizations": [
+    "うえだともかず後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "political_group_name": "うえだともかず後援会",
+    "representative_name": "植田智一",
+    "accounting_officer_name": "植田智一",
+    "office_address": "東京都大田区蒲田5-36-6 井本ビル202",
+    "activity_area": "全国（2都道府県以上）",
+    "group_type": "その他の政治団体",
+    "report_date": "令和6年4月1日",
+    "individual_donations": {
+      "total_amount": "不明",
+      "count": "不明"
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": "不明",
+    "total_expense": "不明",
+    "note": "OCRテキストの品質が低く、具体的な金額データの抽出ができませんでした。原本の確認が必要です。"
+  }
+}

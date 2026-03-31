@@ -1,0 +1,53 @@
+{
+  "name": "吉川沙織",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:15:41.264551",
+  "matched_organizations": [
+    "吉川さおり後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.95,
+  "data": {
+    "organization_name": "吉川さおり後援会",
+    "reporting_year": "令和5年",
+    "representative": "吉川沙織",
+    "accounting_officer": "松本雄",
+    "headquarters_address": "東京都千代田区永田町2-1-1 参議院議員会館617号室",
+    "activity_scope": "全国（2都道府県以上）",
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "other_income": 0,
+    "total_income": 5589819,
+    "total_expense": 4652555,
+    "office_rent_expense": 99916,
+    "machinery_and_equipment_expense": 0,
+    "publication_expense_details": [
+      {
+        "recipient_name": "印刷会社",
+        "address": "東京都千代田区神田駿河台3-6",
+        "amount": "記載あり（具体額不明）"
+      }
+    ],
+    "political_activity_expense": 0,
+    "balance_sheet": {
+      "cash_and_deposits": "記載あり",
+      "fixed_assets": "記載あり"
+    },
+    "audit_report": {
+      "auditor_name": "切宮耆三",
+      "auditor_registration_number": "第121号",
+      "audit_date": "令和6年2月29日",
+      "audit_period": "令和5年",
+      "audit_result": "適正に実施"
+    },
+    "notes": "OCRテキストの精度が低く、一部数値が不完全である可能性があります"
+  }
+}

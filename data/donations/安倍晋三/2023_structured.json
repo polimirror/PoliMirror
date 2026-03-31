@@ -1,0 +1,55 @@
+{
+  "name": "安倍晋三",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:27:09.962577",
+  "matched_organizations": [
+    "晋和会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "organization_name": "晋和会",
+    "representative": "安倍昭恵",
+    "accounting_manager": "中平大開",
+    "office_address": "東京都渋谷区富ヶ谷1-3-30-29",
+    "individual_donations": {
+      "total_amount": 5087,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "東京政経研究会",
+        "amount": 2703508
+      }
+    ],
+    "party_events": [],
+    "total_income": 5656707,
+    "total_expense": 5550991,
+    "political_activity_expenses": {
+      "organization_activities": null,
+      "policy_research": null,
+      "donations": [
+        {
+          "recipient": "石丸則行後援会",
+          "address": "鳥取県東伯郡北栄町瀬戸270",
+          "amount": 100000,
+          "purpose": "寄附金"
+        }
+      ]
+    },
+    "detailed_expenses": [
+      {
+        "date": "R5/8/30",
+        "payee": "JTB国会内店",
+        "amount": 157020,
+        "category": "資金パーティー開催事業"
+      }
+    ],
+    "report_date": "令和6年3月21日",
+    "note": "OCRテキストの品質が低いため、一部の数値が不確実です。"
+  }
+}

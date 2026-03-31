@@ -1,0 +1,40 @@
+{
+  "name": "伊佐進一",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:02:20.004194",
+  "matched_organizations": [
+    "いさ進一と進む会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.88,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "山口那津男",
+        "amount": null
+      }
+    ],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "organization_info": {
+      "name": "いさ進一と進む会",
+      "representative": "諸田重略",
+      "accounting_officer": "峠尾埋志",
+      "office_location": "大阪市西区新町4丁目10番4号",
+      "contact_person": "峰尾聖志",
+      "phone": "080-6851-7075",
+      "report_date": "令和5年9月10日",
+      "activity_area": "2以上の都道府県の区域等"
+    },
+    "note": "OCRテキストの解析度が低く、具体的な金額データが抽出できません。元のスキャン画像の品質向上が必要です。"
+  }
+}

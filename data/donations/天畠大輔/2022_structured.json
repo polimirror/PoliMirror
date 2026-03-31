@@ -1,0 +1,57 @@
+{
+  "name": "天畠大輔",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:19:54.753489",
+  "matched_organizations": [
+    "天の畠"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.78,
+  "data": {
+    "individual_donations": {
+      "total_amount": 4605000,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 5543240,
+    "total_expense": 5543240,
+    "organization_info": {
+      "name": "天の畠",
+      "type": "国会議員関係政治団体",
+      "office_location": "千代田区永田町2番（参議院議員会館）",
+      "representative": "天白大輔",
+      "accounting_officer": "黒田宗大",
+      "fiscal_year": "令和4年"
+    },
+    "detailed_donations": {
+      "individual": [
+        {
+          "amount": 1000000,
+          "date": "R4/10/3",
+          "location": "千代田区紀尾井町1-15"
+        },
+        {
+          "amount": 500000,
+          "date": "R4/11/10"
+        },
+        {
+          "amount": 500000
+        },
+        {
+          "amount": 605000
+        }
+      ]
+    },
+    "expenses": {
+      "party_exchange_fees": 938210,
+      "office_rental": 1216543,
+      "event_costs": 3584921,
+      "other_expenses": 785052
+    }
+  }
+}

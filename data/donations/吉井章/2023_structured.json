@@ -1,0 +1,40 @@
+{
+  "name": "吉井章",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:13:02.497126",
+  "matched_organizations": [
+    "フレッシュ石井の会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "西尾総合印刷(株)",
+        "amount": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "石井まさひろ後援会",
+        "amount": null
+      }
+    ],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "organization_name": "フレッシュ石井の会",
+    "representative": "石井正弘",
+    "accounting_officer": "石田栄章",
+    "office_location": "岡山市北区内山下1-9-15 エディフィシオ横内101",
+    "public_office_type": "参議院議員",
+    "public_office_status": "現職"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "國場幸之助",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:06:00.983496",
+  "matched_organizations": [
+    "かりゆしクラブ"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.78,
+  "data": {
+    "document_type": "政治資金収支報告書",
+    "report_date": "令和4年2月",
+    "political_organization_name": "みクリ各しクラブ",
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "assets_section": {
+      "status": "記載内容不完全"
+    },
+    "extraction_note": "OCRテキストの品質が低く、具体的な金額データが抽出できませんでした。ドキュメント構造は認識できますが、数値情報の信頼性が不十分です。"
+  }
+}

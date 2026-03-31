@@ -1,0 +1,43 @@
+{
+  "name": "三反園訓",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:10:01.127896",
+  "matched_organizations": [
+    "みたぞのさとし後援会三訓会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": 3580000,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社竹之内工務店",
+        "amount": 900000
+      },
+      {
+        "name": "株式会社錦江",
+        "amount": 300000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "みたぞのさとし後援会",
+        "amount": 3580000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "みたぞのさとし政経セミナー",
+        "income": 1200000
+      }
+    ],
+    "total_income": 24500635,
+    "total_expense": 19435326
+  }
+}

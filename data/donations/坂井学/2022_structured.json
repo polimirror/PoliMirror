@@ -1,0 +1,43 @@
+{
+  "name": "坂井学",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:07:02.009229",
+  "matched_organizations": [
+    "さかい学後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.88,
+  "data": {
+    "organization_name": "坂井学後援会",
+    "representative": "坂井学",
+    "accounting_officer": "勝間田将",
+    "main_office": "東京都千代田区永田町2-1-2 衆議院第二議員会館⑪19号室",
+    "individual_donations": {
+      "total_amount": 11780000,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "坂井学モーニングセミナー2022 in東京",
+        "income": 1055793
+      },
+      {
+        "name": "坂井学を育てる会2022 in東京",
+        "income": 1070828
+      }
+    ],
+    "other_income": null,
+    "carried_over_from_previous_year": null,
+    "total_income": 32929558,
+    "total_expense": 41922562,
+    "balance": -8993004,
+    "report_date": "令和5年1月",
+    "audit_date": "令和5年1月26日",
+    "audit_report_filed": true
+  }
+}

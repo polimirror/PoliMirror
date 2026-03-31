@@ -1,0 +1,32 @@
+{
+  "name": "伊藤孝恵",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:14:11.137746",
+  "matched_organizations": [
+    "伊藤たかえを応援する会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "political_organization_name": "伊藤たかえを応援する会",
+    "main_office_address": "神戸市中央区八幡通4-1-6",
+    "representative_name": "但馬久美",
+    "accounting_officer_name": "井上",
+    "staff_name": "君鵜裕一",
+    "phone": "090-3847-6047",
+    "report_date": "令和6年2月2日",
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "notes": "OCRテキストに具体的な金額データが含まれていません。詳細な収支情報は別紙資料に記載されている可能性があります。"
+  }
+}

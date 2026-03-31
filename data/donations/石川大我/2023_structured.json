@@ -1,0 +1,47 @@
+{
+  "name": "石川大我",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:28:42.755833",
+  "matched_organizations": [
+    "石川大我にじいろの会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.92,
+  "data": {
+    "organization_name": "石川大我にじいろの会",
+    "organization_type": "国会議員関係政治団体",
+    "representative": "石川大我",
+    "office_address": "東京都千代田区水田町2-1 参議院議員会館1113号室",
+    "public_office": "参議院議員",
+    "report_period": "令和5年",
+    "individual_donations": {
+      "total_amount": 1053000,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "未記載",
+        "amount": 1000000
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "income_breakdown": {
+      "party_membership_fees": 0,
+      "individual_donations_total": 1053000,
+      "corporate_donations_total": 1000000,
+      "political_organization_donations": 0
+    },
+    "total_income": 1422005,
+    "total_expense": 441483,
+    "carryover_to_next_year": 980522,
+    "ordinary_expenses": 185360,
+    "major_expenditure_items": {
+      "organization_activity_expenses": 185360
+    },
+    "audit_opinion": "適正に報告されている"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "國重徹",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:16:08.220235",
+  "matched_organizations": [
+    "国重とおると進む会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.9,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "organization_info": {
+      "name": "国重と俺と進む会",
+      "fiscal_year": "令和4年",
+      "representative": "峯山晃篠",
+      "accounting_officer": "末廣伸作",
+      "office_address": "大阪市西区新町4丁目10番4号"
+    },
+    "extraction_note": "OCRテキストが不鮮明で、具体的な金額データを抽出できません。個別の寄附金額、支出額、および収支総額の情報が判読不可能です。"
+  }
+}

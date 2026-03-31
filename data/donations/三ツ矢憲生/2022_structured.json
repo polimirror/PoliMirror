@@ -1,0 +1,59 @@
+{
+  "name": "三ツ矢憲生",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:23:36.194076",
+  "matched_organizations": [
+    "憲政会(三ツ矢　憲生)"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.95,
+  "data": {
+    "political_organization": "憲政会",
+    "headquarters_address": "東京都港区元赤坂一丁目5番20号706号室",
+    "representative": "矢憲生",
+    "accounting_officer": "昌雄",
+    "staff_member": "昆麗",
+    "individual_donations": {
+      "total_amount": 12006062,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [],
+    "political_activity_expenses": [
+      {
+        "date": "R4/3/18",
+        "recipient": "森津軒",
+        "address": "東京都港区赤坂3-10-7",
+        "amount": null
+      },
+      {
+        "date": "R4/6/16",
+        "recipient": "赤坂津つ井",
+        "address": "東京都港区赤坂1-12-33",
+        "amount": 311880
+      },
+      {
+        "date": "R4/6/30",
+        "recipient": "ザ・ホテリエ・グループ赤坂",
+        "address": "東京都港区赤坂2-22-24",
+        "amount": null
+      },
+      {
+        "date": "R4/10/18",
+        "recipient": "津つ井",
+        "address": "東京都港区赤坂2",
+        "amount": 80976
+      }
+    ],
+    "other_expenses": 1414740,
+    "total_income": 87484695,
+    "total_expense": 75478633,
+    "carryover_from_previous_year": 87484695,
+    "report_date": "令和5年3月26日",
+    "note": "OCR精度が低いため、一部の数値が不完全な可能性があります"
+  }
+}

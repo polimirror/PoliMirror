@@ -1,0 +1,55 @@
+{
+  "name": "上川陽子",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:04:30.249527",
+  "matched_organizations": [
+    "かみかわ陽子後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.92,
+  "data": {
+    "organization_name": "かみかわ陽子後援会",
+    "representative": "石垣徳夫",
+    "accounting_officer": "水野",
+    "office_location": "静岡市葵区七間町18-10 北村ビル1F",
+    "public_official": {
+      "name": "上川陽子",
+      "position": "衆議院議員",
+      "status": "現職"
+    },
+    "individual_donations": {
+      "total_amount": 2342890,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自民党静岡市静岡支部",
+        "amount": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "かみかわ陽子後援会 みんなの・・・",
+        "income": 13820000
+      },
+      {
+        "name": "かみかわ陽子後援会政経セミナー",
+        "date": "R4/9/12",
+        "income": null
+      }
+    ],
+    "operating_expenses": {
+      "utilities": null,
+      "supplies": 1057096,
+      "communications": 439430,
+      "office_expenses": 3325274,
+      "party_event_expenses": 1838772
+    },
+    "total_income": 26218508,
+    "total_expense": 15586688
+  }
+}

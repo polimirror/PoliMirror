@@ -1,0 +1,52 @@
+{
+  "name": "奥下剛光",
+  "type": "politician",
+  "year": "2022",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:22:01.498146",
+  "matched_organizations": [
+    "奥下たけみつ後援会"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.75,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "Peach Aviation 株式会社",
+        "amount": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "日本維新の会国会議員団",
+        "amount": null
+      },
+      {
+        "name": "大阪維新の会",
+        "amount": null
+      }
+    ],
+    "party_events": [
+      {
+        "name": "衆議院議員守島正君を励ます会",
+        "income": null
+      },
+      {
+        "name": "第14回政経フォーラム会費",
+        "income": null
+      },
+      {
+        "name": "議員活動10周年記念パーティー",
+        "income": null
+      }
+    ],
+    "total_income": null,
+    "total_expense": null,
+    "note": "OCRテキストの品質が低く、金額データの抽出が困難です。具体的な数値情報が不明瞭なため、null値としています。"
+  }
+}

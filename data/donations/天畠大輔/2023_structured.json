@@ -1,0 +1,46 @@
+{
+  "name": "天畠大輔",
+  "type": "politician",
+  "year": "2023",
+  "source": "総務省政治資金収支報告書",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:21:01.766634",
+  "matched_organizations": [
+    "天の畠"
+  ],
+  "match_method": "ai_resolution",
+  "match_confidence": 0.78,
+  "data": {
+    "individual_donations": {
+      "total_amount": 10768001,
+      "count": 8
+    },
+    "corporate_donations": [
+      {
+        "name": "クレジットカード決済（複数企業）",
+        "amount": 598974
+      },
+      {
+        "name": "リコージャパン株式会社",
+        "amount": null
+      },
+      {
+        "name": "アドビ株式会社",
+        "amount": null
+      },
+      {
+        "name": "さいいち税理士事務所",
+        "amount": 380000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "れいわ新選組参議院第六総支部",
+        "amount": 2700001
+      }
+    ],
+    "party_events": [],
+    "total_income": 12798544,
+    "total_expense": 10840225
+  }
+}
