@@ -1,0 +1,30 @@
+{
+  "name": "額賀福志郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:08:41.709302",
+  "matched_organizations": [
+    "自由民主党茨城県第二選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "21世紀を創造する会",
+        "income": 19310000
+      }
+    ],
+    "total_income": 13820000,
+    "total_expense": 19431280,
+    "notes": "OCRテキストの品質が低く、完全な抽出が困難です。抽出可能な情報のみを記載しています。詳細な確認が必要です。"
+  }
+}

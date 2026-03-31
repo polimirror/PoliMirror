@@ -1,0 +1,44 @@
+{
+  "name": "田所嘉徳",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:06:26.227724",
+  "matched_organizations": [
+    "自由民主党茨城県第一選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 12915248,
+      "count": 7
+    },
+    "corporate_donations": [
+      {
+        "name": "モビリティテクノ",
+        "amount": 500000
+      },
+      {
+        "name": "株式会社ワイエスケイ",
+        "amount": 1160000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "茨城県歯科医師連盟水戸支部",
+        "amount": null
+      }
+    ],
+    "party_events": [],
+    "subsidies_from_party": [
+      {
+        "source": "自由民主党本部",
+        "amount": 14300000
+      }
+    ],
+    "total_income": 29006303,
+    "total_expense": null
+  }
+}

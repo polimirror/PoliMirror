@@ -1,0 +1,37 @@
+{
+  "name": "鷲尾英一郎",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:41:38.058177",
+  "matched_organizations": [
+    "自由民主党新潟県第四選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党新潟県支部連合会",
+        "amount": null
+      },
+      {
+        "name": "自由民主党本部",
+        "amount": null
+      },
+      {
+        "name": "越鷲会",
+        "amount": null
+      }
+    ],
+    "party_events": [],
+    "total_income": 124279766,
+    "total_expense": null
+  }
+}

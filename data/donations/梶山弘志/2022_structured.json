@@ -1,0 +1,75 @@
+{
+  "name": "梶山弘志",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:12:20.327964",
+  "matched_organizations": [
+    "自由民主党茨城県第四選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 2050000,
+      "count": 20
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社川崎建設",
+        "amount": 100000
+      },
+      {
+        "name": "東昌産業株式会社",
+        "amount": 100000
+      },
+      {
+        "name": "株式会社マスダ装装店",
+        "amount": 100000
+      },
+      {
+        "name": "日立電設工事株式会社",
+        "amount": 100000
+      },
+      {
+        "name": "株式会社鈴木建築板金",
+        "amount": 1500000
+      },
+      {
+        "name": "有限会社進栄管財",
+        "amount": 100000
+      },
+      {
+        "name": "茨城環境理化学有限会社",
+        "amount": 100000
+      },
+      {
+        "name": "その他の設株式会社",
+        "amount": 100000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党茨城県参議院選挙区第三支部",
+        "amount": 500000
+      },
+      {
+        "name": "自由民主党茨城県支部連合会",
+        "amount": 2000000
+      },
+      {
+        "name": "自由民主党本部",
+        "amount": 14350000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "梶山弥志君を励ます会",
+        "income": 34271888
+      }
+    ],
+    "total_income": 82299480,
+    "total_expense": 51055890
+  }
+}

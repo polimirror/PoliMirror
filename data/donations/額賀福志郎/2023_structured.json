@@ -1,0 +1,55 @@
+{
+  "name": "額賀福志郎",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:09:55.874005",
+  "matched_organizations": [
+    "自由民主党茨城県第二選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "電力エナジーパートナー",
+        "amount": null
+      },
+      {
+        "name": "銀座三井ビルディング",
+        "amount": null
+      },
+      {
+        "name": "箕輪商店",
+        "amount": 44690
+      },
+      {
+        "name": "出沼石油店",
+        "amount": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党本部",
+        "amount": 2000000
+      },
+      {
+        "name": "自由民主党茨城県支部連合",
+        "amount": 12050000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "アトンレンパレスホテル神",
+        "income": 8450000
+      }
+    ],
+    "total_income": 238889748,
+    "total_expense": 20502280
+  }
+}

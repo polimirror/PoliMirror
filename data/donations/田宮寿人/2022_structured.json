@@ -1,0 +1,43 @@
+{
+  "name": "田宮寿人",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:51:26.468487",
+  "matched_organizations": [
+    "自由民主党千葉県第九選挙区支部(PDF形式)"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 1715000,
+      "count": 1
+    },
+    "corporate_donations": [
+      {
+        "name": "トヨタファイナンス",
+        "amount": 90600
+      },
+      {
+        "name": "ジェーシービー",
+        "amount": 154450
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "須藤孝治",
+        "amount": 1800000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "秋本まさとし政経懇",
+        "income": 2810000
+      }
+    ],
+    "total_income": 71810000,
+    "total_expense": 36623508
+  }
+}

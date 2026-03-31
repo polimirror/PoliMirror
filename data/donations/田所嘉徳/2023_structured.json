@@ -1,0 +1,42 @@
+{
+  "name": "田所嘉徳",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:07:31.146952",
+  "matched_organizations": [
+    "自由民主党茨城県第一選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 21875446,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "テイ利ビジネスマシン",
+        "amount": 100000
+      },
+      {
+        "name": "ワイエスケイ株式会社",
+        "amount": 100000
+      },
+      {
+        "name": "まちづくり株式会社",
+        "amount": 100000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 1660000
+      }
+    ],
+    "party_events": [],
+    "total_income": 24284560,
+    "total_expense": 35069429
+  }
+}

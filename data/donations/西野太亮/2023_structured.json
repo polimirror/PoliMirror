@@ -1,0 +1,63 @@
+{
+  "name": "西野太亮",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:05:20.675188",
+  "matched_organizations": [
+    "自由民主党熊本県第二選挙区支部 （PDFファイル：3.45MB）"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 460000,
+      "count": 4
+    },
+    "corporate_donations": [
+      {
+        "name": "アデル・カーズ株式会社",
+        "amount": 265000
+      },
+      {
+        "name": "九州電力株式会社",
+        "amount": 13884
+      },
+      {
+        "name": "アスクル株式会社",
+        "amount": 17884
+      },
+      {
+        "name": "株式会社MonotaRO",
+        "amount": 30690
+      },
+      {
+        "name": "株式会社デーヤル エス エス",
+        "amount": "金額不明"
+      },
+      {
+        "name": "有限会社宮本石油",
+        "amount": 100000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "自由民主党本部",
+        "amount": 12500000
+      },
+      {
+        "name": "自由民主党熊本県第二選挙区支部",
+        "amount": 10000000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政治資金パーティー",
+        "income": "金額不明"
+      }
+    ],
+    "total_income": 33847094,
+    "total_expense": 33660175
+  }
+}

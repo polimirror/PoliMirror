@@ -1,0 +1,38 @@
+{
+  "name": "渡辺博道",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:48:10.423268",
+  "matched_organizations": [
+    "自由民主党千葉県第六選挙区支部(PDF形式)【訂正あり】"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 1754000,
+      "count": 0
+    },
+    "corporate_donations": [],
+    "group_donations": [
+      {
+        "name": "自由民主党本部",
+        "amount": 13000000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "渡辺博道君と明日を語る会",
+        "income": 1490000
+      },
+      {
+        "name": "衆議院議員渡辺ひろみち国政報告会",
+        "income": 8370000
+      }
+    ],
+    "total_income": 31582889,
+    "total_expense": 29384000
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "鹿嶋祐介",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:45:59.702902",
+  "matched_organizations": [
+    "自由民主党千葉県第四選挙区支部(PDF形式)"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "有限会社牡陽電設",
+        "amount": 10000
+      },
+      {
+        "name": "株式会社田中工務店",
+        "amount": null
+      },
+      {
+        "name": "株式会社タカネザワナイソウエ業",
+        "amount": null
+      },
+      {
+        "name": "有限会社大謙興業",
+        "amount": null
+      },
+      {
+        "name": "株式会社日東",
+        "amount": null
+      },
+      {
+        "name": "糠信濯青株式会社",
+        "amount": 270000
+      },
+      {
+        "name": "株式会社平成建設工業",
+        "amount": null
+      },
+      {
+        "name": "吉田建材株式会社",
+        "amount": 200000
+      },
+      {
+        "name": "株式会社山商",
+        "amount": null
+      },
+      {
+        "name": "有限会社近藤運輸機工",
+        "amount": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "total_income": 8078000,
+    "total_expense": 2492920
+  }
+}

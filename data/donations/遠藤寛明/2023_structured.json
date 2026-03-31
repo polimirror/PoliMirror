@@ -1,0 +1,142 @@
+{
+  "name": "遠藤寛明",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:01:37.363305",
+  "matched_organizations": [
+    "自由民主党山形県第一選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 3210000,
+      "count": 6,
+      "details": [
+        {
+          "name": "遠藤栄次郎",
+          "amount": 1000000
+        },
+        {
+          "name": "遠藤栄次郎",
+          "amount": 500000
+        },
+        {
+          "name": "白岩匠",
+          "amount": 330000
+        },
+        {
+          "name": "白岩匠",
+          "amount": 200000
+        },
+        {
+          "name": "大山圭介",
+          "amount": 100000
+        },
+        {
+          "name": "新目晴三",
+          "amount": 1000000
+        }
+      ]
+    },
+    "corporate_donations": [
+      {
+        "name": "株ジョイン",
+        "amount": 600000
+      },
+      {
+        "name": "山形新興株",
+        "amount": 600000
+      },
+      {
+        "name": "株千歳建設",
+        "amount": 480000
+      },
+      {
+        "name": "山米商事株",
+        "amount": 480000
+      },
+      {
+        "name": "掬柿崎工務所",
+        "amount": 120000
+      },
+      {
+        "name": "快ムラヤマ",
+        "amount": 120000
+      },
+      {
+        "name": "株黒田組",
+        "amount": 300000
+      },
+      {
+        "name": "那須建設株",
+        "amount": 120000
+      },
+      {
+        "name": "内外緑化株",
+        "amount": 60000
+      },
+      {
+        "name": "掬はながさ建設株",
+        "amount": 360000
+      },
+      {
+        "name": "側新庄砕石工業所",
+        "amount": 480000
+      },
+      {
+        "name": "遠藤設備建設株",
+        "amount": 120000
+      },
+      {
+        "name": "高谷建設株",
+        "amount": 120000
+      },
+      {
+        "name": "小国開発総",
+        "amount": 2000000
+      },
+      {
+        "name": "快カキザキ",
+        "amount": 60000
+      },
+      {
+        "name": "掬矢萩士建",
+        "amount": 600000
+      },
+      {
+        "name": "第一貨物快",
+        "amount": 1400000
+      },
+      {
+        "name": "小笠原建設株",
+        "amount": 850000
+      },
+      {
+        "name": "弘栄設備工業快",
+        "amount": 330000
+      },
+      {
+        "name": "憐KOE",
+        "amount": 430000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 0
+      }
+    ],
+    "party_events": [
+      {
+        "name": "自由民主党本部交付金",
+        "income": 33000000
+      }
+    ],
+    "total_income": 96947344,
+    "total_expense": 78777681,
+    "carryover_amount": 18169663
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "name": "鈴木憲和",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:01:49.715428",
+  "matched_organizations": [
+    "自由民主党山形県第二選挙区支部【令和7年10月20日訂正】"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 2408570,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "（株）山口製作所",
+        "amount": 240000
+      },
+      {
+        "name": "株式会社鈴木工務店",
+        "amount": 240000
+      },
+      {
+        "name": "林建設株式会社",
+        "amount": 2000000
+      },
+      {
+        "name": "（株）ワイム",
+        "amount": 1000000
+      },
+      {
+        "name": "（株）松田組",
+        "amount": 1000000
+      },
+      {
+        "name": "住知山形ミートランド",
+        "amount": 300000
+      },
+      {
+        "name": "（株）山形ミートランド",
+        "amount": 250000
+      },
+      {
+        "name": "（株）梅津組",
+        "amount": 500000
+      },
+      {
+        "name": "（株）平田牧場",
+        "amount": 10000
+      },
+      {
+        "name": "（株）柿崎工務所",
+        "amount": 120000
+      },
+      {
+        "name": "我妻建設工業（株）",
+        "amount": 120000
+      },
+      {
+        "name": "（株）殖産工務所",
+        "amount": 120000
+      },
+      {
+        "name": "小国開発（株）",
+        "amount": 120000
+      },
+      {
+        "name": "太田建設（株）",
+        "amount": 1000000
+      },
+      {
+        "name": "（株）高橋工務店",
+        "amount": 100000
+      },
+      {
+        "name": "衣袋建設（株）",
+        "amount": 500000
+      },
+      {
+        "name": "樋口建設（株）",
+        "amount": 200000
+      },
+      {
+        "name": "葉山建設（株）",
+        "amount": 200000
+      },
+      {
+        "name": "（株）後藤組",
+        "amount": 100000
+      },
+      {
+        "name": "（株）藤島建設",
+        "amount": 900000
+      },
+      {
+        "name": "置賜建設（株）",
+        "amount": 120000
+      },
+      {
+        "name": "（株）金子建設",
+        "amount": 120000
+      },
+      {
+        "name": "（株）菊地組",
+        "amount": 120000
+      },
+      {
+        "name": "羽山総合建設（株）",
+        "amount": 240000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "平成研究会",
+        "amount": 2960000
+      },
+      {
+        "name": "日本再耕会",
+        "amount": 1000000
+      }
+    ],
+    "party_events": [],
+    "total_income": 18838570,
+    "total_expense": 14099859
+  }
+}

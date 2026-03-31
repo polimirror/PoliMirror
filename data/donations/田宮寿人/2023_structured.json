@@ -1,0 +1,62 @@
+{
+  "name": "田宮寿人",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:52:31.894862",
+  "matched_organizations": [
+    "自由民主党千葉県第九選挙区支部(PDF形式)"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "organization": {
+      "name": "自由民主党千葉県第九選挙区支部",
+      "main_office": "千葉県佐倉市ユーカリが丘1ユーエー1",
+      "representative": "田宮寿人",
+      "accounting_officer": "幸田茂夫"
+    },
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社日世サービス",
+        "amount": null
+      },
+      {
+        "name": "有限会社グローバルジャパン",
+        "amount": null
+      }
+    ],
+    "group_donations": [],
+    "party_events": [],
+    "transfers_from_headquarters": [
+      {
+        "name": "自由民主党本部",
+        "amount": 2000000
+      }
+    ],
+    "support_from_branch": [
+      {
+        "name": "自由民主党佐倉市支部",
+        "amount": null
+      }
+    ],
+    "total_income": 4785434,
+    "total_expense": null,
+    "carryover_from_previous_year": 634434,
+    "expenditure_details": {
+      "organizational_activity_expenses": 24980,
+      "postage": 39980,
+      "other_expenses": 206800
+    },
+    "audit_report": {
+      "auditor": "顔恐一栖",
+      "registration_number": "第5718",
+      "audit_date": "令和6年5月11日"
+    }
+  }
+}

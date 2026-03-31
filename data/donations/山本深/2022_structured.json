@@ -1,0 +1,52 @@
+{
+  "name": "山本深",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:02:54.043496",
+  "matched_organizations": [
+    "自由民主党広島県第五選挙区支部（令和５年11月30日訂正）"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "organization_name": "自由民主党広島県第五選挙区支部",
+    "office_address": "広島県世羅郡世羅町東神崎368-21",
+    "representative": "鎌倉正樹",
+    "phone": "0847-22-4055",
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "ト部産業（株）",
+        "amount": 1000000
+      },
+      {
+        "name": "中国電力（株）",
+        "amount": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "ニュー医池政策研究会",
+        "amount": 3660000
+      },
+      {
+        "name": "自由民主党本部",
+        "amount": 14050000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "政治資金パーティー",
+        "income": 14360000
+      }
+    ],
+    "total_income": null,
+    "total_expense": 17623178,
+    "notes": "OCRテキストの品質が低いため、完全な情報抽出が困難です。記載された数字の一部は不明瞭です。"
+  }
+}

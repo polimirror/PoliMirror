@@ -1,0 +1,79 @@
+{
+  "name": "小池正昭",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:54:43.768375",
+  "matched_organizations": [
+    "自由民主党千葉県第十選挙区支部(PDF形式)"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 1640000,
+      "count": 12
+    },
+    "corporate_donations": [
+      {
+        "name": "千葉産業クリーン",
+        "amount": 120000
+      },
+      {
+        "name": "金井工業",
+        "amount": 120000
+      },
+      {
+        "name": "石井工業",
+        "amount": 120000
+      },
+      {
+        "name": "ノザキ建工",
+        "amount": 120000
+      },
+      {
+        "name": "太平洋セメント販売",
+        "amount": 120000
+      },
+      {
+        "name": "ワールドマリン",
+        "amount": 150000
+      },
+      {
+        "name": "クボキ水工",
+        "amount": 120000
+      },
+      {
+        "name": "古谷乳業",
+        "amount": 120000
+      },
+      {
+        "name": "石川物産",
+        "amount": 100000
+      },
+      {
+        "name": "千葉商船",
+        "amount": 100000
+      },
+      {
+        "name": "アイケイ商事",
+        "amount": 60000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "新世代フォーラム",
+        "amount": 4000000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "衆議院議員林幹雄政経セミナー",
+        "income": 24740000
+      }
+    ],
+    "total_income": 66943008,
+    "total_expense": 5331443
+  }
+}

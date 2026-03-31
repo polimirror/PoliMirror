@@ -1,0 +1,43 @@
+{
+  "name": "松本尚",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:01:24.839269",
+  "matched_organizations": [
+    "自由民主党千葉県第十三選挙区支部(PDF形式)【訂正あり】"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 5600000,
+      "count": 2
+    },
+    "corporate_donations": [
+      {
+        "name": "武和会",
+        "amount": 200000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "松本尚政策会議",
+        "amount": 10000000
+      },
+      {
+        "name": "清和政策研究会",
+        "amount": 1000000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "松本尚政策会議",
+        "income": 1328815
+      }
+    ],
+    "total_income": 18128815,
+    "total_expense": 37149956
+  }
+}

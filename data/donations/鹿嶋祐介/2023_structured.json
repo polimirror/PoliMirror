@@ -1,0 +1,38 @@
+{
+  "name": "鹿嶋祐介",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:47:02.614189",
+  "matched_organizations": [
+    "自由民主党千葉県第四選挙区支部(PDF形式)"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 0,
+      "count": 0
+    },
+    "corporate_donations": [
+      {
+        "name": "株式会社相川スリーエフ",
+        "amount": 100000
+      },
+      {
+        "name": "株式会社進栄",
+        "amount": 0
+      }
+    ],
+    "group_donations": [],
+    "party_events": [
+      {
+        "name": "木村哲也君を励ます会",
+        "income": 11639450
+      }
+    ],
+    "total_income": 37728990,
+    "total_expense": 0
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "島尻安伊子",
+  "type": "politician",
+  "year": "2023",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T22:04:16.213690",
+  "matched_organizations": [
+    "43自由民主党沖縄県第三選挙区支部 （PDF 456.6KB）"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 25100000,
+      "count": 10
+    },
+    "corporate_donations": [
+      {
+        "name": "東住宅産業㈱",
+        "amount": 10000000
+      },
+      {
+        "name": "㈱仲泊興産",
+        "amount": 3000000
+      },
+      {
+        "name": "（有）安護建設",
+        "amount": 2000000
+      },
+      {
+        "name": "㈱ツナミ組",
+        "amount": 10000000
+      },
+      {
+        "name": "㈱福山ホールディングス",
+        "amount": 3000000
+      },
+      {
+        "name": "新垣産業㈱",
+        "amount": 2000000
+      },
+      {
+        "name": "㈱丸金交通",
+        "amount": 2000000
+      },
+      {
+        "name": "㈱オカノ",
+        "amount": 1000000
+      },
+      {
+        "name": "（有）義工業",
+        "amount": 5000000
+      },
+      {
+        "name": "拓伸会",
+        "amount": 3000000
+      },
+      {
+        "name": "琉伸会",
+        "amount": 2000000
+      },
+      {
+        "name": "㈱東江建設",
+        "amount": 2000000
+      },
+      {
+        "name": "新沖縄精器㈱",
+        "amount": 1000000
+      },
+      {
+        "name": "㈱大興鋼業",
+        "amount": 2000000
+      },
+      {
+        "name": "㈱座波商会",
+        "amount": 1000000
+      },
+      {
+        "name": "昭和化学工業株式会社",
+        "amount": 5000000
+      },
+      {
+        "name": "マチナトハウジング",
+        "amount": 1500000
+      },
+      {
+        "name": "カンエイ実業（株）",
+        "amount": 2000000
+      },
+      {
+        "name": "中部観光バス㈱",
+        "amount": 1000000
+      },
+      {
+        "name": "株式会社　巡平",
+        "amount": 1000000
+      },
+      {
+        "name": "ふくぎ会",
+        "amount": 10000000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "ちゅらの会",
+        "amount": 100000000
+      },
+      {
+        "name": "沖縄県軍用地主政治連盟",
+        "amount": 3000000
+      },
+      {
+        "name": "沖縄県宅建政治連盟",
+        "amount": 2000000
+      },
+      {
+        "name": "沖縄県農業政治連盟",
+        "amount": 3000000
+      },
+      {
+        "name": "沖縄県医師連盟　中部支部",
+        "amount": 20000000
+      },
+      {
+        "name": "沖縄県歯科医師連盟",
+        "amount": 1000000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "新春の集い",
+        "income": 9550000
+      },
+      {
+        "name": "沖縄市勉強会",
+        "income": 13500000
+      },
+      {
+        "name": "うるま市勉強会",
+        "income": 18480000
+      },
+      {
+        "name": "北部勉強会",
+        "income": 10800000
+      }
+    ],
+    "total_income": 410100000,
+    "total_expense": 107156309
+  }
+}

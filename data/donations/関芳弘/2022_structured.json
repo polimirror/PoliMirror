@@ -1,0 +1,87 @@
+{
+  "name": "関芳弘",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:42:47.708385",
+  "matched_organizations": [
+    "自由民主党兵庫県第三選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": 1720000,
+      "count": 20
+    },
+    "corporate_donations": [
+      {
+        "name": "樋口鋼業株式会社",
+        "amount": 720000
+      },
+      {
+        "name": "大東石油株式会社",
+        "amount": 600000
+      },
+      {
+        "name": "株式会社ブレックス",
+        "amount": 500000
+      },
+      {
+        "name": "株式会社ヤマハ藤田",
+        "amount": 120000
+      },
+      {
+        "name": "株式会社若益",
+        "amount": 120000
+      },
+      {
+        "name": "工建産業株式会社",
+        "amount": 120000
+      },
+      {
+        "name": "株式会社神戸マツダ",
+        "amount": 120000
+      },
+      {
+        "name": "有限会社正栄工業",
+        "amount": 120000
+      },
+      {
+        "name": "播磨コンクリート株式会社",
+        "amount": 120000
+      },
+      {
+        "name": "その他企業各社",
+        "amount": 520000
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "関芳弘君を励ます会",
+        "amount": 550000
+      }
+    ],
+    "party_events": [
+      {
+        "name": "2022年3月政経フォーラム",
+        "income": 2000000
+      },
+      {
+        "name": "2022年6月政経フォーラム",
+        "income": 2000000
+      },
+      {
+        "name": "2022年9月政経フォーラム",
+        "income": 2000000
+      },
+      {
+        "name": "2022年12月政経フォーラム",
+        "income": 3000000
+      }
+    ],
+    "total_income": 13600000,
+    "total_expense": null
+  }
+}

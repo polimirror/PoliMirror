@@ -1,0 +1,1231 @@
+{
+  "total_matched": 80,
+  "total_unmatched": 114,
+  "total_ambiguous": 9,
+  "results": [
+    {
+      "branch_name": "自由民主党新潟県第四選挙区支部",
+      "politician": "鷲尾英一郎",
+      "politician_display": "鷲尾 英一郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "新潟",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党鹿児島県第二選挙区支部",
+      "politician": "三反園訓",
+      "politician_display": "三反園 訓",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "鹿児島",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第九選挙区支部",
+      "politician": "西村康稔",
+      "politician_display": "西村 康稔",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "9"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第五選挙区支部",
+      "politician": "谷公一",
+      "politician_display": "谷 公一",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第三選挙区支部",
+      "politician": "関芳弘",
+      "politician_display": "関 芳弘",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第十一選挙区支部",
+      "politician": "山田基靖",
+      "politician_display": "山田 基靖",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "11"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第十選挙区支部",
+      "politician": "渡海紀三朗",
+      "politician_display": "渡海 紀三朗",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "10"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第十二選挙区支部",
+      "politician": "山口壯",
+      "politician_display": "山口 壯",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "12"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第七選挙区支部",
+      "politician": "山田賢司",
+      "politician_display": "山田 賢司",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "7"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第四選挙区支部",
+      "politician": "藤井比早之",
+      "politician_display": "藤井 比早之",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党兵庫県第六選挙区支部",
+      "politician": "大串正樹",
+      "politician_display": "大串 正樹",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "兵庫",
+        "house": "衆議院",
+        "num": "6"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第四選挙区支部(PDF形式)",
+      "politician": "鹿嶋祐介",
+      "politician_display": "鹿嶋 祐介",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第六選挙区支部(PDF形式)【訂正あり】",
+      "politician": "渡辺博道",
+      "politician_display": "渡辺 博道",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "6"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第七選挙区支部(PDF形式)",
+      "politician": "齋藤健",
+      "politician_display": "齋藤 健",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "7"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第九選挙区支部(PDF形式)",
+      "politician": "田宮寿人",
+      "politician_display": "田宮 寿人",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "9"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第十選挙区支部(PDF形式)",
+      "politician": "小池正昭",
+      "politician_display": "小池 正昭",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "10"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第十二選挙区支部(PDF形式)",
+      "politician": "浜田靖一",
+      "politician_display": "浜田 靖一",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "12"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第十三選挙区支部(PDF形式)【訂正あり(2回目)】",
+      "politician": "松本尚",
+      "politician_display": "松本 尚",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "13"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第五選挙区支部(PDF形式)【訂正あり(2回目)】",
+      "politician": "英利アルフィヤ",
+      "politician_display": "英利アルフィヤ",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第六選挙区支部(PDF形式)",
+      "politician": "渡辺博道",
+      "politician_display": "渡辺 博道",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "6"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党千葉県第十三選挙区支部(PDF形式)【訂正あり】",
+      "politician": "松本尚",
+      "politician_display": "松本 尚",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "千葉",
+        "house": "衆議院",
+        "num": "13"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第七選挙区支部",
+      "politician": "中野英幸",
+      "politician_display": "中野 英幸",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "7"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第八選挙区支部",
+      "politician": "柴山昌彦",
+      "politician_display": "柴山 昌彦",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "8"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第九選挙区支部",
+      "politician": "大塚拓",
+      "politician_display": "大塚 拓",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "9"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十選挙区支部",
+      "politician": "山口晋",
+      "politician_display": "山口 晋",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "10"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十一選挙区支部",
+      "politician": "小泉龍司",
+      "politician_display": "小泉 龍司",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "11"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十二選挙区支部",
+      "politician": "野中厚",
+      "politician_display": "野中 厚",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "12"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十三選挙区支部",
+      "politician": "三ッ林裕巳",
+      "politician_display": "三ッ林 裕巳",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "13"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十五選挙区支部",
+      "politician": "田中良生",
+      "politician_display": "田中 良生",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "15"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党埼玉県第十六選挙区支部",
+      "politician": "土屋品子",
+      "politician_display": "土屋 品子",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "埼玉",
+        "house": "衆議院",
+        "num": "16"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党宮城県第一選挙区支部",
+      "politician": "土井亨",
+      "politician_display": "土井 亨",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "宮城",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党宮城県第五選挙区支部",
+      "politician": "小野寺五典",
+      "politician_display": "小野寺 五典",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "宮城",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党宮城県第三選挙区支部",
+      "politician": "西村明宏",
+      "politician_display": "西村 明宏",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "宮城",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党宮城県第二選挙区支部",
+      "politician": "渡辺勝幸",
+      "politician_display": "渡辺 勝幸",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "宮城",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党宮城県第四選挙区支部",
+      "politician": "森下千里",
+      "politician_display": "森下 千里",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "宮城",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党山形県第一選挙区支部",
+      "politician": "遠藤寛明",
+      "politician_display": "遠藤 寛明",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "山形",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党山形県第三選挙区支部",
+      "politician": "加藤鮎子",
+      "politician_display": "加藤 鮎子",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "山形",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党山形県第二選挙区支部【令和7年10月20日訂正】",
+      "politician": "鈴木憲和",
+      "politician_display": "鈴木 憲和",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "山形",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党山形県第二選挙区支部",
+      "politician": "鈴木憲和",
+      "politician_display": "鈴木 憲和",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "山形",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第一選挙区支部",
+      "politician": "岸田文雄",
+      "politician_display": "岸田 文雄",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第五選挙区支部（令和５年11月30日訂正）",
+      "politician": "山本深",
+      "politician_display": "山本 深",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第二選挙区支部",
+      "politician": "平口洋",
+      "politician_display": "平口 洋",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第四選挙区支部",
+      "politician": "新谷正義",
+      "politician_display": "新谷 正義",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第六選挙区支部",
+      "politician": "小林史明",
+      "politician_display": "小林 史明",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "6"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党広島県第五選挙区支部",
+      "politician": "山本深",
+      "politician_display": "山本 深",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "広島",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "42自由民主党沖縄県第一選挙区支部 （PDF 1008.6KB）",
+      "politician": "國場幸之助",
+      "politician_display": "國場 幸之助",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "43自由民主党沖縄県第三選挙区支部 （PDF 456.6KB）",
+      "politician": "島尻安伊子",
+      "politician_display": "島尻 安伊子",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "44自由民主党沖縄県第二選挙区支部 （PDF 811.8KB）",
+      "politician": "宮崎政久",
+      "politician_display": "宮崎 政久",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "45自由民主党沖縄県第四選挙区支部 （PDF 1.6MB）",
+      "politician": "西銘恒三郎",
+      "politician_display": "西銘 恒三郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "40自由民主党沖縄県第一選挙区支部 （PDF 912.4KB）",
+      "politician": "國場幸之助",
+      "politician_display": "國場 幸之助",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "41自由民主党沖縄県第三選挙区支部 （PDF 418.6KB）",
+      "politician": "島尻安伊子",
+      "politician_display": "島尻 安伊子",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "42自由民主党沖縄県第二選挙区支部 （PDF 563.3KB）",
+      "politician": "宮崎政久",
+      "politician_display": "宮崎 政久",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "43自由民主党沖縄県第四選挙区支部 （PDF 1.7MB）",
+      "politician": "西銘恒三郎",
+      "politician_display": "西銘 恒三郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "38自由民主党沖縄県第一選挙区支部 （PDF 1.7MB）",
+      "politician": "國場幸之助",
+      "politician_display": "國場 幸之助",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "39自由民主党沖縄県第三選挙区支部 （PDF 927.2KB）",
+      "politician": "島尻安伊子",
+      "politician_display": "島尻 安伊子",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "40自由民主党沖縄県第二選挙区支部 （PDF 586.4KB）",
+      "politician": "宮崎政久",
+      "politician_display": "宮崎 政久",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "41自由民主党沖縄県第四選挙区支部 （PDF 1.7MB）",
+      "politician": "西銘恒三郎",
+      "politician_display": "西銘 恒三郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "沖縄",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党滋賀県第一選挙区支部",
+      "politician": "大岡敏孝",
+      "politician_display": "大岡 敏孝",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "滋賀",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党滋賀県第三選挙区支部",
+      "politician": "武村展英",
+      "politician_display": "武村 展英",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "滋賀",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党滋賀県第二選挙区支部（令和8年1月6日更新）",
+      "politician": "上野賢一郎",
+      "politician_display": "上野 賢一郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "滋賀",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党熊本県第一選挙区支部 （PDFファイル：4.42MB）",
+      "politician": "木原稔",
+      "politician_display": "木原 稔",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "熊本",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党熊本県第二選挙区支部 （PDFファイル：3.45MB）",
+      "politician": "西野太亮",
+      "politician_display": "西野 太亮",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "熊本",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党熊本県第三選挙区支部 （PDFファイル：2.39MB）",
+      "politician": "坂本哲志",
+      "politician_display": "坂本 哲志",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "熊本",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党熊本県第四選挙区支部 （PDFファイル：2.23MB）",
+      "politician": "金子恭之",
+      "politician_display": "金子 恭之",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "熊本",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党石川県第一選挙区支部",
+      "politician": "小森卓郎",
+      "politician_display": "小森 卓郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "石川",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党石川県第二選挙区支部",
+      "politician": "佐々木紀",
+      "politician_display": "佐々木 紀",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "石川",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党石川県第三選挙区支部",
+      "politician": "西田昭二",
+      "politician_display": "西田 昭二",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "石川",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党茨城県第一選挙区支部",
+      "politician": "田所嘉徳",
+      "politician_display": "田所 嘉徳",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "茨城",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党茨城県第二選挙区支部",
+      "politician": "額賀福志郎",
+      "politician_display": "額賀 福志郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "茨城",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党茨城県第三選挙区支部",
+      "politician": "葉梨康弘",
+      "politician_display": "葉梨 康弘",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "茨城",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党茨城県第四選挙区支部",
+      "politician": "梶山弘志",
+      "politician_display": "梶山 弘志",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "茨城",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党茨城県第六選挙区支部（令和7年7月14日訂正）",
+      "politician": "国光あやの",
+      "politician_display": "国光 あやの",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "茨城",
+        "house": "衆議院",
+        "num": "6"
+      },
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党長野県第一選挙区支部",
+      "politician": "若林健太",
+      "politician_display": "若林 健太",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "長野",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党長野県第二選挙区支部",
+      "politician": "藤田ひかる",
+      "politician_display": "藤田 ひかる",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "長野",
+        "house": "衆議院",
+        "num": "2"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党長野県第三選挙区支部",
+      "politician": "井出庸生",
+      "politician_display": "井出 庸生",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "長野",
+        "house": "衆議院",
+        "num": "3"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党長野県第四選挙区支部",
+      "politician": "後藤茂之",
+      "politician_display": "後藤 茂之",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "長野",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党長野県第五選挙区支部",
+      "politician": "宮下一郎",
+      "politician_display": "宮下 一郎",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "長野",
+        "house": "衆議院",
+        "num": "5"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党鹿児島県第一選挙区支部",
+      "politician": "宮路拓馬",
+      "politician_display": "宮路 拓馬",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "鹿児島",
+        "house": "衆議院",
+        "num": "1"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党鹿児島県第四選挙区支部（その1）",
+      "politician": "森山裕",
+      "politician_display": "森山 裕",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "鹿児島",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "branch_name": "自由民主党鹿児島県第四選挙区支部（その2）",
+      "politician": "森山裕",
+      "politician_display": "森山 裕",
+      "confidence": 1.0,
+      "parsed": {
+        "party": "自民",
+        "pref": "鹿児島",
+        "house": "衆議院",
+        "num": "4"
+      },
+      "years": [
+        "2023"
+      ]
+    }
+  ]
+}

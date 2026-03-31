@@ -1,0 +1,58 @@
+{
+  "name": "山田基靖",
+  "type": "politician",
+  "year": "2022",
+  "source": "政治資金収支報告書（政党支部）",
+  "analysis_model": "claude-haiku-4-5-20251001",
+  "analyzed_at": "2026-03-31T21:43:44.127960",
+  "matched_organizations": [
+    "自由民主党兵庫県第十一選挙区支部"
+  ],
+  "match_method": "branch_constituency",
+  "match_confidence": 1.0,
+  "data": {
+    "individual_donations": {
+      "total_amount": null,
+      "count": null
+    },
+    "corporate_donations": [
+      {
+        "name": "近畿税理士会兵庫県支部連盟",
+        "amount": null
+      }
+    ],
+    "group_donations": [
+      {
+        "name": "松本たけあき後援会",
+        "amount": null
+      }
+    ],
+    "party_events": [],
+    "total_income": null,
+    "total_expense": null,
+    "notes": "OCRテキストの品質が低く、具体的な金額の抽出が困難です。以下の情報は識別可能な部分のみです：",
+    "identified_sections": {
+      "political_group_name": "自由民主党兵庫県笹ト一選挙区支部",
+      "candidate_name": "松本剛明",
+      "candidate_position": "衆議院議員（現職）",
+      "main_office_address": "兵庫県姫路市",
+      "account_manager": "大路渡",
+      "report_date": "令和5年5月29日",
+      "contributions_from": [
+        "自由民主党本部",
+        "松本たけあき後援会"
+      ],
+      "expenditure_categories_identified": [
+        "事務所賃借料",
+        "電気料金",
+        "自動車保険料",
+        "外部監査料",
+        "タクシー利用料",
+        "掲示資材費",
+        "デザイン費",
+        "印刷費",
+        "事務所レンタル料"
+      ]
+    }
+  }
+}
