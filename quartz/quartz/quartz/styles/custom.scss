@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+ul.toc-content.overflow > li > a {
+  opacity: 0.7;
+  &.in-view { opacity: 1; }
+}
