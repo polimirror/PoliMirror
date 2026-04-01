@@ -1,0 +1,1464 @@
+{
+  "politician": "西田昌司",
+  "year": 2023,
+  "organizations": [
+    "西田会",
+    "一粒会",
+    "京都医療政策フォーラム",
+    "自由民主党京都府参議院選挙区第四支部"
+  ],
+  "source": "京都府選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-01T17:56:58.531675",
+  "transaction_count": 181,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "会費",
+      "amount": 10000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "会費",
+      "amount": 120000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 120000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 140000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 130000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 60000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 10000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 110000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 5000,
+      "date": "R5/8/16",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "その他の室阿",
+      "summary2": "合計",
+      "amount": 2771200,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "支出",
+      "summary2": "支出",
+      "amount": 2000000,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "合計",
+      "amount": 2671400,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "そ の 他 の 室 阿",
+      "amount": 310200,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 2771200,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "支部への交付",
+      "amount": 2000000,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "小計",
+      "summary2": "",
+      "amount": 2671400,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "佐川急便（株） ゴミ処分・電気修理",
+      "amount": 10244,
+      "date": "2023/10/26",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本システム収納株式会社",
+      "amount": 10040,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本システム収納株式会社",
+      "amount": 10050,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "西田昌司後援会 交付金",
+      "amount": 2000000,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "小計",
+      "summary2": "",
+      "amount": 2000000,
+      "date": "",
+      "organization": "西田会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 4479000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "ANA クラウンプラザホテル",
+      "amount": 14060000,
+      "date": "2023/8/19",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "ホテルニューオーター二",
+      "amount": 10840000,
+      "date": "2023/12/4",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙収入",
+      "summary2": "西田昌司京都政経パーティー",
+      "amount": 240386,
+      "date": "2023/1/23",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙収入",
+      "summary2": "西田昌司東京政経セミナー",
+      "amount": 460374,
+      "date": "2023/1/23",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 118388,
+      "date": "2023/4/24",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 460263,
+      "date": "2023/5/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 189995,
+      "date": "2023/6/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 459508,
+      "date": "2023/8/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 385188,
+      "date": "2023/9/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 586473,
+      "date": "2023/10/23",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 344790,
+      "date": "2023/11/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 340897,
+      "date": "2023/11/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "Google",
+      "amount": 633779,
+      "date": "2023/12/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "貸付金返金（明日の京都を拓く会）",
+      "amount": 1500000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 60000,
+      "date": "2023/10/20",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "2023/8/10",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "2023/8/8",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "近畿税理士政治連盟",
+      "amount": 100000,
+      "date": "2023/8/29",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "団体寄附",
+      "amount": 101000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "清和政策研究会",
+      "amount": 24900000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー対価",
+      "summary2": "西田昌司東京政経セミナー",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "木村石油株式会社",
+      "amount": 190000,
+      "date": "2023/1/25",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "木村石油株式会社",
+      "amount": 190000,
+      "date": "2023/2/27",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "木村石油株式会社",
+      "amount": 190000,
+      "date": "2023/8/31",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "速料金",
+      "summary2": "",
+      "amount": 109100,
+      "date": "2023/10/10",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "速料金",
+      "summary2": "",
+      "amount": 84260,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "",
+      "amount": 58600,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "",
+      "amount": 101490,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "岸信十世政経セミナー事務局",
+      "amount": 1200000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "清和政策研究会",
+      "amount": 1480000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "前年からの繰越",
+      "summary2": "",
+      "amount": 16236540,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "",
+      "amount": 44606770,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附の合計",
+      "summary2": "",
+      "amount": 29841000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "機関紙発行その他事業による収入小計",
+      "summary2": "",
+      "amount": 5579568,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "その他の収入小計",
+      "summary2": "",
+      "amount": 2535800,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費合計",
+      "summary2": "",
+      "amount": 4453640,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本部又は支部への交付金",
+      "summary2": "",
+      "amount": 11000000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 38357646,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "原じゅん子さんを励ます",
+      "amount": 1022000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "樋敬会",
+      "amount": 4304000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "リーガロイヤルホテル京都",
+      "amount": 86588,
+      "date": "2023/10/14",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "リーガロイヤルホテル京都",
+      "amount": 92588,
+      "date": "2023/10/14",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "リーガロイヤルホテル京都",
+      "amount": 98100,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行",
+      "summary2": "日本郵便株式会社 機関紙発送費",
+      "amount": 1042436,
+      "date": "2023/5/9",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行",
+      "summary2": "日本郵便株式会社 機関紙発送費",
+      "amount": 1016462,
+      "date": "2023/8/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行",
+      "summary2": "日本郵便株式会社 機関紙発送費",
+      "amount": 1442322,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "機関紙発送費小計",
+      "summary2": "機関紙発送費",
+      "amount": 5710000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行",
+      "summary2": "機関紙印刷費",
+      "amount": 3980426,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報事業費",
+      "summary2": "株式会社シーサイドスタジオ ホームページ管理費",
+      "amount": 66000,
+      "date": "2023/12/28",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "会場費",
+      "amount": 2388400,
+      "date": "2023/6/29",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "会場費",
+      "amount": 2685065,
+      "date": "2023/8/22",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティー開催事業費小計",
+      "summary2": "会場費",
+      "amount": 3282304,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "大槻デザイニング株式会社 印刷費",
+      "amount": 838100,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "株式会社ニューオータ",
+      "amount": 1470505,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "明日の京都を拓く会 賛付金",
+      "amount": 1500000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "京都府歯科医師連盟",
+      "amount": 2000000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "西田昌司関連",
+      "amount": 5000000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "西田昌司関連",
+      "amount": 8000000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "寄附",
+      "amount": 11000000,
+      "date": "2023",
+      "organization": "一粒会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "事業収入",
+      "amount": 250000,
+      "date": "2023",
+      "organization": "京都医療政策フォーラム"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "小計",
+      "amount": 250000,
+      "date": "2023",
+      "organization": "京都医療政策フォーラム"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "榎和哉税理士事務所",
+      "amount": 848000,
+      "date": "2023",
+      "organization": "京都医療政策フォーラム"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "ANAクラウンプラザホテル京都",
+      "amount": null,
+      "date": "2023",
+      "organization": "京都医療政策フォーラム"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "裕進観光株式会社",
+      "amount": null,
+      "date": "2023",
+      "organization": "京都医療政策フォーラム"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費",
+      "amount": 11230000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党京都府支部連合会",
+      "amount": 100000,
+      "date": "R6/2/6",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党本部",
+      "amount": 2000000,
+      "date": "R5/4/28",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党京都府支部連合会",
+      "amount": 2000000,
+      "date": "R5/12/11",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党本部",
+      "amount": 2000000,
+      "date": "R5/7/21",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党本部",
+      "amount": 2000000,
+      "date": "R5/6/13",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "自由民主党本部",
+      "amount": 2000000,
+      "date": "R5/8/13",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "合計",
+      "amount": 12105400,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "R5/1/17",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "R5/2/24",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "R5/3/30",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "R5/4/28",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "R5/4/24",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/5/26",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/6/30",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/8/30",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/9/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/10/1",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/11/30",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社美十",
+      "amount": 100000,
+      "date": "R5/12/28",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "小計",
+      "amount": 560000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社中栄商",
+      "amount": 120000,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "有限会社夢創建築事務所",
+      "amount": 120000,
+      "date": "R5/4/27",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "丸工自動車運送株式会社",
+      "amount": 60000,
+      "date": "R5/5/24",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社和晃",
+      "amount": 120000,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社矢田太一",
+      "amount": 120000,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社片岡製作所",
+      "amount": 120000,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "寺村建材株式会社",
+      "amount": 120000,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "寺村建材株式会社",
+      "amount": 120000,
+      "date": "R5/5/31",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "市川甘商事株式会社",
+      "amount": 240000,
+      "date": "R5/5/15",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社光栗",
+      "amount": 120000,
+      "date": "R5/5/31",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "株式会社マツモト",
+      "amount": 120000,
+      "date": "R5/5/21",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "星和電機株式会社",
+      "amount": 120000,
+      "date": "R5/5/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "小計",
+      "amount": 6230000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "その他の寄附",
+      "summary2": "合計",
+      "amount": 5000000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 145676,
+      "date": "R5/1/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 65899,
+      "date": "R5/4/5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 68853,
+      "date": "R5/5/5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 60047,
+      "date": "R5/7/24",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 108817,
+      "date": "R5/8/25",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 69828,
+      "date": "R5/10/19",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 83941,
+      "date": "R5/10/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代小計",
+      "amount": 389885,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "リース料",
+      "amount": 68396,
+      "date": "R5/4/27",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "新聞代",
+      "amount": 25788,
+      "date": "R5/5/15",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "新聞代",
+      "amount": 24922,
+      "date": "R5/6/14",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "印刷代",
+      "amount": 83050,
+      "date": "R5/4/12",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "印刷代",
+      "amount": 18700,
+      "date": "R5/4/28",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "印刷代",
+      "amount": 42900,
+      "date": "R5/5/15",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "印刷代",
+      "amount": 27588,
+      "date": "R5/6/12",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "PC機器設定・配線",
+      "amount": 124800,
+      "date": "R5/5/19",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "PC機器設定・配線",
+      "amount": 14850,
+      "date": "R5/5/11",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "雑誌",
+      "amount": 20900,
+      "date": "R5/10/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料",
+      "amount": 14986,
+      "date": "R5/4/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料",
+      "amount": 14298,
+      "date": "R5/5/22",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料",
+      "amount": 14859,
+      "date": "R5/6/20",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "クレジットカード利用料",
+      "amount": 20900,
+      "date": "R5/7/18",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便料",
+      "amount": 16800,
+      "date": "R5/4/18",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便料",
+      "amount": 28200,
+      "date": "R5/8/28",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費合計",
+      "summary2": "小計",
+      "amount": 1537816,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "その他の支出",
+      "amount": 166000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "その他の支出",
+      "amount": 258000,
+      "date": "R5",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "日本郵便株式会社",
+      "amount": 166000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "日本郵便株式会社",
+      "amount": 258000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "日本郵便株式会社",
+      "amount": 50000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "裕進観光株式会社",
+      "amount": 50000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "ANA クラウンプラザホテル京都",
+      "amount": 50000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "日本郵便株式会社",
+      "amount": 30000,
+      "date": "R5/8/8",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "馬場正実",
+      "amount": 30000,
+      "date": "R5/8/8",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織対策費",
+      "summary2": "川田翔子",
+      "amount": 50000,
+      "date": "R5/8/8",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報事業費",
+      "summary2": "C&C株式会社",
+      "amount": 396000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ポスター印刷費",
+      "summary2": "株式会社サンエムカラー",
+      "amount": 50000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "安田谷口ゆういち後援会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "都さざえ会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "材秋和後援会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "尾山たかお後援会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "元ままるる後援会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "きくらい奈広",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "防州攻",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "防甲かずひろ政経慶",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "たなべ邦子政雑研究会",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "阿村よしなお",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "尾上よしひろ",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "国あきひで",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "尾杏ままさたか",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "手原レんし後折",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附金小計",
+      "summary2": "",
+      "amount": 1500000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "",
+      "amount": 100000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "",
+      "amount": 300000,
+      "date": "R5/1/2",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "",
+      "amount": 1000000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "この領の小計",
+      "summary2": "",
+      "amount": 4000000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "自由民主党神奈川県第十天選挙区支部",
+      "amount": 100000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "自由民主党京都府京都市伏見区第五支部",
+      "amount": 100000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "自由民主党京都府京都市伏見区第二支部",
+      "amount": 100000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "交付金小計",
+      "summary2": "",
+      "amount": 1280000,
+      "date": "",
+      "organization": "自由民主党京都府参議院選挙区第四支部"
+    }
+  ]
+}
