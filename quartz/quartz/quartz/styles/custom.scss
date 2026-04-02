@@ -6,3 +6,20 @@ ul.toc-content.overflow > li > a {
   opacity: 0.7;
   &.in-view { opacity: 1; }
 }
+
+/* 免責ボックス */
+.disclaimer {
+  background: #f5f5f5;
+  border-left: 3px solid #1a4fa0;
+  padding: 10px 16px;
+  margin: 12px 0 20px;
+  font-size: 0.85em;
+  color: #555;
+}
+
+/* 注目データの各エントリ */
+.highlight-entry {
+  border-bottom: 1px solid #e8e8e8;
+  padding: 16px 0;
+  margin-bottom: 4px;
+}
