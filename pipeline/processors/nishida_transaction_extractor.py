@@ -36,6 +36,26 @@ OCR_DPI = 300
 OCR_LANG = "jpn"
 API_TIMEOUT = 180  # 1PDF=180秒
 
+# 団体名→PDF URLのマッピング（pref_index + 手動取得分）
+SOURCE_URLS = {
+    "西田会": {
+        "2022": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3552.pdf",
+        "2023": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3521.pdf",
+    },
+    "一粒会": {
+        "2022": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-2014-re060131.pdf",
+        "2023": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-2016.pdf",
+    },
+    "京都医療政策フォーラム": {
+        "2022": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3214.pdf",
+        "2023": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3202.pdf",
+    },
+    "自由民主党京都府参議院選挙区第四支部": {
+        "2022": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-1083.pdf",
+        "2023": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-1084.pdf",
+    },
+}
+
 # tesseract設定
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 os.environ["TESSDATA_PREFIX"] = r"C:\Users\deco3\tessdata"
@@ -164,7 +184,7 @@ def analyze_chunk_with_claude(ocr_text, org_name, client, chunk_idx=0, total_chu
         return [], 0, 0
 
 
-def process_pdf(pdf_path, org_name, client):
+def process_pdf(pdf_path, org_name, client, source_url=None):
     """1つのPDFを処理して全トランザクションを返す"""
     print(f"\n  [{org_name}] {os.path.basename(pdf_path)}")
 
@@ -207,6 +227,11 @@ def process_pdf(pdf_path, org_name, client):
         # API rate limit
         if ci < len(chunks) - 1:
             time.sleep(2)
+
+    # source_urlを全トランザクションに埋め込む
+    if source_url:
+        for t in all_transactions:
+            t["source_url"] = source_url
 
     return all_transactions, total_in, total_out
 
@@ -312,7 +337,8 @@ if __name__ == "__main__":
                 continue
 
             try:
-                transactions, t_in, t_out = process_pdf(pdf_path, org, client)
+                source_url = SOURCE_URLS.get(org, {}).get(year)
+                transactions, t_in, t_out = process_pdf(pdf_path, org, client, source_url=source_url)
                 year_transactions.extend(transactions)
                 grand_total_in += t_in
                 grand_total_out += t_out
