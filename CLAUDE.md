@@ -12,11 +12,14 @@
 - 噂・まとめサイト・匿名情報は使わない
 - 出典は必ず3重保存
   （元URL・WebArchive URL・S3スクリーンショット）
+- 全トランザクションに source_url を必須とする
+- MDテーブルには出典列を必ず付ける
 
 ### 記録の原則
 - 悪いことも良いことも同じ基準で記録する
 - 事実と分析は明確に分離する
 - 分析にはClaude APIを使用し使用モデルを明示する
+- 「判断は読者に委ねる」を必ず明記する
 
 ### スクレイピングの原則
 - robots.txtを必ず遵守する
@@ -38,32 +41,58 @@
 
 ## 技術スタック
 - Python（スクレイピング・分析）
-- PostgreSQL（構造化データ）
-- Elasticsearch（全文検索）
-- FastAPI（バックエンドAPI）
-- Next.js（SaaSフロントエンド）
 - Quartz（静的サイト公開）
 - GitHub + Cloudflare Pages（ホスティング）
+- Claude API（haiku: OCR構造化解析・注目データ検出・矛盾検出）
 
-## 本日の実装済み（2026-03-22）
-- 曖昧語分析完了（ambiguous_ranking.json）
-- 誠実さスコアウィジェット（SVG五角形・score_widget_generator.py）
-- 参議院当選回数修正（sangiin.py v1.1.0）
-- OCRパイプライン準備完了（seiji_shikin_ocr.py）
-- トップページ改善・UI修正複数
+## ページ設計原則（2026-04-03確定）
+- 注目データは横線（---）で各エントリを分離
+- 免責文はObsidian Callout（> [!note]）で本文と区別
+- 見出し（###）と本文のサイズ差を明確に
+- note風の読み物スタイル・データの羅列にしない
+- 絵文字・記号は使わない
+- 同トピックの文は1段落にまとめる
 
-## 重要ルール追加
+## パイプライン一覧
+
+### データ収集
+- pipeline/collectors/legislation_collector.py
+  → 質問主意書・議員立法（任意の議員名対応）
+
+### データ処理
+- pipeline/processors/donation_analyzer.py
+  → 旧形式: OCR→サマリー構造化（270件対応済み）
+- pipeline/processors/nishida_transaction_extractor.py
+  → 新形式: OCR→全トランザクション抽出（source_url付き）
+- pipeline/processors/add_source_urls.py
+  → 既存transactions.jsonにsource_urlを追加
+- pipeline/processors/highlight_detector.py
+  → 注目データ自動検出（python highlight_detector.py {議員名}）
+- pipeline/processors/contradiction_detector.py
+  → 発言×資金の矛盾検出（python contradiction_detector.py {議員名}）
+- pipeline/processors/donation_reverse_index.py
+  → 企業→議員の逆引きインデックス
+- pipeline/processors/donation_page_writer.py
+  → 献金元ページ自動生成
+
+## 完成済みリファレンス: 西田昌司
+- 全トランザクション287件（4団体×2年・全件source_url付き）
+- 注目データ5件（Claude API自動検出）
+- 発言×資金の照合3件（Claude API自動検出）
+- 国会発言2,297件（全議員6,682名中300位・上位4.5%）
+- MDページ: quartz/content/politicians/参議院/自民/西田 昌司.md
+
+## 現在のカバレッジ
+- 国会発言: 259万件（全議員）
+- 政治資金structured.json: 270件（旧形式）
+- 政治資金全トランザクション: 287件（西田昌司のみ・新形式）
+- 企業・団体: 507社 / 660エントリ / 507ページ
+- 都道府県: 45県対応（高知県非公開・東京都JS動的のみ未対応）
+
+## 重要ルール
 - 曖昧語率は「使用率（含む発言数÷総発言数）」で計算
   回数ではなく率がメイン指標（公平性のため）
 - スコア設計は与党（答弁側）と野党（質問側）の
   構造的差異を常に考慮すること
-
-## つながり可視化（2026-03-30実装）
-- company_index.json: 72企業・団体の献金データ
-- quartz/content/donations/: 72ページの献金元別ページ
-- pipeline/processors/donation_reverse_index.py
-- pipeline/processors/donation_page_writer.py
-- pipeline/processors/donation_analyzer.py（Claude API構造化解析）
-- OCRパイプライン: seiji_shikin_ocr.py（総務省SS20231124対応）
-  → 9議員+8政党処理済み
-  → 都道府県選管分は未対応（今後の課題）
+- 競合との差別化: 発言259万件×資金データの掛け算
+  （political-finance-database.comには発言データがない）
