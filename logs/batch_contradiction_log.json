@@ -1,0 +1,62 @@
+{
+  "executed_at": "2026-04-04T08:58:35.993278",
+  "test_mode": true,
+  "total": 10,
+  "success": 0,
+  "empty": 8,
+  "skip": 2,
+  "fail": 0,
+  "elapsed_seconds": 266.702318,
+  "results": [
+    {
+      "name": "安倍晋三",
+      "status": "skip",
+      "count": 0
+    },
+    {
+      "name": "岸田文雄",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "麻生太郎",
+      "status": "skip",
+      "count": 0
+    },
+    {
+      "name": "石破茂",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "林芳正",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "櫻井充",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "田村憲久",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "枝野幸男",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "茂木敏充",
+      "status": "empty",
+      "count": 0
+    },
+    {
+      "name": "高市早苗",
+      "status": "empty",
+      "count": 0
+    }
+  ]
+}

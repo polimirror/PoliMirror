@@ -137,19 +137,48 @@ def load_policy_speeches(politician_name, target_years=None, max_speeches=80):
     return speeches[:max_speeches]
 
 
+def load_financial_data(politician_name):
+    """資金データを読み込む（新形式summary.json / 旧形式structured.json両対応）"""
+    donations_base = os.path.join(DONATIONS_DIR, politician_name)
+
+    # 新形式: summary.json
+    summary_path = os.path.join(donations_base, "summary.json")
+    if os.path.exists(summary_path):
+        with open(summary_path, encoding="utf-8") as f:
+            return json.load(f), "summary"
+
+    # 旧形式: *_structured.json
+    for fname in sorted(os.listdir(donations_base)):
+        if fname.endswith("_structured.json"):
+            with open(os.path.join(donations_base, fname), encoding="utf-8") as f:
+                data = json.load(f)
+            # 旧形式をサマリー風に変換
+            d = data.get("data", {})
+            converted = {
+                "politician": data.get("name", politician_name),
+                "year": data.get("year", "?"),
+                "total_income": d.get("total_income", 0),
+                "total_expense": d.get("total_expense", 0),
+                "corporate_donations": d.get("corporate_donations", []),
+                "group_donations": d.get("group_donations", []),
+                "party_events": d.get("party_events", []),
+                "individual_donations": d.get("individual_donations", {}),
+            }
+            return converted, "structured"
+
+    return None, None
+
+
 def detect_contradictions(politician_name, client):
     """Claude APIで発言と資金の矛盾を検出する"""
     # Load financial data
     donations_base = os.path.join(DONATIONS_DIR, politician_name)
-    summary_path = os.path.join(donations_base, "summary.json")
     highlights_path = os.path.join(donations_base, "highlights.json")
 
-    if not os.path.exists(summary_path):
-        print(f"  [ERROR] summary.json なし: {summary_path}")
+    summary, data_format = load_financial_data(politician_name)
+    if not summary:
+        print(f"  [SKIP] 資金データなし: {politician_name}")
         return None
-
-    with open(summary_path, encoding="utf-8") as f:
-        summary = json.load(f)
 
     highlights = []
     if os.path.exists(highlights_path):
@@ -165,26 +194,40 @@ def detect_contradictions(politician_name, client):
         print(f"  [WARN] 政策関連発言が見つかりません")
         return None
 
-    # Build prompt
-    # Compact speeches for API
-    speeches_compact = []
+    # Build prompt - keep under ~6000 chars to avoid haiku empty response
+    # Select 15 diverse speeches (different dates, keyword-rich first)
+    seen_dates = set()
+    speeches_selected = []
     for s in speeches:
+        if s["date"] not in seen_dates and len(speeches_selected) < 15:
+            speeches_selected.append(s)
+            seen_dates.add(s["date"])
+
+    speeches_compact = []
+    for s in speeches_selected:
         speeches_compact.append({
             "date": s["date"],
             "meeting": s["meeting"],
             "url": s["url"],
-            "speech": s["speech"][:400],
+            "speech": s["speech"][:300],
         })
+
+    # Compact summary to reduce token count
+    summary_compact = json.dumps(summary, ensure_ascii=False, indent=1)
+    if len(summary_compact) > 3000:
+        summary_compact = summary_compact[:3000] + "\n..."
+
+    highlights_compact = json.dumps(highlights[:3], ensure_ascii=False, indent=1) if highlights else "[]"
 
     prompt = USER_PROMPT_TEMPLATE.format(
         politician=politician_name,
-        summary_json=json.dumps(summary, ensure_ascii=False, indent=1),
-        highlights_json=json.dumps(highlights, ensure_ascii=False, indent=1),
+        summary_json=summary_compact,
+        highlights_json=highlights_compact,
         speeches_json=json.dumps(speeches_compact, ensure_ascii=False, indent=1),
         speech_count=len(speeches),
     )
 
-    print(f"  API送信: {len(prompt):,}文字")
+    print(f"  API送信: {len(prompt):,}文字 (発言{len(speeches_selected)}件)")
 
     try:
         response = client.messages.create(
