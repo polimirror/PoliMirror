@@ -1,0 +1,167 @@
+{
+  "politician": "宮沢洋一",
+  "year": 2022,
+  "organizations": [
+    "宮沢洋一後援会",
+    "税理士による宮沢洋一後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:10:04.994340",
+  "transaction_count": 17,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "寄附",
+      "amount": 5150000,
+      "date": "2022",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "寄附",
+      "amount": 8150000,
+      "date": "2022",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "宮沢洋一",
+      "amount": 700000,
+      "date": "2022/11/10",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "交付金",
+      "amount": 1239901,
+      "date": "2022",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 98448,
+      "date": "2022/9/26",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 80000,
+      "date": "2022/3/28",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 80000,
+      "date": "2022/4/26",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 80000,
+      "date": "2022/8/26",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "受信料",
+      "amount": 19050,
+      "date": "2022/10/26",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "組織活動費",
+      "amount": 309521,
+      "date": "2022",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "郵便費",
+      "amount": 2889,
+      "date": "2022",
+      "organization": "宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549028.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "税理士政治連盟",
+      "amount": 110000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "伊藤博文",
+      "amount": 100000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "税理士政治連盟",
+      "amount": 101000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ニューキャッスルホテル 会場代・食事代",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "自由民主党広島県参議院選挙区第3支部",
+      "amount": 300000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "本部又は支部に対して供与した交付金",
+      "amount": 400000,
+      "date": "2022",
+      "organization": "税理士による宮沢洋一後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549696.pdf"
+    }
+  ]
+}

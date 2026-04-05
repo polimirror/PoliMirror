@@ -1,0 +1,22 @@
+{
+  "politician": "三ッ林裕巳",
+  "year": 2023,
+  "organizations": [
+    "三ッ林裕已後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:27:02.529398",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "注記",
+      "summary1": "監査対象期間における支出なし",
+      "summary2": "三ッ林裕巳後援会",
+      "amount": null,
+      "date": "2023",
+      "organization": "三ッ林裕巳後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260707/05_100640.pdf"
+    }
+  ]
+}

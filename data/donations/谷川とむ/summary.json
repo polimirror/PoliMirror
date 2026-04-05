@@ -1,0 +1,25 @@
+{
+  "politician": "谷川とむ",
+  "organizations": [
+    "谷川とむ後援会"
+  ],
+  "generated_at": "2026-04-04T19:56:26.089204",
+  "2023": {
+    "total_income": 100000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 1,
+    "income_by_type": {
+      "寄附（イを除く。）の区分": 100000
+    },
+    "expense_by_type": {
+      "経常経費（人件費を除く。）の内訳": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 100000
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "politician": "小森卓郎",
+  "year": 2023,
+  "organizations": [
+    "小森たくお金沢市町会連合会有志の会",
+    "税理士による小森卓郎後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:12:53.551011",
+  "transaction_count": 0,
+  "transactions": []
+}

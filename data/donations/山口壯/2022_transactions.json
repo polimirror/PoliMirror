@@ -1,0 +1,85 @@
+{
+  "politician": "山口壯",
+  "year": 2022,
+  "organizations": [
+    "山口つよし後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:22:13.047378",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "山口つよし後援会",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "法人その他の団体からの寄附",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "政治団体からの寄附",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "交付金",
+      "amount": 110,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "組織活動費",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "組織活動費（交通費）",
+      "amount": null,
+      "date": "2022",
+      "organization": "山口つよし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1539syusi.pdf"
+    }
+  ]
+}

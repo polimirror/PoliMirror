@@ -1,0 +1,113 @@
+{
+  "politician": "田中良生",
+  "year": 2022,
+  "organizations": [
+    "田中良夫後援会",
+    "田中良生事務所"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:21:22.840218",
+  "transaction_count": 11,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "自由民主党埼玉県第十五選挙区支部",
+      "amount": 300000,
+      "date": "R4/04/01",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "自由民主党埼玉県第十五選挙区支部",
+      "amount": 300000,
+      "date": "R4/04/28",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "",
+      "amount": 500000,
+      "date": "",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "税理士法人絶合会計事務所",
+      "amount": 33000,
+      "date": "R4/07/14",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "組織活動費（渉外費）",
+      "amount": 5000,
+      "date": "R4/10/16",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会報費",
+      "amount": 20800,
+      "date": "R4/04/29",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会報費",
+      "amount": 11850,
+      "date": "R5/05/12",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会報費",
+      "amount": 26950,
+      "date": "R4/08/09",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会報費",
+      "amount": 18010,
+      "date": "R4/12/08",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "送代",
+      "amount": 11340,
+      "date": "R4/09/30",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "日本郵便",
+      "amount": 11,
+      "date": "R4/09/30",
+      "organization": "田中良生事務所",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244199/04_100490.pdf"
+    }
+  ]
+}

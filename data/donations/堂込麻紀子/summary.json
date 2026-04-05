@@ -1,0 +1,25 @@
+{
+  "politician": "堂込麻紀子",
+  "organizations": [
+    "堂込まきこ後援会"
+  ],
+  "generated_at": "2026-04-04T18:00:45.017088",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

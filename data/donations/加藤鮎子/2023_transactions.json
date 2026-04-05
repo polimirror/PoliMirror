@@ -1,0 +1,600 @@
+{
+  "politician": "加藤鮎子",
+  "year": 2023,
+  "organizations": [
+    "加藤鮎子地域政策研究会",
+    "加藤鮎子後援会",
+    "加藤鮎子酒田飽海地区後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:43:22.561884",
+  "transaction_count": 65,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費",
+      "amount": 3440000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附(個人)",
+      "summary2": "個人からの寄附",
+      "amount": 690000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附(政治団体)",
+      "summary2": "政治団体からの寄附",
+      "amount": 7500000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "新春のつどい鶴岡",
+      "amount": 911000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "年賀の会酒田",
+      "amount": 1188000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "新春のつどい新庄",
+      "amount": 750000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "合同総会・国政報告会酒田",
+      "amount": 618000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "総会・国政報告会鶴岡",
+      "amount": 700000,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "特定パーティーの対価に係る収入",
+      "summary2": "だだちゃ豆の会2024",
+      "amount": 16000000,
+      "date": "2024/10/8",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価に係る収入",
+      "summary2": "だだちゃ豆の会2024",
+      "amount": 500000,
+      "date": "2024/7/31",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "1件10万円未満のもの",
+      "amount": 303,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大滝賢道",
+      "amount": 6000,
+      "date": "2024/1/12",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "斎藤昭",
+      "amount": 3000,
+      "date": "2024/1/16",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "佐藤敏男",
+      "amount": 400000,
+      "date": "2024/3/6",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "平塚",
+      "amount": 30000,
+      "date": "2024/3/8",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "松浦道雄",
+      "amount": 3000,
+      "date": "2024/4/16",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "白岩匠",
+      "amount": 3000,
+      "date": "2024/4/17",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "庄司健一",
+      "amount": 3000,
+      "date": "2024/6/6",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "高橋茂",
+      "amount": 3000,
+      "date": "2024/6/7",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "士門歳夫",
+      "amount": 10000,
+      "date": "2024/7/4",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "士門まり子",
+      "amount": 20000,
+      "date": "2024/7/4",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "須田聡",
+      "amount": 6000,
+      "date": "2024/7/6",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山本益生",
+      "amount": 10000,
+      "date": "2024/7/12",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "植木博士",
+      "amount": 3000,
+      "date": "2024/7/19",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "齋藤邦夫",
+      "amount": 180000,
+      "date": "2024/8/17",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "佐藤勝悦",
+      "amount": 3000,
+      "date": "2024/8/19",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "須藤三男",
+      "amount": 10000,
+      "date": "2024/9/2",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "長谷川文雄",
+      "amount": 3000,
+      "date": "2024/9/7",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "安野良明",
+      "amount": 3000,
+      "date": "2024/9/7",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "帯谷伸一",
+      "amount": 1500000,
+      "date": "2024/9/7",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "菅原良和",
+      "amount": 3000,
+      "date": "2024/9/10",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "前田健一",
+      "amount": 3000,
+      "date": "2024/9/11",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大場利秋",
+      "amount": 1200000,
+      "date": "2024/12/14",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "佐藤和也",
+      "amount": 3000,
+      "date": "2024/12/14",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "佐藤淳子",
+      "amount": 12000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "加藤愛子",
+      "amount": 2738000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "鮎友会",
+      "amount": 2500000,
+      "date": "2024/12/16",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "自由民主党山形県第三選挙区支部",
+      "amount": 5000000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 39243055,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電気料金",
+      "amount": 967534,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "備品・消耗品費",
+      "amount": 693257,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所費",
+      "amount": 3136019,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "機関紙誌の発行事業費",
+      "amount": 2141660,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 2126732,
+      "date": "2024",
+      "organization": "加藤鮎子地域政Policy研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "その他の事業費",
+      "amount": 5910367,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "本部又は支部に対して供与した交付金に係る支出",
+      "amount": 27068760,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費",
+      "amount": 129180,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "町内会費",
+      "amount": 12000,
+      "date": "2024/4/24",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費",
+      "amount": 294746,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費",
+      "amount": 11200,
+      "date": "2024/5/29",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "出張費",
+      "amount": 6980,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "だだちゃ豆の会2024",
+      "amount": 2211640,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "新春のつどい鶴岡",
+      "amount": 860789,
+      "date": "2024/1/31",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "年賀の会酒田",
+      "amount": 991200,
+      "date": "2024/2/7",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "新春のつどい新庄",
+      "amount": 747000,
+      "date": "2024/2/1",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "合同総会・国政報告会酒田",
+      "amount": 591790,
+      "date": "2024/7/31",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "総会・国政報告会鶴岡",
+      "amount": 575824,
+      "date": "2024/9/26",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "事務所の無償提供相当分",
+      "amount": 1200000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 34846102,
+      "date": "2024",
+      "organization": "加藤鮎子地域政策研究会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-014.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "金木修二からの寄附",
+      "amount": 10000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-011.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "個人からの寄附",
+      "amount": 10000,
+      "date": "2024",
+      "organization": "加藤鮎子後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-011.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出総額",
+      "amount": 0,
+      "date": "2024",
+      "organization": "加藤鮎子後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-011.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "金木修二",
+      "amount": 10000,
+      "date": "2024/12/26",
+      "organization": "加藤鮎子酒田飽海地区後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-012.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "寄附",
+      "amount": 10000,
+      "date": "2024",
+      "organization": "加藤鮎子酒田飽海地区後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-012.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "その他の経費",
+      "amount": 10000,
+      "date": "2024",
+      "organization": "加藤鮎子酒田飽海地区後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-04-012.pdf"
+    }
+  ]
+}

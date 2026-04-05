@@ -1,0 +1,54 @@
+{
+  "politician": "尾花瑛仁",
+  "organizations": [
+    "尾花あきひと後援会",
+    "尾花正明後援会"
+  ],
+  "generated_at": "2026-04-04T18:20:42.543711",
+  "2022": {
+    "total_income": 1805571,
+    "total_expense": 1922160,
+    "income_count": 1,
+    "expense_count": 7,
+    "income_by_type": {
+      "その他の収入": 1805571
+    },
+    "expense_by_type": {
+      "政治活動費": 1533300,
+      "機関紙誌の発行事業費": 228860,
+      "事務所費": 160000
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 2550000,
+    "total_expense": 562600,
+    "income_count": 4,
+    "expense_count": 2,
+    "income_by_type": {
+      "党費又は会費": 1350000,
+      "寄附": 1200000
+    },
+    "expense_by_type": {
+      "政治活動費": 562600
+    },
+    "donor_ranking": [
+      {
+        "name": "個人の負担する党費又は会費",
+        "amount": 1350000
+      },
+      {
+        "name": "甲斐茂夫からの寄附",
+        "amount": 1000000
+      },
+      {
+        "name": "尹薇周一からの寄附",
+        "amount": 100000
+      },
+      {
+        "name": "川泰正からの寄附",
+        "amount": 100000
+      }
+    ]
+  }
+}

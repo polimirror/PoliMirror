@@ -1,0 +1,26 @@
+{
+  "politician": "藤田誠",
+  "organizations": [
+    "藤田まさひろ後援会",
+    "藤田みつぐ後援会"
+  ],
+  "generated_at": "2026-04-04T19:39:28.401689",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

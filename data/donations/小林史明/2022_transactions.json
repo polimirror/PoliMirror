@@ -1,0 +1,176 @@
+{
+  "politician": "小林史明",
+  "year": 2022,
+  "organizations": [
+    "小林史明後援会",
+    "税理士による小林史明後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:11:51.012120",
+  "transaction_count": 18,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "ふくやま芸術文化ホール・リーデンローズ大ホール",
+      "amount": 5180000,
+      "date": "2022/06/12",
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "ふなまちベイホール 2022年女性部交流会",
+      "amount": 5180000,
+      "date": "2022/11/26",
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "小林新年互礼会「小林史明君を励ます会」",
+      "amount": 14550000,
+      "date": "2020",
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "監査報酬",
+      "summary2": "弓場秀俊税理士事務所",
+      "amount": null,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ふくやま芸術文化財団",
+      "amount": null,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "サーモカメラレンタル",
+      "summary2": "アイデアル（株）",
+      "amount": null,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ネット配信設備料",
+      "summary2": "（株）サンレコ",
+      "amount": null,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "断幕製作代",
+      "summary2": "木",
+      "amount": null,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "（株）フューレック",
+      "amount": 136400,
+      "date": "2022/11/08",
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "（株）虎屋本舗",
+      "amount": 14410,
+      "date": null,
+      "organization": "小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549012.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 244000,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の寄附",
+      "summary2": "伊藤博文",
+      "amount": 108000,
+      "date": "RB/6/28",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "そその他の寄附",
+      "summary2": "",
+      "amount": 106000,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "小林史明議員を囲む会",
+      "amount": 200000,
+      "date": "2022/4/23",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 244000,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 450700,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "福山ニューキャッスルホテル",
+      "amount": 100000,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "外野浩志",
+      "amount": 200000,
+      "date": "",
+      "organization": "税理士による小林史明後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/551216.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "politician": "柴山昌彦",
+  "year": 2022,
+  "organizations": [
+    "税理士による柴山昌彦後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:01:00.158891",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 366593,
+      "date": "2022",
+      "organization": "税理士による柴山昌彦後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100370.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 20000,
+      "date": "2022",
+      "organization": "税理士による柴山昌彦後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100370.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 30220,
+      "date": "2022",
+      "organization": "税理士による柴山昌彦後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100370.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 386595,
+      "date": "2022",
+      "organization": "税理士による柴山昌彦後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100370.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 20002,
+      "date": "2022",
+      "organization": "税理士による柴山昌彦後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100370.pdf"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "politician": "森下千里",
+  "year": 2023,
+  "organizations": [
+    "森下千里後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:04:42.705971",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 836000,
+      "date": "",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 1903887,
+      "date": "",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 100000,
+      "date": "2023/08/10",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 100000,
+      "date": "2023/10/10",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事業費",
+      "summary2": "日本自動車連盟",
+      "amount": 164000,
+      "date": "2023/06/07",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "石巻市総務部市民税課",
+      "amount": 400,
+      "date": "",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "東日本旅客鉄道株式会社",
+      "amount": 0,
+      "date": "2023/04/18",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "東日本旅客鉄道株式会社",
+      "amount": 0,
+      "date": "2023/04/19",
+      "organization": "森下千里後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/1122.pdf"
+    }
+  ]
+}

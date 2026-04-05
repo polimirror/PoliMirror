@@ -1,0 +1,28 @@
+{
+  "politician": "江原くみ子",
+  "organizations": [
+    "江原くみ子と新しい政治をつくる会",
+    "江原ひろゆきを育てる会"
+  ],
+  "generated_at": "2026-04-04T19:10:34.189462",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 448694,
+    "income_count": 0,
+    "expense_count": 1,
+    "income_by_type": {},
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 448694
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

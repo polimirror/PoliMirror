@@ -1,0 +1,330 @@
+{
+  "politician": "小泉龍司",
+  "year": 2023,
+  "organizations": [
+    "小泉龍司女性の会",
+    "小泉龍司後援会",
+    "小泉龍司本庄地区後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:17:03.845126",
+  "transaction_count": 35,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "イベント",
+      "summary2": "深谷女性の会バス旅行",
+      "amount": 568000,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "イベント",
+      "summary2": "秩父郡市女性の会バス",
+      "amount": 14202000,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "事業収入",
+      "summary2": "機関紙誌の発行その他の事業",
+      "amount": 4858000,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "機関紙誌の発行その他の事業による収入計",
+      "summary2": "",
+      "amount": 19628000,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "女性の会事業",
+      "summary2": "深谷女性の会バス旅行貸切バス代（7月催行）",
+      "amount": 770830,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "女性の会事業",
+      "summary2": "深谷女性の会バス旅行貸切バス代（7月催行）",
+      "amount": 420850,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "女性の会事業",
+      "summary2": "深谷女性の会バス旅行貸切バス代（7月催行）",
+      "amount": 272900,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "女性の会事業",
+      "summary2": "深谷女性の会バス旅行行保険（7月催行）",
+      "amount": 377290,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "女性の会事業",
+      "summary2": "その他の支出",
+      "amount": 22000,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "女性の会事業（深谷女性の会）小計",
+      "summary2": "",
+      "amount": 9922500,
+      "date": "2023",
+      "organization": "小泉龍司女性の会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304580.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "",
+      "amount": 7500000,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "",
+      "amount": 1061000,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "公共料等返金",
+      "amount": 192448,
+      "date": "2023/12/29",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 9862540,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費・秩父事務所",
+      "amount": 1017741,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・深谷事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・埼玉グランドホテル深谷",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・寄居事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大臣就任報告会関係費・秩父事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "有料道路等利用料金・秩父事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "有料道路等利用料金・寄居事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・秩父事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・深谷事務所、囲中里商店",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・寄居事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "その他の宣伝事業費・秩父事務所、有限会社あどタケウチ",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "旧法務省見学研修会関係費・秩父事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "旧法務省見学研修会関係費・深谷事務所",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "旧法務省見学研修会関係費・寄居事務所、有限会社玉淀観光バス",
+      "amount": 0,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 9352854,
+      "date": "2023",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304570.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "小泉龍司",
+      "amount": 500000,
+      "date": "2024",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304590.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "龍の会",
+      "amount": 1000000,
+      "date": "2024",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304590.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "その他",
+      "amount": 420000,
+      "date": "2024",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304590.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 1920000,
+      "date": "2024",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304590.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 40810,
+      "date": "2024",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260823/05_304590.pdf"
+    }
+  ]
+}

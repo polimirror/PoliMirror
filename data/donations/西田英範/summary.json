@@ -1,0 +1,25 @@
+{
+  "politician": "西田英範",
+  "organizations": [
+    "西田浩後援会",
+    "西田祐三後援会",
+    "西田誠一後援会"
+  ],
+  "generated_at": "2026-04-04T19:50:40.269116",
+  "2023": {
+    "total_income": 68040,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 68040
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "公明党広島県本部",
+        "amount": 68040
+      }
+    ]
+  }
+}

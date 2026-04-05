@@ -1,0 +1,28 @@
+{
+  "politician": "舟山康江",
+  "organizations": [
+    "税理士による舟山やすえ後援会",
+    "舟山まさお後援会"
+  ],
+  "generated_at": "2026-04-04T19:32:04.134216",
+  "2023": {
+    "total_income": 380000,
+    "total_expense": 0,
+    "income_count": 3,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 380000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "山形県税理士政治連盟",
+        "amount": 190000
+      },
+      {
+        "name": "高橋龍二",
+        "amount": 190000
+      }
+    ]
+  }
+}

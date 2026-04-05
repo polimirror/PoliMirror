@@ -1,0 +1,321 @@
+{
+  "politician": "岸田文雄",
+  "year": 2023,
+  "organizations": [
+    "公認会計士による岸田文雄後援会",
+    "岸田文雄後援会",
+    "税理士による岸田文雄後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:31:50.495002",
+  "transaction_count": 34,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "寄附",
+      "amount": 2045000,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "政党匿名寄附",
+      "amount": 1645000,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "賃料戻金",
+      "amount": 280053,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "自由民主党広島県第一選挙区支部",
+      "amount": 161986,
+      "date": "2023/12/28",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "自由民主党広島県第一選挙区支部",
+      "amount": 1106287,
+      "date": "2023/12/28",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "新政治経済研究会",
+      "amount": 807000,
+      "date": "2023/12/28",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "政治資金パーティー開催事業収入",
+      "amount": 13049890,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金",
+      "summary2": "交付金",
+      "amount": 2946939,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "機関紙誌発行",
+      "amount": 883928,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "パーティー開催",
+      "amount": 425049,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "中国電力 電気料金",
+      "amount": 420000,
+      "date": "2023/05/06",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "中国電力 電気料金",
+      "amount": 420000,
+      "date": "2023/07/18",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "中国電力 電気料金",
+      "amount": 420000,
+      "date": "2023/08/16",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "賃料",
+      "amount": 460953,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "三菱HCビジネスリース カラー複合機リース料",
+      "amount": 30005,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "粉クロガネコミュニケーションズ 防犯カメラリース料",
+      "amount": 21000,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "NTT・TCリース 電話機等リース料",
+      "amount": 12882,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "書類作成報酬",
+      "amount": 18984,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "組織活動費",
+      "amount": 66000,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "車輌維持代",
+      "amount": 34685,
+      "date": "2023/11/20",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "燃料代他",
+      "amount": 44450,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "タクシー代",
+      "amount": 20300,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "乗車券",
+      "amount": 15080,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "総支出額",
+      "amount": 45382160,
+      "date": "2023",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交通費",
+      "summary2": "タクシー代",
+      "amount": 87860,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交通費",
+      "summary2": "乗車券",
+      "amount": 219260,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "4月分料金後納利用額",
+      "amount": 44080,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "日本郵便常",
+      "amount": 290360,
+      "date": "2023/01/07",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "広島平和文化センター",
+      "amount": 588500,
+      "date": "2023/02/27",
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "案内狂印刷代他",
+      "amount": 7070,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "グランドプリンスホテル広島",
+      "amount": 874400,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ボールペン代",
+      "amount": null,
+      "date": null,
+      "organization": "岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596201.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "広島平和文化センター",
+      "amount": 118680,
+      "date": "2023/8/8",
+      "organization": "税理士による岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596515.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 118680,
+      "date": "2023",
+      "organization": "税理士による岸田文雄後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596515.pdf"
+    }
+  ]
+}

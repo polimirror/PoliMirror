@@ -1,0 +1,33 @@
+{
+  "politician": "中野英幸",
+  "organizations": [
+    "中野としひろ後援会",
+    "中野ひでゆき後援会"
+  ],
+  "generated_at": "2026-04-04T15:36:27.890804",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 950000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 950000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "中野英幸からの寄附",
+        "amount": 950000
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "politician": "石垣のりこ",
+  "year": 2023,
+  "organizations": [
+    "石垣のりこ後援会",
+    "石垣正博後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:24:26.421821",
+  "transaction_count": 12,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "その他の収入",
+      "amount": 290300,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "その他の収入",
+      "amount": 8000,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "本郵便株式会社",
+      "amount": 10080,
+      "date": "2023/08/10",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "本郵便株式会社",
+      "amount": 49895,
+      "date": "2023/08/18",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "本郵便株式会社",
+      "amount": null,
+      "date": "2023/08/30",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "公益財団法人せんだい男女共同参画推進機構",
+      "amount": 18800,
+      "date": "2023/07/18",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "石渡智大",
+      "amount": 30000,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "仙台市職員労働組合",
+      "amount": 24650,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "交通費",
+      "amount": 18000,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "交通費",
+      "amount": 9800,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "交通費",
+      "amount": 11410,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社フォーカス",
+      "amount": null,
+      "date": "2023",
+      "organization": "石垣のりこ後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0278.pdf"
+    }
+  ]
+}

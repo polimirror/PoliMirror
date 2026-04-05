@@ -1,0 +1,499 @@
+{
+  "politician": "福山哲郎",
+  "year": 2023,
+  "organizations": [
+    "福山哲郎後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:29:59.394125",
+  "transaction_count": 54,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/01/11",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/01/18",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/02/09",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/02/10",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/02/14",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/03/23",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/04/11",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/05/01",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/05/02",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/05/17",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/05/18",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/06/05",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/06/08",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/06/13",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/07/03",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/09/20",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/04",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/06",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/17",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/18",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/20",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/23",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/25",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/26",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/27",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/30",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/10/31",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/01",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/02",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/07",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/08",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/10",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/11",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/14",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/15",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/21",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/24",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/29",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/11/30",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/05",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/06",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/07",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/13",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/15",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/16",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/19",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/20",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/26",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 70000,
+      "date": "2023/12/29",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "発送費",
+      "amount": 939900,
+      "date": "2023/11/01",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "制作・印刷費",
+      "amount": 792900,
+      "date": "2023/10/31",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "印刷費",
+      "amount": 220000,
+      "date": "2023/11/22",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "後援会広報物印刷費",
+      "summary2": "株式会社エレファント",
+      "amount": 50000,
+      "date": "2023/11/22",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄付・交付金",
+      "summary2": "フォーラム共",
+      "amount": null,
+      "date": "2023/03/03",
+      "organization": "福山哲郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r6teikikouhyou/documents/5-k-3616.pdf"
+    }
+  ]
+}

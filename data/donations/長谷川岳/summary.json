@@ -1,0 +1,33 @@
+{
+  "politician": "長谷川岳",
+  "organizations": [
+    "4140_長谷川岳市民後援会 (PDF ",
+    "4141_長谷川岳連合後援会(R0612",
+    "4142_長谷川ひではる北海道地方後援会"
+  ],
+  "generated_at": "2026-04-04T20:08:14.313331",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 2,
+    "expense_count": 6,
+    "income_by_type": {
+      "事業による収入": 0
+    },
+    "expense_by_type": {
+      "政治資金パーティー開催事業費": 0,
+      "その他の事業費": 0,
+      "寄附交付金": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "政治資金パーティー 札幌プリンスホテル国際館",
+        "amount": 0
+      },
+      {
+        "name": "長谷川岳女性の集い",
+        "amount": 0
+      }
+    ]
+  }
+}

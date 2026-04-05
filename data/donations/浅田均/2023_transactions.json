@@ -1,0 +1,400 @@
+{
+  "politician": "浅田均",
+  "year": 2023,
+  "organizations": [
+    "浅田均後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:13:45.065726",
+  "transaction_count": 43,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 4190220,
+      "date": "2023",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/1/24",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/2/28",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/4/10",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/4/27",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/6/20",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/10/20",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "個人からの寄附小計",
+      "summary2": "",
+      "amount": 120000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/6/29",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/7/26",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/8/24",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/9/22",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/10/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/11/27",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/12/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "",
+      "amount": 240000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/12/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/3/24",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/4/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/5/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/6/28",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/8/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 10000,
+      "date": "2023/10/25",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "",
+      "amount": 60000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/6/30",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/7/31",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/8/30",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/9/29",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/10/31",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20000,
+      "date": "2023/11/30",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 20900,
+      "date": "2023/12/29",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "",
+      "amount": 120000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 60000,
+      "date": "2023/3/28",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 60000,
+      "date": "2023/1/21",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "小計",
+      "summary2": "",
+      "amount": 120000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 60000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "その他",
+      "amount": 60000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "会社役員からの寄附",
+      "amount": 120000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "合計",
+      "summary2": "",
+      "amount": 300000,
+      "date": "",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（政治団体から）",
+      "summary2": "大阪維新の会",
+      "amount": 7000000,
+      "date": "2023/11/10",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "支出内訳",
+      "amount": 42000,
+      "date": "令和6年",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "支出内訳",
+      "amount": 159236,
+      "date": "令和6年",
+      "organization": "浅田均後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0186.pdf"
+    }
+  ]
+}

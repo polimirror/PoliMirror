@@ -1,0 +1,25 @@
+{
+  "politician": "清水真人",
+  "organizations": [
+    "清水まさし後援会",
+    "清水聖義後援会",
+    "税理士による清水真人後援会"
+  ],
+  "generated_at": "2026-04-04T19:18:39.295594",
+  "2023": {
+    "total_income": 200000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 200000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 200000
+      }
+    ]
+  }
+}

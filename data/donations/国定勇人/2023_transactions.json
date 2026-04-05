@@ -1,0 +1,53 @@
+{
+  "politician": "国定勇人",
+  "year": 2023,
+  "organizations": [
+    "税理士による国定勇人後援会 [PDFファ"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:55:11.268304",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費納入",
+      "amount": 15000,
+      "date": "2023",
+      "organization": "税理士による国定勇人後援会"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "事業収入",
+      "summary2": "第2回定期総会懇親会",
+      "amount": 78000,
+      "date": "2023",
+      "organization": "税理士による国定勇人後援会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "前年からの繰越額",
+      "summary2": "繰越金",
+      "amount": 205060,
+      "date": "2023",
+      "organization": "税理士による国定勇人後援会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "本年収入合計",
+      "amount": 141000,
+      "date": "2023",
+      "organization": "税理士による国定勇人後援会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "支出合計",
+      "amount": 120420,
+      "date": "2023",
+      "organization": "税理士による国定勇人後援会"
+    }
+  ]
+}

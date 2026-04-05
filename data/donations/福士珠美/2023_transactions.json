@@ -1,0 +1,12 @@
+{
+  "politician": "福士珠美",
+  "year": 2023,
+  "organizations": [
+    "福士恵美子後援会[107KB]"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:25:42.889147",
+  "transaction_count": 0,
+  "transactions": []
+}

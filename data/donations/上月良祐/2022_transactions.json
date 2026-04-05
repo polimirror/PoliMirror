@@ -1,0 +1,211 @@
+{
+  "politician": "上月良祐",
+  "year": 2022,
+  "organizations": [
+    "上月りょうすけ後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:32:39.666842",
+  "transaction_count": 22,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 150000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 2150000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "政党からの寄附",
+      "amount": 2000000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "民主党茨城県フィナンス",
+      "amount": 2000000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "政治団体からの寄附",
+      "amount": 37500152,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "JA農政・地域振興対策協議会",
+      "amount": 400000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "茨城県医師連盟",
+      "amount": 500000,
+      "date": "R4/12/19",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "茨城県歯科医師連盟",
+      "amount": 300000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃（2月分）",
+      "amount": 1147916,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃（3月分）",
+      "amount": 1229057,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ETC使用料",
+      "amount": 55000,
+      "date": "R4/12/19",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "トヨタファイナンス株式会社",
+      "amount": 40000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "駐車場代",
+      "amount": 15000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "駐車場代",
+      "amount": 18000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "タイヤ保管料",
+      "amount": 18000,
+      "date": "R4/12/26",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "会場代",
+      "amount": 451000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "四つ折り作業",
+      "amount": 115500,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "お土産代",
+      "amount": 19000,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "国政報告書代",
+      "amount": 1906328,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "お土産代（ボールペン）",
+      "amount": 2973860,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "本年の収入額",
+      "amount": 45487881,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "本年の支出額",
+      "amount": 39755253,
+      "date": "2022",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r4_11release/documents/r4-416.pdf"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "politician": "山口晋",
+  "organizations": [
+    "嵐山町山口晋後援会",
+    "川島町山口晋後援会",
+    "滑川町山口晋後援会",
+    "鶴ヶ島市山口晋後援会"
+  ],
+  "generated_at": "2026-04-04T18:23:27.367039",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 14800,
+    "income_count": 0,
+    "expense_count": 1,
+    "income_by_type": {},
+    "expense_by_type": {
+      "組織活動費": 14800
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 585821,
+    "total_expense": 0,
+    "income_count": 2,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 585821
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "川島町山口泰明後援会",
+        "amount": 485821
+      },
+      {
+        "name": "菊地敏昭",
+        "amount": 100000
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "politician": "井出庸生",
+  "organizations": [
+    "井出ようせい後援会"
+  ],
+  "generated_at": "2026-04-04T15:41:41.268631",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 1216040,
+    "income_count": 0,
+    "expense_count": 16,
+    "income_by_type": {},
+    "expense_by_type": {
+      "経常経費": 1216040,
+      "政治活動費": 0,
+      "組織活動費": 0
+    },
+    "donor_ranking": []
+  }
+}

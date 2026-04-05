@@ -1,0 +1,18 @@
+{
+  "politician": "杉尾秀哉",
+  "organizations": [
+    "杉尾ひでや後援会"
+  ],
+  "generated_at": "2026-04-04T18:51:17.786775",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 240000,
+    "income_count": 0,
+    "expense_count": 1,
+    "income_by_type": {},
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 240000
+    },
+    "donor_ranking": []
+  }
+}

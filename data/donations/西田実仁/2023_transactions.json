@@ -1,0 +1,464 @@
+{
+  "politician": "西田実仁",
+  "year": 2023,
+  "organizations": [
+    "税理士による西田まこと後援会",
+    "西田まこと経済政策研究会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:48:36.796668",
+  "transaction_count": 50,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 800000,
+      "date": "2023",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "国政報告会",
+      "amount": 12610000,
+      "date": "2023/09/01",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "コピー機保守サービス",
+      "amount": 12144,
+      "date": "2023/09/04",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/01/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/02/27",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/03/27",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/04/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/05/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/06/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/07/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/08/28",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/09/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/10/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/11/27",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "CATV代",
+      "amount": 11308,
+      "date": "2023/12/26",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "コピー機リース代",
+      "amount": 12144,
+      "date": "2023/09/04",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "参議院会計課",
+      "amount": 12058,
+      "date": "2023/01/10",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "参議院会計課",
+      "amount": 12058,
+      "date": "2023/03/10",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "参議院会計課",
+      "amount": 16729,
+      "date": "2023/08/10",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "参議院会計課",
+      "amount": 14565,
+      "date": "2023/11/10",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "参議院会計課",
+      "amount": 17089,
+      "date": "2023/05/10",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "車両整備費",
+      "amount": 14300,
+      "date": "2023/01/22",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "車両整備費",
+      "amount": 33000,
+      "date": "2023/03/04",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "車両整備費",
+      "amount": 28490,
+      "date": "2023/12/07",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "飲食代",
+      "amount": 20471,
+      "date": "2023/07/09",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "飲食代",
+      "amount": 27603,
+      "date": "2023/02/17",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "飲食代",
+      "amount": 26400,
+      "date": "2023/02/21",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "飲食代",
+      "amount": 150601,
+      "date": "2023/01/01",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "飲食代",
+      "amount": 11880,
+      "date": "2023/07/31",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費",
+      "amount": 12000,
+      "date": "2023/01/09",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費",
+      "amount": 80000,
+      "date": "2023/11/16",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費",
+      "amount": 70785,
+      "date": "2023/12/14",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費等",
+      "amount": 21340,
+      "date": "2023/02/12",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費等",
+      "amount": 11440,
+      "date": "2023/06/12",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 10500,
+      "date": "2023/07/01",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 11200,
+      "date": "2023/10/23",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "選挙はがき印字等",
+      "amount": 90895,
+      "date": "2023/04/20",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "ニュース印刷代等",
+      "amount": 37400,
+      "date": "2023/07/18",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "ニュース印刷代等",
+      "amount": 30000,
+      "date": "2023/09/07",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "印刷代",
+      "amount": 37680,
+      "date": "2023/07/31",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調査研究費",
+      "summary2": "調査研究費",
+      "amount": 11000,
+      "date": "2023/01/31",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調査研究費",
+      "summary2": "調査研究費",
+      "amount": 11000,
+      "date": "2023/02/28",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調査研究費",
+      "summary2": "調査研究費",
+      "amount": 11000,
+      "date": "2023/03/31",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調査研究費",
+      "summary2": "調査研究費",
+      "amount": 11000,
+      "date": "2023/04/30",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "公明党参議院埼玉選挙区第2総支部",
+      "amount": 400000,
+      "date": "2023/05/25",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "公明党参議院埼玉選挙区第2総支部",
+      "amount": 1200000,
+      "date": "2023/06/28",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "公明党参議院埼玉選挙区第2総支部",
+      "amount": 300000,
+      "date": "2023/11/27",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 300000,
+      "date": "2023/06/16",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "収入合計",
+      "amount": 13410000,
+      "date": "2023",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出合計",
+      "amount": 3107110,
+      "date": "2023",
+      "organization": "西田まこと経済政策研究会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260701/05_100530.pdf"
+    }
+  ]
+}

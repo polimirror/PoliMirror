@@ -1,0 +1,355 @@
+{
+  "politician": "浅野哲",
+  "year": 2023,
+  "organizations": [
+    "浅野さとし後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:17:32.787305",
+  "transaction_count": 38,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "電機連合政治活動委員会",
+      "amount": 16200,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "浅野さとし君を励ます会",
+      "amount": 4616000,
+      "date": "2023/12/23",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "ガソリン代",
+      "amount": 178847,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "はがき印刷",
+      "amount": 186871,
+      "date": "2023/1/4",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "トヨタファイナンス株式会社",
+      "amount": 149164,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "その他の支出",
+      "amount": 783191,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "備品",
+      "amount": 426140,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "備品",
+      "amount": 3409250,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "大成印刷株式会社",
+      "amount": 66000,
+      "date": "2023/10/16",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費（人件費を除く）",
+      "summary2": "小計",
+      "amount": 1036040,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "日本郵便株式会社",
+      "amount": 20251,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "携帯電話代（ドコモ）",
+      "amount": 70053,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "日本郵便株式会社",
+      "amount": 268578,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "携帯電話電話機代（池上）",
+      "amount": 84700,
+      "date": "2023/10/16",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "大部芳楼",
+      "amount": 95700,
+      "date": "2023/10/18",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "ヤマト運輸株式会社",
+      "amount": 14900,
+      "date": "2023/10/26",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社しょうわ",
+      "amount": 14550,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社コンポーズ・ユー",
+      "amount": 158400,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社友愛日立",
+      "amount": 50000,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "鹿志村幸子",
+      "amount": 17320,
+      "date": "2023/6/28",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "政治活動費",
+      "amount": 43800,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社労金カードサービス",
+      "amount": 20238,
+      "date": "2023/5",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "高速道路使用料（ETC）",
+      "amount": 49040,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "高速道路使用料（ETC）",
+      "amount": 48090,
+      "date": "2023/9",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治活動費",
+      "summary2": "小計",
+      "amount": 598475,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "（株）茨城新聞社",
+      "amount": 80000,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "寄附",
+      "amount": 19200,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "第74回千鳥会会費",
+      "amount": 354005,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "日立桜ライオンズクラブ",
+      "amount": 1336780,
+      "date": "2023",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大成印刷株式会社",
+      "amount": 176000,
+      "date": "R5/5/7",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大成印刷株式会社",
+      "amount": 176000,
+      "date": "R5/8/1",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "浅野通信 新年ポスター",
+      "amount": 1419239,
+      "date": null,
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "浅野さとし君を励ます会 励ます会資料印刷代",
+      "amount": 970000,
+      "date": "9/9",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ホテル天地閣 励ます会会場費(9/9分)",
+      "amount": 180144,
+      "date": "R5/9/22",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ホテル天地閣 励ます会会場費(12/23分)",
+      "amount": null,
+      "date": "R5/12/28",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "国民民主党茨城県第5区総支部",
+      "amount": 10000000,
+      "date": null,
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "協創政策研究会への寄附",
+      "amount": 3000000,
+      "date": "R5/12/28",
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附・交付金",
+      "summary2": "合計",
+      "amount": 13000000,
+      "date": null,
+      "organization": "浅野さとし後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-017.pdf"
+    }
+  ]
+}

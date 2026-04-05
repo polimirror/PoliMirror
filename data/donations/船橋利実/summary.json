@@ -1,0 +1,35 @@
+{
+  "politician": "船橋利実",
+  "organizations": [
+    "4153_船橋利実連合後援会(R7.4."
+  ],
+  "generated_at": "2026-04-04T19:33:04.520930",
+  "2023": {
+    "total_income": 21230000,
+    "total_expense": 2032458,
+    "income_count": 6,
+    "expense_count": 6,
+    "income_by_type": {
+      "寄附": 20130000,
+      "政治資金パーティーの対価": 1100000
+    },
+    "expense_by_type": {
+      "組織活動費": 1692662,
+      "会食代": 339796
+    },
+    "donor_ranking": [
+      {
+        "name": "法人その他の団体からの寄附",
+        "amount": 20130000
+      },
+      {
+        "name": "道路工業株式会社",
+        "amount": 200000
+      },
+      {
+        "name": "葛原建設工業株式会社",
+        "amount": 200000
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "politician": "平口洋",
+  "year": 2023,
+  "organizations": [
+    "公認会計士による平口洋後援会",
+    "平口洋後援会",
+    "平口洋政経研究会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:35:50.790323",
+  "transaction_count": 22,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 5000000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 3000000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 8000000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "ホライズン・ホテルズ広島",
+      "amount": 850000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業",
+      "summary2": "平口ひろしと明日をつくる会",
+      "amount": 9790000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 8450194,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "プリンターリース代",
+      "amount": 208000,
+      "date": "2023/03/20",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便料",
+      "amount": 58000,
+      "date": "2023/05/09",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便料",
+      "amount": 64400,
+      "date": "2023/10/16",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "保険料",
+      "amount": 651406,
+      "date": "2023/12/18",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ガソリン代",
+      "amount": 15571,
+      "date": "2023/02/27",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ガソリン代",
+      "amount": 24748,
+      "date": "2023/03/27",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "点検整備代",
+      "amount": 12980,
+      "date": "2023/06/27",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ガソリン代",
+      "amount": 502,
+      "date": "2023/07/10",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "平口洋のモーニングセミナー",
+      "amount": 850000,
+      "date": "2023/04/17",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "民主党広島県第二選挙区玄関",
+      "amount": 3000000,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "総収入",
+      "amount": 32148607,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "総支出",
+      "amount": 14928934,
+      "date": "2023",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596213.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "不明",
+      "amount": null,
+      "date": null,
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596214.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "資料作成料",
+      "amount": 33000,
+      "date": "R5/3/20",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596214.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "ヒロギンカレントクラブ/FMはつかいち",
+      "amount": 1280280,
+      "date": "R6/10/2",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596214.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収支合計",
+      "summary2": "2,751,493",
+      "amount": 2751493,
+      "date": null,
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596214.pdf"
+    }
+  ]
+}

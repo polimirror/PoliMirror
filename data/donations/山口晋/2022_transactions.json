@@ -1,0 +1,25 @@
+{
+  "politician": "山口晋",
+  "year": 2022,
+  "organizations": [
+    "嵐山町山口晋後援会",
+    "川島町山口晋後援会",
+    "滑川町山口晋後援会",
+    "鶴ヶ島市山口晋後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:23:27.365953",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "組織対策費",
+      "amount": 14800,
+      "date": "2022",
+      "organization": "嵐山町山口晋後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244593/04_314100.pdf"
+    }
+  ]
+}

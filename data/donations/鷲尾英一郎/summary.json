@@ -1,0 +1,21 @@
+{
+  "politician": "鷲尾英一郎",
+  "organizations": [
+    "税理士による鷲尾英一郎後援会 [PDFフ"
+  ],
+  "generated_at": "2026-04-04T20:16:39.127697",
+  "2023": {
+    "total_income": 54000,
+    "total_expense": 556206,
+    "income_count": 1,
+    "expense_count": 3,
+    "income_by_type": {
+      "個人の負担する党費又は会費": 54000
+    },
+    "expense_by_type": {
+      "政治活動費の内訳": 315250,
+      "政治活動費": 240956
+    },
+    "donor_ranking": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "politician": "古川俊治",
+  "year": 2022,
+  "organizations": [
+    "公認会計士による古川俊治後援会",
+    "古川としはる岩槻区後援会「岩槻創俊会」",
+    "古川としはる後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:52:18.487924",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "政治資金監査報告書",
+      "summary2": "公認会計士による古川俊治後援会",
+      "amount": null,
+      "date": "2023/04/20",
+      "organization": "公認会計士による古川俊治後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244192/04_100140.pdf"
+    }
+  ]
+}

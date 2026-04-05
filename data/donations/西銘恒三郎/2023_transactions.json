@@ -1,0 +1,23 @@
+{
+  "politician": "西銘恒三郎",
+  "year": 2023,
+  "organizations": [
+    "458西銘恒三郎後援会 （PDF 534",
+    "459西銘恒三郎政策研究会 （PDF 1"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:53:49.603584",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "注記",
+      "summary1": "OCRテキストの品質が著しく低い",
+      "summary2": "政治資金収支報告書のOCRテキストが大幅に破損・歪曲されており、正確なトランザクション抽出が不可能",
+      "amount": null,
+      "date": null,
+      "note": "OCRテキストに多数の文字化け、改行の乱れ、数字の欠落が見られる。特に収入・支出項目の詳細が読み取り不可能。",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/037/270/458-r6nishimekosaburokoenkai.pdf"
+    }
+  ]
+}

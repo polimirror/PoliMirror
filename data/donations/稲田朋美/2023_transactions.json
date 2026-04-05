@@ -1,0 +1,14 @@
+{
+  "politician": "稲田朋美",
+  "year": 2023,
+  "organizations": [
+    "稲田朋美一乗東郷地区後援会（ＰＤＦ形式 ",
+    "稲田朋美旭地区後援会（ＰＤＦ形式 234",
+    "稲田朋美麻生津地区後援会（ＰＤＦ形式 3"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:30:57.927564",
+  "transaction_count": 0,
+  "transactions": []
+}

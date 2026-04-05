@@ -1,0 +1,29 @@
+{
+  "politician": "小野寺五典",
+  "organizations": [
+    "小野寺五典後援会",
+    "税理士による小野寺五典後援会"
+  ],
+  "generated_at": "2026-04-04T18:19:31.912222",
+  "2023": {
+    "total_income": 9000000,
+    "total_expense": 2602402,
+    "income_count": 2,
+    "expense_count": 39,
+    "income_by_type": {
+      "個人からの寄附": 9000000
+    },
+    "expense_by_type": {
+      "経常経費": 2203840,
+      "事務所費": 288562,
+      "事業費": 98000,
+      "政治活動費": 12000
+    },
+    "donor_ranking": [
+      {
+        "name": "小野寺五典",
+        "amount": 9000000
+      }
+    ]
+  }
+}

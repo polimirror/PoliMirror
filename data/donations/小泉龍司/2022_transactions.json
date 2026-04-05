@@ -1,0 +1,195 @@
+{
+  "politician": "小泉龍司",
+  "year": 2022,
+  "organizations": [
+    "小泉龍司女性の会",
+    "小泉龍司後援会",
+    "小泉龍司本庄地区後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:17:03.844577",
+  "transaction_count": 20,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "龍の会",
+      "amount": 7500000,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 7500000,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費・秩父事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費・深谷事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・秩父事務所",
+      "amount": 30800,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・深谷事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費・寄居事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・秩父事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・深谷事務所 中里商店",
+      "amount": 108000,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板立看板等ポスター掲示関係費・寄居事務所",
+      "amount": 549295,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報資料発送費",
+      "summary2": "加工費等・秩父事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "有料道路等利用料・秩父事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "有料道路等利用料・寄居事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "駐車場利用料等・秩父事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "駐車場利用料等・寄居事務所",
+      "amount": null,
+      "date": "2022",
+      "organization": "小泉龍司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304430.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 415136,
+      "date": "2022",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "組織活動費",
+      "amount": 1920,
+      "date": "2022",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "渉外費",
+      "amount": 1786950,
+      "date": "2022",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "政策資料発送費",
+      "amount": 55136,
+      "date": "2022",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "掲示板製作費",
+      "amount": 360000,
+      "date": "2022/12/23",
+      "organization": "小泉龍司本庄地区後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244442/04_304450.pdf"
+    }
+  ]
+}

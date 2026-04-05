@@ -1,0 +1,23 @@
+{
+  "politician": "土井亨",
+  "year": 2023,
+  "organizations": [
+    "土井みつまさ後援会",
+    "税理士による土井亨後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:55:57.739915",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "税理士による土井亨後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0763.pdf"
+    }
+  ]
+}

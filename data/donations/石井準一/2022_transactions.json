@@ -1,0 +1,239 @@
+{
+  "politician": "石井準一",
+  "year": 2022,
+  "organizations": [
+    "石井準一後援会(PDF形式)",
+    "石井準一後援会(PDF形式)【訂正あり】"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:23:02.273356",
+  "transaction_count": 25,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 85648792,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の支出額",
+      "summary2": "",
+      "amount": 54868354,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "繰越金",
+      "summary2": "",
+      "amount": 30780438,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 82675975,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "石井準一を励ます会 6月",
+      "amount": 1000000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "県議会議員・市町村議会議員",
+      "amount": 300000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "法人その他の団体",
+      "amount": 100000,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "法人その他の団体",
+      "amount": 500000,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "法人その他の団体",
+      "amount": 1500000,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "土岐田雅信",
+      "amount": 400000,
+      "date": "2022/05/27",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "堀直道",
+      "amount": 400000,
+      "date": "2022/05/27",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "平田剛久",
+      "amount": 400000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "内藤栄男",
+      "amount": 300000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "津川剛司",
+      "amount": 500000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "その他",
+      "amount": 300000,
+      "date": "2022/06/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "その他",
+      "amount": 1500000,
+      "date": "2022/05/19",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "その他",
+      "amount": 300000,
+      "date": "2022/05/25",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティーの対価小計",
+      "summary2": "",
+      "amount": 12000000,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "古谷務",
+      "amount": 1500000,
+      "date": "2022/05/19",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティー関連合計",
+      "summary2": "",
+      "amount": 13500000,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 1169551,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費合計",
+      "summary2": "",
+      "amount": 1041649,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "食代・贈答品",
+      "amount": 1039649,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "石井準一を励ます会 6月",
+      "amount": 220000,
+      "date": "2022/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出総合計",
+      "summary2": "",
+      "amount": 1803866,
+      "date": "2022",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/ichiran/20231129/documents/323810-2022-teisei.pdf"
+    }
+  ]
+}

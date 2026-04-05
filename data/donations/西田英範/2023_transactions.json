@@ -1,0 +1,24 @@
+{
+  "politician": "西田英範",
+  "year": 2023,
+  "organizations": [
+    "西田浩後援会",
+    "西田祐三後援会",
+    "西田誠一後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:50:40.268011",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "公明党広島県本部",
+      "amount": 68040,
+      "date": "2023/8/29",
+      "organization": "西田浩後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596087.pdf"
+    }
+  ]
+}

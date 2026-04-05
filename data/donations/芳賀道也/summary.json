@@ -1,0 +1,25 @@
+{
+  "politician": "芳賀道也",
+  "organizations": [
+    "芳賀修一後援会（令和5年6月1日解散）",
+    "芳賀清後援会",
+    "芳賀道也高畠町後援会"
+  ],
+  "generated_at": "2026-04-04T19:34:41.607225",
+  "2023": {
+    "total_income": 30000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 30000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 30000
+      }
+    ]
+  }
+}

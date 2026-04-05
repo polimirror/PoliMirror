@@ -1,0 +1,19 @@
+{
+  "politician": "土井亨",
+  "organizations": [
+    "土井みつまさ後援会",
+    "税理士による土井亨後援会"
+  ],
+  "generated_at": "2026-04-04T17:55:57.740465",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 20000,
+    "income_count": 0,
+    "expense_count": 1,
+    "income_by_type": {},
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 20000
+    },
+    "donor_ranking": []
+  }
+}

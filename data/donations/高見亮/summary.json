@@ -1,0 +1,24 @@
+{
+  "politician": "高見亮",
+  "organizations": [
+    "高見後援会",
+    "高見雄介後援会"
+  ],
+  "generated_at": "2026-04-04T20:16:00.179603",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 0
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "大阪維新の会",
+        "amount": 0
+      }
+    ]
+  }
+}

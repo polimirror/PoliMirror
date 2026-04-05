@@ -1,0 +1,23 @@
+{
+  "politician": "高見亮",
+  "year": 2023,
+  "organizations": [
+    "高見後援会",
+    "高見雄介後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:16:00.179029",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大阪維新の会",
+      "amount": null,
+      "date": null,
+      "organization": "高見後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96721/05ta0412.pdf"
+    }
+  ]
+}

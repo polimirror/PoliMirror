@@ -1,0 +1,401 @@
+{
+  "politician": "松川るい",
+  "year": 2023,
+  "organizations": [
+    "松川るい後援会",
+    "松川啓子後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:57:28.055606",
+  "transaction_count": 43,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "RuiLAB朝食セミナー",
+      "amount": 5780000,
+      "date": "2023/2/13",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "ザ・キャピトルホテル東急鳳凰の間",
+      "amount": 2660000,
+      "date": "2023/5/15",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "松川るいと明日の新時代を拓く",
+      "amount": 3696000,
+      "date": "2023/7/31",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "ホテルニューオータニ鳳凰の間",
+      "amount": 2580000,
+      "date": "2023/8/2",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "ホテルニューオータニ鳳凰の間",
+      "amount": 2750000,
+      "date": "2023/11/6",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "橋一雄",
+      "amount": 50000,
+      "date": "2023/3/10",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "田昇",
+      "amount": 120000,
+      "date": "2023/4/24",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "塚本裕欧",
+      "amount": 100000,
+      "date": "2023/5/1",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "収入合計",
+      "amount": 17694320,
+      "date": "2023",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "フォーム購入代",
+      "amount": 13640,
+      "date": "2023",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "PC備品代",
+      "amount": 18865,
+      "date": "2023",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "備品代",
+      "amount": 11880,
+      "date": "2023",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 15000,
+      "date": "2023/1/8",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費",
+      "amount": 20000,
+      "date": "2023/1/29",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 10000,
+      "date": "2023/2/1",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会費",
+      "amount": 10000,
+      "date": "2023/3/10",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 38665,
+      "date": "2023/4/27",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 80850,
+      "date": "2023/5/1",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 20000,
+      "date": "2023/5/17",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 20000,
+      "date": "2023/5/18",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 20000,
+      "date": "2023/5/20",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 20000,
+      "date": "2023/5/29",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食費",
+      "amount": 20000,
+      "date": "2023/6/1",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の支出",
+      "summary2": "支出合計",
+      "amount": 21573510,
+      "date": "2023",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "カルビの王様古川橋店",
+      "amount": 10000,
+      "date": "R5/8/6",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "自由民主党熊取町支部",
+      "amount": 10000,
+      "date": "R5/8/20",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "シチリア株式会社",
+      "amount": 10000,
+      "date": "R5/8/19",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "ANA クラウンプラザホテル大阪",
+      "amount": 64390,
+      "date": "R5/8/21",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会費",
+      "summary2": "月本の未来を語る会",
+      "amount": 20000,
+      "date": "R5/9/28",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "自由民主党池田支部",
+      "amount": 10000,
+      "date": "R5/10/21",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会費",
+      "summary2": "翼野太郎と21世紀の日本を語る会",
+      "amount": 20000,
+      "date": "R5/10/14",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会合飲食費",
+      "summary2": "自由民主党沼内長野支部",
+      "amount": 10000,
+      "date": "R5/10/31",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交際費",
+      "summary2": "自由民主党大阪府支部連合会",
+      "amount": 20000,
+      "date": "R5/12/25",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交際費",
+      "summary2": "大基拐君を岸まで会",
+      "amount": 24000,
+      "date": "R5/12/28",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "株式会社グロー",
+      "amount": 137320,
+      "date": "R5/9/20",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ザ・キャピトル ホテル東急",
+      "amount": 1172050,
+      "date": "R5/6/2",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "計",
+      "amount": 2102677,
+      "date": "",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会場使用代",
+      "summary2": "株式会社ポテール",
+      "amount": 930627,
+      "date": null,
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "小計",
+      "summary2": null,
+      "amount": 2102677,
+      "date": null,
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "RuiLAB朝食セミナー（令和5年8月2日開催）株式会社ニューオータ",
+      "amount": null,
+      "date": "2023/08/02",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "RuiLAB朝食セミナー（令和5年11月6日開催）株式会社ニューオータ",
+      "amount": null,
+      "date": "2023/11/06",
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "ANAクラウンプラザホテル大阪",
+      "amount": 2698300,
+      "date": null,
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調査研究費",
+      "summary2": "アマゾンジャパン合同会社 購入代",
+      "amount": null,
+      "date": null,
+      "organization": "松川るい後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ca0228.pdf"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "politician": "伊藤孝恵",
+  "year": 2022,
+  "organizations": [
+    "伊藤たかえ後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:44:03.865265",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "公明党兵庫県本部",
+      "amount": 122000,
+      "date": "2022/6/28",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "公明党兵庫県本部",
+      "amount": 663702,
+      "date": "2022/6/30",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附小計",
+      "summary2": "法人その他の団体からの寄附",
+      "amount": 5663702,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "株式会社秋山商会",
+      "amount": 588426,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "株式会社神戸新聞総合印刷",
+      "amount": 1122000,
+      "date": "2022/8",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "株式会社神戸新聞総合印刷",
+      "amount": 900361,
+      "date": "2022/8",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "その他",
+      "amount": 660000,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "その他",
+      "amount": 1049510,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "選挙関係費",
+      "summary2": "その他",
+      "amount": 574860,
+      "date": "2022",
+      "organization": "伊藤たかえ後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0141syusi_2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "politician": "大串正樹",
+  "year": 2023,
+  "organizations": [
+    "大串まさき後援会",
+    "大串まさき後援会(010222)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:01:44.579291",
+  "transaction_count": 3,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "衣服（ポロシャツ）",
+      "amount": null,
+      "date": "2023",
+      "organization": "大串まさき後援会(010222)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010222.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車保険",
+      "amount": null,
+      "date": "2023",
+      "organization": "大串まさき後援会(010222)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010222.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "法定点検費用",
+      "amount": null,
+      "date": "2023",
+      "organization": "大串まさき後援会(010222)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010222.pdf"
+    }
+  ]
+}

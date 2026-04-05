@@ -1,0 +1,55 @@
+{
+  "politician": "谷公一",
+  "organizations": [
+    "谷公一後援会",
+    "谷公一後援会(010871)"
+  ],
+  "generated_at": "2026-04-04T19:55:40.164425",
+  "2022": {
+    "total_income": 14810000,
+    "total_expense": 828263,
+    "income_count": 2,
+    "expense_count": 4,
+    "income_by_type": {
+      "個人からの寄附": 14810000
+    },
+    "expense_by_type": {
+      "政治資金パーティー開催事業費": 569823,
+      "寄附・交付金": 200000,
+      "組織活動費": 58440
+    },
+    "donor_ranking": [
+      {
+        "name": "ブルーリッジホテル",
+        "amount": 9270000
+      },
+      {
+        "name": "その他",
+        "amount": 5540000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 13865000,
+    "total_expense": 27384104,
+    "income_count": 2,
+    "expense_count": 8,
+    "income_by_type": {
+      "機関紙誌の発行その他の事業による収入": 13865000
+    },
+    "expense_by_type": {
+      "寄附・交付金": 16000000,
+      "政治活動費": 11384104
+    },
+    "donor_ranking": [
+      {
+        "name": "谷公一政経セミナー（三甲）",
+        "amount": 8210000
+      },
+      {
+        "name": "谷公一政経セミナー（但馬）",
+        "amount": 5655000
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "politician": "渡海紀三朗",
+  "organizations": [
+    "税理士による渡海紀三朗後援会",
+    "税理士による渡海紀三朗後援会(01076"
+  ],
+  "generated_at": "2026-04-04T19:19:31.220366",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 2,
+    "income_by_type": {},
+    "expense_by_type": {
+      "政治派動費": 0
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 200000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "個人の負担する党費又は会費": 200000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "党費又は会費",
+        "amount": 200000
+      }
+    ]
+  }
+}

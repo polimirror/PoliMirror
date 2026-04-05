@@ -1,0 +1,121 @@
+{
+  "politician": "西村明宏",
+  "year": 2023,
+  "organizations": [
+    "西村明宏後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:43:03.593964",
+  "transaction_count": 12,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 2000000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "",
+      "amount": 2000000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 134000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "税理士事務所",
+      "amount": 792149,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社ヤマダデンキ",
+      "amount": 20000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "",
+      "amount": 11000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "PC セット アップ代",
+      "amount": 30000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "公益社団法人日本警察犬協会",
+      "amount": 4000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "",
+      "amount": 20000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "",
+      "amount": 49000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "",
+      "amount": 2000000,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費",
+      "summary2": "",
+      "amount": 792149,
+      "date": "2024",
+      "organization": "西村明宏後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0892.pdf"
+    }
+  ]
+}

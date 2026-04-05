@@ -1,0 +1,43 @@
+{
+  "politician": "小林さやか",
+  "organizations": [
+    "小林鷹之後援会(PDF形式)"
+  ],
+  "generated_at": "2026-04-04T18:10:41.730128",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 473500,
+    "total_expense": 623500,
+    "income_count": 6,
+    "expense_count": 3,
+    "income_by_type": {
+      "機関紙誌の発行その他の事業による収入": 473500,
+      "個人の負担する党費又は会費": 0,
+      "寄附（個人から）": 0,
+      "寄附（法人その他の団体から）": 0,
+      "寄附（政治団体から）": 0
+    },
+    "expense_by_type": {
+      "その他の事業費": 473500,
+      "事務所費": 150000
+    },
+    "donor_ranking": [
+      {
+        "name": "花鷹会",
+        "amount": 269500
+      },
+      {
+        "name": "花見川区後援会支部総会",
+        "amount": 204000
+      }
+    ]
+  }
+}

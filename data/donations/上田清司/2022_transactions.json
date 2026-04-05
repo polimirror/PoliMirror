@@ -1,0 +1,31 @@
+{
+  "politician": "上田清司",
+  "year": 2022,
+  "organizations": [
+    "税理士による上田清司後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:33:24.118877",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "関東信越税理士政治連盟",
+      "amount": 300000,
+      "date": "2023",
+      "organization": "税理士による上田清司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244466/04_308000.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "この頁の小計",
+      "summary2": "その他の支出",
+      "amount": 300000,
+      "date": "2023",
+      "organization": "税理士による上田清司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244466/04_308000.pdf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "politician": "西村康稔",
+  "organizations": [
+    "税理士による西村やすとし後援会",
+    "西村やすとし後援会",
+    "西村康稔を囲む公認会計士の会",
+    "西村康稔を囲む公認会計士の会(01104"
+  ],
+  "generated_at": "2026-04-04T19:41:53.580820",
+  "2022": {
+    "total_income": 781000,
+    "total_expense": 0,
+    "income_count": 3,
+    "expense_count": 4,
+    "income_by_type": {
+      "寄附": 480000,
+      "個人の負担する党費又は会費": 301000
+    },
+    "expense_by_type": {
+      "その他の事業費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "近畿税理士政治連盟",
+        "amount": 0
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

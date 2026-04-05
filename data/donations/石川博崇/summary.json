@@ -1,0 +1,18 @@
+{
+  "politician": "石川博崇",
+  "organizations": [
+    "石川ひろたか後援会"
+  ],
+  "generated_at": "2026-04-04T19:25:02.145799",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 660000,
+    "income_count": 0,
+    "expense_count": 2,
+    "income_by_type": {},
+    "expense_by_type": {
+      "広告料": 660000
+    },
+    "donor_ranking": []
+  }
+}

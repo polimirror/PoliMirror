@@ -1,0 +1,429 @@
+{
+  "politician": "梅村聡",
+  "year": 2023,
+  "organizations": [
+    "梅村さとし薬剤師後援会",
+    "梅村聡医療後援会",
+    "梅村聡後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:04:10.381046",
+  "transaction_count": 46,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "梅村聡後援会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "梅村さとし薬剤師後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0125.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社マイスター引っ越しセンター（事務所移転費用）",
+      "amount": 19800,
+      "date": "2023/10/10",
+      "organization": "梅村さとし薬剤師後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0125.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "経常経費",
+      "amount": 418888,
+      "date": "2023",
+      "organization": "梅村さとし薬剤師後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0125.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "総支出",
+      "amount": 430160,
+      "date": "2023",
+      "organization": "梅村さとし薬剤師後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0125.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "梅村聡",
+      "amount": 500000,
+      "date": "2022",
+      "organization": "梅村聡医療後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0105.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社キイマビル",
+      "amount": 88000,
+      "date": "R5/9/29",
+      "organization": "梅村聡医療後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0105.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "党費または会費",
+      "summary2": "個人の負担する党費または会費",
+      "amount": 11631069,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "石本",
+      "amount": 20000,
+      "date": "2023/7/6",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "黒田",
+      "amount": 20000,
+      "date": "2023/7/6",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 5000,
+      "date": "2023/7/10",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 80000,
+      "date": "2023/7/12",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 15000,
+      "date": "2023/7/18",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2023/8/2",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2023/8/8",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2023/8/9",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 230000,
+      "date": "2023/8/9",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 95000,
+      "date": "2023/8/10",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2023/8/10",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 120000,
+      "date": "2023/8/10",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 950000,
+      "date": "2023/8/11",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 495000,
+      "date": "2023/8/18",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 1430000,
+      "date": "2023/8/2",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 5000,
+      "date": "2023/7/14",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 300000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 700000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "医療政策研究会",
+      "amount": 1000000,
+      "date": "2023/12/20",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治団体からの寄附合計",
+      "summary2": "医療政策研究会",
+      "amount": 9400000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "株式会社ビックカメラ",
+      "amount": 589506,
+      "date": "2023/10/26",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "電話代等",
+      "amount": 18480,
+      "date": "2023/4/18",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "庸海旅客鉄道株式会社",
+      "amount": 18480,
+      "date": "2023/4/18",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "経常経費",
+      "amount": 2096554,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "事務所運営",
+      "amount": 2035718,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "事務所運営",
+      "amount": 2868875,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "その他経費",
+      "amount": 960855,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "その他経費",
+      "amount": 2184433,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "森本たかのり後援会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "桂さとし栗却師後援会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交付金",
+      "summary2": "槻村聴医療後援会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他経費",
+      "summary2": "事務費",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他経費",
+      "summary2": "事務費",
+      "amount": 1100000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他経費",
+      "summary2": "事務費",
+      "amount": 330000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "全支出",
+      "amount": 1430000,
+      "date": "2023",
+      "organization": "梅村聡後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ac0098.pdf"
+    }
+  ]
+}

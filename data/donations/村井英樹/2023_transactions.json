@@ -1,0 +1,51 @@
+{
+  "politician": "村井英樹",
+  "year": 2023,
+  "organizations": [
+    "村井ひでき三室地区後援会",
+    "村井英樹を囲む公認会計士の会",
+    "税理士による村井ひでき後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:53:14.090137",
+  "transaction_count": 4,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の寄附",
+      "summary2": "個人",
+      "amount": 120000,
+      "date": "2023",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100400.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "役員会食事代",
+      "amount": null,
+      "date": "2023/09/28",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100400.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "村井ひできモーニングセッション会費（株）日比谷花壇",
+      "amount": null,
+      "date": "2023",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100400.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "浦安ワシントンホテル",
+      "amount": null,
+      "date": "2023",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100400.pdf"
+    }
+  ]
+}

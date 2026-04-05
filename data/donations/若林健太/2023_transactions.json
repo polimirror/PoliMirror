@@ -1,0 +1,247 @@
+{
+  "politician": "若林健太",
+  "year": 2023,
+  "organizations": [
+    "若林けんた後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:35:43.754948",
+  "transaction_count": 26,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "若林けんた君を励ます会 春の集い",
+      "amount": null,
+      "date": "2023/7/1",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価に係る収入",
+      "summary2": "若林けんた君を励ます会",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "有限会社池田工業所 広報板ブラケット",
+      "amount": null,
+      "date": "2023/8/7",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "宇賀田会計事務所 登録政治資金監査報酬",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "宝財源開発株式会社 廃棄物処理費",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本郵便株式会社 郵便発送代",
+      "amount": 4156,
+      "date": "2023/12/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本郵信株式会社 郵便発送代",
+      "amount": null,
+      "date": "2023/12/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ホテル国際21 会場利用代",
+      "amount": 21018,
+      "date": "2023/4/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "税理士による若林けんた後援会",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社電波コール 紅白まんじゅう代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "有限会社島福堂本舗 紅白まんじゅう代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "有限会社栄心堂 紅白まんじゅう代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ホテル国際21 レンタル無線機代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ホテル国際21 お弁当他",
+      "amount": null,
+      "date": "2023/4/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "富士印刷株式会社 横断幕作成費",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "富士印刷株式会社 ハガキ印刷代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "信州神輿保存会 花梨利用代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "有限会社福寿荘",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "有限会社カクアゲ本店",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社藤巻建設",
+      "amount": 61818,
+      "date": "2023/9/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "株式会社共立プラ",
+      "amount": null,
+      "date": "2023/9/28",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー関係事業費",
+      "summary2": "信和印刷株式会社 横断幕作成費",
+      "amount": null,
+      "date": "2023/5/7",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー関係事業費",
+      "summary2": "ホテルメトロポリタン長野 会場利用代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー関係事業費",
+      "summary2": "富士印刷株式会社 レンタル無線機代",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー関係事業費",
+      "summary2": "株式会社電波コール",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー関係事業費",
+      "summary2": "株式会社藤巻建設",
+      "amount": null,
+      "date": "2023",
+      "organization": "若林けんた後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051820.pdf"
+    }
+  ]
+}

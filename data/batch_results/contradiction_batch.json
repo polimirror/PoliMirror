@@ -1,0 +1,436 @@
+{
+  "started_at": "2026-04-05T09:40:25.050698",
+  "mode": "full",
+  "total_targets": 67,
+  "completed": 66,
+  "skipped": 1,
+  "found": 3,
+  "errors": 0,
+  "details": [
+    {
+      "politician": "伊藤孝恵",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "古川俊治",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "国定勇人",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "土井亨",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "土屋品子",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "坂本哲志",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "大串正樹",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "大塚拓",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "宮本周司",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "宮沢洋一",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "小林さやか",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "小林史明",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "小林鷹之",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "小野寺五典",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "山口壯",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "山口晋",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "山崎正昭",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "岩谷良平",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "平口洋",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "後藤茂之",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "斉木武志",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "新藤義孝",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "木原稔",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "末松信介",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "杉尾秀哉",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "村井英樹",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "東徹",
+      "status": "found",
+      "count": 5,
+      "error": null,
+      "titles": [
+        "企業献金批判と高額パーティー収入",
+        "歳出改革主張と寄附金支出",
+        "経済成長主張と機関紙誌事業収入",
+        "国民負担削減主張と高額政治支出",
+        "参議院定数増批判と政治活動費支出"
+      ]
+    },
+    {
+      "politician": "松川るい",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "松村祥史",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "柴山昌彦",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "梅村聡",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "森下千里",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "森本真治",
+      "status": "found",
+      "count": 4,
+      "error": null,
+      "titles": [
+        "パーティー収入依存と庶民生活擁護発言",
+        "政治改革発言と高額パーティー支出",
+        "機関紙事業名目と朝食勉強会高額収入",
+        "ホテル施設の繰り返し利用による支出依存"
+      ]
+    },
+    {
+      "politician": "江原くみ子",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "泉健太",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "浅田均",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "清水真人",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "渡海紀三朗",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "田中良生",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "石垣のりこ",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "石川博崇",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "舟山康江",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "船橋利実",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "船田元",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "芳賀道也",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "若林健太",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "藤井比早之",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "藤田文武",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "西村康稔",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "西村明宏",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "西田実仁",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "西田英範",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "西銘恒三郎",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "谷公一",
+      "status": "found",
+      "count": 5,
+      "error": null,
+      "titles": [
+        "政経セミナー収入と支出の循環",
+        "派閥への高額資金移動",
+        "単一ホテルからの高額寄附依存",
+        "政経セミナー(但馬)の高額収入",
+        "年間支出が年間収入を大幅超過"
+      ]
+    },
+    {
+      "politician": "谷川とむ",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "野中厚",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "野村哲郎",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "野間健",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "金子恭之",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "長谷川岳",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "関口昌一",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "青柳仁士",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "馬場成志",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "高橋光男",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "高見亮",
+      "status": "skipped",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "鷲尾英一郎",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    },
+    {
+      "politician": "黒田征樹",
+      "status": "no_contradiction",
+      "count": 0,
+      "error": null
+    }
+  ],
+  "last_saved": "2026-04-05T09:49:25.257043",
+  "finished_at": "2026-04-05T09:49:32.154285",
+  "elapsed_seconds": 547.5
+}

@@ -1,0 +1,104 @@
+{
+  "politician": "末松信介",
+  "year": 2022,
+  "organizations": [
+    "末松信介後援会",
+    "末松信介後援会(010725)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:45:39.656413",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": 9910000,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "法人寄附",
+      "amount": 6010000,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "総収入",
+      "amount": 12822674,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 10849,
+      "date": "2022/9/26",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 99809,
+      "date": "2022/10/25",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費",
+      "amount": 70800,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費",
+      "amount": 296820,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌発行事業費",
+      "summary2": "製作費",
+      "amount": 2558205,
+      "date": "2022/9/16",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "総支出",
+      "amount": 12468988,
+      "date": "R4",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "日本郵便株式会社",
+      "amount": 537180,
+      "date": "R4/9/16",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0718syusi.pdf"
+    }
+  ]
+}

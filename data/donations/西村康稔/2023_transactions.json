@@ -1,0 +1,52 @@
+{
+  "politician": "西村康稔",
+  "year": 2023,
+  "organizations": [
+    "税理士による西村やすとし後援会",
+    "西村やすとし後援会",
+    "西村康稔を囲む公認会計士の会",
+    "西村康稔を囲む公認会計士の会(01104"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:41:53.580308",
+  "transaction_count": 4,
+  "transactions": [
+    {
+      "record_type": "政治団体情報",
+      "summary1": "団体名",
+      "summary2": "西村康稔を囲む公認会計士の会",
+      "amount": null,
+      "date": null,
+      "organization": "西村康稔を囲む公認会計士の会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/011040.pdf"
+    },
+    {
+      "record_type": "政治団体情報",
+      "summary1": "代表者",
+      "summary2": "岩本英一",
+      "amount": null,
+      "date": null,
+      "organization": "西村康稔を囲む公認会計士の会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/011040.pdf"
+    },
+    {
+      "record_type": "政治団体情報",
+      "summary1": "会計責任者",
+      "summary2": "星川啓朋",
+      "amount": null,
+      "date": null,
+      "organization": "西村康稔を囲む公認会計士の会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/011040.pdf"
+    },
+    {
+      "record_type": "注記",
+      "summary1": "監査対象期間における支出なし",
+      "summary2": "2024年（令和6年）監査報告書により、対象期間に支出がないことが確認された",
+      "amount": 0,
+      "date": "2024/05/23",
+      "organization": "西村康稔を囲む公認会計士の会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/011040.pdf"
+    }
+  ]
+}

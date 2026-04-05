@@ -1,0 +1,20 @@
+{
+  "politician": "中司宏",
+  "organizations": [
+    "中司宏後援会"
+  ],
+  "generated_at": "2026-04-04T15:34:31.136194",
+  "2023": {
+    "total_income": 2320000,
+    "total_expense": 35009,
+    "income_count": 1,
+    "expense_count": 3,
+    "income_by_type": {
+      "前年からの繰越額": 2320000
+    },
+    "expense_by_type": {
+      "経常経費": 35009
+    },
+    "donor_ranking": []
+  }
+}

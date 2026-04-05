@@ -1,0 +1,663 @@
+{
+  "politician": "野村哲郎",
+  "year": 2023,
+  "organizations": [
+    "野村和人後援会",
+    "野村哲郎後援会「彩燿会」",
+    "野村広志後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:03:50.511959",
+  "transaction_count": 72,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 1834000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "",
+      "amount": 694307,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "朝日の農政を語るセミナー",
+      "amount": 800000,
+      "date": "2023/12/2",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "農業創生研究会",
+      "amount": 1500000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "",
+      "amount": 180000,
+      "date": "2023/11/13",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "茶圓楽畜",
+      "amount": 10000,
+      "date": "2023/4/28",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "川原巌",
+      "amount": 10000,
+      "date": "2023/4/28",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "宗像国徳",
+      "amount": 10000,
+      "date": "2023/4/28",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "",
+      "amount": 100000,
+      "date": "2023/12/25",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "野村哲郎",
+      "amount": 744307,
+      "date": "2023/12/19",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "ノートパソコン代",
+      "amount": 180000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "事務用品代",
+      "amount": 13034,
+      "date": "2023/11/27",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "事務用品代",
+      "amount": 11112,
+      "date": "2023/1/28",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "名刺代",
+      "amount": 38500,
+      "date": "2023/7/12",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "名刺代",
+      "amount": 18260,
+      "date": "2023/10/23",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "リコー",
+      "amount": 21760,
+      "date": "2023/8/6",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "リコー",
+      "amount": 15642,
+      "date": "2023/8/8",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "新聞購読料",
+      "summary2": "丸の内新聞",
+      "amount": 16933,
+      "date": "2023/8/27",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "新聞購読料",
+      "summary2": "丸の内新聞",
+      "amount": 16170,
+      "date": "2023/9/28",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "新聞購読料",
+      "summary2": "南日本新聞販売",
+      "amount": 16170,
+      "date": "2023/10/30",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "新聞購読料",
+      "summary2": "丸の内新聞",
+      "amount": 16170,
+      "date": "2023/10/30",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ガソリン代",
+      "summary2": "豊陽興産",
+      "amount": 61886,
+      "date": "2023/4/24",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ガソリン代",
+      "summary2": "豊陽興産",
+      "amount": 28638,
+      "date": "2023/4/24",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ガソリン代",
+      "summary2": "豊陽興産",
+      "amount": 60084,
+      "date": "2023/8/30",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "NTTイフファイナンス",
+      "amount": 44000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "日本郵便",
+      "amount": 22980,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "郵便料金",
+      "summary2": "日本郵便",
+      "amount": 17626,
+      "date": "2023/8/27",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "郵便料金",
+      "summary2": "日本郵便",
+      "amount": 246,
+      "date": "2023/5/22",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "郵便料金",
+      "summary2": "日本郵便",
+      "amount": 358,
+      "date": "2023/5/26",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "（株）エーコープ鹿児島",
+      "amount": 829450,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "JA かごしま茶業",
+      "amount": 891047,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "鹿児島県農業協同組合中央会",
+      "amount": 36960,
+      "date": "2023/12/14",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "食事代",
+      "amount": 72000,
+      "date": "2023/1/6",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）ピースマイルプロジェクト",
+      "amount": 43270,
+      "date": "2023/2/9",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（有）国会花苑",
+      "amount": 22000,
+      "date": "2023/2/18",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "イトテション",
+      "amount": 3850,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）エーコープ鹿児島",
+      "amount": 19500,
+      "date": "2023/4/24",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ビースマイルプロジェクト",
+      "amount": 68340,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県経済農業協同組合連合",
+      "amount": 19140,
+      "date": "2023/5/26",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "JA かごしま茶業",
+      "amount": 178640,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県くみあい開発",
+      "amount": 47980,
+      "date": "2023/7/31",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県くみあい開発",
+      "amount": 10900,
+      "date": "2023/7/21",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県くみあい開発",
+      "amount": 43900,
+      "date": "2023/7/25",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県くみあい開発",
+      "amount": 33400,
+      "date": "2023/7/25",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島ニューオータニ",
+      "amount": 27960,
+      "date": "2023/7/26",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "JA かごしま茶業",
+      "amount": 76690,
+      "date": "2023/7/25",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "JA かごしま茶業",
+      "amount": 238040,
+      "date": "2023/7/30",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "鹿児島県くみあい開発",
+      "amount": 10900,
+      "date": "2023/8/20",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ビースマイルプロジェクト",
+      "amount": 13220,
+      "date": "2023/8/29",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ギフト代",
+      "amount": 18660,
+      "date": "2023/8/29",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "東急百貨店",
+      "amount": 13530,
+      "date": "2023/9/6",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（有）国会花苑",
+      "amount": 33000,
+      "date": "2023/9/8",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "勢ラーメン",
+      "amount": 660,
+      "date": "2023/9/14",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ギフト代",
+      "amount": 20660,
+      "date": "2023/9/15",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "三越銀座店",
+      "amount": 16360,
+      "date": "2023/9/25",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "三越銀座店",
+      "amount": 16360,
+      "date": "2023/10/2",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ビースマイルプロジェクト",
+      "amount": 13220,
+      "date": "2023/10/11",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "振込手数料",
+      "amount": 660,
+      "date": "2023/10/11",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）A食肉かごしま",
+      "amount": 920,
+      "date": "2023/10/30",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）レパスト",
+      "amount": 10510,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）エーコープ鹿児島",
+      "amount": 16360,
+      "date": "2023/11/21",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "茶屋",
+      "amount": 16600,
+      "date": "2023/11/24",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）エーコープ鹿児島",
+      "amount": 23444,
+      "date": "2023/11/24",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "天竹酒店",
+      "amount": 16000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）TA食肉かごしま",
+      "amount": 17700,
+      "date": "2023/12/27",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "都市センターホテル",
+      "amount": 800000,
+      "date": "2023/12/2",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "都市センターホテル",
+      "amount": 1500000,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入総額",
+      "summary2": "",
+      "amount": 9254760,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出総額",
+      "summary2": "",
+      "amount": 14536858,
+      "date": "2023",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宿泊・宴付金",
+      "summary2": "記載不明",
+      "amount": 1200,
+      "date": "記載なし",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宿泊・宴付金",
+      "summary2": "記載不明",
+      "amount": 200000,
+      "date": "記載なし",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "記載不明",
+      "summary2": "野村哲郎",
+      "amount": 500000,
+      "date": "記載なし",
+      "organization": "野村哲郎後援会「彩燿会」",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101216-1.pdf"
+    }
+  ]
+}

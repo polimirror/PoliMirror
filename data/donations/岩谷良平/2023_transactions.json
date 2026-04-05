@@ -1,0 +1,148 @@
+{
+  "politician": "岩谷良平",
+  "year": 2023,
+  "organizations": [
+    "岩谷良平後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:27:18.736579",
+  "transaction_count": 15,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 914904,
+      "date": "2023",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 100000,
+      "date": "2023/10/28",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 50000,
+      "date": "2023/7/28",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 90000,
+      "date": "2023/12/31",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "日本維新の会国会議員団",
+      "amount": 1000000,
+      "date": "2023/6/30",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "日本維新の会国会議員団",
+      "amount": 1000000,
+      "date": "2023/12/8",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "大阪維新の会",
+      "amount": 101000,
+      "date": "2023/11/10",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "収入の合計",
+      "amount": 2101000,
+      "date": "2023",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "土佐料理神保希",
+      "amount": 24530,
+      "date": "2023/12/8",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "陳肉レストラン松井",
+      "amount": 16600,
+      "date": "2023/12/10",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所使用料",
+      "amount": 20000,
+      "date": "2023/10/28",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "案内状印刷費・錦生堂",
+      "amount": 15420,
+      "date": "2023/12/27",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業",
+      "summary2": "案内状印刷費",
+      "amount": 15000,
+      "date": "2023/10/28",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄付・交付金",
+      "summary2": "日本維新の会衆議院大阪府第13選挙区支部",
+      "amount": 500000,
+      "date": "2023/1/30",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出の合計",
+      "amount": 741550,
+      "date": "2023",
+      "organization": "岩谷良平後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0588.pdf"
+    }
+  ]
+}

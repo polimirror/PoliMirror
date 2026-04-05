@@ -1,0 +1,12 @@
+{
+  "politician": "神谷裕",
+  "year": 2023,
+  "organizations": [
+    "4162_北海道神谷まさゆき後援会 (P"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:25:22.856034",
+  "transaction_count": 0,
+  "transactions": []
+}

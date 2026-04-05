@@ -1,0 +1,38 @@
+{
+  "politician": "金子恭之",
+  "organizations": [
+    "税理士による金子恭之後援会 （PDFファ",
+    "金子恭之八代後援会 （PDFファイル：8"
+  ],
+  "generated_at": "2026-04-04T20:06:48.595980",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 3,
+    "expense_count": 13,
+    "income_by_type": {
+      "個人の負担する党費又は会費": 0
+    },
+    "expense_by_type": {
+      "経常経費": 0,
+      "事務所費": 0,
+      "政治活動費": 0,
+      "彩芽運転代行": 0,
+      "寄附": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "金子恭之",
+        "amount": 0
+      },
+      {
+        "name": "金子恭乏",
+        "amount": 0
+      },
+      {
+        "name": "金子義之",
+        "amount": 0
+      }
+    ]
+  }
+}

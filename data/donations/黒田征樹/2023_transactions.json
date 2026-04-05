@@ -1,0 +1,41 @@
+{
+  "politician": "黒田征樹",
+  "year": 2023,
+  "organizations": [
+    "黒田まさき後援会",
+    "黒田市政研究会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:24:22.234554",
+  "transaction_count": 3,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "印刷製本費",
+      "summary2": "ポスター作成",
+      "amount": 218900,
+      "date": "R5",
+      "organization": "黒田まさき後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96721/05kc0107.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "印刷製本費",
+      "summary2": "チラシ作成",
+      "amount": 82700,
+      "date": "R5",
+      "organization": "黒田まさき後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96721/05kc0107.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "黒田まさきを応援する会",
+      "amount": null,
+      "date": null,
+      "organization": "黒田まさき後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96721/05kc0107.pdf"
+    }
+  ]
+}

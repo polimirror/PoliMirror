@@ -1,0 +1,23 @@
+{
+  "politician": "高橋祐介",
+  "organizations": [
+    "4091_税理士による高橋はるみ後援会 "
+  ],
+  "generated_at": "2026-04-04T20:14:39.719220",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 0,
+    "income_by_type": {
+      "寄附": 0
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "北海道税理士政治連盟",
+        "amount": 0
+      }
+    ]
+  }
+}

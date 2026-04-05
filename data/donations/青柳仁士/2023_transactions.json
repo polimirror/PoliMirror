@@ -1,0 +1,58 @@
+{
+  "politician": "青柳仁士",
+  "year": 2023,
+  "organizations": [
+    "青柳仁士後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:09:48.225919",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "馬場伸幸",
+      "amount": 1000000,
+      "date": "2024",
+      "organization": "青柳仁士後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0326.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "大隆体大防市中央区山之内",
+      "amount": 1000000,
+      "date": "2024",
+      "organization": "青柳仁士後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0326.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "寄附金",
+      "amount": 2000000,
+      "date": "2024",
+      "organization": "青柳仁士後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0326.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "政治資金監査料 税理士法人IT&0岡本事務所",
+      "amount": 102000,
+      "date": "2024",
+      "organization": "青柳仁士後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0326.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "経常経費",
+      "amount": 102000,
+      "date": "2024",
+      "organization": "青柳仁士後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0326.pdf"
+    }
+  ]
+}

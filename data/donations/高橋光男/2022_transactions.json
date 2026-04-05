@@ -1,0 +1,77 @@
+{
+  "politician": "高橋光男",
+  "year": 2022,
+  "organizations": [
+    "高橋みつお後援会",
+    "高橋みつお後援会(010815)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:13:54.866275",
+  "transaction_count": 7,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "テスショーサー田田央区東川暁町",
+      "amount": 1500000,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー対価",
+      "summary2": "高橋みつお未来フォーラム",
+      "amount": 1500000,
+      "date": "2022/12/30",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 3000000,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "カウンター料金",
+      "amount": null,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "政治資金監査報酬",
+      "amount": null,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "株式会社アドバンス",
+      "amount": null,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所賃貸料",
+      "amount": null,
+      "date": "2022",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0803syusi.pdf"
+    }
+  ]
+}

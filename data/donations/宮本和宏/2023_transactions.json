@@ -1,0 +1,158 @@
+{
+  "politician": "宮本和宏",
+  "year": 2023,
+  "organizations": [
+    "宮本てつや後援会",
+    "宮本和宏後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:07:28.611822",
+  "transaction_count": 16,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 500000,
+      "date": "2024/08/21",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2024/10/08",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 100000,
+      "date": "2024/11/29",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 500000,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人寄附",
+      "amount": 350000,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附合計",
+      "summary2": "個人からの寄附",
+      "amount": 3255000,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "宮本和宏君と共に日本の未来を考える会",
+      "amount": 1000000,
+      "date": "2024/12/10",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "宮本和宏君と共に日本の未来を考える会",
+      "amount": 500000,
+      "date": "2024/12/10",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティーの対価合計",
+      "summary2": "宮本和宏君と共に日本の未来を考える会",
+      "amount": 5420000,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "デザイン、印刷代",
+      "amount": 120330,
+      "date": "2024/10/30",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "チャージ",
+      "amount": 60500,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "名刺、封筒印刷代",
+      "amount": 263600,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "粗品代",
+      "amount": 263600,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵送料",
+      "amount": 58800,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所家賃",
+      "amount": 150000,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他経費",
+      "summary2": "振込手数料",
+      "amount": 330,
+      "date": "",
+      "organization": "宮本和宏後援会",
+      "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5567923.pdf"
+    }
+  ]
+}

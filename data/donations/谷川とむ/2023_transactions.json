@@ -1,0 +1,40 @@
+{
+  "politician": "谷川とむ",
+  "year": 2023,
+  "organizations": [
+    "谷川とむ後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:56:26.088609",
+  "transaction_count": 3,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附（イを除く。）の区分",
+      "summary2": "個人からの寄附",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "谷川とむ後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ta0380.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "個人からの寄附",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "谷川とむ後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ta0380.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費（人件費を除く。）の内訳",
+      "summary2": "くまの税理士事務所 熊野雅樹 資金監査報酬",
+      "amount": null,
+      "date": "2023",
+      "organization": "谷川とむ後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ta0380.pdf"
+    }
+  ]
+}

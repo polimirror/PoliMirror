@@ -1,0 +1,347 @@
+{
+  "politician": "石井準一",
+  "year": 2023,
+  "organizations": [
+    "石井準一後援会(PDF形式)",
+    "石井準一後援会(PDF形式)【訂正あり】"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:23:02.274449",
+  "transaction_count": 37,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 12168,
+      "date": "2023/01/16",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 21904,
+      "date": "2023/02/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 10215,
+      "date": "2023/03/15",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 10777,
+      "date": "2023/04/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 15546,
+      "date": "2023/07/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 17246,
+      "date": "2023/08/15",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 13956,
+      "date": "2023/09/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 11446,
+      "date": "2023/10/17",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電気代 東京電力㈱　木更津支社",
+      "amount": 11446,
+      "date": "2023/12/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "放送受信料 日本放送協会",
+      "amount": 13650,
+      "date": "2023/02/27",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "監査報酬 齊藤裕介税理士事務所",
+      "amount": 29937,
+      "date": "2023/06/07",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "顧問報酬 税理士法人トリニティー",
+      "amount": 110000,
+      "date": "2023/08/08",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "タクシー代",
+      "amount": 1532600,
+      "date": "",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 品代 ㈱銀座千疋屋",
+      "amount": 24948,
+      "date": "2023/01/07",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 品代 グランドハイアット東京",
+      "amount": 22500,
+      "date": "2023/01/07",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 シェラトン都ホテル東京",
+      "amount": 42330,
+      "date": "2023/01/09",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 ㈱ホテルオークラ東京",
+      "amount": 79800,
+      "date": "2023/01/22",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 ザ・キャピトルホテル東急",
+      "amount": 11965,
+      "date": "2023/01/27",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 ザ・キャピトルホテル東急",
+      "amount": 10878,
+      "date": "2023/01/29",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 後楽園飯店",
+      "amount": 27000,
+      "date": "2023/02/09",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 日本料理しうが",
+      "amount": 58520,
+      "date": "2023/02/22",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 Chez Inno",
+      "amount": 67940,
+      "date": "2023/03/01",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 ヌキテパ",
+      "amount": 51290,
+      "date": "2023/05/04",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 茶寮　宮坂",
+      "amount": 71500,
+      "date": "2023/05/06",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 イルブリオ",
+      "amount": 66257,
+      "date": "2023/05/30",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 Mario",
+      "amount": 26510,
+      "date": "2023/06/03",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 AMBIGRAM",
+      "amount": 45670,
+      "date": "2023/06/23",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 桃仙閣",
+      "amount": 38804,
+      "date": "2023/07/14",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 銀圓亭",
+      "amount": 62610,
+      "date": "2023/07/15",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 鮨心",
+      "amount": 63700,
+      "date": "2023/08/10",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 巣立つ魚金　赤坂",
+      "amount": 11004,
+      "date": "2023/08/19",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 薪介",
+      "amount": 69200,
+      "date": "2023/08/27",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 チョンソル",
+      "amount": 19140,
+      "date": "2023/09/03",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 タイガー餃子会館",
+      "amount": 22620,
+      "date": "2023/09/05",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 品代 KIMIHOME",
+      "amount": 18678,
+      "date": "2023/10/01",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費 飲食代 南蛮銀圓亭",
+      "amount": 25000,
+      "date": "2023/12/23",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "借入金返済 石井準一から借入返済",
+      "amount": 10000000,
+      "date": "2023/10/10",
+      "organization": "石井準一後援会",
+      "source_url": "https://www.pref.chiba.lg.jp/senkan/shikin/reports/20241129/contents/323810-2023.pdf"
+    }
+  ]
+}

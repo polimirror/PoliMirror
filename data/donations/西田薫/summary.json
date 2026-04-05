@@ -1,0 +1,17 @@
+{
+  "politician": "西田薫",
+  "organizations": [
+    "西田久美後援会",
+    "西田尚美後援会"
+  ],
+  "generated_at": "2026-04-04T19:51:40.651406",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

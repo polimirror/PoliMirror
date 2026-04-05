@@ -1,0 +1,806 @@
+{
+  "politician": "黄川田仁志",
+  "year": 2023,
+  "organizations": [
+    "税理士による黄川田仁志後援会",
+    "黄川田仁志と新しい政治を実践する会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:23:14.516056",
+  "transaction_count": 88,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "東の茂薇",
+      "amount": 119000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "越税理士政治連盟",
+      "amount": 140000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 490235,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会費",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "パーティー券",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "パーティー券",
+      "amount": 80000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治活動費小計",
+      "summary2": "",
+      "amount": 140000,
+      "date": "2023",
+      "organization": "税理士による黄川田仁志後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/zeirishiniyorukikawadahitoshir5.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "他の政治団体からの寄附",
+      "summary2": "黄川田仁志と日本を語る会",
+      "amount": 500000,
+      "date": "2023",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "松田繁三",
+      "amount": 10000,
+      "date": "2023/03/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "松田繁三",
+      "amount": 10000,
+      "date": "2023/05/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "松田繁三",
+      "amount": 10000,
+      "date": "2023/06/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "松田繁三",
+      "amount": 10000,
+      "date": "2023/08/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大越恭一",
+      "amount": 10000,
+      "date": "2023/08/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大越恭一",
+      "amount": 10000,
+      "date": "2023/10/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大越恭一",
+      "amount": 10000,
+      "date": "2023/12/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "鮫島弘武",
+      "amount": 10000,
+      "date": "2023/08/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "鮫島弘武",
+      "amount": 10000,
+      "date": "2023/10/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "太田竜彦",
+      "amount": 10000,
+      "date": "2023/08/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中俊孝",
+      "amount": 10000,
+      "date": "2023/09/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中俊孝",
+      "amount": 10000,
+      "date": "2023/10/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中俊孝",
+      "amount": 10000,
+      "date": "2023/11/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中俊孝",
+      "amount": 10000,
+      "date": "2023/12/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山崎守",
+      "amount": 10000,
+      "date": "2023/02/21",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山崎守",
+      "amount": 10000,
+      "date": "2023/04/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山崎守",
+      "amount": 10000,
+      "date": "2023/05/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "深井孝行",
+      "amount": 10000,
+      "date": "2023/07/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "深井孝行",
+      "amount": 10000,
+      "date": "2023/08/29",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "深井孝行",
+      "amount": 10000,
+      "date": "2023/02/21",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "深井孝行",
+      "amount": 10000,
+      "date": "2023/03/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "深井孝行",
+      "amount": 10000,
+      "date": "2023/05/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/10/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/12/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/02/21",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/03/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/04/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/05/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大胡田昇",
+      "amount": 10000,
+      "date": "2023/07/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中島昌喜",
+      "amount": 10000,
+      "date": "2023/08/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中島昌喜",
+      "amount": 10000,
+      "date": "2023/03/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中島昌喜",
+      "amount": 10000,
+      "date": "2023/05/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "加藤茂",
+      "amount": 10000,
+      "date": "2023/03/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "加藤茂",
+      "amount": 10000,
+      "date": "2023/08/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "落合順二",
+      "amount": 10000,
+      "date": "2023/06/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "落合順二",
+      "amount": 10000,
+      "date": "2023/08/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "落合順二",
+      "amount": 10000,
+      "date": "2023/11/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "和田朋久",
+      "amount": 10000,
+      "date": "2023/06/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "和田朋久",
+      "amount": 10000,
+      "date": "2023/08/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "和田朋久",
+      "amount": 10000,
+      "date": "2023/11/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "和田朋久",
+      "amount": 10000,
+      "date": "2023/12/29",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中村孝明",
+      "amount": 10000,
+      "date": "2023/02/20",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中村孝明",
+      "amount": 10000,
+      "date": "2023/04/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中村孝明",
+      "amount": 10000,
+      "date": "2023/10/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中村孝明",
+      "amount": 10000,
+      "date": "2023/12/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/03/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/04/24",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/06/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/08/29",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/09/26",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/10/31",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新沼享子",
+      "amount": 10000,
+      "date": "2023/11/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "柳田一郎",
+      "amount": 10000,
+      "date": "2023/03/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "柳田一郎",
+      "amount": 10000,
+      "date": "2023/04/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "柳田一郎",
+      "amount": 10000,
+      "date": "2023/08/31",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "柳田一郎",
+      "amount": 10000,
+      "date": "2023/09/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "天草大陸",
+      "amount": 10000,
+      "date": "2023/08/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "天草大陸",
+      "amount": 10000,
+      "date": "2023/10/25",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "天草大陸",
+      "amount": 10000,
+      "date": "2023/04/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附合計",
+      "summary2": "個人寄附",
+      "amount": 1090000,
+      "date": "2023",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "島美三郎",
+      "amount": null,
+      "date": "R5/10/20",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "島美三郎",
+      "amount": null,
+      "date": "R5/11/28",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "長谷川義質",
+      "amount": null,
+      "date": "R5/5/8",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電気代",
+      "amount": null,
+      "date": "R5/12/27",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲料代",
+      "amount": null,
+      "date": "R5/6/18",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "チラシ代",
+      "amount": null,
+      "date": "R5/10/18",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "チラシ代",
+      "amount": null,
+      "date": "R5/12/18",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "ポスター代",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "印刷代（招加券）",
+      "amount": null,
+      "date": "R5/9/8",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "印刷代（封筒）",
+      "amount": null,
+      "date": "R5/10/18",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "司会料",
+      "amount": null,
+      "date": "R5/11/16",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "返礼品代（タオル）",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "返礼品代（カレンダー）",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "出張写真撮影代",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "バス代",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "イベントプロジェクター上映代",
+      "amount": null,
+      "date": null,
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "レンタル無線機代",
+      "amount": null,
+      "date": "R5/10/19",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "日本民主党及び各種団体への寄附",
+      "amount": null,
+      "date": "R5/9/29",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "日本民主党及び各種団体への寄附",
+      "amount": null,
+      "date": "R5/11/30",
+      "organization": "黄川田仁志と新しい政治を実践する会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260689/05_100110.pdf"
+    }
+  ]
+}

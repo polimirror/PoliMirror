@@ -1,0 +1,160 @@
+{
+  "politician": "土屋品子",
+  "year": 2023,
+  "organizations": [
+    "土屋品子久喜後援会",
+    "土屋品子春日部後援会",
+    "松伏町土屋品子後援会",
+    "税理士による土屋品子後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:59:10.910014",
+  "transaction_count": 16,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": null,
+      "date": "",
+      "organization": "土屋品子春日部後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260858/05_309500.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人その他の団体からの寄附",
+      "amount": null,
+      "date": "",
+      "organization": "土屋品子春日部後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260858/05_309500.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "政治団体からの寄附",
+      "amount": null,
+      "date": "",
+      "organization": "土屋品子春日部後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260858/05_309500.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人寄附",
+      "amount": null,
+      "date": "2024",
+      "organization": "松伏町土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260706/05_100620.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "法人寄附",
+      "amount": null,
+      "date": "2024",
+      "organization": "松伏町土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260706/05_100620.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "政治団体寄附",
+      "amount": null,
+      "date": "2024",
+      "organization": "松伏町土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260706/05_100620.pdf"
+    },
+    {
+      "record_type": "政治資金監査報告",
+      "summary1": "監査対象",
+      "summary2": "松伏町土屋品子後援会の令和5年に係る収支報告書",
+      "amount": null,
+      "date": "2024/05/29",
+      "organization": "松伏町土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260706/05_100620.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "関東信越税理士政治連盟",
+      "amount": 400000,
+      "date": "2024",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大臣就任（埼玉新聞社）",
+      "amount": 40000,
+      "date": "2024",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大臣表敬訪問食事",
+      "amount": 63800,
+      "date": "2024",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "政経パーティー（会費）",
+      "amount": 55010,
+      "date": "2024",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "関東信越税理士政治連盟",
+      "amount": 808800,
+      "date": "2023",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大臣就任（埼玉新聞社）",
+      "amount": 40000,
+      "date": "2023",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大臣表敬訪問食事",
+      "amount": 63800,
+      "date": "2023",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "政経パーティー（会費）",
+      "amount": 55010,
+      "date": "2023",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他支出",
+      "summary2": "その他",
+      "amount": 15890,
+      "date": "2023",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100360.pdf"
+    }
+  ]
+}

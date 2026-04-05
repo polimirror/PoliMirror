@@ -1,0 +1,96 @@
+{
+  "politician": "新藤義孝",
+  "year": 2023,
+  "organizations": [
+    "新藤信夫後援会",
+    "新藤義孝後援会",
+    "税理士による新藤義孝後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:40:56.939484",
+  "transaction_count": 9,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 464784,
+      "date": "令和5年",
+      "organization": "新藤信夫後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260839/05_307730.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "レンタカー代",
+      "amount": 109800,
+      "date": "令和5年",
+      "organization": "新藤信夫後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260839/05_307730.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "新藤義孝",
+      "amount": 18235319,
+      "date": "2023",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260839/05_307740.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 22404497,
+      "date": "2023",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260839/05_307740.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 21354978,
+      "date": "2023",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260839/05_307740.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "会費",
+      "amount": 20000,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260842/05_308290.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 144000,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260842/05_308290.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入小計",
+      "summary2": "収入合計",
+      "amount": 164000,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260842/05_308290.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "本部又は支部に対して供与した交付金",
+      "amount": 223575,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260842/05_308290.pdf"
+    }
+  ]
+}

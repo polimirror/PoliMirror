@@ -1,0 +1,33 @@
+{
+  "politician": "若林健太",
+  "organizations": [
+    "若林けんた後援会"
+  ],
+  "generated_at": "2026-04-04T19:35:43.756064",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 86992,
+    "income_count": 2,
+    "expense_count": 24,
+    "income_by_type": {
+      "機関紙誌の発行その他の事業による収入": 0,
+      "政治資金パーティーの対価に係る収入": 0
+    },
+    "expense_by_type": {
+      "政治活動費": 82836,
+      "経常経費": 4156,
+      "宣伝事業費": 0,
+      "政治資金パーティー関係事業費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "若林けんた君を励ます会 春の集い",
+        "amount": 0
+      },
+      {
+        "name": "若林けんた君を励ます会",
+        "amount": 0
+      }
+    ]
+  }
+}

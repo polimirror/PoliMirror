@@ -1,0 +1,105 @@
+{
+  "politician": "松村祥史",
+  "year": 2023,
+  "organizations": [
+    "松村太後援会 （PDFファイル：182K",
+    "松村秀逸後援会 （PDFファイル：870",
+    "税理士による松村祥史後援会 （PDFファ"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:58:56.456653",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": null,
+      "date": null,
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "個人からの寄附",
+      "amount": null,
+      "date": "2005/10/08",
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "個人からの寄附",
+      "amount": null,
+      "date": "2005/12/21",
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人から）",
+      "summary2": "個人からの寄附",
+      "amount": null,
+      "date": "2005/10/28",
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "ゴルフ大会参加料（2005年12月2日開催）",
+      "amount": null,
+      "date": "2005/12/02",
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "機関紙誌の発行その他の事業費（後援会報印刷費）",
+      "amount": null,
+      "date": null,
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "軽食代",
+      "amount": null,
+      "date": null,
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "顧客管理システムソフト",
+      "amount": null,
+      "date": null,
+      "organization": "松村秀逸後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261454.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "熊本県税理士政治連盟",
+      "amount": 100000,
+      "date": "2023/05/13",
+      "organization": "税理士による松村祥史後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262513.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "アークホテル熊本城前",
+      "amount": 100000,
+      "date": "2023/05/13",
+      "organization": "税理士による松村祥史後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262513.pdf"
+    }
+  ]
+}

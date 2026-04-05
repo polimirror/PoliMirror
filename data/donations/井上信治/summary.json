@@ -1,0 +1,33 @@
+{
+  "politician": "井上信治",
+  "organizations": [
+    "井上一徳後援会"
+  ],
+  "generated_at": "2026-04-04T15:39:39.416146",
+  "2022": {
+    "total_income": 3520000,
+    "total_expense": 1759468,
+    "income_count": 5,
+    "expense_count": 28,
+    "income_by_type": {
+      "寄附": 3270000,
+      "その他の収入": 250000
+    },
+    "expense_by_type": {
+      "事務所費": 1262049,
+      "組織活動費": 334660,
+      "宣伝事業費": 95962,
+      "光熱水費": 66797
+    },
+    "donor_ranking": [
+      {
+        "name": "井上一徳",
+        "amount": 3270000
+      },
+      {
+        "name": "宮津事務所敷金返金",
+        "amount": 250000
+      }
+    ]
+  }
+}

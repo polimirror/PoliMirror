@@ -1,0 +1,212 @@
+{
+  "politician": "三上えり",
+  "year": 2023,
+  "organizations": [
+    "三上えり後援会（令和６年11月15日訂正",
+    "三上えり後援会（令和７年11月６日訂正）"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:30:11.828366",
+  "transaction_count": 22,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "赤坂志津林305",
+      "amount": 260000,
+      "date": "2023/12/12",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "沢一郎",
+      "amount": null,
+      "date": "2023/6/20",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "パソコン修理費",
+      "amount": 20000,
+      "date": "2023/10/27",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃",
+      "amount": 257200,
+      "date": "2023/11/27",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃",
+      "amount": 257200,
+      "date": "2023/12/25",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "複合機リース代",
+      "amount": 12200,
+      "date": "2023/4/27",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "複合機リース代",
+      "amount": 12200,
+      "date": "2023/5/8",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "通信費",
+      "amount": 20980,
+      "date": "2023/8/28",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "旅費交通費",
+      "amount": 7200,
+      "date": "2023/1/20",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "旅費交通費",
+      "amount": 7699,
+      "date": "2023/12/27",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費",
+      "amount": 20000,
+      "date": "2023/11/30",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費",
+      "amount": null,
+      "date": "2023/11/29",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "渉外費",
+      "amount": null,
+      "date": "2023/12/12",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "大串ひろし君を囲む会",
+      "amount": null,
+      "date": "2023/11/30",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "龍の風",
+      "amount": null,
+      "date": "2023/11/29",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "一般社団法人東京広島県人会",
+      "amount": null,
+      "date": "2023/12/12",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "川田龍平議員パーティー会費",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "大串ひろし議員パーティー会費",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "東京広島県人会年会費",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報宣伝費",
+      "summary2": "ポスター、はがき代",
+      "amount": null,
+      "date": "2023/10/04",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報宣伝費",
+      "summary2": "名刺印刷代",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広報宣伝費",
+      "summary2": "新聞代",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/645631.pdf"
+    }
+  ]
+}

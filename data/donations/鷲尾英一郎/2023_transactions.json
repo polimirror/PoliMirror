@@ -1,0 +1,61 @@
+{
+  "politician": "鷲尾英一郎",
+  "year": 2023,
+  "organizations": [
+    "税理士による鷲尾英一郎後援会 [PDFフ"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:16:39.127096",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 54000,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 845947,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 452944,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "",
+      "amount": 240956,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費の内訳",
+      "summary2": "",
+      "amount": 126000,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費の内訳",
+      "summary2": "",
+      "amount": 189250,
+      "date": "2023",
+      "organization": "税理士による鷲尾英一郎後援会"
+    }
+  ]
+}

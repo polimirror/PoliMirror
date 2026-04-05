@@ -1,0 +1,167 @@
+{
+  "politician": "森本真治",
+  "year": 2022,
+  "organizations": [
+    "森本真治後援会",
+    "税理士による森本真治後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:07:51.907984",
+  "transaction_count": 17,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "ホテルルポール麹町「ルビー」",
+      "amount": 790000,
+      "date": "2022/05/30",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "リーガロイヤルホテル広島「ロイヤルホール」",
+      "amount": 990000,
+      "date": "2022/10/22",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティー",
+      "summary2": "ホテルルポール麹町「ロイヤルクリスタル」",
+      "amount": 990000,
+      "date": "2022/11/28",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "朝食勉強会",
+      "amount": 720000,
+      "date": "2022/05/30",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "広島創生研究会",
+      "amount": 790000,
+      "date": "2022/10/22",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "朝食勉強会",
+      "amount": 790000,
+      "date": "2022/11/28",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "小川若水",
+      "amount": 750000,
+      "date": "2022",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中国電力(株)",
+      "amount": 66000,
+      "date": "2022/06/24",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中国電力(株)",
+      "amount": 67000,
+      "date": "2022/08/18",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中国電力(株)",
+      "amount": 64000,
+      "date": "2022/10/25",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中国電力(株)",
+      "amount": 79000,
+      "date": "2022/12/16",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "広告宣伝費",
+      "amount": 660000,
+      "date": "2022",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広告宣伝費",
+      "summary2": "アドビシステムズ(株)",
+      "amount": 660000,
+      "date": "2022",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ホテルルポール麹町翠町会館",
+      "amount": 790000,
+      "date": "2022/05/30",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "リーガロイヤルホテル広島",
+      "amount": 990000,
+      "date": "2022/10/22",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ホテルルポール麹町翠町会館",
+      "amount": 990000,
+      "date": "2022/11/28",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他事業費",
+      "summary2": "リーガロイヤルホテル広島",
+      "amount": 660000,
+      "date": "2022",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549029.pdf"
+    }
+  ]
+}

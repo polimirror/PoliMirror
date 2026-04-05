@@ -37,26 +37,32 @@ POLICY_KEYWORDS = [
 
 SYSTEM_PROMPT = """あなたは政治データの照合を行うアナリストです。
 事実のみを記述し、推測・憶測・断定は一切しません。
-「〜と思われる」「〜の可能性がある」は使用禁止です。
 発言と資金データの事実を並べるだけです。
-JSONのみ返してください。"""
+必ずJSON配列を返してください。理由や説明文は不要です。
 
-USER_PROMPT_TEMPLATE = """以下は日本の国会議員「{politician}」の【国会発言】と【政治資金データ】です。
-発言内容と資金の実態が矛盾・乖離しているケースを最大5件抽出してください。
+出力例（別の議員のケース）:
+[{"rank":1,"title":"政治改革発言と高額パーティー収入","speech":{"date":"2024-02-01","venue":"本会議","quote":"政治資金の透明性を高めるべき","source_url":"https://kokkai.ndl.go.jp/..."},"money":{"fact":"2023年パーティー収入2,100万円（総収入の44%）","source":"収支報告書"},"contradiction":"政治資金の透明化を主張する一方、パーティー収入が総収入の44%を占める。","severity":"medium"}]
 
-判断基準：
-- 発言で主張していることと真逆の資金の動き
-- 特定業界を批判しながらその業界から献金を受領
-- 政治改革・透明化を訴えながらパーティー収入に依存
-- 庶民目線を訴えながら高額パーティー開催
-- 財政規律を主張しながら政治資金が膨張
-- 特定団体・派閥を批判しながら同団体から資金受領
+後援会レベルの少額でも、発言テーマと関連する資金の動きがあれば対比として抽出すること。"""
 
-重要ルール：
-- 事実のみ記述する（推測・憶測は禁止）
-- 「〜と思われる」「〜の可能性がある」は使用禁止
-- 発言と資金データの事実を並べるだけ
-- 該当がなければ空配列 [] を返す
+USER_PROMPT_TEMPLATE = """以下は日本の国会議員「{politician}」の【国会発言】と【政治資金トランザクション明細】です。
+発言内容と資金の動きに乖離があるケースを最大5件抽出してください。
+
+照合パターン（1つでも該当すれば抽出）：
+1. 政治改革・透明化・規正法改正を発言 → 本人の資金団体で高額収支がある
+2. 特定業界に関する政策発言 → 同業界関連の団体から寄附・会費を受領
+3. 財政規律・歳出削減を発言 → 政治資金の支出が大きい
+4. 庶民・国民生活を発言 → パーティー収入・高額寄附に依存
+5. 派閥批判・解消を発言 → 派閥関連団体との資金やり取り
+
+重要：
+- 完全な「矛盾」でなくても「興味深い対比」であれば抽出する
+- 判定基準を緩めること：同じテーマについて発言と資金データの両方が存在すれば、対比として抽出する
+- 例：政治改革を発言している議員が、パーティーや寄附で数百万円以上の収入がある → これは対比として抽出すべき
+- 発言の具体的引用と資金の具体的金額を必ず含める
+- 事実を並べるだけ（推測・憶測は禁止）
+- severity: "high"=明確な矛盾, "medium"=注目すべき対比, "low"=軽微な対比
+- 理由の説明は不要。JSON配列のみ返すこと。0件の場合のみ [] を返す
 
 出力形式（JSONのみ・余分なテキスト不要）：
 [
@@ -80,6 +86,9 @@ USER_PROMPT_TEMPLATE = """以下は日本の国会議員「{politician}」の【
 
 === 政治資金サマリー ===
 {summary_json}
+
+=== トランザクション明細（収入・支出の個別取引） ===
+{transactions_json}
 
 === 注目データ（自動検出済み） ===
 {highlights_json}
@@ -169,6 +178,28 @@ def load_financial_data(politician_name):
     return None, None
 
 
+def load_transactions(politician_name, max_items=50):
+    """トランザクション明細を読み込む（合計行を除外し、金額降順で上位を返す）"""
+    donations_base = os.path.join(DONATIONS_DIR, politician_name)
+    all_tx = []
+    for fname in sorted(os.listdir(donations_base)):
+        if not fname.endswith("_transactions.json"):
+            continue
+        try:
+            with open(os.path.join(donations_base, fname), encoding="utf-8") as f:
+                data = json.load(f)
+            for t in data.get("transactions", []):
+                if t.get("record_type") == "合計":
+                    continue
+                all_tx.append(t)
+        except Exception:
+            traceback.print_exc()
+
+    # 金額降順でソート（大きな取引ほど矛盾検出に有用）
+    all_tx.sort(key=lambda x: abs(x.get("amount", 0) or 0), reverse=True)
+    return all_tx[:max_items]
+
+
 def detect_contradictions(politician_name, client):
     """Claude APIで発言と資金の矛盾を検出する"""
     # Load financial data
@@ -179,6 +210,10 @@ def detect_contradictions(politician_name, client):
     if not summary:
         print(f"  [SKIP] 資金データなし: {politician_name}")
         return None
+
+    # Load transaction details
+    transactions = load_transactions(politician_name)
+    print(f"  トランザクション明細: {len(transactions)}件")
 
     highlights = []
     if os.path.exists(highlights_path):
@@ -194,7 +229,10 @@ def detect_contradictions(politician_name, client):
         print(f"  [WARN] 政策関連発言が見つかりません")
         return None
 
-    # Build prompt - keep under ~6000 chars to avoid haiku empty response
+    if not transactions and data_format != "structured":
+        print(f"  [WARN] トランザクション明細なし（サマリーのみ）")
+
+    # Build prompt
     # Select 15 diverse speeches (different dates, keyword-rich first)
     seen_dates = set()
     speeches_selected = []
@@ -217,11 +255,27 @@ def detect_contradictions(politician_name, client):
     if len(summary_compact) > 3000:
         summary_compact = summary_compact[:3000] + "\n..."
 
+    # Transaction details - compact format for API
+    tx_compact = []
+    for t in transactions:
+        tx_compact.append({
+            "type": t.get("record_type", ""),
+            "cat": t.get("summary1", ""),
+            "detail": t.get("summary2", ""),
+            "amount": t.get("amount", 0),
+            "date": t.get("date", ""),
+            "org": t.get("organization", ""),
+        })
+    transactions_json = json.dumps(tx_compact, ensure_ascii=False, indent=1) if tx_compact else "[]"
+    if len(transactions_json) > 4000:
+        transactions_json = transactions_json[:4000] + "\n..."
+
     highlights_compact = json.dumps(highlights[:3], ensure_ascii=False, indent=1) if highlights else "[]"
 
     prompt = USER_PROMPT_TEMPLATE.format(
         politician=politician_name,
         summary_json=summary_compact,
+        transactions_json=transactions_json,
         highlights_json=highlights_compact,
         speeches_json=json.dumps(speeches_compact, ensure_ascii=False, indent=1),
         speech_count=len(speeches),

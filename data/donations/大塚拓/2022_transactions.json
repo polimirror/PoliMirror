@@ -1,0 +1,70 @@
+{
+  "politician": "大塚拓",
+  "year": 2022,
+  "organizations": [
+    "大塚拓入間市後援会",
+    "大塚拓市町議会議員協議会",
+    "大塚拓後援会",
+    "大塚拓日高市後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:03:52.844887",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 1942420,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 1476990,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 1476330,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "朋治堂印刷株式会社",
+      "amount": 65450,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "案内状等印刷代",
+      "amount": 65450,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "場代（お土産代含む）",
+      "amount": 40680,
+      "date": "",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244186/04_100090.pdf"
+    }
+  ]
+}

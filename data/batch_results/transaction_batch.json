@@ -1,0 +1,1046 @@
+{
+  "started_at": "2026-04-04T17:42:41.355234",
+  "mode": "full",
+  "model": "claude-haiku-4-5-20251001",
+  "total_targets": 110,
+  "completed": 110,
+  "skipped": 0,
+  "errors": 0,
+  "total_transactions": 1943,
+  "total_tokens_in": 1683802,
+  "total_tokens_out": 194779,
+  "details": [
+    {
+      "politician": "加藤鮎子",
+      "status": "ok",
+      "transactions": 65,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "北神圭朗",
+      "status": "ok",
+      "transactions": 99,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "古川俊治",
+      "status": "ok",
+      "transactions": 4,
+      "pdfs": 5,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "吉田有理",
+      "status": "ok",
+      "transactions": 9,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "和田義明",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "国光あやの",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "国定勇人",
+      "status": "ok",
+      "transactions": 5,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "土井亨",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "土屋品子",
+      "status": "ok",
+      "transactions": 22,
+      "pdfs": 9,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "坂井学",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "坂本哲志",
+      "status": "ok",
+      "transactions": 11,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "堂込麻紀子",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "大串正樹",
+      "status": "ok",
+      "transactions": 5,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "大塚拓",
+      "status": "ok",
+      "transactions": 12,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "宮本周司",
+      "status": "ok",
+      "transactions": 51,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "宮本和宏",
+      "status": "ok",
+      "transactions": 16,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "宮沢洋一",
+      "status": "ok",
+      "transactions": 30,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "小林さやか",
+      "status": "ok",
+      "transactions": 11,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "小林史明",
+      "status": "ok",
+      "transactions": 18,
+      "pdfs": 2,
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "politician": "小林鷹之",
+      "status": "ok",
+      "transactions": 9,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "小森卓郎",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "小泉龍司",
+      "status": "ok",
+      "transactions": 55,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "小渕優子",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "小野寺五典",
+      "status": "ok",
+      "transactions": 41,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "尾花瑛仁",
+      "status": "ok",
+      "transactions": 17,
+      "pdfs": 3,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "尾辻朋実",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "山内佳菜子",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "山口壯",
+      "status": "ok",
+      "transactions": 8,
+      "pdfs": 1,
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "politician": "山口晋",
+      "status": "ok",
+      "transactions": 3,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "山崎正昭",
+      "status": "ok",
+      "transactions": 17,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "山田基靖",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "山田賢司",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "岡崎太",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "岡田直樹",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "岩谷良平",
+      "status": "ok",
+      "transactions": 15,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "岸田文雄",
+      "status": "ok",
+      "transactions": 57,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "平口洋",
+      "status": "ok",
+      "transactions": 37,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "後藤茂之",
+      "status": "ok",
+      "transactions": 32,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "斉木武志",
+      "status": "ok",
+      "transactions": 2,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "新藤義孝",
+      "status": "ok",
+      "transactions": 19,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "木原稔",
+      "status": "ok",
+      "transactions": 17,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "末松信介",
+      "status": "ok",
+      "transactions": 50,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "本田太郎",
+      "status": "ok",
+      "transactions": 71,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "杉尾秀哉",
+      "status": "ok",
+      "transactions": 2,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "村井英樹",
+      "status": "ok",
+      "transactions": 7,
+      "pdfs": 5,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "東徹",
+      "status": "ok",
+      "transactions": 37,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "松川るい",
+      "status": "ok",
+      "transactions": 43,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "松村祥史",
+      "status": "ok",
+      "transactions": 10,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "枝野幸男",
+      "status": "ok",
+      "transactions": 10,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "柴山昌彦",
+      "status": "ok",
+      "transactions": 9,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "梅村聡",
+      "status": "ok",
+      "transactions": 46,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "森下千里",
+      "status": "ok",
+      "transactions": 8,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "森山裕",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "森本真治",
+      "status": "ok",
+      "transactions": 22,
+      "pdfs": 3,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "櫻井充",
+      "status": "ok",
+      "transactions": 11,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "江原くみ子",
+      "status": "ok",
+      "transactions": 6,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "泉健太",
+      "status": "ok",
+      "transactions": 17,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "浅田均",
+      "status": "ok",
+      "transactions": 43,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "浅野哲",
+      "status": "ok",
+      "transactions": 88,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "清水真人",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "渡海紀三朗",
+      "status": "ok",
+      "transactions": 4,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "渡辺勝幸",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "田中良生",
+      "status": "ok",
+      "transactions": 14,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "石井準一",
+      "status": "ok",
+      "transactions": 62,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "石垣のりこ",
+      "status": "ok",
+      "transactions": 12,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "石川博崇",
+      "status": "ok",
+      "transactions": 2,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "神谷裕",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "福士珠美",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "福山哲郎",
+      "status": "ok",
+      "transactions": 112,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "稲田朋美",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "笹川博義",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "羽田次郎",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "舟山康江",
+      "status": "ok",
+      "transactions": 5,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "船橋利実",
+      "status": "ok",
+      "transactions": 14,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "船田元",
+      "status": "ok",
+      "transactions": 14,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "芳賀道也",
+      "status": "ok",
+      "transactions": 7,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "若林健太",
+      "status": "ok",
+      "transactions": 26,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "葉梨康弘",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2022"
+      ]
+    },
+    {
+      "politician": "藤井比早之",
+      "status": "ok",
+      "transactions": 16,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "藤田文武",
+      "status": "ok",
+      "transactions": 6,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "藤田誠",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 3,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "西村康稔",
+      "status": "ok",
+      "transactions": 12,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "西村明宏",
+      "status": "ok",
+      "transactions": 12,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "西田実仁",
+      "status": "ok",
+      "transactions": 127,
+      "pdfs": 3,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "西田昭二",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "西田英範",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "西田薫",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "西銘恒三郎",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "谷公一",
+      "status": "ok",
+      "transactions": 18,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "谷川とむ",
+      "status": "ok",
+      "transactions": 3,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "遠藤敬",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "野中厚",
+      "status": "ok",
+      "transactions": 12,
+      "pdfs": 6,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "野村哲郎",
+      "status": "ok",
+      "transactions": 72,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "野間健",
+      "status": "ok",
+      "transactions": 27,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "金子恭之",
+      "status": "ok",
+      "transactions": 16,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "長谷川岳",
+      "status": "ok",
+      "transactions": 8,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "関口昌一",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "阿部圭史",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "青柳仁士",
+      "status": "ok",
+      "transactions": 5,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "馬場伸幸",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "馬場成志",
+      "status": "ok",
+      "transactions": 5,
+      "pdfs": 3,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "高木真理",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "高橋はるみ",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "高橋光男",
+      "status": "ok",
+      "transactions": 15,
+      "pdfs": 2,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "高橋克法",
+      "status": "ok",
+      "transactions": 0,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "高橋祐介",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "高見亮",
+      "status": "ok",
+      "transactions": 1,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "鷲尾英一郎",
+      "status": "ok",
+      "transactions": 6,
+      "pdfs": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "politician": "黄川田仁志",
+      "status": "ok",
+      "transactions": 133,
+      "pdfs": 4,
+      "years": [
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "politician": "黒田征樹",
+      "status": "ok",
+      "transactions": 3,
+      "pdfs": 2,
+      "years": [
+        "2023"
+      ]
+    }
+  ],
+  "last_saved": "2026-04-04T20:24:22.236138",
+  "finished_at": "2026-04-04T20:24:22.237777",
+  "elapsed_seconds": 9701.1
+}

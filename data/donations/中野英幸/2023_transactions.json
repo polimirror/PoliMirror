@@ -1,0 +1,32 @@
+{
+  "politician": "中野英幸",
+  "year": 2023,
+  "organizations": [
+    "中野としひろ後援会",
+    "中野ひでゆき後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:36:27.890191",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "中野英幸からの寄附",
+      "amount": 950000,
+      "date": "2023",
+      "organization": "中野ひでゆき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260698/05_100500.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 148018,
+      "date": "2023",
+      "organization": "中野ひでゆき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260698/05_100500.pdf"
+    }
+  ]
+}

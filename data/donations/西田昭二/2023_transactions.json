@@ -1,0 +1,13 @@
+{
+  "politician": "西田昭二",
+  "year": 2023,
+  "organizations": [
+    "税理士による西田昭二後援会",
+    "西田時雄三反田区後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:49:23.202183",
+  "transaction_count": 0,
+  "transactions": []
+}

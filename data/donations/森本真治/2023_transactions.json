@@ -1,0 +1,59 @@
+{
+  "politician": "森本真治",
+  "year": 2023,
+  "organizations": [
+    "森本真治後援会",
+    "税理士による森本真治後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:07:51.926177",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌発行事業費",
+      "summary2": "レタープレス（株）",
+      "amount": 609900,
+      "date": "2023/06/28",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596221.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌発行事業費",
+      "summary2": "日本郵便（株）",
+      "amount": 609900,
+      "date": "2023",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596221.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "ホテルルポール麹町",
+      "amount": 7000000,
+      "date": "2023/10/30",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596221.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "リーガロイヤルホテル広島",
+      "amount": 7000000,
+      "date": "2024/02/03",
+      "organization": "森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596221.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の経費",
+      "summary2": "リーガロイヤルホテル広島",
+      "amount": 97498,
+      "date": "2023",
+      "organization": "税理士による森本真治後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/596208.pdf"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 """
 PoliMirror - 献金×政策スタンス相関ページ生成
-v1.0.0
+v2.0.0
+
+変更点（v2.0.0）:
+- テーブル廃止→議員ごとの読み物スタイルに変更
+- AI判定根拠（summary）を全議員に表示
+- 各指標の意味を冒頭で説明
+- 「この表の読み方」セクション追加
 """
 import json
 import os
@@ -44,50 +50,89 @@ def generate_category_page(cat_name, data):
     """業界カテゴリごとの相関ページを生成"""
     theme = data["policy_theme"]
     pols = data["politicians"]
-    dist = data["stance_distribution"]
 
     # confidence 0.5以上のみ表示
     valid = [p for p in pols if p.get("confidence", 0) >= 0.5]
     insufficient = [p for p in pols if p.get("confidence", 0) < 0.5]
 
-    rows = []
+    # 議員ごとのエントリ生成
+    entries = []
     for p in sorted(valid, key=lambda x: -x.get("confidence", 0)):
-        donations_str = ""
+        donations_parts = []
         if p.get("donations"):
-            donations_str = ", ".join(f"{d['donor']}({format_yen(d['amount'])})" for d in p["donations"])
-        rows.append(
-            f"| {pol_link(p['name'])} | {p['stance']} | {p['confidence']:.2f} | {p['speech_count']}件 | {donations_str} |"
-        )
+            for d in p["donations"]:
+                donations_parts.append(f"{d['donor']}（{format_yen(d['amount'])}）")
+        donations_str = "、".join(donations_parts) if donations_parts else "該当献金なし"
 
-    insufficient_list = ""
+        summary = p.get("summary", "（要約なし）")
+        confidence = p.get("confidence", 0)
+        speech_count = p.get("speech_count", 0)
+
+        # 確信度を日本語に
+        if confidence >= 0.9:
+            conf_label = "高い"
+        elif confidence >= 0.7:
+            conf_label = "中程度"
+        else:
+            conf_label = "低い"
+
+        entry = f"""### {pol_link(p['name'])}
+
+**献金元:** {donations_str}
+
+**国会発言の傾向（{speech_count}件の関連発言を分析）:**
+{summary}
+
+**発言傾向:** {p['stance']}（判定の確からしさ: {conf_label}）"""
+
+        entries.append(entry)
+
+    # 判定保留
+    insufficient_section = ""
     if insufficient:
-        names = ", ".join(p["name"] for p in insufficient)
-        insufficient_list = f"\n**データ不足により判定保留**: {names}\n"
+        parts = []
+        for p in insufficient:
+            reason = p.get("summary", "関連発言なし")
+            parts.append(f"- **{p['name']}** — {reason}")
+        insufficient_section = f"""### 判定保留（関連発言が不足）
 
-    dist_str = " / ".join(f"{k}: {v}名" for k, v in sorted(dist.items()) if k != "データ不足")
+以下の議員は{cat_name}からの献金記録があるが、「{theme}」に関する国会発言が少なく、発言傾向を判定できなかった。
+
+{chr(10).join(parts)}
+"""
 
     content = f"""---
 title: "{cat_name}｜献金と政策スタンスの相関"
 ---
 
-## {cat_name}から献金を受けた議員の「{theme}」スタンス
+## このページの内容
 
-> 出典：政治資金収支報告書（総務省/都道府県選管）+ 国会議事録（国立国会図書館）
-> 分析モデル：Claude Haiku 4.5
-> ⚠️ 発言の文脈によりスタンス判定に誤差がある場合があります
+「{cat_name}」業界から政治献金を受けた議員が、「{theme}」について国会でどのような発言をしているかを並べたページ。
 
-### スタンス分布
-{dist_str}
+**データの流れ:**
+1. 政治資金収支報告書から「{cat_name}」に分類される企業・団体の献金先議員を特定した
+2. その議員の国会発言（国会議事録API）から「{theme}」に関連するキーワードを含む発言を抽出した
+3. Claude API（claude-haiku-4-5-20251001）で発言内容を要約し、政策に対する発言傾向を判定した
 
-### 議員別スタンス
+**読み方:**
+- 「献金元」= 収支報告書に記載された、この業界からの寄附・会費等の事実
+- 「国会発言の傾向」= 国会議事録に記録された発言のAI要約。議員が実際に何を言ったかの概要
+- 「発言傾向」= 発言内容から読み取れる姿勢。「推進」「慎重」「中立」など。行動や法案提出の有無ではない
+- 「判定の確からしさ」= 発言数と内容の明確さに基づくAI判定の信頼度
 
-| 議員名 | スタンス | 確信度 | 関連発言数 | 献金元（金額） |
-|--------|----------|--------|------------|----------------|
-{chr(10).join(rows)}
-{insufficient_list}
+> [!note] 注意
+> 献金を受けたことと政策スタンスの間に因果関係があるとは限らない。このページは収支報告書と議事録の事実を並べるのみであり、判断は読者に委ねる。
+
 ---
+
+{(chr(10) + chr(10) + "---" + chr(10) + chr(10)).join(entries)}
+
+---
+
+{insufficient_section}---
 *このページはPoliMirrorが政治資金収支報告書と国会議事録から自動生成したデータです。*
-*スタンス判定はAI分析であり、議員本人の公式見解を代表するものではありません。*
+*出典: 政治資金収支報告書（総務省/都道府県選管）+ 国会議事録（国立国会図書館API）*
+*分析モデル: Claude API（claude-haiku-4-5-20251001）*
 """
     return content
 
@@ -106,23 +151,26 @@ title: "献金と政策の相関分析"
 
 ## 献金と政策の相関分析
 
-> 政治資金収支報告書の献金データと国会議事録の発言データを
-> AI分析で突き合わせ、業界別の政策スタンスを可視化します。
+業界別に「その業界から献金を受けた議員が、関連政策について国会でどう発言しているか」を一覧にしたページ群。
 
-| 業界カテゴリ | 政策テーマ | 分析済み議員 |
-|--------------|------------|-------------|
+**このページ群でわかること:**
+- ある業界から献金を受けている議員が、その業界に関連する政策テーマについて国会で何を発言しているか
+- 献金額と発言内容の対比（因果関係の主張ではなく、事実の並列）
+
+**このページ群でわからないこと:**
+- 献金が政策に影響したかどうか（それは読者が判断すること）
+- 議員の全体的な政策スタンス（ここでは特定テーマの発言のみ分析）
+
+| 業界 | 分析した政策テーマ | 分析済み議員 |
+|------|-------------------|-------------|
 {chr(10).join(rows)}
 
-### 分析方法
-1. 政治資金収支報告書から企業・団体の献金先議員を特定
-2. 国会議事録から関連政策キーワードを含む発言を抽出
-3. Claude AI（Haiku）で発言内容からスタンスを5段階判定
-4. 確信度0.5未満のデータは除外
+### データソースと分析方法
 
-### 注意事項
-- スタンスはAI分析であり、議員の公式見解を代表しません
-- 献金と政策スタンスの因果関係を主張するものではありません
-- 事実データの並列表示を目的としています
+1. **献金データ**: 政治資金収支報告書（総務省/都道府県選管公開PDF）から企業・団体名を業界分類
+2. **発言データ**: 国会議事録検索システムAPIから関連キーワードを含む発言を抽出
+3. **発言分析**: Claude API（claude-haiku-4-5-20251001）で発言を要約し、発言傾向を5段階で判定
+4. **品質基準**: 関連発言が少なく判定の確からしさが低い議員は「判定保留」として分離
 
 ---
 *PoliMirror - 事実の鏡*
@@ -172,7 +220,7 @@ def update_top_index(categories):
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("PoliMirror - 献金×政策スタンス相関ページ生成 v1.0.0")
+    print("PoliMirror - 献金×政策スタンス相関ページ生成 v2.0.0")
     print("=" * 60)
 
     with open(os.path.join(STANCES_DIR, "correlation_summary.json"), "r", encoding="utf-8") as f:

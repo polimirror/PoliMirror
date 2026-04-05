@@ -1,0 +1,303 @@
+{
+  "politician": "後藤茂之",
+  "year": 2023,
+  "organizations": [
+    "後藤茂之塩尻後援会",
+    "後藤茂之後援会",
+    "後藤茂之木曽後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:37:55.011926",
+  "transaction_count": 32,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 176000,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "",
+      "amount": 1000000,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "",
+      "amount": 5000000,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "立石コーポレーション",
+      "amount": 40455,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "",
+      "amount": 198927,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "富士フイルムビジネスイノベーション",
+      "amount": 70000,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所賃借料",
+      "amount": 70000,
+      "date": "",
+      "organization": "後藤茂之塩尻後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051690-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 2000000,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "事業収入",
+      "amount": 178400,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "総収入",
+      "amount": 2178400,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中部電力ミライズ",
+      "amount": 76923,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "中部電力ミライズ",
+      "amount": 96830,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "小平章三",
+      "amount": 250000,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "堂本舗",
+      "amount": 26680,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "その他支出",
+      "amount": 156830,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "総支出",
+      "amount": 1674994,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "翌年への繰越額",
+      "summary2": "繰越金",
+      "amount": 2021570,
+      "date": "2023",
+      "organization": "後藤茂之後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051680.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "党費又は会費",
+      "summary2": "個人の負担する党費又は会費",
+      "amount": 2000000,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "藤信会",
+      "amount": 500000,
+      "date": "2023/8/24",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "藤信会",
+      "amount": 500000,
+      "date": "2023/10/24",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "その他の寄附",
+      "amount": 2000000,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 950,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 250,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所消耗品",
+      "amount": 44000,
+      "date": "2023/11/28",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所消耗品",
+      "amount": 44000,
+      "date": "2023/12/25",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所消耗品",
+      "amount": 44000,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "プリンター代",
+      "amount": 38650,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "家賃",
+      "amount": 88650,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "春日正志",
+      "amount": 843613,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "本都便（株）",
+      "amount": 20000,
+      "date": "2023/1/27",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "レターパック等後納郵便",
+      "amount": 1808,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "レターパック等後納郵便",
+      "amount": 580,
+      "date": "2023",
+      "organization": "後藤茂之木曽後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051670.pdf"
+    }
+  ]
+}

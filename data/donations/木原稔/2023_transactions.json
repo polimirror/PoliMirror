@@ -1,0 +1,168 @@
+{
+  "politician": "木原稔",
+  "year": 2023,
+  "organizations": [
+    "木原やすよ後援会 （PDFファイル：20",
+    "木原稔後援会 （PDFファイル：642K",
+    "税理士による木原稔後援会 （PDFファイ"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:42:23.108025",
+  "transaction_count": 17,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人寄附",
+      "summary2": "熊本県第一選挙区内の個人",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人寄附",
+      "summary2": "熊本県内の個人",
+      "amount": 2000000,
+      "date": "2023",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "事業による収入",
+      "summary2": "機関紙誌の発行その他の事業",
+      "amount": 1247300,
+      "date": "2023",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "第35回みのる塾",
+      "amount": 1247300,
+      "date": "2023/02/12",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "青稔会役員会",
+      "amount": 1958916,
+      "date": "2023/03/11",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "春の国政報告会",
+      "amount": 2161934,
+      "date": "2023/04/15",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "しらゆき塾役員会",
+      "amount": 3388064,
+      "date": "2023/06/09",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "第36回みのる塾",
+      "amount": 1247300,
+      "date": "2023/08/19",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "立野ダム現地見学会",
+      "amount": 0,
+      "date": "2023/11/05",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 5248395,
+      "date": "2023",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入",
+      "summary2": "",
+      "amount": 2001078,
+      "date": "2023",
+      "organization": "木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261795.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "国政報告会会費",
+      "amount": null,
+      "date": "2023/04/22",
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "薗秀夫",
+      "amount": null,
+      "date": null,
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "定本律夫",
+      "amount": null,
+      "date": null,
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "熊本県税理士政治連盟",
+      "amount": 90000,
+      "date": null,
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "南九州税理士政治連盟",
+      "amount": null,
+      "date": null,
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "熊本市中央区上通町7",
+      "amount": null,
+      "date": "2023/04/22",
+      "organization": "税理士による木原稔後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/262510.pdf"
+    }
+  ]
+}

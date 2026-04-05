@@ -1,0 +1,383 @@
+{
+  "politician": "小野寺五典",
+  "year": 2023,
+  "organizations": [
+    "小野寺五典後援会",
+    "税理士による小野寺五典後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:19:31.911096",
+  "transaction_count": 41,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "小野寺五典",
+      "amount": 1500000,
+      "date": "2023",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "小野寺五典",
+      "amount": 7500000,
+      "date": "2023",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/02/02",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 85000,
+      "date": "2023/02/24",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 80000,
+      "date": "2023/03/23",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所保険料",
+      "amount": 19000,
+      "date": "2023/03/23",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 96943,
+      "date": "2023/03/30",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/04/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 80000,
+      "date": "2023/04/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/05/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 85000,
+      "date": "2023/05/29",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 97661,
+      "date": "2023/06/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 85000,
+      "date": "2023/06/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/07/20",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 285000,
+      "date": "2023/07/19",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/08/02",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 85000,
+      "date": "2023/08/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/09/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 99662,
+      "date": "2023/09/29",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 92838,
+      "date": "2023/10/31",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼産業センター家賃",
+      "amount": 92410,
+      "date": "2023/10/12",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 85000,
+      "date": "2023/10/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 80000,
+      "date": "2023/11/20",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "大崎事務所家賃",
+      "amount": 80000,
+      "date": "2023/11/25",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "気仙沼事務所家賃",
+      "amount": 97906,
+      "date": "2023/12/20",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "築館家賃",
+      "amount": 11484,
+      "date": "2023/12",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料金",
+      "amount": 40872,
+      "date": "2023/03/23",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便料金",
+      "amount": 45064,
+      "date": "2023",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "ゆうびん林金立替",
+      "amount": 89824,
+      "date": "2023/04/02",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便料金",
+      "amount": 11627,
+      "date": "2023/05/29",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便料金",
+      "amount": 8632,
+      "date": "2023/05/29",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "電話料金",
+      "amount": 12683,
+      "date": "2023/06/22",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便料金",
+      "amount": 23056,
+      "date": "2023/06/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "電話料金",
+      "amount": 20000,
+      "date": "2023/07/24",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便局後納料",
+      "amount": 1476,
+      "date": "2023/07/20",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便料金",
+      "amount": 36680,
+      "date": "2023/09/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便料金",
+      "amount": 84584,
+      "date": "2023/10/27",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "切符購入代金",
+      "amount": null,
+      "date": "R5/12/17",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "ETC料金",
+      "amount": null,
+      "date": "R5/10/26",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "睨原若椎ライオンズクラブ",
+      "amount": 12000,
+      "date": "R5/10/26",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事業費",
+      "summary2": "川内印刷",
+      "amount": 98000,
+      "date": "R5/12/2",
+      "organization": "小野寺五典後援会",
+      "source_url": "https://www.pref.miyagi.jp/documents/54935/0435.pdf"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "politician": "三上えり",
+  "year": 2022,
+  "organizations": [
+    "三上えり後援会（令和６年11月15日訂正",
+    "三上えり後援会（令和７年11月６日訂正）"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:30:11.827654",
+  "transaction_count": 17,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": null,
+      "date": null,
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "立憲民主党広島県総支部連合会",
+      "amount": null,
+      "date": "2022/5/18",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "立憲民主党広島県総支部連合会",
+      "amount": null,
+      "date": "2022/6/27",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電気代",
+      "amount": null,
+      "date": "2022/11/28",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電気代",
+      "amount": null,
+      "date": "2022/12/26",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "文具代",
+      "amount": null,
+      "date": "2022/12/6",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "文具代",
+      "amount": null,
+      "date": "2022/12/80",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話代",
+      "amount": null,
+      "date": "2022/9/12",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所家賃代",
+      "amount": null,
+      "date": "2022/8/15",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "複合機リース代",
+      "amount": null,
+      "date": "2022/8/28",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "複合機リース代",
+      "amount": null,
+      "date": "2022/8/31",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所家賃代",
+      "amount": null,
+      "date": "2022/10/21",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "複合機リース代",
+      "amount": null,
+      "date": "2022/11/9",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務所家賃代",
+      "amount": null,
+      "date": "2022/11/28",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "宿泊代",
+      "amount": null,
+      "date": "2022/5/26",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "広告宣伝費",
+      "amount": null,
+      "date": "2022/7/12",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "広報活動器材代",
+      "amount": null,
+      "date": "2022/8/8",
+      "organization": "三上えり後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/598993.pdf"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "politician": "野間健",
+  "organizations": [
+    "野間たけし後援会"
+  ],
+  "generated_at": "2026-04-04T20:05:32.026705",
+  "2023": {
+    "total_income": 2204000,
+    "total_expense": 5511314,
+    "income_count": 3,
+    "expense_count": 22,
+    "income_by_type": {
+      "その他の収入": 1200000,
+      "寄附金": 1004000
+    },
+    "expense_by_type": {
+      "政治活動費": 2388130,
+      "事務所費": 1769000,
+      "経常経費": 1354184
+    },
+    "donor_ranking": [
+      {
+        "name": "政治団体からの寄附",
+        "amount": 1200000
+      },
+      {
+        "name": "個人からの寄附",
+        "amount": 1000000
+      },
+      {
+        "name": "その他の寄附",
+        "amount": 4000
+      }
+    ]
+  }
+}

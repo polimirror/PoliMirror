@@ -1,0 +1,86 @@
+{
+  "politician": "藤井比早之",
+  "year": 2022,
+  "organizations": [
+    "藤井ひさゆき後援会",
+    "藤井ひさゆき後援会(011273)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:37:31.600267",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "民主党兵庫県第四選挙区支部",
+      "amount": 1500000,
+      "date": "2022/11/16",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "スミレビル代表中原克己（事務所家賃）",
+      "amount": 50000,
+      "date": "2022/2/28",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "スミレビル代表中原克己（事務所家賃）",
+      "amount": 50000,
+      "date": "2022/6/24",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "スミレビル代表中原克己（事務所家賃）",
+      "amount": 50000,
+      "date": "",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "関西電力営業所（電気料金）",
+      "amount": 18083,
+      "date": "",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "関西電力営業所（電気料金）",
+      "amount": 226861,
+      "date": "",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "収入総額",
+      "amount": 1500000,
+      "date": "2022",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出総額",
+      "amount": 1065107,
+      "date": "2022",
+      "organization": "藤井ひさゆき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1265syusi.pdf"
+    }
+  ]
+}

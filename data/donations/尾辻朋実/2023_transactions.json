@@ -1,0 +1,22 @@
+{
+  "politician": "尾辻朋実",
+  "year": 2023,
+  "organizations": [
+    "尾辻秀久後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:21:06.455262",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "不明",
+      "summary1": "OCRテキスト判読困難",
+      "summary2": "テキスト不鮮明のため抽出不可",
+      "amount": null,
+      "date": null,
+      "organization": "尾辻秀久後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926100753-1.pdf"
+    }
+  ]
+}

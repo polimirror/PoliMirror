@@ -1,0 +1,34 @@
+{
+  "politician": "山口晋",
+  "year": 2023,
+  "organizations": [
+    "嵐山町山口晋後援会",
+    "川島町山口晋後援会",
+    "滑川町山口晋後援会",
+    "鶴ヶ島市山口晋後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:23:27.366526",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "菊地敏昭",
+      "amount": 100000,
+      "date": "2024/12/11",
+      "organization": "川島町山口晋後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260815/05_303720.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "川島町山口泰明後援会",
+      "amount": 485821,
+      "date": "2024/12/10",
+      "organization": "川島町山口晋後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260815/05_303720.pdf"
+    }
+  ]
+}

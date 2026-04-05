@@ -1,0 +1,58 @@
+{
+  "politician": "中司宏",
+  "year": 2023,
+  "organizations": [
+    "中司宏後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:34:31.135648",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 2320000,
+      "date": "",
+      "organization": "中司宏後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ba0038.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 2820000,
+      "date": "",
+      "organization": "中司宏後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ba0038.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 5200,
+      "date": "2023/10/25",
+      "organization": "中司宏後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ba0038.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務用品購入費",
+      "amount": 19000,
+      "date": "",
+      "organization": "中司宏後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ba0038.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "報告書作成料",
+      "amount": 10809,
+      "date": "",
+      "organization": "中司宏後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ba0038.pdf"
+    }
+  ]
+}

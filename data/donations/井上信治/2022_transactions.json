@@ -1,0 +1,328 @@
+{
+  "politician": "井上信治",
+  "year": 2022,
+  "organizations": [
+    "井上一徳後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:39:39.415005",
+  "transaction_count": 35,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "宮津事務所敷金返金",
+      "amount": 250000,
+      "date": "2022/01/26",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "井上一徳",
+      "amount": 270000,
+      "date": "2022/02/28",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "井上一徳",
+      "amount": 1000000,
+      "date": "2022/03/15",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "井上一徳",
+      "amount": 1000000,
+      "date": "2022/04/15",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "井上一徳",
+      "amount": 1000000,
+      "date": "2022/05/18",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 3286874,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃 5月分",
+      "amount": 200000,
+      "date": "2022/04/14",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃 1月分",
+      "amount": 200000,
+      "date": "2022/08/18",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "メガホン修理代",
+      "amount": 148602,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "コピー用紙、封筒",
+      "amount": 50000,
+      "date": "2022/02/07",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "コピー機リース料",
+      "amount": 51000,
+      "date": "2022/02/07",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "コピープリントカウント代",
+      "amount": 12447,
+      "date": "2022/02/07",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電話代 1月分",
+      "amount": 15549,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電話代 8月分",
+      "amount": 20150,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電話代 10月分",
+      "amount": 15549,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "電話代 9月分",
+      "amount": 15549,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃 12月分",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃 11月分",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃 10月分",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 25980,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 13970,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費 車券代",
+      "amount": 23650,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費 車券代",
+      "amount": 14170,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費",
+      "amount": 45700,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費 車券代",
+      "amount": 48980,
+      "date": "2022/02/28",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費 車券代",
+      "amount": 19680,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費 車券代",
+      "amount": 10590,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 10800,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費",
+      "amount": 100020,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "宿泊代",
+      "amount": 10320,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交通費",
+      "amount": 10800,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "後納郵便 5月分",
+      "amount": 48062,
+      "date": "2022/02/20",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "後納郵便 6月分",
+      "amount": 29000,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "後納郵便 7月分",
+      "amount": 18900,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 2332849,
+      "date": "2022",
+      "organization": "井上一徳後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3054.pdf"
+    }
+  ]
+}

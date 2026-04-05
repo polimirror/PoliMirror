@@ -1,0 +1,37 @@
+{
+  "politician": "中川こういち",
+  "organizations": [
+    "4121_中川賢一後援会 (PDF 24"
+  ],
+  "generated_at": "2026-04-04T15:35:02.626725",
+  "2023": {
+    "total_income": 4936000,
+    "total_expense": 0,
+    "income_count": 6,
+    "expense_count": 0,
+    "income_by_type": {
+      "その他の寄附": 3800000,
+      "個人からの寄附": 770000,
+      "個人の負担する党費又は会費": 366000
+    },
+    "expense_by_type": {},
+    "donor_ranking": [
+      {
+        "name": "小計",
+        "amount": 3800000
+      },
+      {
+        "name": "中川賢一",
+        "amount": 600000
+      },
+      {
+        "name": "会費96名分",
+        "amount": 366000
+      },
+      {
+        "name": "横山篤史",
+        "amount": 170000
+      }
+    ]
+  }
+}

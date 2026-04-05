@@ -1,0 +1,31 @@
+{
+  "politician": "大串正樹",
+  "organizations": [
+    "大串まさき後援会",
+    "大串まさき後援会(010222)"
+  ],
+  "generated_at": "2026-04-04T18:01:44.579802",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 1716000,
+    "income_count": 0,
+    "expense_count": 2,
+    "income_by_type": {},
+    "expense_by_type": {
+      "経常経費": 1716000
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 3,
+    "income_by_type": {},
+    "expense_by_type": {
+      "備品・消耗品費": 0,
+      "経常経費": 0
+    },
+    "donor_ranking": []
+  }
+}

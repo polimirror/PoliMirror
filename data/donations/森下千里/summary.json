@@ -1,0 +1,29 @@
+{
+  "politician": "森下千里",
+  "organizations": [
+    "森下千里後援会"
+  ],
+  "generated_at": "2026-04-04T19:04:42.706515",
+  "2023": {
+    "total_income": 2939887,
+    "total_expense": 164400,
+    "income_count": 4,
+    "expense_count": 4,
+    "income_by_type": {
+      "本年の収入額": 1903887,
+      "前年からの繰越額": 836000,
+      "寄附": 200000
+    },
+    "expense_by_type": {
+      "事業費": 164000,
+      "経常経費": 400,
+      "組織活動費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 200000
+      }
+    ]
+  }
+}

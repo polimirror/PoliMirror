@@ -1,0 +1,346 @@
+{
+  "politician": "東徹",
+  "year": 2023,
+  "organizations": [
+    "東徹事務所"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:54:38.706158",
+  "transaction_count": 37,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 1190000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 940000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "スイスホテル南海大阪",
+      "amount": 40000,
+      "date": "2022/12/20",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "スイスホテル南海大阪",
+      "amount": 5970000,
+      "date": "2023/01/27",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "スイスホテル南海大阪",
+      "amount": 2320000,
+      "date": "2023/08/29",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "スイスホテル南海大阪",
+      "amount": 3962000,
+      "date": "2023/02/04",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治団体からの寄附",
+      "summary2": "吉村洋文",
+      "amount": 250000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/05/01",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/07/20",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/01/23",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 30000,
+      "date": "2023/10/24",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/11/30",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/12/20",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "岩崎博之",
+      "amount": 10000,
+      "date": "2023/12/29",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "清水美知代",
+      "amount": 10000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "椋本充士",
+      "amount": 10000,
+      "date": "2023/08/08",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "椋本充士",
+      "amount": 10000,
+      "date": "2023/08/81",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人",
+      "amount": 20000,
+      "date": "2023/05/01",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "個人",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "その他",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "合計",
+      "amount": 24465060,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "BAR LITTLE LINK",
+      "amount": 5500,
+      "date": "2023/08/08",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "迭善寺津草串かつ",
+      "amount": 7200,
+      "date": "2023/08/09",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "阿阪福島和牛料理 一石",
+      "amount": 7700,
+      "date": "2023/08/09",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "大阪政治経済懇話会新年互礼会 スイスホテル南海大阪",
+      "amount": 40000,
+      "date": "2022/12/20",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "住之江政策研究会 スイスホテル南海大阪",
+      "amount": 5970000,
+      "date": "2023/01/27",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "住之江政策研究会 スイスホテル南海大阪",
+      "amount": 2320000,
+      "date": "2023/08/29",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "住之江政策研究会 スイスホテル南海大阪",
+      "amount": 3962000,
+      "date": "2023/02/04",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "スミばあちゃんの大阪だし結び屋",
+      "amount": 18480,
+      "date": "2023/08/29",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "スイスホテル南海大阪",
+      "amount": 55496,
+      "date": "2023/09/14",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "スイスホテル南海大阪 新春の集い",
+      "amount": 390000,
+      "date": "2023/03/04",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "スイスホテル南海大阪 新春の集い",
+      "amount": 80000,
+      "date": "2023/03/04",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "辻淳子後援会",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "寄附金",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "集斧の会",
+      "amount": 5000000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "交付金",
+      "amount": 10400000,
+      "date": "2023",
+      "organization": "東徹事務所",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05aa0218.pdf"
+    }
+  ]
+}

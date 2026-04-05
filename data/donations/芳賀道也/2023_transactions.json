@@ -1,0 +1,78 @@
+{
+  "politician": "芳賀道也",
+  "year": 2023,
+  "organizations": [
+    "芳賀修一後援会（令和5年6月1日解散）",
+    "芳賀清後援会",
+    "芳賀道也高畠町後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:34:41.606678",
+  "transaction_count": 7,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "前年からの繰越額",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 1841,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "個人からの寄附",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治団体からの寄附",
+      "summary2": "",
+      "amount": 0,
+      "date": "2023",
+      "organization": "芳賀修一後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/35088/r5hagasyuichikoenkai.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 30000,
+      "date": "2024",
+      "organization": "芳賀道也高畠町後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-389.pdf"
+    }
+  ]
+}

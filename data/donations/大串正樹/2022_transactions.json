@@ -1,0 +1,32 @@
+{
+  "politician": "大串正樹",
+  "year": 2022,
+  "organizations": [
+    "大串まさき後援会",
+    "大串まさき後援会(010222)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:01:44.578709",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ダイハツ販売（株）伊丹 車検代",
+      "amount": 216000,
+      "date": "2022/10/28",
+      "organization": "大串まさき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0227syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ソニー損害保険（株） 動車保険",
+      "amount": 1500000,
+      "date": "",
+      "organization": "大串まさき後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0227syusi.pdf"
+    }
+  ]
+}

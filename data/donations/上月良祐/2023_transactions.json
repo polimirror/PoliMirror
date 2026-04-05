@@ -1,0 +1,157 @@
+{
+  "politician": "上月良祐",
+  "year": 2023,
+  "organizations": [
+    "上月りょうすけ後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:32:39.667916",
+  "transaction_count": 16,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "党費又は会費",
+      "summary2": "個人の負担する党費又は会費",
+      "amount": 265000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附金",
+      "amount": 5910000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "大倉大蔵",
+      "amount": 2000000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "西連寺節子",
+      "amount": 1500000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "幡谷浩曲",
+      "amount": 1000000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "その他の寄附",
+      "amount": 410000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "個人負担及び寄附",
+      "amount": 6175000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃",
+      "amount": 99000,
+      "date": "R5/8/15",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "駐車場代",
+      "amount": 94000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "監査手数料",
+      "amount": 49895,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "その他の支出",
+      "amount": 1935479,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "渉外費",
+      "summary2": "会合食事代",
+      "amount": 20000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "渉外費",
+      "summary2": "合計",
+      "amount": 214000,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "茨城県中小企業団体中央会",
+      "amount": 1550616,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "印刷製本費",
+      "amount": 2063956,
+      "date": "R5",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "ETC使用料",
+      "summary2": "自動車維持費",
+      "amount": 18000,
+      "date": "R5/12/28",
+      "organization": "上月りょうすけ後援会",
+      "source_url": "https://www.pref.ibaraki.jp/somu/shichoson/senkyo/seijishikin_syushi_kohyo/r5_11release/documents/r5-460.pdf"
+    }
+  ]
+}

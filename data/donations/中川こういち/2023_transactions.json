@@ -1,0 +1,85 @@
+{
+  "politician": "中川こういち",
+  "year": 2023,
+  "organizations": [
+    "4121_中川賢一後援会 (PDF 24"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:35:02.626150",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "会費96名分",
+      "amount": 366000,
+      "date": "2023/09/02",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "横山篤史",
+      "amount": 170000,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "中川賢一",
+      "amount": 300000,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "中川賢一",
+      "amount": 100000,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "中川賢一",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の寄附",
+      "summary2": "小計",
+      "amount": 3800000,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "収入合計",
+      "amount": 4718147,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出の総括",
+      "amount": 5187940,
+      "date": "2023",
+      "organization": "中川賢一後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/2/4/_/4121_%E4%B8%AD%E5%B7%9D%E8%B3%A2%E4%B8%80%E5%BE%8C%E6%8F%B4%E4%BC%9A.pdf"
+    }
+  ]
+}

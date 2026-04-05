@@ -1,0 +1,29 @@
+{
+  "politician": "青柳仁士",
+  "organizations": [
+    "青柳仁士後援会"
+  ],
+  "generated_at": "2026-04-04T20:09:48.226422",
+  "2023": {
+    "total_income": 2000000,
+    "total_expense": 102000,
+    "income_count": 2,
+    "expense_count": 1,
+    "income_by_type": {
+      "寄附金": 2000000
+    },
+    "expense_by_type": {
+      "経常経費": 102000
+    },
+    "donor_ranking": [
+      {
+        "name": "馬場伸幸",
+        "amount": 1000000
+      },
+      {
+        "name": "大隆体大防市中央区山之内",
+        "amount": 1000000
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "politician": "石川博崇",
+  "year": 2023,
+  "organizations": [
+    "石川ひろたか後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:25:02.145205",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "広告料",
+      "summary2": "ホームページ管理料",
+      "amount": 44000,
+      "date": "2023",
+      "organization": "石川ひろたか後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0440.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広告料",
+      "summary2": "ホームページ管理料",
+      "amount": 616000,
+      "date": "2023",
+      "organization": "石川ひろたか後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05ab0440.pdf"
+    }
+  ]
+}

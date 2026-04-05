@@ -1,0 +1,49 @@
+{
+  "politician": "村井英樹",
+  "organizations": [
+    "村井ひでき三室地区後援会",
+    "村井英樹を囲む公認会計士の会",
+    "税理士による村井ひでき後援会"
+  ],
+  "generated_at": "2026-04-04T18:53:14.090651",
+  "2022": {
+    "total_income": 200000,
+    "total_expense": 203790,
+    "income_count": 2,
+    "expense_count": 1,
+    "income_by_type": {
+      "法人その他の団体からの寄附": 200000
+    },
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 203790
+    },
+    "donor_ranking": [
+      {
+        "name": "関東信越税理士政治連盟",
+        "amount": 100000
+      },
+      {
+        "name": "小林忠一（代表者）",
+        "amount": 100000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 120000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 3,
+    "income_by_type": {
+      "個人の寄附": 120000
+    },
+    "expense_by_type": {
+      "組織活動費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "個人",
+        "amount": 120000
+      }
+    ]
+  }
+}

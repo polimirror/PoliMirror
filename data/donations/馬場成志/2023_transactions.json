@@ -1,0 +1,60 @@
+{
+  "politician": "馬場成志",
+  "year": 2023,
+  "organizations": [
+    "馬場こうせい後援会 （PDFファイル：6",
+    "馬場しょうじ後援会 （PDFファイル：2",
+    "馬場せいし後援会 （PDFファイル：47"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:11:29.884904",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "中嶋一雄",
+      "amount": null,
+      "date": "2023",
+      "organization": "馬場せいし後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261435.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "馬場成志",
+      "amount": null,
+      "date": "2023",
+      "organization": "馬場せいし後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261435.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "杏水孝道",
+      "amount": null,
+      "date": "2023",
+      "organization": "馬場せいし後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261435.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "大川渕志",
+      "amount": null,
+      "date": "2023",
+      "organization": "馬場せいし後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261435.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "宮島税務会計事務所",
+      "amount": null,
+      "date": "2023/11/14",
+      "organization": "馬場せいし後援会",
+      "source_url": "https://www.pref.kumamoto.jp/uploaded/attachment/261435.pdf"
+    }
+  ]
+}

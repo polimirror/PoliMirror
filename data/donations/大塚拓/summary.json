@@ -1,0 +1,50 @@
+{
+  "politician": "大塚拓",
+  "organizations": [
+    "大塚拓入間市後援会",
+    "大塚拓市町議会議員協議会",
+    "大塚拓後援会",
+    "大塚拓日高市後援会"
+  ],
+  "generated_at": "2026-04-04T18:03:52.846588",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 1647910,
+    "income_count": 0,
+    "expense_count": 4,
+    "income_by_type": {},
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 1476330,
+      "事務所費": 171580
+    },
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 3390000,
+    "total_expense": 167077,
+    "income_count": 3,
+    "expense_count": 1,
+    "income_by_type": {
+      "個人の負担する党費又は会費": 1695000,
+      "機関紙誌の発行その他の事業による収入": 1695000,
+      "寄附": 0
+    },
+    "expense_by_type": {
+      "その他の支出": 167077
+    },
+    "donor_ranking": [
+      {
+        "name": "会費",
+        "amount": 1695000
+      },
+      {
+        "name": "大塚拓「新緑の集い」",
+        "amount": 1695000
+      },
+      {
+        "name": "埼玉県入間市豊岡1-2-23",
+        "amount": 0
+      }
+    ]
+  }
+}

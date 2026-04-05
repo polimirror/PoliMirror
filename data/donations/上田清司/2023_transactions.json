@@ -1,0 +1,22 @@
+{
+  "politician": "上田清司",
+  "year": 2023,
+  "organizations": [
+    "税理士による上田清司後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:33:24.119867",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "収入総額",
+      "summary2": "",
+      "amount": 1000640,
+      "date": "",
+      "organization": "税理士による上田清司後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260842/05_308260.pdf"
+    }
+  ]
+}

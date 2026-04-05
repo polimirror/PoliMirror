@@ -1,0 +1,104 @@
+{
+  "politician": "尾花瑛仁",
+  "year": 2022,
+  "organizations": [
+    "尾花あきひと後援会",
+    "尾花正明後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:20:42.542553",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所賃料",
+      "amount": 160000,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "会報発行費",
+      "amount": 228860,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "印刷費",
+      "amount": 294100,
+      "date": "R3/5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "印刷費",
+      "amount": 83600,
+      "date": "R3/5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "印刷費",
+      "amount": 253600,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "印刷費",
+      "amount": 217800,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "吉野印刷",
+      "amount": 684200,
+      "date": "R3/12/23",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費小計",
+      "summary2": "",
+      "amount": 1533300,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 1540131,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "",
+      "amount": 1805571,
+      "date": "",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244430/04_302690.pdf"
+    }
+  ]
+}

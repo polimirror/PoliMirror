@@ -1,0 +1,13 @@
+{
+  "politician": "遠藤敬",
+  "year": 2023,
+  "organizations": [
+    "遠藤智子後援会",
+    "遠藤隆志後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:57:22.738527",
+  "transaction_count": 0,
+  "transactions": []
+}

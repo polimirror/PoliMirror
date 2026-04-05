@@ -1,0 +1,256 @@
+{
+  "politician": "野間健",
+  "year": 2023,
+  "organizations": [
+    "野間たけし後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:05:32.025524",
+  "transaction_count": 27,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "個人からの寄附",
+      "amount": 1000000,
+      "date": "R5",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "その他の寄附",
+      "amount": 4000,
+      "date": "R5",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の収入",
+      "summary2": "政治団体からの寄附",
+      "amount": 1200000,
+      "date": "R5",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 15400,
+      "date": "R5/5/18",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "交換代",
+      "amount": 14691,
+      "date": "R5/6/14",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "機カウンター料",
+      "amount": 16980,
+      "date": "R5/6/18",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "コピー料",
+      "amount": 163358,
+      "date": "R5/8/10",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "マンステーション料",
+      "amount": 140960,
+      "date": "R5/8/16",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "パフォーマンス料",
+      "amount": 380155,
+      "date": "R5/9/15",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 120000,
+      "date": "R5/9/15",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便代",
+      "amount": 57440,
+      "date": "R5/8/16",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "郵便代",
+      "amount": 445200,
+      "date": "R5/10/20",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便代",
+      "amount": 49000,
+      "date": "R5/6/18",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便代",
+      "amount": 60000,
+      "date": "R5/8/25",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便代",
+      "amount": 60000,
+      "date": "R5/3/24",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "郵便代",
+      "amount": 400000,
+      "date": "R5/4/25",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "賃貸料",
+      "amount": 600000,
+      "date": "R5/8/24",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "賃貸料",
+      "amount": 600000,
+      "date": "R5/9/25",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "交通費",
+      "amount": 120900,
+      "date": "R5/7/25",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "写真プリント代",
+      "amount": 143880,
+      "date": "R5/8/15",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "宿泊代",
+      "amount": 288000,
+      "date": "R5/10/24",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "交通費",
+      "amount": 15000,
+      "date": "R5/10/30",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "会費",
+      "amount": 150000,
+      "date": "R5/10/10",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "宣伝事業費",
+      "amount": 816200,
+      "date": "R5/11/15",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "チラシ印刷代",
+      "amount": 854150,
+      "date": "R5/12/20",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "合計",
+      "summary2": "収入合計",
+      "amount": 2589019,
+      "date": "R5",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "合計",
+      "summary2": "支出合計",
+      "amount": 1249183,
+      "date": "R5",
+      "organization": "野間たけし後援会",
+      "source_url": "http://www.pref.kagoshima.jp/ka01/kensei/senkyo/shikin/documents/115871_20240926101148-1.pdf"
+    }
+  ]
+}

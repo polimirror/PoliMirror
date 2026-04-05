@@ -1,0 +1,61 @@
+{
+  "politician": "高橋光男",
+  "organizations": [
+    "高橋みつお後援会",
+    "高橋みつお後援会(010815)"
+  ],
+  "generated_at": "2026-04-04T20:13:54.867875",
+  "2022": {
+    "total_income": 3000000,
+    "total_expense": 0,
+    "income_count": 2,
+    "expense_count": 4,
+    "income_by_type": {
+      "寄附金": 1500000,
+      "政治資金パーティー対価": 1500000
+    },
+    "expense_by_type": {
+      "経常経費": 0,
+      "事務所費": 0,
+      "政治資金パーティー開催事業費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "テスショーサー田田央区東川暁町",
+        "amount": 1500000
+      },
+      {
+        "name": "高橋みつお未来フォーラム",
+        "amount": 1500000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 2555708,
+    "total_expense": 80000,
+    "income_count": 3,
+    "expense_count": 2,
+    "income_by_type": {
+      "前年からの繰越金": 1760705,
+      "機関紙誌の発行その他の事業による収入": 620000,
+      "寄附金": 175003
+    },
+    "expense_by_type": {
+      "経常経費": 80000
+    },
+    "donor_ranking": [
+      {
+        "name": "前年繰越",
+        "amount": 1760705
+      },
+      {
+        "name": "高橋みつお未来フォーラム",
+        "amount": 620000
+      },
+      {
+        "name": "寄附",
+        "amount": 175003
+      }
+    ]
+  }
+}

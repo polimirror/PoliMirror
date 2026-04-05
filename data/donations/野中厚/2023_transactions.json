@@ -1,0 +1,60 @@
+{
+  "politician": "野中厚",
+  "year": 2023,
+  "organizations": [
+    "野中あつし君を育てる会",
+    "野中よしこ後援会",
+    "野中一城後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:00:34.171098",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価に係る収入",
+      "summary2": "サイレキ建設工業(株) 野中",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260702/05_100550.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "",
+      "amount": 15420017,
+      "date": "2023",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260702/05_100550.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 12740336,
+      "date": "2023",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260702/05_100550.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "公明党埼玉県本部",
+      "amount": 150000,
+      "date": "R5.01.20",
+      "organization": "野中一城後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260764/05_204420.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附金",
+      "summary2": "公明党埼玉県本部",
+      "amount": 76850,
+      "date": "R5.05.09",
+      "organization": "野中一城後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260764/05_204420.pdf"
+    }
+  ]
+}

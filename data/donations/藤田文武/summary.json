@@ -1,0 +1,30 @@
+{
+  "politician": "藤田文武",
+  "organizations": [
+    "藤田文武後援会"
+  ],
+  "generated_at": "2026-04-04T19:38:22.612005",
+  "2023": {
+    "total_income": 2000000,
+    "total_expense": 1461000,
+    "income_count": 2,
+    "expense_count": 4,
+    "income_by_type": {
+      "寄附金": 2000000
+    },
+    "expense_by_type": {
+      "事業費": 1431000,
+      "講師分担金": 30000
+    },
+    "donor_ranking": [
+      {
+        "name": "戸場伸幸",
+        "amount": 1000000
+      },
+      {
+        "name": "日本維新の会国会議員団",
+        "amount": 1000000
+      }
+    ]
+  }
+}

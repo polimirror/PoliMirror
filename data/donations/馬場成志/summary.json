@@ -1,0 +1,39 @@
+{
+  "politician": "馬場成志",
+  "organizations": [
+    "馬場こうせい後援会 （PDFファイル：6",
+    "馬場しょうじ後援会 （PDFファイル：2",
+    "馬場せいし後援会 （PDFファイル：47"
+  ],
+  "generated_at": "2026-04-04T20:11:29.885434",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 4,
+    "expense_count": 1,
+    "income_by_type": {
+      "個人からの寄附": 0
+    },
+    "expense_by_type": {
+      "事務所費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "中嶋一雄",
+        "amount": 0
+      },
+      {
+        "name": "馬場成志",
+        "amount": 0
+      },
+      {
+        "name": "杏水孝道",
+        "amount": 0
+      },
+      {
+        "name": "大川渕志",
+        "amount": 0
+      }
+    ]
+  }
+}

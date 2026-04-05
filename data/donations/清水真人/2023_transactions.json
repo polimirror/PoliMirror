@@ -1,0 +1,24 @@
+{
+  "politician": "清水真人",
+  "year": 2023,
+  "organizations": [
+    "清水まさし後援会",
+    "清水聖義後援会",
+    "税理士による清水真人後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:18:39.294478",
+  "transaction_count": 1,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 200000,
+      "date": "2005",
+      "organization": "税理士による淵水真人後援会",
+      "source_url": "https://www.pref.gunma.jp/uploaded/attachment/637644.pdf"
+    }
+  ]
+}

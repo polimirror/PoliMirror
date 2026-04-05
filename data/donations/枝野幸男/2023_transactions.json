@@ -1,0 +1,49 @@
+{
+  "politician": "枝野幸男",
+  "year": 2023,
+  "organizations": [
+    "税理士による枝野幸男後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:00:00.711397",
+  "transaction_count": 4,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "総務経費",
+      "summary2": "総会資料郵送料",
+      "amount": null,
+      "date": "2023/7/10",
+      "organization": "税理士による枝野幸男後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100300.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "栄河水国",
+      "amount": null,
+      "date": "2023/8/10",
+      "organization": "税理士による枝野幸男後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100300.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "栄沼水国",
+      "amount": null,
+      "date": "2023/8/29",
+      "organization": "税理士による枝野幸男後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100300.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "支出",
+      "summary2": "ペルヴィ大定サンパレスグランツ",
+      "amount": null,
+      "date": "2023/12/26",
+      "organization": "税理士による枝野幸男後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260695/05_100300.pdf"
+    }
+  ]
+}

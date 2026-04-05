@@ -1,0 +1,94 @@
+{
+  "politician": "五十嵐清",
+  "year": 2023,
+  "organizations": [
+    "五十嵐清後援会総連合会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:38:15.314146",
+  "transaction_count": 9,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 2996000,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "収入計",
+      "amount": 3141368,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "本部又は支部に対して供与した交付金に係る支出",
+      "amount": 861037,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本郵便",
+      "amount": 18840,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本郵便",
+      "amount": 94446,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "協同組合晃望台ショッピングセンター",
+      "amount": 467583,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "組織活動費",
+      "amount": 407424,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "調査研究費",
+      "amount": 491890,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "支出計",
+      "amount": 3141368,
+      "date": "2023",
+      "organization": "五十嵐清後援会総連合会",
+      "source_url": "http://www.pref.tochigi.lg.jp/senkyo/houkokusho01/teiki/06b0003.pdf"
+    }
+  ]
+}

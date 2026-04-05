@@ -1,0 +1,70 @@
+{
+  "politician": "土屋品子",
+  "year": 2022,
+  "organizations": [
+    "土屋品子久喜後援会",
+    "土屋品子春日部後援会",
+    "松伏町土屋品子後援会",
+    "税理士による土屋品子後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:59:10.909472",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費納入",
+      "amount": null,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（法人その他の団体から）",
+      "summary2": "法人その他の団体からの寄附",
+      "amount": null,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（政治団体から）",
+      "summary2": "政治団体からの寄附",
+      "amount": null,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "運営費（懇親会費）",
+      "summary2": "交の会",
+      "amount": 13630,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "やまや新館",
+      "amount": 40876,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "備品・消耗品費",
+      "summary2": "本部又は支部に対して",
+      "amount": 80876,
+      "date": "2022",
+      "organization": "税理士による土屋品子後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100390.pdf"
+    }
+  ]
+}

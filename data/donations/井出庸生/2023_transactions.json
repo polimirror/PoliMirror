@@ -1,0 +1,157 @@
+{
+  "politician": "井出庸生",
+  "year": 2023,
+  "organizations": [
+    "井出ようせい後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:41:41.267544",
+  "transaction_count": 16,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "（有）中込自動車センター タイヤ交換・オイル交換",
+      "amount": 196680,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "（有）中込自動車センター",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "イエローハット上田原店 自動車保険",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "長野県知事 阿部守一 自動車税",
+      "amount": 350,
+      "date": "R5/6/28",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "新火為注上保険株式会社 自動車保険",
+      "amount": 984010,
+      "date": "R5/6/28",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "篠原会計事務所 政治資金監査報酬",
+      "amount": 35000,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "佐久倫理法人会 会費（R5年4月～5月）",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "佐久南倫理法人会 会費（R5年6月～7月）",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "伸久南倫理法人会 会費（R5年8月～9月）",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "伸久南倫理法人会 会費（R5年10月～11月）",
+      "amount": null,
+      "date": "R5/11/18",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "伸次雨倉理法人会 会費（R5年2月～3月）",
+      "amount": null,
+      "date": "R5/8/19",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社崔島賜伝事勤所 動画撮影・編集",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "株式会社崔島賜伝事勤所 写真撮影",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "社会福祉法人梅の木福祉会",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "信州うえだ農業協同組合",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "川上村教育委員会",
+      "amount": null,
+      "date": "R5",
+      "organization": "井出ようせい後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051640.pdf"
+    }
+  ]
+}

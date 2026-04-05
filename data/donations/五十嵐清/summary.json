@@ -1,0 +1,26 @@
+{
+  "politician": "五十嵐清",
+  "organizations": [
+    "五十嵐清後援会総連合会"
+  ],
+  "generated_at": "2026-04-04T15:38:15.314701",
+  "2023": {
+    "total_income": 2996000,
+    "total_expense": 2341220,
+    "income_count": 1,
+    "expense_count": 6,
+    "income_by_type": {
+      "寄附": 2996000
+    },
+    "expense_by_type": {
+      "経常経費": 1441906,
+      "政治活動費": 899314
+    },
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 2996000
+      }
+    ]
+  }
+}

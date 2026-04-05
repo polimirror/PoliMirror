@@ -1,0 +1,112 @@
+{
+  "politician": "泉健太",
+  "year": 2022,
+  "organizations": [
+    "泉健太後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:12:05.440389",
+  "transaction_count": 11,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "須田梨雄",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "茨木久重",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "西田室平",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "西田雄",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "西川房代",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "朝倉健太",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（個人からの寄附）",
+      "summary2": "安積烈史",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金監査報酬",
+      "summary2": "久保美雄",
+      "amount": null,
+      "date": "2022/06/24",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金監査報酬源泉所得税",
+      "summary2": "伏見税務置",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "健友会開催事業",
+      "summary2": "イズミヤ六地蕎店",
+      "amount": null,
+      "date": "2022/11/24",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "日本郭侯株式会社",
+      "amount": null,
+      "date": "2022",
+      "organization": "泉健太後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k-3044.pdf"
+    }
+  ]
+}

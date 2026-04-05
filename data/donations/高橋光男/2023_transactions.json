@@ -1,0 +1,86 @@
+{
+  "politician": "高橋光男",
+  "year": 2023,
+  "organizations": [
+    "高橋みつお後援会",
+    "高橋みつお後援会(010815)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:13:54.866868",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "前年からの繰越金",
+      "summary2": "前年繰越",
+      "amount": 1760705,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "寄附",
+      "amount": 175003,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "高橋みつお未来フォーラム",
+      "amount": 620000,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "合計",
+      "amount": 2403841,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "消耗品費",
+      "amount": 30000,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "事務用品費",
+      "amount": 50000,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "経常経費合計",
+      "summary2": "合計",
+      "amount": 1843863,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "合計",
+      "amount": 2403841,
+      "date": "2023",
+      "organization": "高橋みつお後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010815.pdf"
+    }
+  ]
+}

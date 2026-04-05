@@ -1,0 +1,500 @@
+{
+  "politician": "北神圭朗",
+  "year": 2022,
+  "organizations": [
+    "北神圭朗会",
+    "北神圭朗後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:50:03.065632",
+  "transaction_count": 54,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "会費",
+      "summary2": "北神圭朗会総会会費収入",
+      "amount": 1156890,
+      "date": "2022",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "事業収入",
+      "summary2": "北神圭朗会懇親ゴルフ会会費収入",
+      "amount": 1156890,
+      "date": "2022",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "個人からの寄附",
+      "amount": 176000,
+      "date": "2022",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "消耗品費",
+      "summary2": "封筒製作費用",
+      "amount": 240460,
+      "date": "2022/09/29",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "消耗品費",
+      "summary2": "封筒代",
+      "amount": 273890,
+      "date": "2022/10/20",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "西村よしたか後援会",
+      "amount": 500000,
+      "date": "2022",
+      "organization": "北神圭朗会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3187.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 650000,
+      "date": "2022/06/05",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 0,
+      "date": "2022/11/27",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 0,
+      "date": "2022/08/30",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 0,
+      "date": "2022/09/25",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 0,
+      "date": "2022/10/23",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行その他の事業費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 0,
+      "date": "2022/12/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "光熱水費",
+      "amount": 54000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 5000,
+      "date": "2022/08/10",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 5000,
+      "date": "2022/10/11",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 5000,
+      "date": "2022/11/10",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "複合機使用料",
+      "amount": 8400,
+      "date": "2022/08/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "複合機使用料",
+      "amount": 8400,
+      "date": "2022/10/06",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "用紙・インク代",
+      "amount": 6000,
+      "date": "2022/08/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "用紙・インク代",
+      "amount": 6000,
+      "date": "2022/10/06",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "電話代",
+      "amount": 7000,
+      "date": "2022/03/28",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃",
+      "amount": 98000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "電話代",
+      "amount": 7000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "ETC通行料",
+      "amount": 3000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "後納郵便代",
+      "amount": 5000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "携帯電話代",
+      "amount": 8000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "駐車場代",
+      "amount": 5000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "事務所家賃",
+      "amount": 98000,
+      "date": "2022/12/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "PC メール復旧作業費",
+      "amount": 15000,
+      "date": "2022/06/28",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "はがき代",
+      "amount": 3000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 650000,
+      "date": "2022/04/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 600000,
+      "date": "2022/10/14",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 600000,
+      "date": "2022/11/15",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "郵送代",
+      "amount": 500000,
+      "date": "2022/02/18",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広告事業費",
+      "summary2": "LINE公式アカウント使用料",
+      "amount": 50000,
+      "date": "2022/11/10",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "広告事業費",
+      "summary2": "LINE公式アカウント使用料",
+      "amount": 50000,
+      "date": "",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 支 出",
+      "summary2": "LINE 公 式 ア カ ウ ン ト 使 用 料",
+      "amount": null,
+      "date": "R4/11/7",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 支 出",
+      "summary2": "ボ ネ ク タ 使 用 料",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 支 出",
+      "summary2": "ワ ッ ポ ン 代",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 支 出",
+      "summary2": "WEB シ ス テ ム 利 用 料",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政 治 資 金 パ ー テ ィ ー 開 催 事 業 費",
+      "summary2": "励 ま す 会 司 会 料",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政 治 資 金 パ ー テ ィ ー 開 催 事 業 費",
+      "summary2": "励 ま す 会 出 演 料",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政 治 資 金 パ ー テ ィ ー 開 催 事 業 費",
+      "summary2": "セ ミ ナ ー 開 催 費",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政 治 資 金 パ ー テ ィ ー 開 催 事 業 費",
+      "summary2": "励 ま す 会 開 催 費",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "総 会 開 催 費",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "バ ス ツ ア ー 代 金",
+      "amount": null,
+      "date": "R4/8/30",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "ハ ス ツ ア ー 茶 菓 代",
+      "amount": null,
+      "date": "R4/10/29",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "パ ス ツ ア ー 茶 菓 代",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "バ ス ツ ア ー 茶 菓 代",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "ボ ウ リ ン グ 大 会 景 品 代",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "ボ ウ リ ン グ 大 会 開 催 費",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "バ ス ツ ア ー 代 金",
+      "amount": null,
+      "date": null,
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "そ の 他 の 事 業 費",
+      "summary2": "励 む 会 開 催 費",
+      "amount": null,
+      "date": "R4/6/28",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "調 査 研 究 費",
+      "summary2": null,
+      "amount": null,
+      "date": "R4/8/7",
+      "organization": "北神圭朗後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3188.pdf"
+    }
+  ]
+}

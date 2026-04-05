@@ -1,0 +1,374 @@
+{
+  "politician": "末松信介",
+  "year": 2023,
+  "organizations": [
+    "末松信介後援会",
+    "末松信介後援会(010725)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:45:39.656969",
+  "transaction_count": 40,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "党費又は会費",
+      "summary2": "個人の負担する党費又は会費",
+      "amount": 5140,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 400000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 9540000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附者：田中武重",
+      "amount": 1100000,
+      "date": "R5/8/30",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 10000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 200000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附者：柏木粟",
+      "amount": 1200000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 100000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 100000,
+      "date": "R5/8/31",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 50000,
+      "date": "R5/8/31",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 30000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附者：後藤田",
+      "amount": 350000,
+      "date": "R5/8/31",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附者：永井",
+      "amount": 10000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附者：米田俊都子",
+      "amount": 150000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 200000,
+      "date": "R5/10/27",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 10000,
+      "date": "R5/10/31",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 10000,
+      "date": "R5/11/20",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（政治団体から）",
+      "amount": 500000,
+      "date": "R5/11/24",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 500000,
+      "date": "R5/11/24",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 300000,
+      "date": "R5/11/24",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 200000,
+      "date": "R5/11/26",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 500000,
+      "date": "R5/11/26",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（民主党参議院選挙区第一支部から）",
+      "amount": 1000000,
+      "date": "R5/11/24",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 300000,
+      "date": "R5/11/26",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 800000,
+      "date": "R5/10/24",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附（末松信介から）",
+      "amount": 900000,
+      "date": "R5/10/30",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 4400000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "株）ジェーシービー",
+      "amount": 36180,
+      "date": "R5/8/8",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "株）ジェーシービー",
+      "amount": 40400,
+      "date": "R5/8/8",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "光熱水費",
+      "summary2": "株）ジェーシービー",
+      "amount": 29870,
+      "date": "R5/9/28",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "駐車場代",
+      "summary2": "立花弘尊",
+      "amount": 5000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "駐車場代",
+      "summary2": "立花弘尊",
+      "amount": 15000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "駐車場代",
+      "summary2": "立花弘尊",
+      "amount": 1000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "駐車場代",
+      "summary2": "立花弘尊",
+      "amount": 2000,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "駐車場代",
+      "summary2": "立花弘尊",
+      "amount": 15000,
+      "date": "R5/11/28",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ボーイスカウト学戸笛2団",
+      "amount": 18780,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "渉外費",
+      "summary2": "レブドゥブフビれ明石店",
+      "amount": 34540,
+      "date": "",
+      "organization": "末松信介後援会(010725)",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "（有）高木印刷所",
+      "amount": 361800,
+      "date": "2023/10/30",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "（有）高木印刷所",
+      "amount": 404000,
+      "date": "",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "機関紙誌の発行事業費",
+      "summary2": "製作費",
+      "amount": 298700,
+      "date": "",
+      "organization": "末松信介後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010725.pdf"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "politician": "斉木武志",
+  "year": 2023,
+  "organizations": [
+    "斉木武志後援会（ＰＤＦ形式 277キロバ"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:38:21.230754",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "西日本旅客鉄道株式会社 JR乗車券代",
+      "amount": null,
+      "date": "2023",
+      "organization": "斉木武志後援会",
+      "source_url": "https://www.pref.fukui.lg.jp/doc/senkan/r5shuushi/shikinkanri-s_d/fil/185.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "東日本旅客鉄道株式会社 JR乗車券代",
+      "amount": null,
+      "date": "2023",
+      "organization": "斉木武志後援会",
+      "source_url": "https://www.pref.fukui.lg.jp/doc/senkan/r5shuushi/shikinkanri-s_d/fil/185.pdf"
+    }
+  ]
+}

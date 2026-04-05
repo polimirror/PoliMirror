@@ -1,0 +1,63 @@
+{
+  "politician": "新藤義孝",
+  "organizations": [
+    "新藤信夫後援会",
+    "新藤義孝後援会",
+    "税理士による新藤義孝後援会"
+  ],
+  "generated_at": "2026-04-04T18:40:56.940528",
+  "2022": {
+    "total_income": 26961505,
+    "total_expense": 4534798,
+    "income_count": 2,
+    "expense_count": 6,
+    "income_by_type": {
+      "寄附": 26403505,
+      "会費": 558000
+    },
+    "expense_by_type": {
+      "その他の事業費": 3979910,
+      "組織活動費": 441980,
+      "本部又は支部に対して供与した交付金に係る支出": 62908,
+      "交際費": 50000
+    },
+    "donor_ranking": [
+      {
+        "name": "寄附",
+        "amount": 26403505
+      },
+      {
+        "name": "会費",
+        "amount": 558000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 18864103,
+    "total_expense": 333375,
+    "income_count": 4,
+    "expense_count": 2,
+    "income_by_type": {
+      "寄附": 18844103,
+      "個人の負担する党費又は会費": 20000
+    },
+    "expense_by_type": {
+      "政治活動費": 223575,
+      "組織活動費": 109800
+    },
+    "donor_ranking": [
+      {
+        "name": "新藤義孝",
+        "amount": 18235319
+      },
+      {
+        "name": "個人からの寄附",
+        "amount": 608784
+      },
+      {
+        "name": "会費",
+        "amount": 20000
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "politician": "枝野幸男",
+  "organizations": [
+    "税理士による枝野幸男後援会"
+  ],
+  "generated_at": "2026-04-04T19:00:00.711956",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 5,
+    "income_by_type": {
+      "寄附": 0
+    },
+    "expense_by_type": {
+      "事務所費": 0,
+      "政治活動費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "東京信越税理士政治連盟",
+        "amount": 0
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 4,
+    "income_by_type": {},
+    "expense_by_type": {
+      "総務経費": 0,
+      "組織活動費": 0,
+      "支出": 0
+    },
+    "donor_ranking": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "politician": "江原くみ子",
+  "year": 2022,
+  "organizations": [
+    "江原くみ子と新しい政治をつくる会",
+    "江原ひろゆきを育てる会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:10:34.187836",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 1851619,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 1562619,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "翌年への繰越額",
+      "summary2": "",
+      "amount": 289000,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 448694,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出の内訳合計",
+      "summary2": "",
+      "amount": 680271,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "その他合計",
+      "summary2": "",
+      "amount": 1171348,
+      "date": "",
+      "organization": "江原くみ子と新しい政治をつくる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244184/04_200890.pdf"
+    }
+  ]
+}

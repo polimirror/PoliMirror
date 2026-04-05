@@ -1,0 +1,16 @@
+{
+  "politician": "渡辺勝幸",
+  "organizations": [
+    "渡辺勝幸後援会"
+  ],
+  "generated_at": "2026-04-04T19:19:48.119426",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  }
+}

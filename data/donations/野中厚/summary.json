@@ -1,0 +1,60 @@
+{
+  "politician": "野中厚",
+  "organizations": [
+    "野中あつし君を育てる会",
+    "野中よしこ後援会",
+    "野中一城後援会"
+  ],
+  "generated_at": "2026-04-04T20:00:34.172189",
+  "2022": {
+    "total_income": 3927400,
+    "total_expense": 12449295,
+    "income_count": 3,
+    "expense_count": 3,
+    "income_by_type": {
+      "政治資金パーティーの対価に係る収入": 2000000,
+      "機関紙誌の発行その他の事業による収入": 1927400
+    },
+    "expense_by_type": {
+      "寄附": 11178036,
+      "政治資金パーティー開催事業費": 1271259
+    },
+    "donor_ranking": [
+      {
+        "name": "事業収入",
+        "amount": 1927400
+      },
+      {
+        "name": "野中あつし君を育てる会",
+        "amount": 1000000
+      },
+      {
+        "name": "サイレキ建設工業（株）",
+        "amount": 1000000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 1150000,
+    "total_expense": 76850,
+    "income_count": 2,
+    "expense_count": 1,
+    "income_by_type": {
+      "政治資金パーティーの対価に係る収入": 1000000,
+      "寄附金": 150000
+    },
+    "expense_by_type": {
+      "寄附金": 76850
+    },
+    "donor_ranking": [
+      {
+        "name": "サイレキ建設工業(株) 野中",
+        "amount": 1000000
+      },
+      {
+        "name": "公明党埼玉県本部",
+        "amount": 150000
+      }
+    ]
+  }
+}

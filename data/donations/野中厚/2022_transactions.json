@@ -1,0 +1,78 @@
+{
+  "politician": "野中厚",
+  "year": 2022,
+  "organizations": [
+    "野中あつし君を育てる会",
+    "野中よしこ後援会",
+    "野中一城後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T20:00:34.169989",
+  "transaction_count": 7,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "事業収入",
+      "amount": 1927400,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価に係る収入",
+      "summary2": "野中あつし君を育てる会",
+      "amount": 1000000,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価に係る収入",
+      "summary2": "サイレキ建設工業（株）",
+      "amount": 1000000,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "政治資金パーティーの対価に係る収入小計",
+      "summary2": "",
+      "amount": 1000000,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "マツオカ印刷（株）案内状他印刷代",
+      "amount": 1070840,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "（株）梅林堂",
+      "amount": 200419,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附",
+      "summary2": "その他の経費",
+      "amount": 11178036,
+      "date": "2022",
+      "organization": "野中あつし君を育てる会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244202/04_100560.pdf"
+    }
+  ]
+}

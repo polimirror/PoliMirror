@@ -1,0 +1,31 @@
+{
+  "politician": "伊藤孝恵",
+  "organizations": [
+    "伊藤たかえ後援会"
+  ],
+  "generated_at": "2026-04-04T15:44:03.866343",
+  "2022": {
+    "total_income": 985702,
+    "total_expense": 4895157,
+    "income_count": 3,
+    "expense_count": 6,
+    "income_by_type": {
+      "法人その他の団体からの寄附": 785702,
+      "個人の負担する党費又は会費": 200000
+    },
+    "expense_by_type": {
+      "選挙関係費": 4306731,
+      "備品・消耗品費": 588426
+    },
+    "donor_ranking": [
+      {
+        "name": "公明党兵庫県本部",
+        "amount": 785702
+      },
+      {
+        "name": "党費・会費",
+        "amount": 200000
+      }
+    ]
+  }
+}

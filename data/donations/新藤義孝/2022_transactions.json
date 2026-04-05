@@ -1,0 +1,105 @@
+{
+  "politician": "新藤義孝",
+  "year": 2022,
+  "organizations": [
+    "新藤信夫後援会",
+    "新藤義孝後援会",
+    "税理士による新藤義孝後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:40:56.938371",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "寄附",
+      "amount": 26403505,
+      "date": "2022",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "会費",
+      "summary2": "会費",
+      "amount": 558000,
+      "date": "2022",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）三越伊勢丹 池袋本店",
+      "amount": 170170,
+      "date": "2022/04/29",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）三越伊勢丹 池袋本店",
+      "amount": 79530,
+      "date": "2022/08/26",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）三越伊勢丹 池袋本店",
+      "amount": 192280,
+      "date": "2022/08/26",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "交際費",
+      "summary2": "その他",
+      "amount": 50000,
+      "date": "2022",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "その他",
+      "amount": 3979910,
+      "date": "2022",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "合計",
+      "amount": 2516820,
+      "date": "2022",
+      "organization": "新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244461/04_307450.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 62908,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244466/04_308030.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 62908,
+      "date": "",
+      "organization": "税理士による新藤義孝後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244466/04_308030.pdf"
+    }
+  ]
+}

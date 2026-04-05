@@ -1,0 +1,86 @@
+{
+  "politician": "谷公一",
+  "year": 2022,
+  "organizations": [
+    "谷公一後援会",
+    "谷公一後援会(010871)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:55:40.162312",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "ブルーリッジホテル",
+      "amount": 9270000,
+      "date": "2022/07/23",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "その他",
+      "amount": 5540000,
+      "date": "",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附合計",
+      "summary2": "",
+      "amount": 14810000,
+      "date": "",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "谷今一政経セ",
+      "amount": 569823,
+      "date": "",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "日本システム印刷",
+      "amount": 58440,
+      "date": "2022/08/19",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "橘秀太郎後援会",
+      "amount": 100000,
+      "date": "2022/08/19",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "自由民主党兵庫県第五選挙区支",
+      "amount": 100000,
+      "date": "2022/10/04",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 11100000,
+      "date": "",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0853syusi.pdf"
+    }
+  ]
+}

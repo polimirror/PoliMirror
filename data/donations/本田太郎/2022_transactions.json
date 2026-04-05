@@ -1,0 +1,384 @@
+{
+  "politician": "本田太郎",
+  "year": 2022,
+  "organizations": [
+    "本田太郎後援会",
+    "本田太郎政策研究所",
+    "税理士による本田太郎後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:50:38.449136",
+  "transaction_count": 41,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "本田太郎政策研究",
+      "amount": 200000,
+      "date": "2022",
+      "organization": "本田太郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3667-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "鵜 コ ザ イ 印 刷",
+      "amount": 146960,
+      "date": "2022/10/14",
+      "organization": "本田太郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3667-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費・会費",
+      "amount": 5832060,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "津野義則",
+      "amount": 100000,
+      "date": "2022/10/18",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "出陽一朗",
+      "amount": 120000,
+      "date": "2022/10/18",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "島和宏",
+      "amount": 310000,
+      "date": "2022/10/18",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 20000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 330000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "須藤学治",
+      "amount": 300000,
+      "date": "2022/8/24",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 800000,
+      "date": "2022/12/16",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 300000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 1000000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人からの寄附",
+      "summary2": "寄附",
+      "amount": 1040000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "個人からの寄附小計",
+      "summary2": "個人からの寄附",
+      "amount": 6440000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "白壁土壁修繕代",
+      "amount": 90800,
+      "date": "2022/4/26",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "業務用ソフト設定代",
+      "amount": 44000,
+      "date": "2022/10/31",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "産業廃棄物処理費",
+      "amount": 45590,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "JR乗車券代",
+      "amount": 7110,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "JR乗車券代",
+      "amount": 248307,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "ノートパソコン代",
+      "amount": 1308672,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "竹中鎖詰（株）",
+      "amount": 56600,
+      "date": "2022/4/14",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "料亭",
+      "amount": 10830,
+      "date": "2022/4/16",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）高山屋玉川店",
+      "amount": 30000,
+      "date": "2022/6/10",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "炭火串焼灯志",
+      "amount": 39000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（株）永田町天竹",
+      "amount": 39000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "ダイニング舞虎",
+      "amount": 30000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "（有）料亭ふみや",
+      "amount": 26800,
+      "date": "2022/4/28",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費",
+      "amount": 26600,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費",
+      "amount": 26400,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費",
+      "amount": 26500,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "交際費",
+      "amount": 20900,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "組織活動費小計",
+      "summary2": "組織活動費",
+      "amount": 321900,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "本田太郎君を励ます会",
+      "amount": 236700,
+      "date": "2022/4/4",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "田商ピーアール（株）",
+      "amount": 1053450,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "都市センターホテル（株）",
+      "amount": 1091080,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "皆川康君と明日をー",
+      "amount": 20000,
+      "date": "2022/11/8",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "創り政治経済研究所",
+      "amount": 20000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "勝風会",
+      "amount": 20000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "足立数之国政セミナー",
+      "amount": 20000,
+      "date": "2022",
+      "organization": "本田太郎政策研究所",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k2171-a.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "近畿税理士政治連盟からの寄附",
+      "amount": 110000,
+      "date": "2022",
+      "organization": "税理士による本田太郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3410.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "本田太郎政策研究所",
+      "amount": null,
+      "date": null,
+      "organization": "税理士による本田太郎後援会",
+      "source_url": "https://www.pref.kyoto.jp/senkan/r5teikikouhyou/documents/4-k3410.pdf"
+    }
+  ]
+}

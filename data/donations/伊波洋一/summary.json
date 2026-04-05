@@ -1,0 +1,33 @@
+{
+  "politician": "伊波洋一",
+  "organizations": [
+    "134伊波一男後援会 （PDF 221.",
+    "135伊波一男後援会 （PDF 189.",
+    "137伊波一男後援会 （PDF 146."
+  ],
+  "generated_at": "2026-04-04T15:43:07.402430",
+  "2023": {
+    "total_income": 489,
+    "total_expense": 581860,
+    "income_count": 2,
+    "expense_count": 2,
+    "income_by_type": {
+      "特定寄附": 284,
+      "その他の寄附": 205
+    },
+    "expense_by_type": {
+      "本部又は支部に対して供与した交付金に係る支出": 340930,
+      "支出総額": 240930
+    },
+    "donor_ranking": [
+      {
+        "name": "公明党沖縄第二総支部",
+        "amount": 284
+      },
+      {
+        "name": "岸本一徳",
+        "amount": 205
+      }
+    ]
+  }
+}

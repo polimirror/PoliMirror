@@ -1,0 +1,42 @@
+{
+  "politician": "村井英樹",
+  "year": 2022,
+  "organizations": [
+    "村井ひでき三室地区後援会",
+    "村井英樹を囲む公認会計士の会",
+    "税理士による村井ひでき後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:53:14.089569",
+  "transaction_count": 3,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "関東信越税理士政治連盟",
+      "amount": 100000,
+      "date": "令和4年度",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100430.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "小林忠一（代表者）",
+      "amount": 100000,
+      "date": "令和4年度",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100430.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "本部又は支部への交付金",
+      "amount": 203790,
+      "date": "令和4年度",
+      "organization": "税理士による村井ひでき後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/244198/04_100430.pdf"
+    }
+  ]
+}

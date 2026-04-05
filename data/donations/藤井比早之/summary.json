@@ -1,0 +1,49 @@
+{
+  "politician": "藤井比早之",
+  "organizations": [
+    "藤井ひさゆき後援会",
+    "藤井ひさゆき後援会(011273)"
+  ],
+  "generated_at": "2026-04-04T19:37:31.601380",
+  "2022": {
+    "total_income": 1500000,
+    "total_expense": 394944,
+    "income_count": 1,
+    "expense_count": 5,
+    "income_by_type": {
+      "寄附": 1500000
+    },
+    "expense_by_type": {
+      "経常経費": 244944,
+      "事務所費": 150000
+    },
+    "donor_ranking": [
+      {
+        "name": "民主党兵庫県第四選挙区支部",
+        "amount": 1500000
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 4000000,
+    "total_expense": 200000,
+    "income_count": 2,
+    "expense_count": 4,
+    "income_by_type": {
+      "寄附金": 4000000
+    },
+    "expense_by_type": {
+      "事務所費": 200000
+    },
+    "donor_ranking": [
+      {
+        "name": "藤井比早之",
+        "amount": 2500000
+      },
+      {
+        "name": "民主党兵庫県第四選挙区支部",
+        "amount": 1500000
+      }
+    ]
+  }
+}

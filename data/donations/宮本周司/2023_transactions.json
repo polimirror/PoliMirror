@@ -1,0 +1,473 @@
+{
+  "politician": "宮本周司",
+  "year": 2023,
+  "organizations": [
+    "宮本しゅうじ後援会",
+    "税理士による宮本周司後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:05:58.253025",
+  "transaction_count": 51,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費を納入した者の負担",
+      "amount": 18636490,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "全国商工政治",
+      "amount": 18500000,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "令和5年分収入",
+      "amount": 3608043,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "ガソリン代",
+      "amount": 14080,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "コピー機メンテナンス代",
+      "amount": 598,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車整備車検代",
+      "amount": 390,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "消耗品費",
+      "amount": 559,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料金12月分",
+      "amount": 100200,
+      "date": "2023/12",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "R4年年末調整事務報酬等",
+      "amount": 100200,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "家賃・駐車場代3月分",
+      "amount": 100200,
+      "date": "2023/3",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "OA機器リース代",
+      "amount": 741684,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "電話料金2月分",
+      "amount": 12859,
+      "date": "2023/2",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "家賃・駐車場代2月分",
+      "amount": 100200,
+      "date": "2023/2",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 40407,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 15250,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 45399,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "リース料",
+      "amount": 50,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 750433,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "家賃・駐車場代7月分",
+      "amount": 100200,
+      "date": "2023/7",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "OA機器リース代",
+      "amount": 50000,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 45195,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "税理士法人マネジメント",
+      "amount": 25850,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "OA機器リース代",
+      "amount": 100200,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 100200,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車保険料",
+      "amount": 48544,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "秘書宿泊費",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "家賃・駐車場代R6年1月分",
+      "amount": 100200,
+      "date": "2024/1",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "OA機器リース代",
+      "amount": 67,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "自動車リース料",
+      "amount": 663854,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "備品",
+      "amount": 245900,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "OA機器リース代",
+      "amount": 100200,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "自動車リース料",
+      "amount": 100200,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "その他の支出",
+      "amount": 425089,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 56991,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 2010,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 12668,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 19690,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 18090,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 24090,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 68239,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 16800,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 89000,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 15100,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "飲食代",
+      "amount": 119600,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "その他の支出",
+      "amount": 1424123,
+      "date": "2023",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "淑和政策研究会秘書会",
+      "amount": 18000,
+      "date": "2023/08/18",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "NPO涼人エコ未来塾",
+      "amount": 18000,
+      "date": "2023/08/18",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "渉外費",
+      "summary2": "北國新聞社",
+      "amount": 316860,
+      "date": "",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "辰口グッドナイン",
+      "amount": 40000,
+      "date": "2023/09/28",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "島十代田プロダクション",
+      "amount": 80660,
+      "date": "",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "宣伝事業費",
+      "summary2": "エヌ・エー ビデオプロダク",
+      "amount": 424123,
+      "date": "",
+      "organization": "宮本しゅうじ後援会",
+      "source_url": "https://www.pref.ishikawa.lg.jp/senkan/syuushihoukoku/documents/2023200007.pdf"
+    }
+  ]
+}

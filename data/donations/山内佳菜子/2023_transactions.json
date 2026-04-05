@@ -1,0 +1,13 @@
+{
+  "politician": "山内佳菜子",
+  "year": 2023,
+  "organizations": [
+    "山内かなこ後援会",
+    "山内和憲後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:21:46.309324",
+  "transaction_count": 0,
+  "transactions": []
+}

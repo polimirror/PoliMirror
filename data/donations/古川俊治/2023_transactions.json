@@ -1,0 +1,42 @@
+{
+  "politician": "古川俊治",
+  "year": 2023,
+  "organizations": [
+    "公認会計士による古川俊治後援会",
+    "古川としはる岩槻区後援会「岩槻創俊会」",
+    "古川としはる後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T17:52:18.488490",
+  "transaction_count": 3,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "法人その他の団体からの寄附",
+      "summary2": "記載なし",
+      "amount": 1670000,
+      "date": "2024",
+      "organization": "古川としはる岩槻区後援会「岩槻創俊会」",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260704/05_100580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "令和4年分監査人報酬",
+      "amount": null,
+      "date": "2024",
+      "organization": "古川としはる岩槻区後援会「岩槻創俊会」",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260704/05_100580.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "古川俊治国政報告会～爽秋のつどい",
+      "amount": null,
+      "date": "2024",
+      "organization": "古川としはる岩槻区後援会「岩槻創俊会」",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260704/05_100580.pdf"
+    }
+  ]
+}

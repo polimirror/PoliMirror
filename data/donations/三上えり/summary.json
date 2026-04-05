@@ -1,0 +1,57 @@
+{
+  "politician": "三上えり",
+  "organizations": [
+    "三上えり後援会（令和６年11月15日訂正",
+    "三上えり後援会（令和７年11月６日訂正）"
+  ],
+  "generated_at": "2026-04-04T15:30:11.829801",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 3,
+    "expense_count": 14,
+    "income_by_type": {
+      "寄附": 0
+    },
+    "expense_by_type": {
+      "経常経費": 0,
+      "政治活動費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "個人からの寄附",
+        "amount": 0
+      },
+      {
+        "name": "立憲民主党広島県総支部連合会",
+        "amount": 0
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 260000,
+    "total_expense": 614679,
+    "income_count": 2,
+    "expense_count": 20,
+    "income_by_type": {
+      "個人からの寄附": 260000
+    },
+    "expense_by_type": {
+      "事務所費": 579780,
+      "組織活動費": 34899,
+      "寄附金": 0,
+      "政治活動費": 0,
+      "広報宣伝費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "赤坂志津林305",
+        "amount": 260000
+      },
+      {
+        "name": "沢一郎",
+        "amount": 0
+      }
+    ]
+  }
+}

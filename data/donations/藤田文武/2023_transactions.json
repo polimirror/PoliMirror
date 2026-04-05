@@ -1,0 +1,67 @@
+{
+  "politician": "藤田文武",
+  "year": 2023,
+  "organizations": [
+    "藤田文武後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:38:22.611450",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "戸場伸幸",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附金",
+      "summary2": "日本維新の会国会議員団",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "講師分担金",
+      "summary2": "講師分担金",
+      "amount": 20000,
+      "date": "2023",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事業費",
+      "summary2": "事業費",
+      "amount": 1231000,
+      "date": "2023",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "講師分担金",
+      "summary2": "講師分担金",
+      "amount": 10000,
+      "date": "2023/10/16",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事業費",
+      "summary2": "事業費",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "藤田文武後援会",
+      "source_url": "https://www.pref.osaka.lg.jp/documents/96720/05hc0248.pdf"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "politician": "舟山康江",
+  "year": 2023,
+  "organizations": [
+    "税理士による舟山やすえ後援会",
+    "舟山まさお後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:32:04.133668",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山形県税理士政治連盟",
+      "amount": 150000,
+      "date": "2024/10/25",
+      "organization": "税理士による舟山やすえ後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-295.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "山形県税理士政治連盟",
+      "amount": 40000,
+      "date": "2024/10/25",
+      "organization": "税理士による舟山やすえ後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-295.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "高橋龍二",
+      "amount": 190000,
+      "date": null,
+      "organization": "税理士による舟山やすえ後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-295.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附合計",
+      "summary2": "",
+      "amount": 380000,
+      "date": null,
+      "organization": "税理士による舟山やすえ後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-295.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 515616,
+      "date": null,
+      "organization": "税理士による舟山やすえ後援会",
+      "source_url": "https://www.pref.yamagata.jp/documents/48282/06-03-295.pdf"
+    }
+  ]
+}

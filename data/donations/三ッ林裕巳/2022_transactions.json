@@ -1,0 +1,12 @@
+{
+  "politician": "三ッ林裕巳",
+  "year": 2022,
+  "organizations": [
+    "三ッ林裕已後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:27:02.528831",
+  "transaction_count": 0,
+  "transactions": []
+}

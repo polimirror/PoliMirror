@@ -1,0 +1,31 @@
+{
+  "politician": "杉尾秀哉",
+  "year": 2023,
+  "organizations": [
+    "杉尾ひでや後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:51:17.786222",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "合計",
+      "summary1": "収支の総括",
+      "summary2": "総収入",
+      "amount": 2639429,
+      "date": "2023",
+      "organization": "杉尾ひでや後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051710-1.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "交付金",
+      "amount": 240000,
+      "date": "2023",
+      "organization": "杉尾ひでや後援会",
+      "source_url": "https://www.pref.nagano.lg.jp/senkan/syuushihoukoku/r05/documents/051710-1.pdf"
+    }
+  ]
+}

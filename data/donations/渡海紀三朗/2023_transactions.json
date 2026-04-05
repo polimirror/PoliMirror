@@ -1,0 +1,32 @@
+{
+  "politician": "渡海紀三朗",
+  "year": 2023,
+  "organizations": [
+    "税理士による渡海紀三朗後援会",
+    "税理士による渡海紀三朗後援会(01076"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:19:31.219850",
+  "transaction_count": 2,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "党費又は会費",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "税理士による渡海紀三朗後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010762.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "本年の収入額",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "税理士による渡海紀三朗後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010762.pdf"
+    }
+  ]
+}

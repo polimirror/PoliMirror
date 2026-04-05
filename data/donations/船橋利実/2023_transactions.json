@@ -1,0 +1,139 @@
+{
+  "politician": "船橋利実",
+  "year": 2023,
+  "organizations": [
+    "4153_船橋利実連合後援会(R7.4."
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:33:04.519826",
+  "transaction_count": 14,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "法人その他の団体からの寄附",
+      "amount": 20130000,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "道路工業株式会社",
+      "amount": 200000,
+      "date": "2023/07/10",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "葛原建設工業株式会社",
+      "amount": 200000,
+      "date": "2023/07/11",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "",
+      "amount": 200000,
+      "date": "2023/07/01",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "",
+      "amount": 300000,
+      "date": "2023/07/14",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "政治資金パーティーの対価",
+      "summary2": "",
+      "amount": 200000,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会食代",
+      "summary2": "ITRATTORIA CREATTA",
+      "amount": 104060,
+      "date": "2023/12/04",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会食代",
+      "summary2": "焼肉トラジ",
+      "amount": 65838,
+      "date": "2023/12/08",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会食代",
+      "summary2": "輝ケーエキスプレス",
+      "amount": 104060,
+      "date": "2023/05/24",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "会食代",
+      "summary2": "北一蔵重商店",
+      "amount": 65838,
+      "date": "2023/08/24",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "会議費",
+      "amount": 1316662,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "旅費交通費",
+      "amount": 376000,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 34027298,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 23005275,
+      "date": "2023",
+      "organization": "船橋利実連合後援会",
+      "source_url": "https://www.pref.hokkaido.lg.jp/fs/1/2/1/2/2/3/5/6/_/4153_%E8%88%B9%E6%A9%8B%E5%88%A9%E5%AE%9F%E9%80%A3%E5%90%88%E5%BE%8C%E6%8F%B4%E4%BC%9A(R7.4.2%E8%A8%82%E6%AD%A3).pdf"
+    }
+  ]
+}

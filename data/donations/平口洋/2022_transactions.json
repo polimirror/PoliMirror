@@ -1,0 +1,150 @@
+{
+  "politician": "平口洋",
+  "year": 2022,
+  "organizations": [
+    "公認会計士による平口洋後援会",
+    "平口洋後援会",
+    "平口洋政経研究会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:35:50.789303",
+  "transaction_count": 15,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する寄附",
+      "summary2": "平口洋",
+      "amount": 10000000,
+      "date": "R4/12/20",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "平口ひろしと明日を語る会",
+      "amount": 9683000,
+      "date": "R4/4/18",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "森田会計",
+      "amount": 218959,
+      "date": "R4/11/14",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "日本郵便",
+      "amount": 171441,
+      "date": "R4/12/19",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大野石油店",
+      "amount": 50980,
+      "date": "R4/2/28",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "新経済システム開発協同組合",
+      "amount": 101838,
+      "date": "R4/3/28",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "組織活動費",
+      "summary2": "大野石油店",
+      "amount": 145847,
+      "date": "R4/4/14",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治資金パーティー開催事業費",
+      "summary2": "自由民主党広島県第二選挙区",
+      "amount": 3500000,
+      "date": "R4/6/16",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 19683000,
+      "date": "2022",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "支出合計",
+      "summary2": "",
+      "amount": 14033606,
+      "date": "2022",
+      "organization": "平口洋後援会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549022.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する費用又は会費",
+      "summary2": "",
+      "amount": 100000,
+      "date": "2022",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549023.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附（イを除く。）",
+      "summary2": "",
+      "amount": 100000,
+      "date": "2022",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "事務所費",
+      "summary2": "資料作成料",
+      "amount": 68020,
+      "date": "2022",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549023.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "経常経費",
+      "summary2": "監査料",
+      "amount": 68020,
+      "date": "2022",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549023.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "繰越額",
+      "summary2": "前年からの繰越額",
+      "amount": 2796073,
+      "date": "2022",
+      "organization": "平口洋政経研究会",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/549023.pdf"
+    }
+  ]
+}

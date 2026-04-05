@@ -1,0 +1,77 @@
+{
+  "politician": "尾花瑛仁",
+  "year": 2023,
+  "organizations": [
+    "尾花あきひと後援会",
+    "尾花正明後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:20:42.543087",
+  "transaction_count": 7,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "党費又は会費",
+      "summary2": "個人の負担する党費又は会費",
+      "amount": 1350000,
+      "date": "R5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "甲斐茂夫からの寄附",
+      "amount": 1000000,
+      "date": "R5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "尹薇周一からの寄附",
+      "amount": 100000,
+      "date": "R5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "川泰正からの寄附",
+      "amount": 100000,
+      "date": "R5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "機関紙ポスティング",
+      "amount": 358600,
+      "date": "2023/6/30",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "バス借り上げ料（有）エスケー交通",
+      "amount": 204000,
+      "date": "2023/6/30",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "令和5年分収入",
+      "amount": 1619036,
+      "date": "R5",
+      "organization": "尾花あきひと後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302830.pdf"
+    }
+  ]
+}

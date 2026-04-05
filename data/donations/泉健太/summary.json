@@ -1,0 +1,67 @@
+{
+  "politician": "泉健太",
+  "organizations": [
+    "泉健太後援会"
+  ],
+  "generated_at": "2026-04-04T19:12:05.442117",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 7,
+    "expense_count": 4,
+    "income_by_type": {
+      "寄附（個人からの寄附）": 0
+    },
+    "expense_by_type": {
+      "政治資金監査報酬": 0,
+      "政治資金監査報酬源泉所得税": 0,
+      "健友会開催事業": 0,
+      "その他の事業費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "須田梨雄",
+        "amount": 0
+      },
+      {
+        "name": "茨木久重",
+        "amount": 0
+      },
+      {
+        "name": "西田室平",
+        "amount": 0
+      },
+      {
+        "name": "西田雄",
+        "amount": 0
+      },
+      {
+        "name": "西川房代",
+        "amount": 0
+      },
+      {
+        "name": "朝倉健太",
+        "amount": 0
+      },
+      {
+        "name": "安積烈史",
+        "amount": 0
+      }
+    ]
+  },
+  "2023": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 6,
+    "income_by_type": {},
+    "expense_by_type": {
+      "政治資金監査報酬": 0,
+      "機関紙誌の発行事業費": 0,
+      "郵送代": 0,
+      "その他の事業費": 0,
+      "会場使用料": 0
+    },
+    "donor_ranking": []
+  }
+}

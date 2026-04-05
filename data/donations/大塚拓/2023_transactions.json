@@ -1,0 +1,70 @@
+{
+  "politician": "大塚拓",
+  "year": 2023,
+  "organizations": [
+    "大塚拓入間市後援会",
+    "大塚拓市町議会議員協議会",
+    "大塚拓後援会",
+    "大塚拓日高市後援会"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T18:03:52.845485",
+  "transaction_count": 6,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "埼玉県入間市豊岡1-2-23",
+      "amount": null,
+      "date": "2023/06/19",
+      "organization": "大塚拓入間市後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260812/05_302190.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "会費",
+      "amount": 1695000,
+      "date": "2023",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260688/05_100090.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "大塚拓「新緑の集い」",
+      "amount": 1695000,
+      "date": "2023",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260688/05_100090.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の収入額",
+      "summary2": "合計",
+      "amount": 2160436,
+      "date": "2023",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260688/05_100090.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の支出",
+      "summary2": "案内状等印刷代",
+      "amount": 167077,
+      "date": "2023",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260688/05_100090.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "本年の支出額",
+      "summary2": "合計",
+      "amount": 1167077,
+      "date": "2023",
+      "organization": "大塚拓後援会",
+      "source_url": "https://www.pref.saitama.lg.jp/documents/260688/05_100090.pdf"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "politician": "黒田征樹",
+  "organizations": [
+    "黒田まさき後援会",
+    "黒田市政研究会"
+  ],
+  "generated_at": "2026-04-04T20:24:22.235100",
+  "2023": {
+    "total_income": 0,
+    "total_expense": 301600,
+    "income_count": 0,
+    "expense_count": 3,
+    "income_by_type": {},
+    "expense_by_type": {
+      "印刷製本費": 301600,
+      "政治資金パーティー開催事業費": 0
+    },
+    "donor_ranking": []
+  }
+}

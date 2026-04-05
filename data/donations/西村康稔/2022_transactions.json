@@ -1,0 +1,88 @@
+{
+  "politician": "西村康稔",
+  "year": 2022,
+  "organizations": [
+    "税理士による西村やすとし後援会",
+    "西村やすとし後援会",
+    "西村康稔を囲む公認会計士の会",
+    "西村康稔を囲む公認会計士の会(01104"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:41:53.578550",
+  "transaction_count": 8,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "近畿税理士政治連盟",
+      "amount": null,
+      "date": "2022",
+      "organization": "税理士による西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/0754syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "個人の負担する党費又は会費",
+      "summary2": "",
+      "amount": 301000,
+      "date": "R4",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "寄附",
+      "summary2": "",
+      "amount": 480000,
+      "date": "R4",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "収入合計",
+      "summary2": "",
+      "amount": 907800,
+      "date": "R4",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "明石ゴルフコンペ",
+      "amount": null,
+      "date": "2022/05/20",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "淡路ゴルフコンペ",
+      "amount": null,
+      "date": "2022/05/30",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "明石国政報告会",
+      "amount": null,
+      "date": "2022/12/11",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "その他の事業費",
+      "summary2": "淡路国政報告会",
+      "amount": null,
+      "date": "2022/12/11",
+      "organization": "西村やすとし後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/documents/1032syusi.pdf"
+    }
+  ]
+}

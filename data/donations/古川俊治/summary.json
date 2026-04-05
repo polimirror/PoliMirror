@@ -1,0 +1,37 @@
+{
+  "politician": "古川俊治",
+  "organizations": [
+    "公認会計士による古川俊治後援会",
+    "古川としはる岩槻区後援会「岩槻創俊会」",
+    "古川としはる後援会"
+  ],
+  "generated_at": "2026-04-04T17:52:18.489013",
+  "2022": {
+    "total_income": 0,
+    "total_expense": 0,
+    "income_count": 0,
+    "expense_count": 0,
+    "income_by_type": {},
+    "expense_by_type": {},
+    "donor_ranking": []
+  },
+  "2023": {
+    "total_income": 1670000,
+    "total_expense": 0,
+    "income_count": 1,
+    "expense_count": 2,
+    "income_by_type": {
+      "法人その他の団体からの寄附": 1670000
+    },
+    "expense_by_type": {
+      "事務所費": 0,
+      "政治資金パーティー開催事業費": 0
+    },
+    "donor_ranking": [
+      {
+        "name": "記載なし",
+        "amount": 1670000
+      }
+    ]
+  }
+}

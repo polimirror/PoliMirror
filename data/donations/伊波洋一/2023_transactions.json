@@ -1,0 +1,60 @@
+{
+  "politician": "伊波洋一",
+  "year": 2023,
+  "organizations": [
+    "134伊波一男後援会 （PDF 221.",
+    "135伊波一男後援会 （PDF 189.",
+    "137伊波一男後援会 （PDF 146."
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T15:43:07.401876",
+  "transaction_count": 5,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "特定寄附",
+      "summary2": "公明党沖縄第二総支部",
+      "amount": 284,
+      "date": "R4/9/8",
+      "organization": "伊波一男後援会",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/022/959/136-r4ihakazuokoenkai.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "その他の寄附",
+      "summary2": "岸本一徳",
+      "amount": 205,
+      "date": "",
+      "organization": "伊波一男後援会",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/022/959/136-r4ihakazuokoenkai.pdf"
+    },
+    {
+      "record_type": "合計",
+      "summary1": "寄附計",
+      "summary2": "",
+      "amount": 77864,
+      "date": "",
+      "organization": "伊波一男後援会",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/022/959/136-r4ihakazuokoenkai.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "本部又は支部に対して供与した交付金に係る支出",
+      "summary2": "",
+      "amount": 340930,
+      "date": "",
+      "organization": "伊波一男後援会",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/022/959/136-r4ihakazuokoenkai.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "支出総額",
+      "summary2": "",
+      "amount": 240930,
+      "date": "",
+      "organization": "伊波一男後援会",
+      "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/022/959/136-r4ihakazuokoenkai.pdf"
+    }
+  ]
+}

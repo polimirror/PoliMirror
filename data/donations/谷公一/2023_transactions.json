@@ -1,0 +1,104 @@
+{
+  "politician": "谷公一",
+  "year": 2023,
+  "organizations": [
+    "谷公一後援会",
+    "谷公一後援会(010871)"
+  ],
+  "source": "都道府県選管 政治資金収支報告書",
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-04-04T19:55:40.163342",
+  "transaction_count": 10,
+  "transactions": [
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "谷公一政経セミナー（三甲）",
+      "amount": 8210000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "収入",
+      "summary1": "機関紙誌の発行その他の事業による収入",
+      "summary2": "谷公一政経セミナー（但馬）",
+      "amount": 5655000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "政治資金パーティー開催事業費",
+      "amount": 9169038,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "谷公一政経セミナー（三甲）スタッフ用昼食代",
+      "amount": 20420,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "谷公一政経セミナー（三甲）司会料",
+      "amount": 1583646,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "谷公一政経セミナー（三甲）講師料",
+      "amount": 567000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "政治活動費",
+      "summary2": "谷公一政経セミナー（三甲）会場費他",
+      "amount": 44000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "自由民主党兵庫県第五選挙区",
+      "amount": 1000000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "自由民主党兵庫県第五選挙区",
+      "amount": 4000000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    },
+    {
+      "record_type": "支出",
+      "summary1": "寄附・交付金",
+      "summary2": "自由民主党兵庫県第五選挙区",
+      "amount": 11000000,
+      "date": "2023",
+      "organization": "谷公一後援会",
+      "source_url": "https://web.pref.hyogo.lg.jp/si01/senkyo/documents/010871.pdf"
+    }
+  ]
+}
